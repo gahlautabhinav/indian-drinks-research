@@ -34,3 +34,11 @@
 - Core sources: Deka & Sarma (2010) on Rabha starter herbs in Goalpara; Bhuyan & Baishya (2013) review; Bhattacharjee et al. (2023) on Chokot starter microbiology; Loying et al. (2024) review.
 - Editorial caution: starter plant lists and microbiology are study-specific; traditional medicinal-use claims are not clinical evidence. Cross-border Chokot research is comparative context, not proof of identical practice in Assam.
 - Next planned case: Tai-Ahom Xajpani/Kolohpani, checking beverage names and starter terminology.
+
+## 2026-10-20 — Tai-Ahom Xajpani / Kolohpani research pass
+- Added provisional canonical record ASM-008-XAJ, preserving Xaj pani, Koloh pani and Haj pani while marking broader Haaj/Laopani equivalence as unresolved.
+- Added starter-culture and fermentation method records, Tai-Ahom community context, cultural-practice notes and research gaps.
+- Added source records SRC-021 to SRC-026, including a 2012 preparation survey, 2016 starter-culture metagenomics study, 2020 six-district Xaj-pitha sampling study and secondary cultural/ethnobotanical reviews.
+- Geographic note: the 2020 paper reports Xaj-pitha starter sampling across Tinsukia, Dibrugarh, Sivasagar, Jorhat, Lakhimpur and Dhemaji. These are starter-sampling localities, not proof that every site currently produces Xajpani. Titabar (Jorhat) is a distinct 2016 household sampling locality; Baragharia (Golaghat) remains a secondary-source locality lead pending primary-source corroboration.
+- Editorial caution: starter plant lists and microbial profiles are study-specific; distinguish starter names from beverage names, and do not treat reported medicinal use as clinical evidence or historic process durations as safety guidance.
+- Next planned case: Bodo Jou/Jou bishi, beginning with local terminology and distinctions among fermented forms and starter terms.
