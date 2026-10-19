@@ -27,3 +27,10 @@
 - Supplementary sources include a 2012 Northeast India starter-culture survey, a 2024 Frontiers in Microbiology study of southern Assam fermented beverages, and the Government of West Karbi Anglong cultural overview.
 - Editorial caution: starter ingredients, ceremony associations and equipment descriptions are source- and locality-specific; historical medicinal-use claims are not clinical evidence.
 - Next planned case: Rabha Jonga-mod / Choko, with beverage-name and starter terminology reconciliation.
+## 2026-10-20 — Rabha Jonga-mod / Choko research pass
+- Added one provisional canonical record for Jonga-mod, preserving Jonga mod, Kecha mod, Choko and Chokot as source-reported names without assuming complete equivalence.
+- Added Dhupdhora (Goalpara, Assam) as a historical research locality and Rasikbill Rabha basti (Cooch Behar, West Bengal) as a separate cross-border comparative locality from a 2022 sample.
+- Added source records SRC-017 to SRC-020, starter/fermentation/microbiology method records, community and cultural context, and research gaps.
+- Core sources: Deka & Sarma (2010) on Rabha starter herbs in Goalpara; Bhuyan & Baishya (2013) review; Bhattacharjee et al. (2023) on Chokot starter microbiology; Loying et al. (2024) review.
+- Editorial caution: starter plant lists and microbiology are study-specific; traditional medicinal-use claims are not clinical evidence. Cross-border Chokot research is comparative context, not proof of identical practice in Assam.
+- Next planned case: Tai-Ahom Xajpani/Kolohpani, checking beverage names and starter terminology.
