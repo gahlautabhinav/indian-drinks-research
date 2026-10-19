@@ -35,3 +35,6 @@ Use stable IDs. Add new records rather than duplicating records for spelling var
 
 ## Scope
 The project starts with Assam and will expand state by state, with Union Territories tracked separately.
+- `research/assam/apong-mising.md` — Apong forms among Mising communities.
+- `research/assam/sujen-deori.md` — Sujen among Deori communities.
+
