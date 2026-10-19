@@ -20,3 +20,10 @@
 - The 2007 ethnobotanical paper reports 32 plant species in its three-village study; a 2010 Dhemaji study reports 15 plant species in its Deori starter-culture sample. These are study-specific inventories, not a single universal recipe.
 - Next planned case: Karbi Hor-alank and Hor-arak, keeping fermented and distilled forms distinct.
 
+## 2026-10-20 — Karbi Hor research pass
+- Added distinct canonical records for Hor-alank/Horlang (fermented beverage) and Hor-arak (distilled form), rather than treating them as synonyms.
+- Added thap starter-culture records, the traditional Bhot still reference, Karbi community context, locality leads and research gaps.
+- Key source: Teron (2006), *Hor, the traditional alcoholic beverage of Karbi tribe in Assam*, Natural Product Radiance 5(5), 377–381. The paper reports fieldwork during 2003–2005 in rural Karbi Anglong.
+- Supplementary sources include a 2012 Northeast India starter-culture survey, a 2024 Frontiers in Microbiology study of southern Assam fermented beverages, and the Government of West Karbi Anglong cultural overview.
+- Editorial caution: starter ingredients, ceremony associations and equipment descriptions are source- and locality-specific; historical medicinal-use claims are not clinical evidence.
+- Next planned case: Rabha Jonga-mod / Choko, with beverage-name and starter terminology reconciliation.
