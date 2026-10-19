@@ -1,0 +1,4 @@
+Place_ID,State,District,Block_or_Subdistrict,Village_or_Locality,Associated_Community,Beverage_IDs,Evidence_for_Production_or_Consumption,Coverage_Status,Next_Research_Task,Source_IDs
+ASM-PL-001,Assam,Dima Hasao,,Dibarai,Dimasa,ASM-001-JUD,"Listed in GI applicant address; this alone is not proof of production by every household.",Lead identified,"Review GI documentation and seek independent locality-specific production evidence.",SRC-004
+ASM-PL-002,Assam,Dima Hasao,,Dhansiri,Dimasa,ASM-001-JUD,"A 2022 study reports fieldwork and documentation of fresh and preserved Judima.",Documented field-study locality,"Extract study details and capture exact claims and limitations.",SRC-001
+ASM-PL-003,Assam,Dima Hasao,,Tereh,Dimasa,ASM-001-JUD,"A 2023 ethnographic account describes a household brewer and cultural context.",Documented ethnographic lead,"Verify claims against further ethnographic or community sources.",SRC-003
