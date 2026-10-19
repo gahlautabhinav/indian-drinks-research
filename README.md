@@ -38,3 +38,4 @@ Use stable IDs. Add new records rather than duplicating records for spelling var
 ## Scope
 The project starts with Assam and will expand state by state, with Union Territories tracked separately.
 - `research/assam/karbi-hor.md` — Hor-alank and Hor-arak among Karbi communities.
+- `research/assam/rabha-jonga-mod.md` — Jonga-mod / Choko among Rabha communities, with cross-border evidence labelled.
