@@ -13,3 +13,10 @@
 - Editorial caution: the 31-plant ÉPOP inventory and customary rules are study-specific, not universal claims about all Mising villages.
 - Next planned case: Deori Sujen, with focus on locality-level evidence and starter name verification.
 
+## 2026-10-20 — Sujen research pass
+- Added Sujen as ASM-004-SUJ, associated with the Deori community, and recorded Mod pitha and Chuzae-pitha as starter terminology rather than beverage synonyms.
+- Added historical village-level research leads: Sunpura Deori gaon (Sadiya/Tinsukia), Kololuwah (Dibrugarh), Rajabari (Sivasagar), and Borbam Deori gaon (Dhemaji).
+- Added source records SRC-009 to SRC-012, preparation-stage records, cultural context and open research gaps.
+- The 2007 ethnobotanical paper reports 32 plant species in its three-village study; a 2010 Dhemaji study reports 15 plant species in its Deori starter-culture sample. These are study-specific inventories, not a single universal recipe.
+- Next planned case: Karbi Hor-alank and Hor-arak, keeping fermented and distilled forms distinct.
+
