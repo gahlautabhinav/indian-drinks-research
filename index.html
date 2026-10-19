@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#172b24">
+  <meta name="description" content="Explore India's traditional beverage heritage through a source-led, district-level research archive.">
+  <title>India Traditional Beverages Archive</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Archive home">
+      <span class="brand-mark">IN</span>
+      <span><strong>Fieldnotes</strong><small>India’s traditional beverages</small></span>
+    </a>
+    <nav><a href="#archive">Archive</a><a href="#methodology">Methodology</a><a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="live-dot"></span> A living cultural research archive</div>
+        <h1>Every drink has<br><em>a place, a people, a story.</em></h1>
+        <p>A growing, source-led record of India’s traditional beverages — their names, communities, production traditions, local histories, and the questions still worth asking.</p>
+        <a class="hero-link" href="#archive">Explore the archive <span>↓</span></a>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="sun"></div><div class="ring ring-one"></div><div class="ring ring-two"></div>
+        <div class="vessel"><div class="vessel-neck"></div><div class="vessel-body"><div class="vessel-shine"></div></div><div class="vessel-base"></div></div>
+        <div class="art-label label-top">FIELD STUDIES · INDIA</div><div class="art-label label-bottom">CULTURE / MEMORY / PLACE</div>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="Archive statistics">
+      <div><strong id="stat-beverages">—</strong><span>beverage records</span></div>
+      <div><strong id="stat-places">—</strong><span>place records</span></div>
+      <div><strong id="stat-communities">—</strong><span>communities</span></div>
+      <div><strong id="stat-sources">—</strong><span>registered sources</span></div>
+    </section>
+
+    <section id="archive" class="archive-section">
+      <div class="section-heading">
+        <div><div class="eyebrow">THE COLLECTION</div><h2>Browse the archive</h2></div>
+        <p>Search by drink, community, place, or a word from the record.</p>
+      </div>
+      <div class="workspace">
+        <aside class="sidebar">
+          <label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="Search names, places…" autocomplete="off"><kbd>/</kbd></label>
+          <div class="filter-row"><label for="state-filter">State</label><select id="state-filter"><option value="">All states</option></select></div>
+          <div class="filter-row"><label for="type-filter">Type</label><select id="type-filter"><option value="">All beverage types</option></select></div>
+          <div class="list-caption"><span>BEVERAGES</span><span id="result-count">Loading…</span></div>
+          <div id="beverage-list" class="beverage-list"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+          <div class="sidebar-foot">Evidence first. Uncertainty visible.</div>
+        </aside>
+
+        <article id="detail" class="detail-panel" aria-live="polite">
+          <div class="empty-state"><div class="empty-symbol">✳</div><div class="eyebrow">START EXPLORING</div><h3>Choose a beverage</h3><p>Select a record to read its dossier, browse the supporting evidence, and see what remains unknown.</p></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="methodology" class="methodology">
+      <div><div class="eyebrow">HOW TO READ THIS ARCHIVE</div><h2>Evidence, not assumptions.</h2><p>Traditional knowledge is diverse and local. This archive separates what a source documents from what still needs confirmation.</p></div>
+      <div class="principles">
+        <div><span>01</span><strong>Names stay contextual</strong><p>Spelling variants are not automatically treated as separate drinks—or as perfect synonyms.</p></div>
+        <div><span>02</span><strong>Place matters</strong><p>A research sample or historical mention is not proof of current production across a whole district.</p></div>
+        <div><span>03</span><strong>Gaps are part of the record</strong><p>Unresolved terminology, source limitations and missing village-level evidence stay visible.</p></div>
+      </div>
+    </section>
+  </main>
+
+  <footer><a class="brand footer-brand" href="./"><span class="brand-mark">IN</span><span><strong>Fieldnotes</strong><small>Traditional Beverages Archive</small></span></a><p>Built from the open research repository. <a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">View source ↗</a></p><span class="footer-note">A growing archive · Assam, first</span></footer>
+  <div id="toast" role="status" class="toast" hidden></div>
+</body>
+</html>
