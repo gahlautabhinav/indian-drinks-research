@@ -41,3 +41,17 @@ The project starts with Assam and will expand state by state, with Union Territo
 - `research/assam/rabha-jonga-mod.md` — Jonga-mod / Choko among Rabha communities, with cross-border evidence labelled.
 
 - `research/assam/tai-ahom-xajpani.md` — Xajpani / Xaj pani / Koloh pani among Tai-Ahom communities, with starter-culture and locality evidence.
+
+
+## Dashboard
+
+The repository includes **Fieldnotes**, a static research dashboard for browsing beverage records, linked evidence, source-specific production methods, cultural-practice notes, geographic coverage and open research gaps. The interface loads its data from the CSV files in this repository and the dossiers from `research/`; the CSV/Markdown archive remains the source of truth.
+
+### Publish with GitHub Pages
+
+1. Open the repository on GitHub and go to **Settings → Pages**.
+2. Under **Build and deployment**, choose **GitHub Actions** as the source.
+3. The workflow at `.github/workflows/pages.yml` deploys the static site from the repository root.
+4. Open the Pages URL shown in Settings → Pages. For this repository it will normally be `https://gahlautabhinav.github.io/indian-drinks-research/`.
+
+The dashboard requires no Node build step or backend. It uses browser-side CSV parsing and the Marked library CDN for Markdown dossier rendering. The first deployment runs after Pages is configured to use GitHub Actions; later pushes to `main` trigger deployment automatically.
