@@ -21,6 +21,8 @@ A source-led, district-level archive of India's traditional alcoholic beverage h
 - `data/research_gaps.csv` — questions and next research actions
 - `sources/source_register.csv` — source metadata and limitations
 - `research/assam/judima.md` — initial dossier for Judima
+- `research/assam/apong-mising.md` — Apong forms among Mising communities.
+- `research/assam/sujen-deori.md` — Sujen among Deori communities.
 
 ## Evidence labels
 - **Well documented:** supported by credible sources, within the scope stated.
@@ -35,6 +37,3 @@ Use stable IDs. Add new records rather than duplicating records for spelling var
 
 ## Scope
 The project starts with Assam and will expand state by state, with Union Territories tracked separately.
-- `research/assam/apong-mising.md` — Apong forms among Mising communities.
-- `research/assam/sujen-deori.md` — Sujen among Deori communities.
-
