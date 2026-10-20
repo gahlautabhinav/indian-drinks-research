@@ -72,3 +72,12 @@ Additional subgroup-specific leads:
 - **Koch Rabha:** physicochemical study describes traditional Mod/rice beer; exact village and product name unresolved (SRC-050; SRC-052).
 - **Matha Mod / Roshi Mod:** tourism-page names only at present; not yet supported by independent preparation-level evidence (SRC-047).
 - **Ruhi:** a government-hosted report describes it as an extraction tool in a Rabha preparation, not clearly as a beverage (SRC-049).
+
+## Additional primary study: Rabha rice-beer knowledge in Goalpara
+
+Deka and Sarma's 2010 article, **“Traditionally used herbs in the preparation of rice-beer by the Rabha tribe of Goalpara district, Assam,”** documents household rice-beer and starter-cake knowledge among Rabha communities in Goalpara district. The abstract refers to several villages but does not name them. A related 2013 review describes **Jonga mod / Kecha mod** in Dhupdhora, Goalpara, with starter names **Surachi / Phap**; because the latter is a review, keep its locality and process claims attributed to that source rather than treating them as a village census. [SRC-059](https://nopr.niscpr.res.in/handle/123456789/43) [SRC-018](https://doi.org/10.1016/j.dit.2013.09.002)
+
+This adds a primary district-level ethnobotanical source for Rabha brewing generally, but it does **not** resolve whether tourism-listed **Matha Mod** and **Roshi Mod** are distinct drinks, variants, or labels for a broader category. Nor does it establish a link to Rangdani Rabha **Janga**, Pati Rabha sticky-rice beer, or Koch Rabha Mod. Those remain separate source-specific entries/leads until recipe and terminology comparisons are available.
+
+The article's ethnomedicinal framing documents reported traditional uses of plants; it should not be interpreted as clinical evidence for the efficacy or safety of the beverage or ingredients.
+
