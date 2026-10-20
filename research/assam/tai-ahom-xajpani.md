@@ -74,3 +74,6 @@ The feature also describes serving etiquette involving a bowl (*kah bati*), bana
 
 The report gives a named village and a household-level observation, which is more geographically specific than a district-only survey. It does not establish village-wide prevalence or current practice beyond the documented visit. The locality is now recorded as `ASM-PL-055`.
 
+### Comparative field study lead: SRC-061
+
+Borah et al. (2021) report ethnobotanical fieldwork across 32 villages in six Assam districts, including Ahom respondents, as part of a four-community study with 202 respondents overall. This is a useful comparative source for traditional beverage and starter-culture knowledge, but the abstract does not identify all villages or establish village-by-village current Xaj production. Use it to guide full-text/table review, not to replace the more specific Goahai Gaon household account or to infer that all Ahom products called Xaj, Haj and Luk-Lau are synonymous. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
