@@ -13,7 +13,7 @@ Deka and Sarma (2010) document plant materials used in preparing rice-beer start
 
 A separate study by Bhattacharjee and colleagues, published in 2023, examines **Choko/Chokot** among Rabha people in North Bengal. Its samples were collected in February 2022 from rural houses in **Rasikbill Rabha basti, Cooch Behar district, West Bengal**. It describes the starter as **Bakhor or Phap**. This is valuable cross-border comparative evidence, but it does not prove that every Rabha community in Assam uses the same name or recipe.
 
-A 2024 review uses Jonga-mod and Choko in related discussions. The archive therefore retains one provisional canonical record for the broader research family while preserving every name as reported and explicitly flagging synonym status for further verification.
+A 2024 review uses Jonga-mod and Choko in related discussions. Bhattacharya and Deka (2024) separately report a **Janga** sample prepared by Rangdani Rabha and collected in Goalpara district, as well as sticky-rice beer samples associated with Pati Rabha (Baksa and Bongaigaon) and Koch Rabha. These are analytical sample descriptions; the paper does not establish exact villages or prove that Janga is synonymous with Jonga-mod. The Assam Tourism page additionally lists **Matha Mod** and **Roshi Mod**, but provides no recipe, locality or source trail. A government-hosted report uses **Ruhi** for a wooden extractor in a Rabha Kesa/Jonga mod preparation, so Ruhi should not be added as a beverage name without Hajang-specific confirmation. The archive therefore retains one provisional canonical record for the broader research family while preserving every name as reported and explicitly flagging synonym status for further verification.
 
 ## Names and starter culture
 
@@ -64,3 +64,11 @@ Research describes this as a traditional household beverage with dietary and soc
 ## Editorial rule
 
 Keep exact source terminology and dates. Treat the cross-border Chokot study as comparative evidence, not a substitute for Assam village-level fieldwork. Do not present ethnomedicinal claims as clinical evidence.
+
+
+Additional subgroup-specific leads:
+- **Rangdani Rabha:** Janga sample collected in Goalpara district; exact village unresolved (SRC-052).
+- **Pati Rabha:** sticky-rice beer samples reported from Baksa and Bongaigaon districts; exact villages unresolved (SRC-052).
+- **Koch Rabha:** physicochemical study describes traditional Mod/rice beer; exact village and product name unresolved (SRC-050; SRC-052).
+- **Matha Mod / Roshi Mod:** tourism-page names only at present; not yet supported by independent preparation-level evidence (SRC-047).
+- **Ruhi:** a government-hosted report describes it as an extraction tool in a Rabha preparation, not clearly as a beverage (SRC-049).
