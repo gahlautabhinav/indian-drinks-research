@@ -57,3 +57,7 @@ Teron (2006) reports Hor-alank in traditional marriage and worship contexts, and
 ## Editorial rule
 
 Keep Hor-alank and Hor-arak distinct, attribute process and plant lists to their sources, and distinguish historical ethnography from current practice.
+
+### Comparative field study lead: SRC-061
+
+Borah et al. (2021) include Karbi communities in a multi-community ethnobotanical field study covering 32 villages across six Assam districts and 202 respondents overall. The abstract reports distillation among the studied communities except Ahom, which is broad sample-level evidence rather than a universal statement about every Karbi household or locality. Exact village attribution and the paper's community-specific tables should be verified before importing plant lists or process details. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
