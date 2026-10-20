@@ -66,3 +66,11 @@ A British Library Endangered Archives Programme catalogue record for the Tai-lan
 
 Research consequence: keep Luk-Lau as a historically grounded naming lead and cultural-context record, but do not merge it with the Xajpani canonical entry until Tai-language interpretation and community-level product identity are better established.
 
+## Household-level field report: Goahai Gaon, Dhemaji
+
+A 2022 GOYA feature reports an in-person xaj-making and tasting visit with **Bulumoni Chetiya Kowar** in **Goahai Gaon, Dhemaji district**. The article describes this as a household account rather than a representative survey. It reports the use of bora (glutinous) rice; a starter cake called **xajor pitha** made from rice flour and locally gathered plants; drying the cakes after about three days under a plant/hay/banana-leaf covering; fermenting rice and powdered starter in an earthen **koloh** for **3–5 days**; then adding water and straining. The author notes that the brewer did not disclose exact herb proportions and that household recipes can vary. These details must stay attributed to this one household, not generalized to all Tai-Ahom brewers. [SRC-060](https://www.goya.in/blog/xaj-rice-beer-of-the-ahoms)
+
+The feature also describes serving etiquette involving a bowl (*kah bati*), banana-leaf covering and sung *nam* (prayer) before guests drink or empty bowls are collected. Treat this as a reported household/family practice, not a universal rule for every Ahom household. The article reports that Kowar stores **rohi**, described as sweet remnants/liquid from fermentation, and offers it for abdominal discomfort. This is a reported household belief, not evidence of clinical efficacy. Keep the term **rohi** source-specific; it should not automatically be equated with the similarly named liquid described in other studies.
+
+The report gives a named village and a household-level observation, which is more geographically specific than a district-only survey. It does not establish village-wide prevalence or current practice beyond the documented visit. The locality is now recorded as `ASM-PL-055`.
+
