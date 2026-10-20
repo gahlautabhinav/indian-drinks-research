@@ -44,6 +44,7 @@ The project starts with Assam and will expand state by state, with Union Territo
 - `research/assam/bodo-jou.md` — Bodo Jou tradition, including Jou Gishi, Maibra Jou Bidwi, Joufinai and Jou Gwran, with GI, starter-culture and locality evidence.
 - `research/assam/chaodang-saj-laopani.md` — Chaodang Saj/Laopani in Jorhat district, with village-level gaps retained.
 - `research/assam/tiwa-zu-chu.md` — Tiwa Zu/Chu and Bakhor starter culture, with locality and product-boundary uncertainties.
+- `research/assam/tea-tribe-haria.md` — Tea-tribe Haria in southern Assam, with Dabai/Dawai and village-level uncertainties retained.
 
 
 ## Dashboard
