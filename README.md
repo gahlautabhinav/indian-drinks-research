@@ -41,6 +41,7 @@ The project starts with Assam and will expand state by state, with Union Territo
 - `research/assam/rabha-jonga-mod.md` — Jonga-mod / Choko among Rabha communities, with cross-border evidence labelled.
 
 - `research/assam/tai-ahom-xajpani.md` — Xajpani / Xaj pani / Koloh pani among Tai-Ahom communities, with starter-culture and locality evidence.
+- `research/assam/bodo-jou.md` — Bodo Jou tradition, including Jou Gishi, Maibra Jou Bidwi, Joufinai and Jou Gwran, with GI, starter-culture and locality evidence.
 
 
 ## Dashboard
