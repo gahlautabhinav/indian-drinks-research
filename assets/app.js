@@ -11,7 +11,12 @@
     "ASM-005-HAL": "research/assam/karbi-hor.md",
     "ASM-006-HAR": "research/assam/karbi-hor.md",
     "ASM-007-JON": "research/assam/rabha-jonga-mod.md",
-    "ASM-008-XAJ": "research/assam/tai-ahom-xajpani.md"
+    "ASM-008-XAJ": "research/assam/tai-ahom-xajpani.md",
+    "ASM-009-JOU": "research/assam/bodo-jou.md",
+    "ASM-010-JGI": "research/assam/bodo-jou.md",
+    "ASM-011-JBD": "research/assam/bodo-jou.md",
+    "ASM-012-JFI": "research/assam/bodo-jou.md",
+    "ASM-013-JGW": "research/assam/bodo-jou.md"
   };
   const dataFiles = {
     beverages: "data/beverages.csv", places: "data/places_coverage.csv", communities: "data/communities.csv",
