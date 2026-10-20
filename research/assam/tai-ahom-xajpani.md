@@ -30,7 +30,8 @@ Reviews associate Xaj with Tai-Ahom social and religious life and mention Bihu. 
 - **Sivasagar district:** the 2012 preparation survey's Xaj section.
 - **Titabar subdivision, Jorhat district:** Bora et al. (2016) collected Xaj-pitha from five rural Ahom households in August 2014.
 - **Six-district starter sampling:** Keot et al. (2020) sampled Xaj-pitha across 12 clusters in Tinsukia, Dibrugarh, Sivasagar, Jorhat, Lakhimpur and Dhemaji. Its table names Margherita and Sadiya (Tinsukia); Moran and Naharkatiya (Dibrugarh); Bokota and Sonari (Sivasagar); Titabar and Nimati (Jorhat); Bihpuria and Dhakuakhana (Lakhimpur); Bordoloni and Silapathar (Dhemaji). These are starter-sampling localities, not a census of current beverage production.
-- **Baragharia village, Golaghat:** named as a study locality in the Ahom/Haj section of Bhuyan and Baishya (2013). This remains a secondary-source lead until the underlying primary source is checked.
+- **Baragharia village, Golaghat:** Bhuyan and Baishya (2013) identify this as the study locality for their Ahom/Haj section, which describes Haj pani/Koloh pani and Vekur pitha. Treat it as a historical locality lead, not proof of current production.
+- **Luk-Lau / Nam-Lau / Lao-pani:** Assam Tourism lists Luk-Lau for Ahoms; a 2015 cultural overview also lists Luk-Lau, Nam-Lau and Lao-pani. These names remain unverified in relation to Xajpani/Koloh pani/Haj pani; do not merge them without Tai-Ahom language or community confirmation.
 
 ## Microbiology and safety boundary
 
@@ -55,3 +56,6 @@ Bora et al. (2016) examined microbial communities associated with Xaj-pitha. Keo
 
 ---
 *Archive note: prepared from published sources reviewed on 2026-10-20. Names, plant inventories, processes and cultural uses remain attributed to their source and scope. Current practice requires fresh locality-level verification.*
+
+
+Naming lead: SRC-047 lists Luk-Lau; SRC-051 lists Luk-Lau, Nam-Lau and Lao-pani. Neither source supplies enough locality-specific process detail to determine whether these are alternate names, distinct beverages or broad labels. Preserve the names as research leads.
