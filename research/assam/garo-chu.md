@@ -8,7 +8,7 @@
 
 ## What sources support
 
-The Assam Tourism Development Corporation lists **Chu** as a rice beer prepared by the Garo community. This is a useful official tourism discovery lead, but the page supplies no citation, village attribution, recipe or source date for the underlying tradition. [SRC-047](https://assamtourism.gov.in/cuisine.php)
+The Assam Tourism Development Corporation lists **Chu** as a rice beer prepared by the Garo community. A 2022 Assam Tourism publication independently repeats the Chu label in a broader community-beverage list. These are useful tourism discovery leads, but neither source supplies a village attribution, recipe or underlying ethnographic citation. [SRC-047](https://assamtourism.gov.in/cuisine.php) [SRC-057](https://publications.assamtourism.gov.in/publications/files/Aporup_Assam_2022.pdf)
 
 A 2024 review of Northeast Indian fermented beverages describes Garo **Chu** as a cooked-rice beverage made with a starter cake called **Wansi**, fermented in a sealed vessel with a bamboo sieve called **dekeli** for liquid collection, in a dark warm place for around 5–7 days. These are review-level process details and should not be treated as a universal or village-verified recipe. [SRC-055](https://doi.org/10.1155/2024/7769743)
 
@@ -38,6 +38,7 @@ These questions are tracked in `ASM-GAP-043`. Until primary locality-level evide
 ## Sources
 
 - Assam Tourism Development Corporation. “Culinary Treasures of Assam: A Food Lover's Dream.” Discovery lead. https://assamtourism.gov.in/cuisine.php
+- Assam Tourism. *Aporup Assam* (2022), culinary heritage feature attributed to Chef Atul Lahkar. Broad community-beverage name list; no village-level process evidence. https://publications.assamtourism.gov.in/publications/files/Aporup_Assam_2022.pdf
 - Sarma, R. (2017). “Rice Beer and tribes of Assam.” *IOSR Journal of Humanities and Social Science*, 22(7), Version 2, 13–16. Broad community survey; not a village-level Chu study. https://doi.org/10.9790/0837-2207021316
 - Loying, P., et al. (2024). “Rice-Based Alcoholic Fermented Beverages of North-East India: Insight into Ethnic Preparation, Microbial Intervention, Ethnobotany, and Health Benefits.” *Journal of Food Biochemistry*. Review-level process description. https://doi.org/10.1155/2024/7769743
 - Marak, S. R., Sharma, D., & Sarma, H. (2021). “Ethnic preparation of Chubitchi, an alcoholic beverage of the Garo tribe of Meghalaya: a sociocultural analysis.” *Journal of Ethnic Foods*, 8, article 29. Meghalaya evidence only. https://doi.org/10.1186/s42779-021-00102-7
