@@ -59,3 +59,10 @@ Bora et al. (2016) examined microbial communities associated with Xaj-pitha. Keo
 
 
 Naming lead: SRC-047 lists Luk-Lau; SRC-051 lists Luk-Lau, Nam-Lau and Lao-pani. Neither source supplies enough locality-specific process detail to determine whether these are alternate names, distinct beverages or broad labels. Preserve the names as research leads.
+
+## Archival evidence for Luk Lau
+
+A British Library Endangered Archives Programme catalogue record for the Tai-language manuscript **Khon Ming** (catalogue dating: 18th century) describes a *Dam Phi* mantra inviting deities to receive **Luk Lau**, Phek Khu and Phak Tai annually, and on births, marriages and death anniversaries. This is stronger historical evidence that the term Luk Lau belonged to a ritual offering context than the modern tourism name-list alone. It still does **not** tell us the ingredients or preparation of Luk Lau, nor establish that Luk Lau is identical to Xajpani/Koloh pani/Haj pani. The catalogue summary is not a full critical edition or a village-level field record. [SRC-058](https://searcharchives.bl.uk/catalog/040-003345056)
+
+Research consequence: keep Luk-Lau as a historically grounded naming lead and cultural-context record, but do not merge it with the Xajpani canonical entry until Tai-language interpretation and community-level product identity are better established.
+
