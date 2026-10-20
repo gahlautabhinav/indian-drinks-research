@@ -50,3 +50,28 @@ Rohi has a field-study locality at the Jokai area of Dibrugarh from the 2023 art
 
 - Sonowal, R. (2023). “Traditional Rice Beer Fermentation Technology of the Sonowal Kachari Tribe of Assam, India.” *Antrocom Online Journal of Anthropology, 19*(1), 605–613. https://antrocom.net/archives/2023/volume-19-number-1/traditional-rice-beer-fermentation-technology-of-the-sonowal-kachari-tribe-of-assam-india/
 - Bhattacharya, B., & Chandra Deka, D. (2026). “Preparation, physicochemical analysis and antioxidant properties of Rohi and Sepa: traditional rice beers of the Sonowal Kacharis, Assam.” *Indian Journal of Traditional Knowledge, 25*(9), 914–921. https://doi.org/10.56042/ijtk.v25i9.23169
+
+## Research lead — Black Rohi Modh (provisional variant)
+
+**Provisional ID:** `ASM-021-BRM`  
+**Reported sample locality:** Pukia, Dhemaji district (2026 study)  
+**Community label in source:** Kachari; exact subcommunity not established in the reviewed passage  
+**Sample designation:** Black Rohi Modh (BR), distinguished from Rohi Modh (RH)
+
+Das, Medhi and Tamang (2026) separately analyzed a household batch labelled Black Rohi Modh and a batch labelled Rohi Modh. Their sample metadata places both at Pukia, Dhemaji district; the study describes the Black Rohi Modh sample as a black-rice beverage, while Rohi Modh is described as using Bora chaul/glutinous rice and an aaroi starter. The article describes a four-day fermentation for Rohi Modh, but the Black Rohi Modh-specific starter and fermentation details should not be inferred from that description without checking the full sample-specific methods.
+
+This archive currently treats Black Rohi Modh as a **provisional substrate-associated variant record**, not as proof of an entirely separate community tradition. The paper cites Sonowal (2023), whose fieldwork on Sonowal Kachari Rohi was in the Jokai area of Dibrugarh. However, the 2026 study's broad “Kachari” label and Pukia sample location do not, on their own, establish the producer's precise subcommunity or whether Black Rohi Modh is locally understood as a distinct beverage name. That boundary requires local confirmation.
+
+The 2026 study analyzed one authentic household batch per beverage, with technical replicates. Its chemical and microbial findings are valuable sample-level evidence, not a population-wide survey. Antioxidant assay results and predicted metabolic pathways should not be presented as proof of clinical health benefits.
+
+### Open questions
+
+1. Which Kachari subcommunity and household produced the Pukia Black Rohi Modh sample?
+2. Is “Black Rohi Modh” the community's own name, a research label, or a black-rice variant of Rohi?
+3. What starter was used for this exact batch, and is it called aaroi locally?
+4. Are the fermentation duration, vessels, filtration and cultural uses the same as or different from those documented for Sonowal Kachari Rohi in Dibrugarh?
+5. Can the sample be linked to additional independent household batches or village-level documentation?
+
+### Additional source
+
+- Das, R., Medhi, M. C., & Tamang, B. (2026). “Microbial diversity and its links to retinol pathways and aroma compounds in ethnic fermented rice beverages of Assam.” *AMB Express, 16*, article 91. https://doi.org/10.1186/s13568-026-02062-0
