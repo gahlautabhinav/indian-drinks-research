@@ -18,7 +18,8 @@
     "ASM-012-JFI": "research/assam/bodo-jou.md",
     "ASM-013-JGW": "research/assam/bodo-jou.md",
     "ASM-014-CHS": "research/assam/chaodang-saj-laopani.md",
-    "ASM-015-TZU": "research/assam/tiwa-zu-chu.md"
+    "ASM-015-TZU": "research/assam/tiwa-zu-chu.md",
+    "ASM-016-HAR": "research/assam/tea-tribe-haria.md"
   };
   const dataFiles = {
     beverages: "data/beverages.csv", places: "data/places_coverage.csv", communities: "data/communities.csv",
