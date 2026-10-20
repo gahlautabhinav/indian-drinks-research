@@ -6,7 +6,7 @@
 
 ## What is currently supported
 
-The Assam Tourism Development Corporation's “Culinary Treasures of Assam” page lists **Jatha Kasa and Ruhi** as beverages consumed by the Hajang community. This is useful as a discovery lead, but the page does not cite its underlying evidence or provide preparation details. It does not establish whether Jatha Kasa and Ruhi are separate products, alternate names, or locally restricted terms. [SRC-047](https://assamtourism.gov.in/cuisine.php)
+The Assam Tourism Development Corporation's “Culinary Treasures of Assam” page lists **Jatha Kasa and Ruhi** as beverages consumed by the Hajang community. A 2022 Assam Tourism publication repeats both names in a broader community-beverage list. This is independent repetition in tourism material, not independent village-level ethnography: neither source cites a specific Hajang knowledge holder or gives preparation details. It does not establish whether Jatha Kasa and Ruhi are separate products, alternate names, or locally restricted terms. [SRC-047](https://assamtourism.gov.in/cuisine.php) [SRC-057](https://publications.assamtourism.gov.in/publications/files/Aporup_Assam_2022.pdf)
 
 The reviewed sources use similar words in unrelated or not-yet-connected contexts:
 
@@ -34,6 +34,7 @@ These records should remain separate unless community-preferred terminology and 
 ## Sources
 
 - Assam Tourism Development Corporation. “Culinary Treasures of Assam: A Food Lover's Dream.” Discovery lead only. https://assamtourism.gov.in/cuisine.php
+- Assam Tourism. *Aporup Assam* (2022), culinary heritage feature attributed to Chef Atul Lahkar. Repeats the names but does not provide village-level evidence. https://publications.assamtourism.gov.in/publications/files/Aporup_Assam_2022.pdf
 - IGNOU eGyanKosh. “By-Products of Rice Milling,” section 12.7.2, “Indian Ruhi.” Community/locality unspecified for Assam purposes. https://egyankosh.ac.in/bitstream/123456789/11353/5/Unit-12.pdf
 - Ministry of Women and Child Development, Government of India. “An Exploratory Study on Indigenous Food of North-East India.” Rabha extraction-tool context; not evidence of a Hajang beverage. https://www.spniwcd.wcd.gov.in/archive/download/2zq4zt
 - Bhuyan, B. & Baishya, K. (2013). “Ethno medicinal value of various plants used in the preparation of traditional rice beer by different tribes of Assam, India.” *Drug Invention Today*, 5(4), 335–341. Ahom Haj/Koloh pani context only. https://doi.org/10.1016/j.dit.2013.09.002
