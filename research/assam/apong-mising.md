@@ -58,3 +58,7 @@ The literature describes Apong as part of hospitality, social life and some ritu
 ## Editorial rule
 
 Treat this as a living research dossier. Keep the beverage forms distinct where their processes differ, cite source IDs, preserve local spellings, and distinguish research locality from confirmed present-day production locality.
+
+### Comparative field study lead: SRC-061
+
+Borah et al. (2021) include Mising communities in a multi-community ethnobotanical field study covering 32 villages across six Assam districts and 202 respondents overall. The authors specifically distinguish Po:ro apong as having a different preparation/extraction process and report distillation in the sampled Mising tradition. These are study-level findings; do not assume the abstract establishes a universal method or current production in every sampled village. The full tables and locality map should be checked before assigning specific plant inventories to individual places. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
