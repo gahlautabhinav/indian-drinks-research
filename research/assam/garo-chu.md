@@ -1,0 +1,46 @@
+# Garo Chu — Assam
+
+**Archive ID:** `ASM-022-CHU`  
+**Status:** Provisional canonical lead; village-level identity and current practice unverified.  
+**Community:** Garo  
+**Type:** Reported fermented rice beverage  
+**Geographic confidence:** Low. The Assam Tourism page names the beverage but does not give a district or village.
+
+## What sources support
+
+The Assam Tourism Development Corporation lists **Chu** as a rice beer prepared by the Garo community. This is a useful official tourism discovery lead, but the page supplies no citation, village attribution, recipe or source date for the underlying tradition. [SRC-047](https://assamtourism.gov.in/cuisine.php)
+
+A 2024 review of Northeast Indian fermented beverages describes Garo **Chu** as a cooked-rice beverage made with a starter cake called **Wansi**, fermented in a sealed vessel with a bamboo sieve called **dekeli** for liquid collection, in a dark warm place for around 5–7 days. These are review-level process details and should not be treated as a universal or village-verified recipe. [SRC-055](https://doi.org/10.1155/2024/7769743)
+
+A 2017 broad survey of Assam rice beer includes fieldwork in Kamrup for Garo communities and uses the term **Su** for Garo beverage in its discussion. It does not establish that Su and Chu are synonyms or provide a village-level process description for Chu. [SRC-054](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2022%20Issue7/Version-2/C2207021316.pdf)
+
+A 2021 peer-reviewed article documents **Chubitchi** among Garo communities in Meghalaya. It notes Garo populations in adjacent plains of Kamrup and Goalpara, Assam, but its product-specific study concerns Meghalaya. The Assam Chu record must therefore remain separate from Chubitchi unless direct community or linguistic evidence establishes a relationship. [SRC-056](https://doi.org/10.1186/s42779-021-00102-7)
+
+## Process summary (secondary-source report only)
+
+The 2024 review reports cooked rice and Wansi starter, a sealed fermentation vessel and a dekeli bamboo sieve; it gives 5–7 days as a reported fermentation period. The underlying Assam village and household are not identified in the reviewed account. Do not infer a universal rice variety, starter formulation, alcohol strength, equipment set or present-day production area from this description.
+
+## Cultural and geographic context
+
+Garo Chu is named in an Assam tourism overview, but specific ritual uses, seasonal practices, current village production and community-preferred terminology remain to be verified from Assam-based sources. General Garo cultural practices documented in Meghalaya should not be transferred to Assam without explicit evidence.
+
+## Open questions
+
+- Which Garo-inhabited villages in Assam currently prepare Chu, and which district/block are they in?
+- Is **Chu** the preferred local name, and how is it pronounced/written in Garo?
+- What rice varieties, starter ingredients and vessel/sieve terminology are documented by local knowledge holders?
+- Does **Su** refer to the same beverage, a broad category, or a different preparation?
+- Is there any community-confirmed relationship between Assam Chu and Meghalaya Chubitchi?
+- Which cultural occasions and current transmission practices can be documented with consent?
+
+These questions are tracked in `ASM-GAP-043`. Until primary locality-level evidence is available, keep the record provisional and do not merge it with Chubitchi or a general Garo Su label.
+
+## Sources
+
+- Assam Tourism Development Corporation. “Culinary Treasures of Assam: A Food Lover's Dream.” Discovery lead. https://assamtourism.gov.in/cuisine.php
+- Sarma, R. (2017). “Rice Beer and tribes of Assam.” *IOSR Journal of Humanities and Social Science*, 22(7), Version 2, 13–16. Broad community survey; not a village-level Chu study. https://doi.org/10.9790/0837-2207021316
+- Loying, P., et al. (2024). “Rice-Based Alcoholic Fermented Beverages of North-East India: Insight into Ethnic Preparation, Microbial Intervention, Ethnobotany, and Health Benefits.” *Journal of Food Biochemistry*. Review-level process description. https://doi.org/10.1155/2024/7769743
+- Marak, S. R., Sharma, D., & Sarma, H. (2021). “Ethnic preparation of Chubitchi, an alcoholic beverage of the Garo tribe of Meghalaya: a sociocultural analysis.” *Journal of Ethnic Foods*, 8, article 29. Meghalaya evidence only. https://doi.org/10.1186/s42779-021-00102-7
+
+---
+Reviewed 2026-10-20. Keep Assam locality and beverage-name relationships provisional until corroborated by Garo community and primary-source evidence.
