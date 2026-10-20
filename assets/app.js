@@ -20,7 +20,8 @@
     "ASM-014-CHS": "research/assam/chaodang-saj-laopani.md",
     "ASM-015-TZU": "research/assam/tiwa-zu-chu.md",
     "ASM-016-HAR": "research/assam/tea-tribe-haria.md",
-    "ASM-017-ZAO": "research/assam/zeme-nao-zao-zou.md"
+    "ASM-017-ZAO": "research/assam/zeme-nao-zao-zou.md",
+    "ASM-018-HZU": "research/assam/hmar-zu.md"
   };
   const dataFiles = {
     beverages: "data/beverages.csv", places: "data/places_coverage.csv", communities: "data/communities.csv",
