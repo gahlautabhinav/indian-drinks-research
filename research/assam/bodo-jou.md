@@ -131,3 +131,7 @@ Cultural practice varies by community, locality, family and occasion. Do not pub
 ## Research protocol
 
 This dossier distinguishes directly documented claims from secondary summaries and unresolved leads. Starter-culture sampling locations are not automatically treated as current beverage-production sites. No single plant list, fermentation duration, alcohol percentage, ritual context or household process is treated as universal. Future revisions should add community-approved evidence and exact locality attribution rather than silently collapsing variants.
+
+### Comparative field study lead: SRC-061
+
+Borah et al. (2021) include Bodo communities in a multi-community ethnobotanical field study covering 32 villages across six Assam districts and 202 respondents overall. The paper reports community-level variation in beverage preparation and starter-plant knowledge. Until its full tables and village map are extracted, do not assign its plant records to a specific village or treat them as proof of current finished-beverage production at each sampling site. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
