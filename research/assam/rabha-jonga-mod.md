@@ -81,3 +81,6 @@ This adds a primary district-level ethnobotanical source for Rabha brewing gener
 
 The article's ethnomedicinal framing documents reported traditional uses of plants; it should not be interpreted as clinical evidence for the efficacy or safety of the beverage or ingredients.
 
+### Additional named-locality lead: Dhupdhora (SRC-065)
+
+Bhuyan and Baishya (2013) associate **Jonga / Kecha mod** and starter terms with a locality trail at **Dhupdhora, Goalpara**. This is review-based evidence, not a current village census. It is consistent with the broader Goalpara literature but does not resolve whether Jonga-mod, Kecha-mod, Janga, Matha Mod or Roshi Mod are equivalent labels. Place lead: `ASM-PL-057`. [SRC-065](https://doi.org/10.1016/j.dit.2013.09.002)
