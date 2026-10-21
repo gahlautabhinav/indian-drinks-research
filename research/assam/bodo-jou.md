@@ -139,3 +139,22 @@ Borah et al. (2021) include Bodo communities in a multi-community ethnobotanical
 ### Methodological scope of the 2021 multi-community study
 
 The full-text methods section specifies fieldwork from **October 2019 to March 2020** in 32 villages across **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar (printed as Sibasagar) and Sonitpur**. The sample included 202 respondents across Ahom, Bodo, Karbi and Mising communities, selected purposively/stratified and voluntarily. The main text does not map each Bodo beverage or plant record to an individual village; do not infer that Jou was documented in every listed district. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
+
+## New field evidence: stored and fruit-based beverages (SRC-066)
+
+Deka, Basumatary and Deka (2025) report a field survey involving **50 people** and four named survey localities described relative to Kokrajhar district headquarters: **Amlaiguri, Gendrabili, Jalpaiguri (spelled this way in the article) and Banshigaon**. Field information was collected in April–July 2022 and October–November 2023. These are verified survey localities, but the paper does not assign every beverage subtype to each village. The locality records ASM-PL-061–ASM-PL-064 therefore represent survey coverage, not proof that every listed beverage is currently made in every village. [SRC-066](https://doi.org/10.1186/s42779-025-00286-2)
+
+### Distinctions documented by the 2025 paper
+
+- **Joubidwi:** direct fermented rice beverage, distinguished by the paper from stored Joufinai.
+- **Joufinai:** stored/aged rice-based beverage. The paper describes cooked rice called *Mairong*, cooling on a bamboo mat called *Dhara*, mixing with *Amao* starter, overnight resting on banana leaves (*Thalir belei*), and storage in a vessel called *Hadi*. It reports examples stored for 3, 6, 10 and 12 months; its abstract also gives a broader 1–2 year range. Preserve this as source-specific rather than a universal storage rule.
+- **Kanthal-Jougwran:** jackfruit-based fermented substrate followed by distillation.
+- **Kola-Jougwran:** banana-based fermented substrate followed by distillation.
+- **Kamrenga-bidwi:** starfruit-based beverage described as fermented/solar-exposed in the paper; detailed household variation needs further evidence.
+- **Amlai-bidwi:** gooseberry-based beverage described with Amao starter and a longer capped storage period.
+
+The paper describes a traditional distillation arrangement using vessels named *Hadi*, *Mwkrakoro*, *Ajaogra* and *Dwiajaogra*, with a local furnace called *Odab*. Keep the terminology tied to this source and do not assume every household uses an identical apparatus. These fruit-based names are documented in the paper but are not yet separate canonical rows in the master beverage dataset; next step is to establish whether they are stable community-recognised product names, variants, or process-specific forms and whether they deserve separate canonical IDs.
+
+### Cultural claims and limits
+
+The article connects beverage use with Baisagu and offerings to Bathou and describes beliefs around storage vessels and starter cakes near fireplaces. These are reported cultural practices, not universal claims about all Bodo households. Its references to traditional medicinal uses are ethnographic reports, not clinical evidence of efficacy or safety. [SRC-066](https://doi.org/10.1186/s42779-025-00286-2)
