@@ -65,3 +65,7 @@ Borah et al. (2021) include Karbi communities in a multi-community ethnobotanica
 ### Methodological scope of the 2021 multi-community study
 
 The full-text methods section specifies fieldwork from **October 2019 to March 2020** in 32 villages across **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar (printed as Sibasagar) and Sonitpur**. Its 202 respondents covered Ahom, Bodo, Karbi and Mising communities. The main text does not map each Karbi observation to an individual village, so these six districts are the overall study area, not a verified six-district distribution of Hor or Hor-arak. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
+
+### Additional locality trail: SRC-065
+
+Bhuyan and Baishya (2013) provide a named locality/informant trail involving **Kathkatia and Silonijan** in the discussion of Karbi rice-beer and starter-plant knowledge. This is useful alongside the older Karbi ethnographic references, but the review is not a current village census and the exact mapping of each locality to Hor-alank versus Hor-arak needs verification against the underlying source. The place lead is tracked as `ASM-PL-059`; do not infer that both drinks are currently produced throughout either locality. [SRC-065](https://doi.org/10.1016/j.dit.2013.09.002)
