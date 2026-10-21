@@ -50,6 +50,7 @@ The project starts with Assam and will expand state by state, with Union Territo
 - `research/assam/sonowal-kachari-rohi-sepa.md` — Sonowal Kachari Rohi and Sepa, plus a provisional Black Rohi Modh variant lead from Pukia, Dhemaji; community identity and product boundary remain unresolved.
 - `research/assam/garo-chu.md` — provisional Garo Chu record; Assam village distribution and its relationship to Su/Meghalaya Chubitchi remain unresolved.
 - `research/assam/hajang-jatha-kasa-ruhi.md` — unresolved Hajang naming lead; separates beverage-name collisions and avoids creating unsupported canonical records.
+- `research/assam/mech-kachari-haaz-photika-jau.md` — provisional Mech Kachari naming lead; documents the Jau/Photika attribution discrepancy and keeps product identities unresolved.
 
 
 ## Dashboard
