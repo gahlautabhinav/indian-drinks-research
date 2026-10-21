@@ -1,6 +1,6 @@
 # Indian Traditional Beverages Research Archive
 
-A source-led, district-level archive of India's traditional alcoholic beverage heritage.
+A source-led archive of India's traditional alcoholic beverage heritage, tracking state, district and village evidence where available.
 
 ## Research principles
 - Separate documented facts, research leads, and unresolved questions.
@@ -23,6 +23,8 @@ A source-led, district-level archive of India's traditional alcoholic beverage h
 - `research/assam/judima.md` — initial dossier for Judima
 - `research/assam/apong-mising.md` — Apong forms among Mising communities.
 - `research/assam/sujen-deori.md` — Sujen among Deori communities.
+- `research/arunachal-pradesh/nyishi-opo.md` — Nyishi Opo rice wine, including unresolved Tisar/Kecha/Adak labels and sample-locality gaps.
+- `research/manipur/thadou-kuki-anthom.md` — Thadou-Kuki Anthom, Chol starter and the reported aning liquid fraction.
 
 ## Evidence labels
 - **Well documented:** supported by credible sources, within the scope stated.
@@ -36,7 +38,7 @@ Geographic confidence is tracked separately from beverage identity confidence.
 Use stable IDs. Add new records rather than duplicating records for spelling variants. Preserve source URLs and record the review date. If correcting a record, explain the correction in the commit message.
 
 ## Scope
-The project starts with Assam and will expand state by state, with Union Territories tracked separately.
+The archive began with Assam and is now expanding state by state; Union Territories will be tracked separately. Non-Assam records use state-specific IDs and keep unknown localities explicit rather than guessing.
 - `research/assam/karbi-hor.md` — Hor-alank and Hor-arak among Karbi communities.
 - `research/assam/rabha-jonga-mod.md` — Jonga-mod / Choko among Rabha communities, with cross-border evidence labelled.
 
