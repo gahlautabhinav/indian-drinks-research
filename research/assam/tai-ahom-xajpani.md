@@ -77,3 +77,7 @@ The report gives a named village and a household-level observation, which is mor
 ### Comparative field study lead: SRC-061
 
 Borah et al. (2021) report ethnobotanical fieldwork across 32 villages in six Assam districts, including Ahom respondents, as part of a four-community study with 202 respondents overall. This is a useful comparative source for traditional beverage and starter-culture knowledge, but the abstract does not identify all villages or establish village-by-village current Xaj production. Use it to guide full-text/table review, not to replace the more specific Goahai Gaon household account or to infer that all Ahom products called Xaj, Haj and Luk-Lau are synonymous. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
+
+### Methodological scope of the 2021 multi-community study
+
+The full-text methods section specifies fieldwork from **October 2019 to March 2020** in 32 villages across **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar (printed as Sibasagar) and Sonitpur**. Respondents were selected purposively/stratified and voluntarily; the paper does not provide a village-by-village list in the main text or map each Ahom beverage observation to an individual village. Treat these as the study's overall sampling districts, not proof that Xaj was prepared in every district or every village. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
