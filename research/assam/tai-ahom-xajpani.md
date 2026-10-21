@@ -81,3 +81,7 @@ Borah et al. (2021) report ethnobotanical fieldwork across 32 villages in six As
 ### Methodological scope of the 2021 multi-community study
 
 The full-text methods section specifies fieldwork from **October 2019 to March 2020** in 32 villages across **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar (printed as Sibasagar) and Sonitpur**. Respondents were selected purposively/stratified and voluntarily; the paper does not provide a village-by-village list in the main text or map each Ahom beverage observation to an individual village. Treat these as the study's overall sampling districts, not proof that Xaj was prepared in every district or every village. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
+
+### Additional naming/locality lead: Haj or Koloh pani (SRC-065)
+
+Bhuyan and Baishya (2013) report an Ahom locality/informant trail associated with **Baragharia village, Golaghat**, and the labels **Haj / Koloh pani**, with **Vekur pitha** as a starter term. This does not prove that Haj/Koloh pani is a synonym for Xajpani, nor does it establish present-day village-wide production. Keep this as a separate naming lead until the underlying source and local terminology are checked. See `ASM-PL-056`. [SRC-065](https://doi.org/10.1016/j.dit.2013.09.002)
