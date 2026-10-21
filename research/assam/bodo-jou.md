@@ -135,3 +135,7 @@ This dossier distinguishes directly documented claims from secondary summaries a
 ### Comparative field study lead: SRC-061
 
 Borah et al. (2021) include Bodo communities in a multi-community ethnobotanical field study covering 32 villages across six Assam districts and 202 respondents overall. The paper reports community-level variation in beverage preparation and starter-plant knowledge. Until its full tables and village map are extracted, do not assign its plant records to a specific village or treat them as proof of current finished-beverage production at each sampling site. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
+
+### Methodological scope of the 2021 multi-community study
+
+The full-text methods section specifies fieldwork from **October 2019 to March 2020** in 32 villages across **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar (printed as Sibasagar) and Sonitpur**. The sample included 202 respondents across Ahom, Bodo, Karbi and Mising communities, selected purposively/stratified and voluntarily. The main text does not map each Bodo beverage or plant record to an individual village; do not infer that Jou was documented in every listed district. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
