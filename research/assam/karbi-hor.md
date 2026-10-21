@@ -61,3 +61,7 @@ Keep Hor-alank and Hor-arak distinct, attribute process and plant lists to their
 ### Comparative field study lead: SRC-061
 
 Borah et al. (2021) include Karbi communities in a multi-community ethnobotanical field study covering 32 villages across six Assam districts and 202 respondents overall. The abstract reports distillation among the studied communities except Ahom, which is broad sample-level evidence rather than a universal statement about every Karbi household or locality. Exact village attribution and the paper's community-specific tables should be verified before importing plant lists or process details. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
+
+### Methodological scope of the 2021 multi-community study
+
+The full-text methods section specifies fieldwork from **October 2019 to March 2020** in 32 villages across **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar (printed as Sibasagar) and Sonitpur**. Its 202 respondents covered Ahom, Bodo, Karbi and Mising communities. The main text does not map each Karbi observation to an individual village, so these six districts are the overall study area, not a verified six-district distribution of Hor or Hor-arak. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
