@@ -35,3 +35,9 @@ Keep this as a **naming-and-attribution investigation**, not a new canonical bev
 
 ---
 Reviewed 2026-10-21. The purpose of this note is to preserve a discrepancy for investigation, not to decide community ownership or settle product synonymy.
+
+### Citation-trail audit: the review's references 33 and 56
+
+The 2023 review's Mech Kachari row cites its references **33** and **56**. Reference 33 is Sarma (2017), *Rice Beer and Tribes of Assam*; it is a broad review/article with district-level discussion, including a general passage on Mech/Jau, rather than a village-specific production survey. Reference 56 is Senapati and Gurumayum (2016), *Medicinal Plants Used in Traditional Alcoholic Beverage Preparation by Tribes of Assam*. Its abstract names Dimasa, Boro, Rabha, Mising, Karbi, Ahom, Deori and Sonowal Kachari, but does **not** name Mech Kachari. Therefore reference 56 does not independently substantiate the Mech Kachari row on the evidence checked so far; the citation may be broad, indirect or mismatched. [SRC-054](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2022%20Issue7/Version-2/C2207021316.pdf) [SRC-064](https://rjpbcs.com/pdf/2016_7%285%29/%5B128%5D.pdf)
+
+The table's district list is explicitly headed “major inhabited districts” for each community, not a list of confirmed villages producing each named beverage. Do not convert Udalguri, Kokrajhar and Goalpara into village-level production claims. The current evidence remains a **regional naming lead**, not a verified Mech Kachari product specification.
