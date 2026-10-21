@@ -41,3 +41,9 @@ These records should remain separate unless community-preferred terminology and 
 
 ---
 Reviewed 2026-10-20. This note distinguishes documented labels from unresolved identity, process and locality questions; it does not assert that the beverage is currently made in any particular village.
+
+## Negative evidence from a broad Assam rice-beer survey
+
+Sarma (2017), *Rice Beer and Tribes of Assam*, includes Hajong among the communities named in its abstract and introduction, but the accessible full text does not document a beverage called **Jatha Kasa** or **Ruhi**, nor does it give a Hajong village-level preparation account. This is a useful search boundary: the paper should not be cited as support for the two names simply because it mentions Hajong generally. [SRC-054](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2022%20Issue7/Version-2/C2207021316.pdf)
+
+Current conclusion: the two names remain supported chiefly by broad tourism listings. The next useful evidence would be Hajong-language/community-authored material, a named Hajong settlement with documented preparation, or a primary ethnographic account that distinguishes the two products. Do not import the generic “Indian Ruhi” process from an unrelated educational text or the Rabha tool term *ruhi* into this record.
