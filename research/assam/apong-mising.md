@@ -66,3 +66,7 @@ Borah et al. (2021) include Mising communities in a multi-community ethnobotanic
 ### Methodological scope of the 2021 multi-community study
 
 The full-text methods section specifies fieldwork from **October 2019 to March 2020** in 32 villages across **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar (printed as Sibasagar) and Sonitpur**. The 202 respondents covered Ahom, Bodo, Karbi and Mising communities. The main text does not map each Mising product observation to an individual village; do not interpret the six overall study districts as confirmed production localities for Nogin Apong or Po:ro Apong. The paper does specifically distinguish Po:ro Apong's ash-assisted preparation and Ta:suk bamboo-basket extraction process from the more general rice-beer method, but this description remains study-level and should not replace locality-specific accounts. [SRC-061](https://doi.org/10.13057/biodiv/d220451)
+
+### Additional locality lead: Barmukuli (SRC-065)
+
+Bhuyan and Baishya (2013) include a Mising informant/locality trail involving **Barmukuli village, Dhemaji** in its overview of traditional rice-beer knowledge. Before treating this as a confirmed locality for **Poro Apong** specifically, the exact passage and underlying source need to be checked; do not convert a general Apong or informant location into a product-specific production claim. Tracked as `ASM-PL-058`. [SRC-065](https://doi.org/10.1016/j.dit.2013.09.002)
