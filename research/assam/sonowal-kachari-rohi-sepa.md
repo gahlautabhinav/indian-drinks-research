@@ -95,3 +95,23 @@ The full PDF is linked from the publisher repository, but the available page/tex
 ### Next evidence target
 
 Extract pages 914–921 from the publisher PDF or obtain the authors' full text; build a comparison table only from explicit Rohi- and Sepa-specific statements. If full text remains inaccessible, request clarification or community-authored descriptions rather than infer Sepa's process from Rohi.
+
+
+## Research pass — 2026-10-22: “Rochi Mod” spelling audit
+
+### Question
+Assam Tourism's *Aporup Assam* (2022) lists “Rochi Mod” for the Sonowal Kachari. Does this establish a separate drink, or a spelling variant of Rohi/Rohi Modh?
+
+### Evidence checked
+- The Assam Tourism publication names **Rochi Mod**, but gives no recipe, village, language form, pronunciation, or explanation of how the name was collected. It is a useful discovery lead, not a preparation-level description. [SRC-057]
+- Sonowal (2023), based on fieldwork in the Jokai area of Dibrugarh, identifies the Sonowal Kachari beverage as **Rohi** and also records the names **Jhul mod** and **Madhopurukhor rokh**. It does not mention “Rochi Mod” in the accessible article text. [SRC-044]
+- The 2026 peer-reviewed paper names **Rohi and Sepa** separately for the Sonowal Kacharis. It does not establish “Rochi Mod” as another distinct beverage in the accessible abstract. [SRC-045]
+- A 2026 microbiome study uses **Rohi Modh** for a fermented beverage sample, but its reviewed passage labels the community broadly as Kachari and does not by itself establish an exact linguistic equivalence with the tourism spelling. [SRC-046]
+
+### Finding
+**Unresolved spelling/identity lead; not enough evidence to canonicalize.** The reviewed sources make Rohi/Rohi Modh the better-supported research form, while “Rochi Mod” is currently attested in a tourism name-list. The sound/orthographic similarity makes a variant or transcription difference plausible, but that is an inference—not a demonstrated correction. There is no evidence in the sources checked that “Rochi Mod” is a separate recipe or distinct beverage, either.
+
+Keep “Rochi Mod” searchable as a source-attested spelling and preserve it in the source notes; do not silently replace it with “Rohi,” add it as a separate canonical beverage, or declare the names synonymous until a Sonowal Kachari language source or community knowledge-holder confirms the relationship.
+
+### Next evidence target
+Seek a Sonowal Kachari language source, original-language spelling/pronunciation, or consent-based confirmation from a named locality; if unavailable, leave the gap open and mark the tourism spelling as unresolved.
