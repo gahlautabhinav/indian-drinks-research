@@ -56,6 +56,8 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - `research/assam/mech-kachari-haaz-photika-jau.md` — provisional Mech Kachari naming lead; documents the Jau/Photika attribution discrepancy and keeps product identities unresolved.
 
 
+- `research/assam/coverage-audit.md` — repository-level Assam coverage audit, evidence tiers, geographic limitations and exit criteria before moving to another state.
+
 ## Dashboard
 
 The repository includes **Fieldnotes**, a static research dashboard for browsing beverage records, linked evidence, source-specific production methods, cultural-practice notes, geographic coverage and open research gaps. The interface loads its data from the CSV files in this repository and the dossiers from `research/`; the CSV/Markdown archive remains the source of truth.
