@@ -39,7 +39,17 @@ The 2024 article links a supplementary file named **Data_Sheet_1.docx** and a pu
 
 This is a metadata reconciliation question, not proof of an error: the public sequencing records may represent pooled, selected, or otherwise processed samples. The visible BioProject summary does not show a village-to-beverage mapping or explain the five-record versus 15-field-sample relationship. Do not assume one SRA experiment equals one original household/sample, and do not invent geographic attribution from accession counts.
 
-The article's linked supplementary DOCX was discoverable from the full-text page but could not be retrieved in the available text-reading pass. It remains a concrete next step: inspect the supplementary table and sample IDs, then reconcile them with the BioProject BioSamples/SRA experiments. If the metadata still do not identify origins, request clarification from the authors.
+A closer pass through the article's full-text tables adds a useful intermediate crosswalk. Table 3 reports five group-level sample labels: **DMK** (Dimasa Kachari), **HM** (Hmar), **K1** (Karbi), **ZN** (Zeme Naga) and **TT** (Tea tribes). These five labels correspond to the five community cohorts discussed in the article and are consistent in count with the five public BioSamples/SRA experiments. However, the article does not expose a record-by-record accession crosswalk in the visible text, and the labels in Table 3 may represent group summaries rather than unique physical samples. Therefore, this is a **cohort-level alignment hypothesis**, not confirmation that the five public records are the only samples sequenced or that each represents a particular one of the three collected samples.
+
+| Article's Table 3 label | Cohort indicated by the article | Beverage discussed | What remains unresolved |
+|---|---|---|---|
+| DMK | Dimasa Kachari | Judima | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
+| HM | Hmar | Zu | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
+| K1 | Karbi | Hor Alank | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
+| ZN | Zeme Naga | Zao/Zou (source spelling varies) | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
+| TT | Tea tribes | Haria | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
+
+The linked supplementary DOCX (**Data_Sheet_1.docx**) was discoverable from the full-text page but could not be retrieved in the available pass. The best next action is to obtain that file and the accession-level metadata export, then reconcile both against these five cohort labels. If neither provides locality or the original-sample-to-library relationship, request clarification from the authors.
 
 - Paper full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11459095/
 - Supplementary materials: https://www.frontiersin.org/articles/10.3389/fmicb.2024.1410098/full#supplementary-material
