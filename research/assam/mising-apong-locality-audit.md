@@ -7,7 +7,7 @@
 
 ### Jorhat study: ten named survey villages
 
-Gogoi et al. (2026), *Ethnobotany Research and Applications* 34:1–31 (SRC-080; publisher page: https://ethnobotanyjournal.org/index.php/era/article/view/7814), reports a survey of 10 villages in Jorhat district from March 2024 to 2025 with 50 key informants. The accessible full-text mirror lists these study villages:
+Gogoi et al. (2026), *Ethnobotany Research and Applications* 34:1–31 (SRC-069; publisher page: https://ethnobotanyjournal.org/index.php/era/article/view/7814), reports a survey of 10 villages in Jorhat district from March 2024 to 2025 with 50 key informants. The accessible full-text mirror lists these study villages:
 
 1. Charighoria
 2. Upor Kareng
@@ -32,7 +32,7 @@ This is useful as a recent Majuli evidence lead, but the abstract reviewed here 
 
 ## Repository changes
 
-- Updated SRC-080 to include the named Jorhat study villages and the beverage-to-village limitation.
+- Updated SRC-069 to include the named Jorhat study villages and the beverage-to-village limitation.
 - Added SRC-084 for the 2026 Majuli ethnobotanical study.
 - Added ASM-PL-068 to ASM-PL-077 as named Jorhat study-village records, with no beverage ID asserted at individual-village level.
 - Updated ASM-PL-065 to point to the named records while retaining the unresolved beverage attribution.
@@ -47,6 +47,6 @@ This is useful as a recent Majuli evidence lead, but the abstract reviewed here 
 
 ## Source links
 
-- SRC-080: https://ethnobotanyjournal.org/index.php/era/article/view/7814
+- SRC-069: https://ethnobotanyjournal.org/index.php/era/article/view/7814
 - Full-text mirror used to recover village spellings: https://www.researchgate.net/publication/407534109_Ethnobotanical_documentation_of_medicinal_plants_and_traditional_fermented_foods_of_the_Mishing_community_in_Jorhat_district_of_Assam_India
 - SRC-084: https://doi.org/10.21474/IJAR01/23298
