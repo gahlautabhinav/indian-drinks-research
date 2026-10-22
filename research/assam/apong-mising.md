@@ -96,7 +96,7 @@ The study describes cooked rice cooled on a bamboo mat or banana leaves, mixed w
 
 ### Po:ro Apong method reported in SRC-084
 
-The study describes partially burning dry paddy straw and paddy husk to collect ash, mixing the ash with cooked rice and powdered E’pob, and fermenting the mixture in an earthen pot. It then describes transferring the fermented mixture to a conical bamboo **Ta:suk** basket lined with leaves and straw, adding water in stages and collecting the filtrate. The source reports roughly one to two weeks for fermentation depending on starter quantity and warmer/cooler conditions. It does **not** describe a distillation stage in this account; this is the central unresolved process discrepancy noted above. The method is recorded as ASM-MTH-037.
+The study describes partially burning dry paddy straw and paddy husk to collect ash, mixing the ash with cooked rice and powdered E’pob, and fermenting the mixture in an earthen pot. It then describes transferring the fermented mixture to a conical bamboo **Ta:suk** basket lined with leaves and straw, adding water in stages and collecting the filtrate. The source reports roughly one to two weeks for fermentation depending on starter quantity and warmer/cooler conditions. It does **not** describe distillation as part of this Po:ro-specific method. The 2021 study likewise describes Po:ro filtration in its specific section but discusses distillation separately; the 2023 paper explicitly calls Poro distilled. Whether these descriptions refer to an additional stage, distinct variant/product, or a reporting/terminology issue remains unresolved. The method is recorded as ASM-MTH-037.
 
 ### Evidence cautions
 
