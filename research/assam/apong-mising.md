@@ -133,3 +133,8 @@ The 2019 paper also describes Poro preparation using roasted rice, rice-husk ash
 ## Quantitative laboratory results from SRC-087
 
 The 2019 study reports nine sample-level biochemical profiles. Across the tested samples, alcohol content ranged from 9.41 to 19.33% (v/v), DPPH values from 1.94 to 4.14 mg ascorbic-acid equivalents/ml, ABTS values from 1.69 to 3.91 mg ascorbic-acid equivalents/ml, and total phenolic content from 2.07 to 5.40 mg gallic-acid equivalents/ml. These are laboratory assay results from the samples collected, not evidence of clinical health benefits. [SRC-087](https://doi.org/10.1007/s13205-019-1702-z)
+
+
+## Supplementary material access status (SRC-087)
+
+The article's methods identify Supplementary Table S1 as the source for village/sample details and Table S2 for rice varieties and starter-cake herbs. The PMC full-text page labels the supplementary DOCX as available to authorized users; the document could not be retrieved through the accessible route during this review. Consequently, no village names or sample-to-village mappings have been added. Next step: request the supplementary DOCX from the corresponding author or publisher, or inspect a legitimately accessible copy, then transcribe the tables and verify all place-name spellings before updating the locality register. [Article full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/)
