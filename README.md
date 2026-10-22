@@ -36,7 +36,7 @@ A source-led archive of India's traditional alcoholic beverage heritage, trackin
 Geographic confidence is tracked separately from beverage identity confidence.
 
 ## Updating this archive
-Use stable IDs. Add new records rather than duplicating records for spelling variants. Preserve source URLs and record the review date. If correcting a record, explain the correction in the commit message.
+Use stable IDs. Add new records rather than duplicating records for spelling variants. Preserve source URLs and record the review date. If correcting a record, explain the correction in the commit message. Run `python scripts/validate_archive.py` before committing CSV changes; GitHub Actions also runs the validator on relevant pushes and pull requests.
 
 ## Scope
 The archive began with Assam and is now expanding state by state; Union Territories will be tracked separately. Non-Assam records use state-specific IDs and keep unknown localities explicit rather than guessing.
