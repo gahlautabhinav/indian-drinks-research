@@ -60,3 +60,14 @@ The best current geographic lead is **Garo fieldwork in Kamrup**, not a verified
 
 ### Next evidence target
 Prioritise a Garo-language/community source that names the Assam village and uses the beverage term in context. Record locality, local spelling/pronunciation and product-specific process separately; do not infer present-day production from the 2017 fieldwork alone.
+
+
+## Research pass — 2026-10-22: locality and name-boundary audit
+
+Sarma (2017) states that the study's primary fieldwork included Kamrup for Garo communities, but the methods section does not name the Garo village or show that a particular informant prepared a beverage specifically called Chu. Its use of the term **Su** in the Garo discussion does not establish that Su and Chu are synonyms. [SRC-054]
+
+The 2024 review describes Chu as cooked rice fermented with a starter called **Wansi**, using a sealed vessel and **dekeli** bamboo sieve, and reports 5–7 days; this remains secondary-source information without a named Assam household or village. [SRC-055] A digitized Garo-English dictionary has separate entries for **Chubitchi** and **Chubok**, reinforcing that similar-looking names should not be merged without linguistic/community evidence. The dictionary does not resolve the relationship among those names, Assam Chu or Su. https://digital.library.unt.edu/ark:/67531/metadc2062332/m1/125/
+
+**Finding:** Kamrup is a historical fieldwork lead, not a verified current Chu-production locality. Keep Chu, Su, Chubok and Meghalaya Chubitchi separate until a Garo-language source or community knowledge-holder confirms their relationships. Do not transfer the Meghalaya Chubitchi process to Assam Chu.
+
+**Next evidence target:** Find a Garo-language or community-led source that names an Assam village, gives the local spelling/pronunciation and links the name to a specific preparation. Current production remains unverified.
