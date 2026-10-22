@@ -85,3 +85,27 @@ The full-text methods section specifies fieldwork from **October 2019 to March 2
 ### Additional naming/locality lead: Haj or Koloh pani (SRC-065)
 
 Bhuyan and Baishya (2013) report an Ahom locality/informant trail associated with **Baragharia village, Golaghat**, and the labels **Haj / Koloh pani**, with **Vekur pitha** as a starter term. This does not prove that Haj/Koloh pani is a synonym for Xajpani, nor does it establish present-day village-wide production. Keep this as a separate naming lead until the underlying source and local terminology are checked. See `ASM-PL-056`. [SRC-065](https://doi.org/10.1016/j.dit.2013.09.002)
+
+## Research pass — 2026-10-22: Luk-Lau / Nam-Lau / Lao-pani comparison
+
+### Evidence found
+
+1. **Historical ritual-name evidence:** the British Library Endangered Archives Programme catalogue for the Tai-language manuscript *Khon Ming* (catalogue record EAP373/4/25, dated to the 18th century) says the *Dam Phi* mantra invites deities to receive **Luk Lau**, Phek Khu and Phak Tai at annual observances and life events. This supports the historical presence of the term in a ritual-offering context. The catalogue summary is not a critical translation of the manuscript and does not identify ingredients, preparation, alcohol content or a village-level brewing practice. The digitised manuscript should be read by a qualified Tai/Ahom reader before drawing linguistic conclusions. [SRC-058]
+
+2. **Ethnobotanical/process evidence for a related beverage family:** Saikia, Tag and Das (2007), studying rural Tai-Ahom communities in North Lakhimpur district, describe the rice beverage as **Sajpani (Tai) / Laopani (Assamese)** and discuss its processing and plant materials. The article does not, from the accessible abstract, prove that Luk-Lau or Nam-Lau is an exact synonym of Sajpani/Laopani. [SRC-021; SRC-071]
+
+3. **Modern secondary-name evidence:** Assam Tourism lists Luk-Lau as an Ahom beverage. A 2015 cultural overview lists Luk-Lau, Nam-Lau and Lao-pani among local names, but gives limited preparation-level evidence. A 2025 magazine feature labels “Rohi / Luk-Lao” as concentrated Xaj-pani; this is a useful lead, not sufficient evidence to merge the names because the terms are not consistently aligned across sources. [SRC-047; SRC-051; SRC-072]
+
+4. **Existing Xajpani evidence:** the archive already documents Xajpani/Xaj pani/Koloh pani, Vekur pitha and source-specific process descriptions, including a named household account from Goahai Gaon, Dhemaji. This evidence should remain separate from the historical Luk-Lau name until a Tai/Ahom language source or community knowledge holder establishes the relationship.
+
+### Assessment
+
+- **Luk-Lau exists as a historically recorded name:** supported by the manuscript catalogue summary and modern tourism source.
+- **Luk-Lau is a distinct finished beverage with a known recipe:** not established by the sources checked.
+- **Luk-Lau = Nam-Lau = Lao-pani = Xajpani/Koloh pani/Haj pani:** not established.
+- **Rohi is the same product as Luk-Lau or Xajpani:** not established; source descriptions differ.
+- **Village-level current production:** not established specifically for Luk-Lau.
+
+### Research decision
+
+Do not create a new canonical beverage row and do not silently add Luk-Lau to ASM-008-XAJ's confirmed synonym list. Keep it as a historically grounded naming lead attached to the open terminology question. The most valuable next evidence is a qualified reading of the *Khon Ming* manuscript passage, a Tai-Ahom language source defining the terms, or consent-based confirmation from knowledgeable Tai-Ahom speakers/brewers in a named locality.
