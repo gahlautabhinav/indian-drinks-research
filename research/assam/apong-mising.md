@@ -32,6 +32,7 @@ The 2023 Sivasagar study documents plant materials collected from several land-u
 - **Ligiribari, Sivasagar district:** explicitly named as a representative village for in-depth ÉPOP starter-culture research.
 - **Barmukuli, Dhemaji district:** a locality lead associated with published Apong ethnobotanical literature; verify the exact scope and claims in the full article before asserting beverage-form-specific production.
 - **Majuli district:** Yein et al. (2022) full text reports fieldwork from September–December 2021 and visits to more than 20 village households/areas. The paper does not name those villages or assign Po:ro and Nogin Apong to individual localities. The archive records this as study-scope evidence, not a named village inventory. [SRC-007](https://www.biotech-asia.org/vol19no2/traditional-ethnomedicinal-practice-in-the-homemade-alcoholic-beverage-of-mising-community-of-majuli-district-upper-assam/)
+- **Kamlabari block near Garamur, Majuli:** PARI's 2023 field report documents Junali Risong preparing Po:ro Apong at her hamlet and describes burning paddy stalks before mixing the ash into cooked rice. The report does not give an exact village name; this is evidence of one household's practice, not a prevalence estimate for the block. [SRC-085](https://ruralindiaonline.org/article/making-the-mising-brew-in-majuli)
 - **Lakhimpur district:** a multi-community survey includes a Mising Apong section; named locality and current production details need further verification.
 
 These records do not establish that Apong is made in every Mising village or that the same form and recipe occur throughout these districts.
@@ -106,3 +107,8 @@ The study describes partially burning dry paddy straw and paddy husk to collect 
 - SRC-084's preparation details have been added to the production-method table; no ingredient inventory is generalized to all Mising households.
 
 **Source:** [SRC-084 — Borah (2026), DOI 10.21474/IJAR01/23298](https://doi.org/10.21474/IJAR01/23298). A public full-text mirror was reviewed; the journal-hosted PDF endpoint listed by the aggregator returned an error during this research pass.
+
+
+## Household-level locality evidence: Kamlabari block near Garamur
+
+Priti David's 2023 PARI field report follows Junali Risong, a Mising brewer preparing Po:ro Apong at her hamlet in Kamlabari block near Garamur, Majuli. It describes her burning/smouldering paddy stalks on a metal sheet for around three to four hours and mixing the ash into cooked rice. Her mother-in-law is identified as the person who taught her the practice. The article also describes the local sale of Apong, but the account is a single household observation: it does not establish prevalence across Kamlabari or give the hamlet's exact village name. The archive records the locality as ASM-PL-079 and the limited method observation as ASM-MTH-040. [SRC-085](https://ruralindiaonline.org/article/making-the-mising-brew-in-majuli)
