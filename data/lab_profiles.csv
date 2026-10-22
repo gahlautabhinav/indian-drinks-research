@@ -1,0 +1,10 @@
+Sample_ID,Community,Beverage,Alcohol_mean_pct_vv,Alcohol_SEM_pct_vv,DPPH_mean_mg_AAE_per_ml,DPPH_SEM_mg_AAE_per_ml,ABTS_mean_mg_AAE_per_ml,ABTS_SEM_mg_AAE_per_ml,Phenolic_mean_mg_GAE_per_ml,Phenolic_SEM_mg_GAE_per_ml,Source_ID,Caveat
+RB01,Mising,Poro Apong,10.67,1.02,3.01,0.18,2.04,0.06,2.99,1.05,SRC-087,Single Poro sample; not a population estimate
+RB02,Mising,Nogin Apong,9.99,0.40,3.47,0.06,3.23,0.03,2.80,0.21,SRC-087,One of two Nogin samples; not a population estimate
+RB03,Mising,Nogin Apong,10.37,0.57,3.17,0.08,1.80,0.03,2.07,0.25,SRC-087,One of two Nogin samples; not a population estimate
+RB04,Ahom,Xaaj,14.82,0.25,3.19,0.14,2.85,0.06,4.14,0.38,SRC-087,One of three Xaaj samples; not a population estimate
+RB05,Ahom,Xaaj,14.04,0.81,4.14,0.17,3.91,0.04,3.93,0.78,SRC-087,One of three Xaaj samples; not a population estimate
+RB06,Ahom,Xaaj,9.41,0.66,1.94,0.37,1.69,0.34,2.64,0.52,SRC-087,One of three Xaaj samples; not a population estimate
+RB07,Bodo,Joubishi,12.26,0.74,3.60,0.02,3.48,0.07,3.43,0.48,SRC-087,One of three Joubishi samples; not a population estimate
+RB08,Bodo,Joubishi,12.94,0.19,3.01,0.31,2.58,0.09,3.62,0.89,SRC-087,One of three Joubishi samples; not a population estimate
+RB09,Bodo,Joubishi,19.33,0.37,3.44,0.09,3.90,0.07,5.40,1.35,SRC-087,One of three Joubishi samples; not a population estimate
