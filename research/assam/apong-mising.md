@@ -18,7 +18,7 @@ Apong is a culturally significant rice-based alcoholic beverage tradition among 
 The 2023 study describes Noggin/Nogin Apong as a whitish liquid extracted from fermented material, with rice used and no ash addition in the distinction it presents. Other studies use the spelling Nagin. The archive treats these as likely spelling variants pending confirmation.
 
 ### Poro Apong / Saimod — ASM-003-POR
-Research describes Poro/Por/Po:ro Apong, also called Saimod in some sources, as a rice-based beverage with ash from rice husks or bran added to cooked rice before fermentation; the 2023 account describes a subsequent distillation stage. The precise sequence, apparatus and local variants need additional source extraction and community-level confirmation.
+Research describes Poro/Por/Po:ro Apong, also called Saimod in some sources, as a rice-based beverage with ash from rice husks or bran added to cooked rice before fermentation. **The post-fermentation process is contested in the literature:** some sources describe distillation, while the full-text Majuli 2026 study (SRC-084) describes water extraction and filtration through a conical bamboo Ta:suk basket, without a distillation stage in that account. These are not interchangeable operations. The archive now preserves both descriptions as source-specific and does not resolve the product classification until the original methods and local terminology are reconciled.
 
 ## Starter culture: ÉPOP / Epop
 
@@ -45,7 +45,7 @@ The literature describes Apong as part of hospitality, social life and some ritu
 1. Build a village-by-village map of current production and consumption, recording whether each source documents Noggin Apong, Poro Apong/Saimod, or simply uses the umbrella name Apong.
 2. Verify spelling, pronunciation and equivalence of Noggin/Nagin/Nogin and Poro/Por/Po:ro/Saimod with Mising-language and community sources.
 3. Compare starter ingredients and process descriptions from Sivasagar, Dhemaji, Majuli and Lakhimpur without treating one district's list as universal.
-4. Extract exact equipment and sequence for Poro Apong distillation from beverage-specific research.
+4. Resolve whether references to Poro Apong as “distilled” describe a distinct variant, a terminology/translation issue, or an inaccurate secondary description. Compare original methods, and do not equate Ta:suk filtration with distillation.
 5. Separate historical documentation from current practice and record generational changes only when supported by evidence.
 
 ## Sources
@@ -80,3 +80,29 @@ Gogoi et al. (2026) document **Po:ro apong and Noggin apong** through semi-struc
 1. Retrieve the full article and capture the ten village names exactly as printed, including administrative subdistricts if supplied.
 2. Extract any table linking Po:ro apong and Noggin apong, starter plants and local names to specific villages or informants.
 3. Keep plant inventories source-specific and compare them with ÉPOP starter studies without merging unlike samples into a universal Mising recipe.
+
+
+## Full-text review: Majuli ethnobotanical study (SRC-084)
+
+Borah (2026), *International Journal of Advanced Research* 14(4):1361–1368, reports a field survey in **three randomly selected villages in Majuli from April to October 2024**, involving **28 informants**. The accessible full-text mirror does not name the three villages, so no village names have been inferred or added. The study documents 48 plant species used in preparing E’pob starter cakes; it identifies rice (*Oryza sativa*) and Rukji (*Dryopteris filix-mas*) among the highest reported relative-frequency/use-value entries. These results describe the sampled Majuli context, not a universal Mising recipe.
+
+### Starter-cake process reported in SRC-084
+
+The source describes cleaning and soaking rice for approximately 2–3 hours, pounding it into powder, drying and pounding collected plant leaves, mixing plant powder with rice and a small amount of an older starter culture, shaping cakes, placing them on a bamboo sieve with paddy straw and Rukji leaves, sun-drying for 2–3 days, and storing the cakes in an earthen pot plugged with Rukji leaves. It reports that cakes can be stored in a dry place for 1–2 months. This method is now represented in the production-method table as source-specific entries ASM-MTH-035 and ASM-MTH-038.
+
+### Nogin Apong method reported in SRC-084
+
+The study describes cooked rice cooled on a bamboo mat or banana leaves, mixed with powdered E’pob and transferred to an earthen pot. It reports fermentation for 7–10 days; a portion of the fermented rice is mixed with water, stirred until milky and sieved to obtain the beverage. This is one study's method, not a universal fermentation schedule or food-safety validation. It is recorded as ASM-MTH-036.
+
+### Po:ro Apong method reported in SRC-084
+
+The study describes partially burning dry paddy straw and paddy husk to collect ash, mixing the ash with cooked rice and powdered E’pob, and fermenting the mixture in an earthen pot. It then describes transferring the fermented mixture to a conical bamboo **Ta:suk** basket lined with leaves and straw, adding water in stages and collecting the filtrate. The source reports roughly one to two weeks for fermentation depending on starter quantity and warmer/cooler conditions. It does **not** describe a distillation stage in this account; this is the central unresolved process discrepancy noted above. The method is recorded as ASM-MTH-037.
+
+### Evidence cautions
+
+- The article describes ethnomedicinal knowledge and plant use; those claims do not establish clinical efficacy or safety.
+- The three Majuli villages are unnamed in the accessible text; the archive adds ASM-PL-078 only as a study-scope record.
+- The Jorhat 2026 study names ten villages (records ASM-PL-068–ASM-PL-077) but does not map each beverage to each village in the material reviewed. Do not fill the beverage IDs on those individual village rows without direct evidence.
+- SRC-084's preparation details have been added to the production-method table; no ingredient inventory is generalized to all Mising households.
+
+**Source:** [SRC-084 — Borah (2026), DOI 10.21474/IJAR01/23298](https://doi.org/10.21474/IJAR01/23298). A public full-text mirror was reviewed; the journal-hosted PDF endpoint listed by the aggregator returned an error during this research pass.
