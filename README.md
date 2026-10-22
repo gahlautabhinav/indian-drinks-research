@@ -62,6 +62,7 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - [Southern Assam sequencing accession crosswalk](research/assam/sequence-accession-crosswalk.md) — verified mapping of five public BioSample/SRA Sample records to Haria, Judima, Zao/Zou, Hor Alank and Hmar Zu; original-sample pooling and locality limits remain explicit.
 - [Assam claim-level audit — tranche 1](research/assam/claim-level-audit-01.md) — nine beverage records reviewed against recent Mising, Bodo and Rabha/Ahom sources, with claim-level limitations preserved.
 - [Bodo GI provenance audit](research/assam/bodo-gi-provenance-audit.md) — official registry metadata, authorized-user address caveats, and document-level access gaps for GI applications 968–970.
+- [Mising Apong locality audit](research/assam/mising-apong-locality-audit.md) — ten named Jorhat study villages and a 2026 Majuli study, with beverage-to-village attribution left unresolved where the source does not map it.
 - `research/assam/district-crosswalk.md` — working normalization rules for combined, historical and unresolved Assam district labels.
 
 ## Dashboard
