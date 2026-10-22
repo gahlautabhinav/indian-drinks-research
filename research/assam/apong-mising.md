@@ -31,7 +31,7 @@ The 2023 Sivasagar study documents plant materials collected from several land-u
 - **Majorbari, Sivasagar district:** explicitly named as a representative village for in-depth ÉPOP starter-culture research.
 - **Ligiribari, Sivasagar district:** explicitly named as a representative village for in-depth ÉPOP starter-culture research.
 - **Barmukuli, Dhemaji district:** a locality lead associated with published Apong ethnobotanical literature; verify the exact scope and claims in the full article before asserting beverage-form-specific production.
-- **Majuli district:** a 2022 study documents homemade Mising beverage forms and associated ethnomedicinal practices; the current archive needs to extract any named villages.
+- **Majuli district:** Yein et al. (2022) full text reports fieldwork from September–December 2021 and visits to more than 20 village households/areas. The paper does not name those villages or assign Po:ro and Nogin Apong to individual localities. The archive records this as study-scope evidence, not a named village inventory. [SRC-007](https://www.biotech-asia.org/vol19no2/traditional-ethnomedicinal-practice-in-the-homemade-alcoholic-beverage-of-mising-community-of-majuli-district-upper-assam/)
 - **Lakhimpur district:** a multi-community survey includes a Mising Apong section; named locality and current production details need further verification.
 
 These records do not establish that Apong is made in every Mising village or that the same form and recipe occur throughout these districts.
@@ -101,7 +101,7 @@ The study describes partially burning dry paddy straw and paddy husk to collect 
 ### Evidence cautions
 
 - The article describes ethnomedicinal knowledge and plant use; those claims do not establish clinical efficacy or safety.
-- The three Majuli villages are unnamed in the accessible text; the archive adds ASM-PL-078 only as a study-scope record.
+- The three Majuli villages in Borah (2026) remain unnamed in the accessible text; the archive records them as study scope only (ASM-PL-078). Separately, Yein et al. (2022) report visits to more than 20 village households/areas in Majuli but do not name those villages or allocate beverage forms to them (ASM-PL-007). These are separate studies and should not be merged into a single locality count.
 - The Jorhat 2026 study names ten villages (records ASM-PL-068–ASM-PL-077) but does not map each beverage to each village in the material reviewed. Do not fill the beverage IDs on those individual village rows without direct evidence.
 - SRC-084's preparation details have been added to the production-method table; no ingredient inventory is generalized to all Mising households.
 
