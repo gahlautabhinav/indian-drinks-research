@@ -33,8 +33,9 @@ The 2023 survey also reports a medicinal concoction called **Juguli** given to b
 
 ## Geographic evidence
 
-- **Nagaon district:** selected Tiwa starter-culture survey in Duarah et al. (2023); localities named by the 2020 paper include Raha, Kahua-ati, Neeli and Dalang-ghat in a study covering Nagaon and Morigaon.
-- **Morigaon district:** named in the 2020 paper's fieldwork description; precise village mapping requires full-text verification.
+- **Morigaon district:** Das (2016) explicitly identifies five villages—Borchila, Ga-khujuwa, Kahua-ati, Gokhai-khonda and Dalang-ghat—as sites for an August–December 2015 field survey on Tiwa rice-beer preparation and Bakhor starter plants. This is the clearest village-level evidence in the current source set, but it is historical and does not establish current production.
+- **Nagaon and Morigaon:** Goswami et al. (2020) lists Boaropujia/Boarpurpia, Raha, Kahua-ati, Neeli and Dalang-ghat in a study spanning both districts. The accessible text does not clearly map every locality to a specific district; do not force an assignment.
+- **Nagaon district:** Duarah et al. (2023) describes its selected Tiwa starter-culture survey as taking place in Nagaon district, but the source record used so far does not provide a village-by-village production map.
 - **Current production:** not established comprehensively. Published fieldwork demonstrates documented practice at the time of research, not current brewing in every named locality.
 
 ## Evidence assessment
@@ -57,6 +58,14 @@ The 2023 survey also reports a medicinal concoction called **Juguli** given to b
 Treat starter-plant lists as source-specific documentation, not as a universal recipe or permission to commercialize community knowledge. New fieldwork should use informed consent, credit knowledge holders and respect any ceremonial or otherwise restricted information.
 
 ## Sources
+
+### SRC-078 — Das, Abhijit (2016)
+“Medicinal plants used traditionally for the preparation of rice beer by the Tiwa tribe of Morigaon district of Assam, India.” *International Journal of Current Research*, 8(11), 40940–40943. Published 30 November 2016; field survey August–December 2015.  
+Article: https://www.journalcra.com/article/medicinal-plants-used-traditionally-preparation-rice-beer-tiwa-tribe-morigaon-district-assam  
+PDF: https://www.journalcra.com/sites/default/files/issue-pdf/18702.pdf
+
+**Supports:** Named fieldwork villages Borchila, Ga-khujuwa, Kahua-ati, Gokhai-khonda and Dalang-ghat in Morigaon; Tiwa Zu and Bakhor; a sample-specific 19-plant starter inventory.  
+**Limitations:** One 2015 survey and five villages; not a current production census. Reported medicinal uses are community beliefs, not clinical evidence. The introduction's broad cross-community naming should not be used alone to prove beverage synonymy.
 
 ### SRC-036 — Goswami et al. (2020)
 “Traditional Rice Beer of the Tiwa Community: An Analytical Exposition.” *International Journal of Scientific & Technology Research*, 9(3).  
