@@ -24,6 +24,7 @@ A source-led archive of India's traditional alcoholic beverage heritage, trackin
 - `research/assam/apong-mising.md` — Apong forms among Mising communities.
 - `research/assam/sujen-deori.md` — Sujen among Deori communities.
 - `research/arunachal-pradesh/nyishi-opo.md` — Nyishi Opo rice wine, including unresolved Tisar/Kecha/Adak labels and sample-locality gaps.
+- `research/arunachal-pradesh/apong-ennog-opo.md` — comparative dossier on Apong, Ennog and Nyishi Opo; separates source-specific methods and keeps product-to-village attribution unresolved.
 - `research/manipur/thadou-kuki-anthom.md` — Thadou-Kuki Anthom, Chol starter and the reported aning liquid fraction.
 
 ## Evidence labels
