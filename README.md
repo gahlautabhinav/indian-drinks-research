@@ -60,6 +60,8 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - [Assam archive integrity audit](research/assam/integrity-audit.md) — current CSV row counts, schema and reference validation, repaired source-register issue, and remaining evidence-quality risks.
 - [Southern Assam sample audit](research/assam/southern-assam-sample-audit.md) — full-text review of the 2024 and 2026 multi-community studies and limits of village-level attribution.
 - [Southern Assam sequencing accession crosswalk](research/assam/sequence-accession-crosswalk.md) — verified mapping of five public BioSample/SRA Sample records to Haria, Judima, Zao/Zou, Hor Alank and Hmar Zu; original-sample pooling and locality limits remain explicit.
+- [Assam claim-level audit — tranche 1](research/assam/claim-level-audit-01.md) — nine beverage records reviewed against recent Mising, Bodo and Rabha/Ahom sources, with claim-level limitations preserved.
+- [Bodo GI provenance audit](research/assam/bodo-gi-provenance-audit.md) — official registry metadata, authorized-user address caveats, and document-level access gaps for GI applications 968–970.
 - `research/assam/district-crosswalk.md` — working normalization rules for combined, historical and unresolved Assam district labels.
 
 ## Dashboard
