@@ -47,3 +47,13 @@ Reviewed 2026-10-20. This note distinguishes documented labels from unresolved i
 Sarma (2017), *Rice Beer and Tribes of Assam*, includes Hajong among the communities named in its abstract and introduction, but the accessible full text does not document a beverage called **Jatha Kasa** or **Ruhi**, nor does it give a Hajong village-level preparation account. This is a useful search boundary: the paper should not be cited as support for the two names simply because it mentions Hajong generally. [SRC-054](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2022%20Issue7/Version-2/C2207021316.pdf)
 
 Current conclusion: the two names remain supported chiefly by broad tourism listings. The next useful evidence would be Hajong-language/community-authored material, a named Hajong settlement with documented preparation, or a primary ethnographic account that distinguishes the two products. Do not import the generic “Indian Ruhi” process from an unrelated educational text or the Rabha tool term *ruhi* into this record.
+
+## Research pass — 2026-10-22
+
+### Search audit and decision
+
+A further search for the exact forms **“Hajang Jatha Kasa,” “Hajong Jatha Kasa,”** and **Hajang/Hajong Ruhi** did not surface a new primary ethnographic, linguistic, or community-authored source that identifies a named Hajang settlement or describes preparation. The strongest direct name attribution located remains the Assam Tourism Development Corporation's broad cuisine page, which lists Jatha Kasa and Ruhi under the Hajang community; the 2022 *Aporup Assam* publication repeats the names but adds no village-level method evidence. These two tourism sources should not be counted as independent ethnographic confirmation.
+
+The search also returned sources using **Ruhi** for other things: an educational text's generic “Indian Ruhi” beverage discussion without a Hajang-specific locality, and a government-hosted account in which *ruhi* refers to a liquid-extraction implement in a Rabha preparation. Neither can establish the identity or method of Hajang Ruhi. Similarly, **Haj/Haj pani/Koloh pani** in the Ahom literature is not evidence for a connection to Hajang Jatha Kasa.
+
+**Decision:** no canonical beverage row is added. Keep **ASM-GAP-038** open at high priority. The next evidence target is a Hajang/Hajong-language or community-authored source, or a primary ethnographic account naming a specific settlement and distinguishing the two products. Do not infer ingredients, fermentation, distillation, ritual use, or current production from the tourism labels alone.
