@@ -39,17 +39,17 @@ The 2024 article links a supplementary file named **Data_Sheet_1.docx** and a pu
 
 This is a metadata reconciliation question, not proof of an error: the public sequencing records may represent pooled, selected, or otherwise processed samples. The visible BioProject summary does not show a village-to-beverage mapping or explain the five-record versus 15-field-sample relationship. Do not assume one SRA experiment equals one original household/sample, and do not invent geographic attribution from accession counts.
 
-A closer pass through the article's full-text tables adds a useful intermediate crosswalk. Table 3 reports five group-level sample labels: **DMK** (Dimasa Kachari), **HM** (Hmar), **K1** (Karbi), **ZN** (Zeme Naga) and **TT** (Tea tribes). These five labels correspond to the five community cohorts discussed in the article and are consistent in count with the five public BioSamples/SRA experiments. However, the article does not expose a record-by-record accession crosswalk in the visible text, and the labels in Table 3 may represent group summaries rather than unique physical samples. Therefore, this is a **cohort-level alignment hypothesis**, not confirmation that the five public records are the only samples sequenced or that each represents a particular one of the three collected samples.
+A closer pass through the full text clarifies the distinction between the five reported cohort labels and the 15 physical samples. Section 2.2 says three samples were collected from each community cohort; section 2.5 says each sample was uniquely identified by indexing PCR and the indexed products were combined into a pooled library. Table 3 nevertheless reports one label per cohort—**DMK** (Dimasa Kachari), **HM** (Hmar), **K1** (Karbi), **ZN** (Zeme Naga) and **TT** (Tea tribes)—with pH and electrical-conductivity values expressed as mean ± standard deviation. Section 3.3 also reports read-count ranges by tribe. Thus, the five labels are cohort-level identifiers in the published analysis, not a published list of all 15 original sample IDs. Their matching count with the five public BioSamples/SRA experiments is suggestive but does not establish a one-to-one accession mapping. The article does not provide the accession-to-original-sample crosswalk in the visible text.
 
 | Article's Table 3 label | Cohort indicated by the article | Beverage discussed | What remains unresolved |
 |---|---|---|---|
-| DMK | Dimasa Kachari | Judima | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
-| HM | Hmar | Zu | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
-| K1 | Karbi | Hor Alank | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
-| ZN | Zeme Naga | Zao/Zou (source spelling varies) | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
-| TT | Tea tribes | Haria | Which BioSample/experiment accession(s) map to it; locality and whether the reported value summarizes three samples |
+| DMK | Dimasa Kachari | Judima | Accession(s) for the three original samples; locality and how these are represented in the public records |
+| HM | Hmar | Zu | Accession(s) for the three original samples; locality and how these are represented in the public records |
+| K1 | Karbi | Hor Alank | Accession(s) for the three original samples; locality and how these are represented in the public records |
+| ZN | Zeme Naga | Zao/Zou (source spelling varies) | Accession(s) for the three original samples; locality and how these are represented in the public records |
+| TT | Tea tribes | Haria | Accession(s) for the three original samples; locality and how these are represented in the public records |
 
-The linked supplementary DOCX (**Data_Sheet_1.docx**) was discoverable from the full-text page but could not be retrieved in the available pass. The best next action is to obtain that file and the accession-level metadata export, then reconcile both against these five cohort labels. If neither provides locality or the original-sample-to-library relationship, request clarification from the authors.
+The linked supplementary DOCX (**Data_Sheet_1.docx**) is still not retrievable through the available public-page/download routes checked in this pass. The best next action is to obtain that file and an accession-level metadata export, then reconcile both against the 15-sample design and five cohort labels. If neither provides locality or the original-sample-to-library relationship, request clarification from the authors.
 
 - Paper full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11459095/
 - Supplementary materials: https://www.frontiersin.org/articles/10.3389/fmicb.2024.1410098/full#supplementary-material
