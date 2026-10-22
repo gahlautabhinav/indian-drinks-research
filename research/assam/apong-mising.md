@@ -138,3 +138,8 @@ The 2019 study reports nine sample-level biochemical profiles. Across the tested
 ## Supplementary material access status (SRC-087)
 
 The article's methods identify Supplementary Table S1 as the source for village/sample details and Table S2 for rice varieties and starter-cake herbs. The PMC full-text page labels the supplementary DOCX as available to authorized users; the document could not be retrieved through the accessible route during this review. Consequently, no village names or sample-to-village mappings have been added. Next step: request the supplementary DOCX from the corresponding author or publisher, or inspect a legitimately accessible copy, then transcribe the tables and verify all place-name spellings before updating the locality register. [Article full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/)
+
+
+## Recent flavour-chemistry review (SRC-088)
+
+Mili et al. (2026) provide a review focused on PO:RO APONG flavour chemistry. The review frames flavour development as an interaction among phytochemicals from plants used in the starter culture (OPOB/Epop), fermentative microbial communities, and rice straw/husk-derived ash; it discusses Maillard reactions and ash-mediated chemistry as possible contributors to colour and flavour. This is a secondary synthesis, not a new village-level survey or proof that every proposed mechanism has been experimentally confirmed. Its stated research gaps include limited mechanistic evidence and a need for more reproducible flavour profiles. Use it to build a primary-study citation trail, not to standardize a universal recipe. [SRC-088](https://doi.org/10.1016/j.frinr.2026.100006)
