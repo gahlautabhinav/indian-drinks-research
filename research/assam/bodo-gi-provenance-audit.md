@@ -39,3 +39,21 @@ The official pages list downloadable documents named “Statement of Case” for
 ## Repository interpretation
 
 The existing beverage records already identify the official registrations and caution against treating applicant addresses as proof of universal production. This audit adds the observed authorized-user address leads while retaining that limitation. No canonical beverage record or village-level production claim is added from addresses alone.
+
+
+## Document-level access check (2026-10-22)
+
+The official registry pages expose a document inventory for each application, including a **Statement of Case dated 29 August 2022**, a **producers list dated 13 February 2023**, and subsequent amendments/annexures. The Statement of Case appears as item 24 for applications 968 and 969, and item 23 for application 970. The producers-list item appears as item 18 for application 968 and item 17 for applications 969 and 970.
+
+The registry HTML makes the existence and labels of these documents verifiable, but the document links are rendered as generic PDF controls. In this research pass, the web retrieval layer did not return the PDF body for direct extraction. Therefore, this audit **does not claim to have read** the Statements of Case or producer lists, and it does not yet extract their product definitions, production steps, historical claims, village lists, or producer counts.
+
+### Evidence status and next extraction targets
+
+| Document | What can currently be asserted | What remains unverified |
+|---|---|---|
+| Statement of Case (2022) | Listed on the official registry page for all three applications | Exact product definition, claimed production geography, raw materials, preparation stages, traditional evidence and maps |
+| Producers list (2023) | Listed on the official registry page for all three applications | Names, count, village coverage, active status and whether entries represent producers or other applicants |
+| GI certificate (2024) | Registration status, certificate number/date, validity and state-level geographical area are displayed in registry metadata | Any more precise production boundary beyond what the underlying application documents establish |
+| Authorized-user table | Public registry shows the named authorized-user entries and addresses | Whether each address is a production site, residence, administrative address or current production location |
+
+**Research rule:** do not substitute authorized-user addresses for a geographical production boundary. Do not use the state-level “Assam” field as proof that every district or village produces the registered beverage. The next meaningful advance is obtaining the actual Statement of Case and producers-list PDF contents, then recording document/page-level claims and keeping the registry metadata as a separate evidence layer.
