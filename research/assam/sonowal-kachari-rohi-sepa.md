@@ -75,3 +75,23 @@ The 2026 study analyzed one authentic household batch per beverage, with technic
 ### Additional source
 
 - Das, R., Medhi, M. C., & Tamang, B. (2026). “Microbial diversity and its links to retinol pathways and aroma compounds in ethnic fermented rice beverages of Assam.” *AMB Express, 16*, article 91. https://doi.org/10.1186/s13568-026-02062-0
+
+## Research pass — 2026-10-22: Sepa source verification
+
+### Repository and publisher check
+
+The CSIR-NIScPR repository record for Bhattacharya and Chandra Deka (2026), *Preparation, physicochemical analysis and antioxidant properties of Rohi and Sepa: traditional rice beers of the Sonowal Kacharis, Assam*, confirms publication in *Indian Journal of Traditional Knowledge*, volume 25(9), pages 914–921, September 2026, DOI 10.56042/ijtk.v25i9.23169. Its abstract explicitly names **Rohi and Sepa** as two traditional Sonowal Kachari rice-based fermented alcoholic beverages, states that both use the starter **Mod pitha**, and reports that the study examines preparation and physicochemical properties. This is stronger than a tourism name-list and supports keeping two separate canonical records. [SRC-045]
+
+The full PDF is linked from the publisher repository, but the available page/text extraction in this research pass exposed the abstract and bibliographic metadata, not the article's detailed methods and tables. Accordingly, this pass does **not** claim to have verified Sepa-specific ingredients, exact process, fermentation duration, sample villages, sensory differences or quantitative results. The title and abstract alone cannot resolve the technical boundary between Rohi and Sepa.
+
+### Findings and limits
+
+- **Distinct names in the community's published documentation:** confirmed at abstract level.
+- **Shared use of Mod pitha starter:** confirmed by the abstract.
+- **Separate recipes and technical differences:** still unverified from accessible detailed text.
+- **Current village distribution:** not established by this paper's accessible abstract.
+- **Antioxidant results:** the study's assays are not proof of clinical benefit or a basis for health claims.
+
+### Next evidence target
+
+Extract pages 914–921 from the publisher PDF or obtain the authors' full text; build a comparison table only from explicit Rohi- and Sepa-specific statements. If full text remains inaccessible, request clarification or community-authored descriptions rather than infer Sepa's process from Rohi.
