@@ -70,3 +70,13 @@ The full-text methods section specifies fieldwork from **October 2019 to March 2
 ### Additional locality lead: Barmukuli (SRC-065)
 
 Bhuyan and Baishya (2013) include a Mising informant/locality trail involving **Barmukuli village, Dhemaji** in its overview of traditional rice-beer knowledge. Before treating this as a confirmed locality for **Poro Apong** specifically, the exact passage and underlying source need to be checked; do not convert a general Apong or informant location into a product-specific production claim. Tracked as `ASM-PL-058`. [SRC-065](https://doi.org/10.1016/j.dit.2013.09.002)
+
+## Recent ten-village study in Jorhat district: SRC-069
+
+Gogoi et al. (2026) document **Po:ro apong and Noggin apong** through semi-structured questionnaires, interviews and focus-group discussions with 50 key informants across ten villages in Jorhat district, with fieldwork reported between March 2024 and 2025. This strengthens the evidence that both named forms were included in a recent multi-village Mising study, but the accessible abstract does not name the ten villages or allocate each beverage to individual villages. The archive therefore records the study as `ASM-PL-065`, with beverage-to-village attribution still unresolved. Do not infer that all ten villages prepare both forms, and do not treat plant-based additives or ethnomedicinal framing as proof of clinical efficacy or safety. [SRC-069](https://ethnobotanyjournal.org/index.php/era/article/view/7814)
+
+### Follow-up extraction priorities
+
+1. Retrieve the full article and capture the ten village names exactly as printed, including administrative subdistricts if supplied.
+2. Extract any table linking Po:ro apong and Noggin apong, starter plants and local names to specific villages or informants.
+3. Keep plant inventories source-specific and compare them with ÉPOP starter studies without merging unlike samples into a universal Mising recipe.
