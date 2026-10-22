@@ -128,3 +128,8 @@ The paper's beverage description adds another independent source for Poro prepar
 Das et al. (2019) collected 27 samples of Apong (Poro and Nogin), Xaaj and Joubishi from nine villages, pooling triplicate samples from each location into nine composite samples. The main article identifies Mising sample RB01 as Poro Apong and RB02/RB03 as Nogin Apong, but the village names and sample-to-village mapping are referenced in Supplementary Table S1 and were not available in the accessible main text reviewed here. The archive therefore records only study scope (ASM-PL-081) pending supplement extraction. This study adds independent biochemical and microbiome evidence but is not a representative village-level production census and its exploratory health framing should not be interpreted as proof of benefit or safety. [SRC-087](https://doi.org/10.1007/s13205-019-1702-z)
 
 The 2019 paper also describes Poro preparation using roasted rice, rice-husk ash and dry starter cake, followed by solid-state fermentation and filtration. This is another source-specific filtration description, but does not alone settle whether a distillation stage is part of a distinct variant or another process account.
+
+
+## Quantitative laboratory results from SRC-087
+
+The 2019 study reports nine sample-level biochemical profiles. Across the tested samples, alcohol content ranged from 9.41 to 19.33% (v/v), DPPH values from 1.94 to 4.14 mg ascorbic-acid equivalents/ml, ABTS values from 1.69 to 3.91 mg ascorbic-acid equivalents/ml, and total phenolic content from 2.07 to 5.40 mg gallic-acid equivalents/ml. These are laboratory assay results from the samples collected, not evidence of clinical health benefits. [SRC-087](https://doi.org/10.1007/s13205-019-1702-z)
