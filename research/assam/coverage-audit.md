@@ -12,12 +12,12 @@
 | Measure | Current count | What it means |
 |---|---:|---|
 | Canonical beverage records tagged Assam | 22 | Current working inventory; not a count of all Assam beverages |
-| Assam place-coverage rows | 64 | Place leads and study locations; rows can be district-level, historical, unresolved, or address-only |
-| District labels represented in Assam place rows | 22 | Includes combined regional labels and unresolved labels; **not** 22 cleanly verified administrative districts |
+| Assam place-coverage rows | 66 | Place leads and study locations; rows can be district-level, historical, unresolved, or address-only |
+| District labels represented in Assam place rows | 23 | Includes combined regional labels and unresolved labels; **not** 22 cleanly verified administrative districts |
 | Assam research gaps | 41 | All 41 are currently marked Open |
-| Sources in source register | 77 overall | Source-register total across the project, not Assam-only |
+| Sources in source register | 79 overall | Source-register total across the project, not Assam-only |
 
-Counts are from the current CSVs. The place register contains repeated places for different drinks and evidence types, so 64 rows do not mean 64 unique villages. Some entries represent district-level studies without named villages, GI applicant addresses, or broad southern Assam sampling regions.
+Counts are from the current CSVs as of 2026-10-22. The place register contains repeated places for different drinks and evidence types, so 66 Assam rows do not mean 66 unique villages. Some entries represent district-level studies without named villages, GI applicant addresses, or broad southern Assam sampling regions. The 23 distinct district-field labels include combined and unresolved labels; they are not 23 verified administrative districts. The full place register contains 70 rows across all states.
 
 ## Evidence tiers
 
@@ -40,9 +40,9 @@ These are the most useful anchors for follow-up because a source identifies a na
 
 The current register has meaningful leads but does not establish exact production villages or current household practice for:
 
-- **Tea-tribe/Adivasi Haria** in the southern Assam study region; the sampled villages are not identified in the reviewed source record. (ASM-016-HAR; SRC-039–040)
-- **Zeme Naga Zao/Zou** in southern Assam; the reviewed studies do not map the beverage samples to a named Assam village. (ASM-017-ZAO; SRC-039–042)
-- **Hmar Zu** in southern Assam; sample-village mapping is open and broad cultural-region references must not be mistaken for verified production sites. (ASM-018-HZU; SRC-039–043)
+- **Tea-tribe/Adivasi Haria** in the southern Assam study region; the public BioSample label `TT` maps to Haria (SAMN36419344; SRA Sample SRS18315173), but the three original field samples and their village origins are not mapped in the reviewed public metadata. (ASM-016-HAR; SRC-039–040, SRC-079; see [sequencing accession crosswalk](sequence-accession-crosswalk.md))
+- **Zeme Naga Zao/Zou** in southern Assam; the public cohort label `ZN` maps to Zao/Zou (SAMN36419342; SRA Sample SRS18315171), but the three original field samples and their village origins remain unresolved. (ASM-017-ZAO; SRC-039–042, SRC-079; see [sequencing accession crosswalk](sequence-accession-crosswalk.md))
+- **Hmar Zu** in southern Assam; the public cohort label `HM` maps to Hmar Zu (SAMN36419340; SRA Sample SRS18315169), but the three original field samples and their village origins remain unresolved. Broad cultural-region references must not be mistaken for verified production sites. (ASM-018-HZU; SRC-039–043, SRC-079; see [sequencing accession crosswalk](sequence-accession-crosswalk.md))
 - **Garo Chu**: the 2016 Kokrajhar field study lists Chu as Garo and describes Wansi starter, a dekeli bamboo sieve and roughly one-week fermentation, but it does not map that recipe to a specific surveyed village. Chubok, Chubitchi and Su remain distinct lexical leads pending community confirmation. (ASM-022-CHU; SRC-047, SRC-054–057, SRC-075–077)
 - **Mech Kachari Haaz/Photika/Jau**: Jou has better preparation-level support than the other names, but exact Assam village attribution and the mapping between drink names and starter names remain unresolved. (ASM-GAP-044; SRC-062–064, SRC-073–074)
 
