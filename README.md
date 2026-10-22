@@ -82,3 +82,4 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 ## Research datasets
 
 - [`data/lab_profiles.csv`](data/lab_profiles.csv) — sample-level laboratory measurements (alcohol, DPPH, ABTS and total phenolic content) transcribed from the 2019 Assam rice-beer study (`SRC-087`), with reported SEM and caveats.
+- [`data/epop_plant_inventory_majuli_2026.csv`](data/epop_plant_inventory_majuli_2026.csv) — 2026 Majuli E’pob plant inventory transcription; source spellings and uncertainty retained.
