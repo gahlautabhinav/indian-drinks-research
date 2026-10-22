@@ -71,3 +71,25 @@ The 2024 review describes Chu as cooked rice fermented with a starter called **W
 **Finding:** Kamrup is a historical fieldwork lead, not a verified current Chu-production locality. Keep Chu, Su, Chubok and Meghalaya Chubitchi separate until a Garo-language source or community knowledge-holder confirms their relationships. Do not transfer the Meghalaya Chubitchi process to Assam Chu.
 
 **Next evidence target:** Find a Garo-language or community-led source that names an Assam village, gives the local spelling/pronunciation and links the name to a specific preparation. Current production remains unverified.
+
+
+## Research pass — 2026-10-22: Kokrajhar field-study evidence
+
+### Stronger Assam-specific source
+Narzary, Brahma, Brahma and Das (2016), “A study on indigenous fermented foods and beverages of Kokrajhar, Assam, India,” *Journal of Ethnic Foods* 3(4):284–291, DOI 10.1016/j.jef.2016.11.010, is an original questionnaire/survey-based field study. The methods identify remote study areas in Kokrajhar district: **Debargaon, Balajan Tinali, Magurmari, Harinaguri, Jornagri, Nayekgaon and Kachugaon**. The paper states that the district includes a small Garo population and lists **Chu (Garo)** among local beverages. Its beverage section says Chu is prepared by Garo communities in Assam and Meghalaya and identifies **Wansi** as the starter cake and **dekeli** as the bamboo sieve used for liquid collection. It reports fermentation in an airtight container in a dark, warm place, with the process usually taking about a week. [SRC-075]
+
+### Important geographic limit
+This is stronger evidence for an Assam-based Chu tradition than the tourism list alone: the source is a field study based in Kokrajhar and explicitly documents Chu as Garo. However, the article does **not map the Garo Chu recipe to one of its seven named survey areas**, identify a specific Garo household/village for Chu, or establish current production in those areas. Therefore record **Kokrajhar district as a research-supported regional lead**, not as a verified village-level production map.
+
+### Name-boundary cross-check
+Ashim Borah's 2017 report *A Study on Garo Language*, available through the Ministry of Tribal Affairs' repository, includes a vocabulary table translating “rice beer” as **Chubok/chubitchi**. Harendra W. Marak's 1975 *Kubidik: A Garo-English-Assamese Dictionary* separately glosses **Chubitchi** as strong/undiluted rice beer and **Chubok** as Garo rice beer. [SRC-076; SRC-077] This lexical evidence shows that the Garo beverage vocabulary is more specific than a single English label. It does not prove that Assam Chu is a synonym for Chubok or Chubitchi, nor does it establish a separate recipe in Assam.
+
+### Updated finding
+- **Assam regional lead:** Kokrajhar district is now supported by an original field study, not merely a tourism overview.
+- **Process:** Wansi, dekeli and roughly one week of fermentation are documented in the 2016 review of field observations; retain as source-specific rather than universal.
+- **Exact village and current production:** still unresolved.
+- **Chu vs Su vs Chubok vs Chubitchi:** unresolved; keep separate until a Garo-language source or community knowledge-holder confirms the relationship.
+- **Meghalaya comparison:** do not transfer Chubitchi's specific preparation or cultural context to Assam Chu without direct evidence.
+
+### Next evidence target
+Find out whether Narzary et al.'s field notes or a community-led study can map the Garo Chu entry to one of the named Kokrajhar villages; then verify local pronunciation and whether residents use Chu, Chubok, Chubitchi or another term.
