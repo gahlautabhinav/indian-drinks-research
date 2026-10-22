@@ -41,3 +41,21 @@ Reviewed 2026-10-21. The purpose of this note is to preserve a discrepancy for i
 The 2023 review's Mech Kachari row cites its references **33** and **56**. Reference 33 is Sarma (2017), *Rice Beer and Tribes of Assam*; it is a broad review/article with district-level discussion, including a general passage on Mech/Jau, rather than a village-specific production survey. Reference 56 is Senapati and Gurumayum (2016), *Medicinal Plants Used in Traditional Alcoholic Beverage Preparation by Tribes of Assam*. Its abstract names Dimasa, Boro, Rabha, Mising, Karbi, Ahom, Deori and Sonowal Kachari, but does **not** name Mech Kachari. Therefore reference 56 does not independently substantiate the Mech Kachari row on the evidence checked so far; the citation may be broad, indirect or mismatched. [SRC-054](https://www.iosrjournals.org/iosr-jhss/papers/Vol.%2022%20Issue7/Version-2/C2207021316.pdf) [SRC-064](https://rjpbcs.com/pdf/2016_7%285%29/%5B128%5D.pdf)
 
 The table's district list is explicitly headed “major inhabited districts” for each community, not a list of confirmed villages producing each named beverage. Do not convert Udalguri, Kokrajhar and Goalpara into village-level production claims. The current evidence remains a **regional naming lead**, not a verified Mech Kachari product specification.
+
+## Research pass — 2026-10-22: primary-source trail for Mech Kachari Jau
+
+### What the 2017 paper actually supports
+
+Sarma (2017), *Rice Beer and tribes of Assam*, explicitly says the Meches' home-brewed rice beer is called **jau** and reports it in socio-religious festivals and hospitality. Its methods section says primary material for the Mech community was collected in **Goalpara district**. However, the article's Mech passage cites Bordoloi (1991) and does not provide a recipe, starter-culture name, ingredient list, fermentation duration, named village or distinction between fermented and distilled products. The district-level fieldwork statement does not establish which specific Mech beverage labels were observed in Goalpara. [SRC-054]
+
+This provides a second, broad source trail for the name **Jau** in a Mech/Mech Kachari context, but it does not resolve the 2023 review's listing of **Haaz, Photika and Jau** alongside **Haaz pitha, Zu and Bakhar**. The review's references do not map starter names to individual beverages. A separate Deori account's Jau/Jumai and Photika description must not be imported into the Mech Kachari context without independent evidence. [SRC-062; SRC-063]
+
+### Updated assessment
+
+- **Jau as a Mech-associated rice-beer name:** documented at a broad historical/ethnographic level.
+- **Haaz and Photika as distinct Mech Kachari beverages:** not independently established by the sources reviewed.
+- **Zu / Haaz pitha / Bakhar pairing with a particular finished drink:** unresolved.
+- **Current production villages and present-day practice:** unresolved.
+- **Canonical records:** do not add Haaz, Photika or a second Jau record yet; preserve the discrepancy and seek community-preferred terminology and locality-specific primary evidence.
+
+The next useful step is to trace the cited older ethnographic sources behind the review, then corroborate terminology and product boundaries through Mech Kachari community or language sources.
