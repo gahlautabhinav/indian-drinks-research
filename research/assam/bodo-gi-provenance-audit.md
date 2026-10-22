@@ -57,3 +57,23 @@ The registry HTML makes the existence and labels of these documents verifiable, 
 | Authorized-user table | Public registry shows the named authorized-user entries and addresses | Whether each address is a production site, residence, administrative address or current production location |
 
 **Research rule:** do not substitute authorized-user addresses for a geographical production boundary. Do not use the state-level “Assam” field as proof that every district or village produces the registered beverage. The next meaningful advance is obtaining the actual Statement of Case and producers-list PDF contents, then recording document/page-level claims and keeping the registry metadata as a separate evidence layer.
+
+
+## Cross-check against a Bodo GI heritage exhibit
+
+A community-facing GI heritage exhibit was located and added to the source register as **SRC-083**. It provides useful product-level descriptions for all three GI beverages, but it is secondary explanatory material; it is not a substitute for the registry's Statement of Case.
+
+| Beverage | Description reported by SRC-083 | Research interpretation |
+|---|---|---|
+| Bodo Jou Gishi (GI 649) | Described as a fermented rice beverage; cooked rice is cooled, mixed with powdered Amao starter, and fermented in a vessel with a bamboo sieve before liquid is collected | Supports treating Jou Gishi as a finished fermented beverage rather than a distilled spirit. Exact parameters and specification still need primary-document verification. |
+| Bodo Jou Gwran (GI 648) | Described as a distilled rice liquor produced from fermented cooked rice (jumai), with Amao starter and a multi-vessel distillation arrangement | Supports the key fermented-versus-distilled distinction. Do not treat reported alcohol concentration as a stable specification without checking the underlying study and methods. |
+| Bodo Maibra Jou Bidwi (GI 650) | Described as a traditional welcome drink made from a special rice called Maibra and fermented with Amao; cultural use and plant materials are also discussed | Supports retaining the Maibra-specific name as its own record. The relationship between the product name, rice variety and legal specification remains to be checked in the Statement of Case. |
+
+SRC-083's pages also report ritual, marriage and hospitality contexts. These are valuable leads, but the archive should preserve the distinction between (a) a heritage exhibit's narrative, (b) peer-reviewed fieldwork, and (c) the legally registered product specification. The source has been cross-referenced to the three corresponding beverage records without treating its descriptions as definitive legal boundaries.
+
+### Conflicts and cautions to preserve
+
+- The official registry currently displays the three products under application numbers 968, 969 and 970, certificate numbers 648, 649 and 650 respectively. Some secondary pages inconsistently label an application number as the GI number; keep the official registry's application/certificate fields separate.
+- A secondary source's alcohol percentage, health benefit or “strongest” ranking should not be presented as universal without checking the study design, sample and analytical method.
+- The 2025 Bodo field study (SRC-081) discusses both fermented and fruit-based beverages and a distillate called Jougwran. Its four named survey localities are survey scope, not proof that each product is made in each locality.
+- The GI geography shown in registry metadata is “Assam”. This alone does not establish uniform production throughout the state; the Statement of Case, map and producer list remain the key outstanding documents.
