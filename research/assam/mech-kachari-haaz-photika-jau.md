@@ -82,3 +82,21 @@ These are historical ethnographic details from the thesis, not a current univers
 
 ### Next evidence target
 Trace the thesis's underlying sources and look for Mech Kachari community or language documentation in named Assam localities. Keep the thesis as a valuable cross-regional Mech source while the Assam-specific geography remains open.
+
+
+## Research pass — 2026-10-22: historical comparison for Emao and Photika
+
+### Newly checked historical source
+Sidney Endle's *The Kacháris* (1911) provides an older comparative account of rice beer in the Kachári Duars. Endle describes a starter called **emáo**, rice-beer called **Zu/Záu**, and a distilled spirit called **phatiká** made from that rice beer. He describes starter cakes made with rice and plant materials, fermentation in an earthen vessel, and serving rice beer at marriages, funerals and harvest festivities. [SRC-074]
+
+The book's rice-beer chapter specifically describes **Kacháris of Darrang**; its introduction discusses the northern Bodo/Kachari branch and notes that in Assam these people were called Kacharis and in Bengal Meches. This is historically valuable regional context, but it is **not a village-specific Mech Kachari study** and the chapter does not establish that every Mech community used the exact same names or process. It therefore cannot independently confirm the modern review's Mech Kachari label “Photika” or equate it definitively with the older spelling “phatiká.”
+
+### Updated interpretation
+- **Jou/Jau:** the strongest Mech-associated preparation evidence remains Sarkar's 2011 thesis, supplemented by Sarma (2017)'s citation to Bordoloi (1991).
+- **Emao:** attested in both Sarkar's Mech-focused thesis and Endle's historical Kachari account, but plant recipes differ by source and must remain source-specific.
+- **Photika / phatiká:** a plausible spelling relationship now has historical comparative support: Endle calls *phatiká* a distilled spirit made from rice beer. However, direct Mech-specific confirmation of the exact name and product boundary is still needed.
+- **Haaz / Haaz pitha / Zu / Bakhar:** no source reviewed establishes the pairings in the 2023 table. Do not treat the list as a reliable one-to-one starter/product mapping.
+- **Geography:** Endle's chapter is Darrang/Kachari Duars context, while the later Mech fieldwork lead is Goalpara. Neither alone establishes current village-level production of Haaz or Photika.
+
+### Next evidence target
+Compare Bordoloi (1991) Part III's Mech chapter around the rice-beer passage (Sarma cites p. 90) with Endle and Sarkar; preserve historical source geography and spelling exactly. Seek community/language confirmation before creating canonical Haaz or Photika entries.
