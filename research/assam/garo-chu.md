@@ -45,3 +45,18 @@ These questions are tracked in `ASM-GAP-043`. Until primary locality-level evide
 
 ---
 Reviewed 2026-10-20. Keep Assam locality and beverage-name relationships provisional until corroborated by Garo community and primary-source evidence.
+
+
+## Research pass — 2026-10-22: Assam locality and name-boundary audit
+
+### New evidence checked
+- Sarma (2017) explicitly says the study's primary fieldwork included **Kamrup for Garo communities**. This is a defensible Assam fieldwork lead, but the methods section does not name the Garo village or demonstrate that the interviewees prepared a beverage specifically called Chu. The paper uses **Su** in its Garo discussion; this alone does not prove Su and Chu are interchangeable. [SRC-054]
+- The 2024 review gives a secondary-source process description for Chu—cooked rice, Wansi starter, a sealed vessel and dekeli bamboo sieve, with 5–7 days reported—but the accessible account does not identify an Assam village or household. [SRC-055]
+- The Garo-English dictionary digitized by the University of North Texas library has separate lexical entries for **Chubitchi** (described as strong, undiluted rice beer) and **Chubok** (Garo rice beer). This is a useful warning against assuming every similar-looking “Chu-” name is identical. The dictionary entry does not establish the relationship among Chu, Su, Chubok and Chubitchi, nor does it attribute an Assam preparation locality. [External lead: UNT Digital Library, *Kubidik: A Garo-English-Assamese Dictionary*, p. 125; https://digital.library.unt.edu/ark:/67531/metadc2062332/m1/125/]
+- The 2021 Chubitchi study is explicitly about Garo communities in **Meghalaya**; mentioning Garo populations in Assam's Kamrup and Goalpara plains is not evidence that its Chubitchi sample came from Assam. [SRC-056]
+
+### Finding
+The best current geographic lead is **Garo fieldwork in Kamrup**, not a verified village where Chu is currently made. The reviewed sources do not resolve whether Chu and Su are alternate names, broad category terms or different preparations. Nor do they justify merging Assam Chu with Meghalaya Chubitchi. Keep all relationships provisional and avoid presenting the review's process as an Assam household recipe.
+
+### Next evidence target
+Prioritise a Garo-language/community source that names the Assam village and uses the beverage term in context. Record locality, local spelling/pronunciation and product-specific process separately; do not infer present-day production from the 2017 fieldwork alone.
