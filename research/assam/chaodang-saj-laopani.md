@@ -38,6 +38,14 @@ The source describes the beverage as healthy and an energy booster; these are re
 - **Ten randomly selected villages:** included in the study, but not named in the accessible abstract.
 - **Current production status:** requires fresh, locality-specific confirmation. The existence of a 2021 ethnographic study is not proof that all sampled households still brew the beverage.
 
+## Geographic context: do not confuse community distribution with beverage production
+
+The article's introduction cites a 1962 government socio-economic survey of the Chaodang community in the Jorhat subdivision and a 2015 Assamese-language history of Jorhat. It describes an older settlement context of 42 Chaodang villages in the then subdivision, with 21 said to be close to one another, and mentions Chaodang communities elsewhere in Upper Assam, including Golaghat, Sivasagar, Lakhimpur and Dibrugarh.
+
+These are **historical community-distribution leads**, reported through references cited by Gogoi (2021). They are not a current settlement census, and they do not establish that Saj/Laopani was prepared in all 42 villages or in each other district named. Do not add those places as confirmed beverage-production localities on this evidence alone.
+
+The article PDF is discoverable online, but the accessible landing-page abstract does not name the ten sampled villages. The next extraction attempt should inspect the article body, tables, maps and figure captions. If those still do not identify the villages, retain the gap as unresolved rather than guessing.
+
 ## Evidence assessment
 
 **Well supported within source scope**
