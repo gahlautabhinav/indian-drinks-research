@@ -84,3 +84,20 @@ The article's ethnomedicinal framing documents reported traditional uses of plan
 ### Additional named-locality lead: Dhupdhora (SRC-065)
 
 Bhuyan and Baishya (2013) associate **Jonga / Kecha mod** and starter terms with a locality trail at **Dhupdhora, Goalpara**. This is review-based evidence, not a current village census. It is consistent with the broader Goalpara literature but does not resolve whether Jonga-mod, Kecha-mod, Janga, Matha Mod or Roshi Mod are equivalent labels. Place lead: `ASM-PL-057`. [SRC-065](https://doi.org/10.1016/j.dit.2013.09.002)
+
+## Research pass — 2026-10-22: Matha Mod and Roshi Mod
+
+### Source audit
+
+The official Assam Tourism cuisine page and the 2022 *Aporup Assam* publication list **Matha Mod** and **Roshi Mod** as Rabha beverages. Both sources are broad tourism summaries: they do not provide a named village, a preparation description, a starter-culture name, or a citation trail for either term. Their repetition should not be counted as independent ethnographic confirmation.
+
+The accessible 2010 primary ethnobotanical study by Deka and Sarma documents Rabha rice-beer and starter-cake plant knowledge in Goalpara district, but its accessible metadata and abstract do not identify Matha Mod or Roshi Mod as separately documented products. The 2013 review uses **Jonga mod / Kecha mod** and **Surachi / Phap** starter names, with a Dhupdhora locality lead. The 2022–2024 analytical studies add source-specific evidence for Koch Rabha Mod, Pati Rabha sticky-rice beer, and Rangdani Rabha Janga; these do not establish synonymy with Matha Mod or Roshi Mod.
+
+### Decision
+
+- Keep **Matha Mod** and **Roshi Mod** as unverified names under ASM-GAP-039.
+- Do not add separate canonical beverage rows or merge them with ASM-007-JON.
+- Keep Rangdani, Koch and Pati Rabha evidence distinct by subgroup and source.
+- Next useful evidence: a Rabha-language/community-authored account or a primary study that explicitly connects either name to a named settlement, recipe/process, starter and community-preferred meaning.
+
+The present desk-research result is a **bounded negative finding**: no preparation-level corroboration was found in the sources reviewed in this pass. It does not prove that the beverages do not exist or are no longer made.
