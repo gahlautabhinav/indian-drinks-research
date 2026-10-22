@@ -93,3 +93,8 @@ Do not use “complete” to mean every drink has been found. Instead, move to t
 - [ ] High-priority name collisions are either resolved with appropriate evidence or explicitly retained as unresolved.
 
 **Recommendation:** Keep Assam active for at least one focused geography-normalization pass and one existing-source extraction pass. The archive is rich enough to guide those passes, but the present records do not support a defensible “Assam finished” claim or a reliable percentage-complete estimate.
+
+
+## District-label normalization follow-up
+
+The working crosswalk is now documented in [`district-crosswalk.md`](district-crosswalk.md). It identifies combined southern Assam labels, the Tiwa study's Nagaon/Morigaon mapping issue, the unresolved “Jalpaiguri” place-name in a Kokrajhar-area paper, and rules for preserving source-era wording. This does not change the existing coverage counts or claim that any locality has been verified beyond its source evidence.
