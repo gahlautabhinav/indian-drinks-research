@@ -26,9 +26,9 @@ The study documents two rice-based fermented beverages, Po:ro apong and Noggin a
 
 ### Majuli study: starter-culture ethnobotany
 
-Borah (2026), *International Journal of Advanced Research* 14(4):1361–1368 (SRC-084; DOI: https://doi.org/10.21474/IJAR01/23298), studies ethnobotanical plants used in Apong preparation among the Mising community in Majuli. The abstract reports 48 plant species across three Mising-inhabited villages and discusses Po:ro apong and Nogin apong. It highlights rice and *Dryopteris filix-mas* in the starter-cake context.
+Borah (2026), *International Journal of Advanced Research* 14(4):1361–1368 (SRC-084; DOI: https://doi.org/10.21474/IJAR01/23298), was subsequently reviewed from a public full-text mirror. The study surveyed three randomly selected Majuli villages from April to October 2024 and collected information from 28 informants. It documents 48 plant species used in E’pob starter-cake preparation and gives source-specific methods for Nogin Apong and Po:ro Apong. Rice and *Dryopteris filix-mas* are among the highest reported RFC/UV entries.
 
-This is useful as a recent Majuli evidence lead, but the abstract reviewed here does not name the three villages or prove that both beverage types are prepared in each. Plant inventories are not treated as universal recipes. The PDF endpoint could not be retrieved in this pass, so detailed tables and village-level results remain unverified.
+The accessible full text still does not name the three villages. The study does not justify assigning both beverage forms to each site. Its methods and plant inventory are recorded in `data/production_methods.csv` and the main dossier. Importantly, it describes Po:ro Apong extraction by staged water addition and filtration through a bamboo Ta:suk basket, not distillation. This conflicts with sources that call Poro Apong distilled; the archive now preserves this as an unresolved source-level process discrepancy rather than choosing one account without reconciliation.
 
 ## Repository changes
 
@@ -41,8 +41,8 @@ This is useful as a recent Majuli evidence lead, but the abstract reviewed here 
 ## Next research actions
 
 1. Retrieve the publisher-hosted PDF for Gogoi et al. and compare spellings, methods and results with the accessible full-text mirror.
-2. Extract the 2026 Majuli paper's full methods and results; identify its three villages and determine whether results map beverage types or starter plants to specific sites.
-3. Search older Mising field studies for direct evidence connecting individual Apong forms to named villages, while separating starter-culture collection from finished-beverage production.
+2. Identify the three villages in the 2026 Majuli paper through its figure/map or author correspondence; the accessible text reviewed does not name them.
+3. Resolve the Poro Apong process discrepancy: compare source methods and local terminology to determine whether distillation is a distinct variant, a translation issue or a reporting error.
 4. Treat current production as unverified unless the source documents present-day practice or community confirmation is obtained.
 
 ## Source links
