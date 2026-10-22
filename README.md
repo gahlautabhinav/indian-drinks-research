@@ -57,6 +57,7 @@ The archive began with Assam and is now expanding state by state; Union Territor
 
 
 - `research/assam/coverage-audit.md` — repository-level Assam coverage audit, evidence tiers, geographic limitations and exit criteria before moving to another state.
+- `research/assam/district-crosswalk.md` — working normalization rules for combined, historical and unresolved Assam district labels.
 
 ## Dashboard
 
