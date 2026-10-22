@@ -33,6 +33,18 @@ Full text as author-uploaded: https://www.researchgate.net/publication/399158107
 - The paper reports **Ndhui gei** as not botanically identified. Do not silently assign a species.
 - Cultural and medicinal-use statements are ethnographic reports, not clinical evidence.
 
+## Public data and sample-count reconciliation
+
+The 2024 article links a supplementary file named **Data_Sheet_1.docx** and a public NCBI BioProject, **PRJNA1017140**. The BioProject landing page describes bacterial communities from southern Assam rice-based fermented products and currently lists **five SRA experiments and five BioSamples**. The paper's methods, however, report **15 beverage samples, three per community cohort**.
+
+This is a metadata reconciliation question, not proof of an error: the public sequencing records may represent pooled, selected, or otherwise processed samples. The visible BioProject summary does not show a village-to-beverage mapping or explain the five-record versus 15-field-sample relationship. Do not assume one SRA experiment equals one original household/sample, and do not invent geographic attribution from accession counts.
+
+The article's linked supplementary DOCX was discoverable from the full-text page but could not be retrieved in the available text-reading pass. It remains a concrete next step: inspect the supplementary table and sample IDs, then reconcile them with the BioProject BioSamples/SRA experiments. If the metadata still do not identify origins, request clarification from the authors.
+
+- Paper full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC11459095/
+- Supplementary materials: https://www.frontiersin.org/articles/10.3389/fmicb.2024.1410098/full#supplementary-material
+- BioProject PRJNA1017140: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1017140/
+
 ## Geographic handling rules
 
 1. Keep Cachar, Hailakandi and Karimganj/Sribhumi as the overall study region, not as confirmed production districts for every listed drink.
