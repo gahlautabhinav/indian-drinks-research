@@ -77,3 +77,8 @@ The repository includes **Fieldnotes**, a static research dashboard for browsing
 4. Open the Pages URL shown in Settings → Pages. For this repository it will normally be `https://gahlautabhinav.github.io/indian-drinks-research/`.
 
 The dashboard requires no Node build step or backend. It uses browser-side CSV parsing and the Marked library CDN for Markdown dossier rendering. The first deployment runs after Pages is configured to use GitHub Actions; later pushes to `main` trigger deployment automatically.
+
+
+## Research datasets
+
+- [`data/lab_profiles.csv`](data/lab_profiles.csv) — sample-level laboratory measurements (alcohol, DPPH, ABTS and total phenolic content) transcribed from the 2019 Assam rice-beer study (`SRC-087`), with reported SEM and caveats.
