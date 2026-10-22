@@ -59,3 +59,26 @@ This provides a second, broad source trail for the name **Jau** in a Mech/Mech K
 - **Canonical records:** do not add Haaz, Photika or a second Jau record yet; preserve the discrepancy and seek community-preferred terminology and locality-specific primary evidence.
 
 The next useful step is to trace the cited older ethnographic sources behind the review, then corroborate terminology and product boundaries through Mech Kachari community or language sources.
+
+
+## Research pass — 2026-10-22: detailed Mech Jou preparation source
+
+### Stronger source found
+Ajita Sarkar's 2011 University of North Bengal doctoral thesis, *Ethnobotanical Studies of Sub-Himalayan Duars in West Bengal and Assam with Particular Reference to the Tribe Mech*, contains a dedicated chapter, “Preparation of Jou [Rice Beer]” (chapter 7, section 7.7, printed pages 124–126). The institutional repository identifies it as a thesis and names Sarkar as author and A. P. Das as advisor. [SRC-073]
+
+The chapter explicitly identifies **Jou** as Mech rice beer and documents a source-specific method:
+- It lists rice (*Oryza sativa*, called Mairong in the passage) and five plants in the starter mixture: *Plumbago zeylanica* (Emao), *Scoparia dulcis* (Rakhep), *Clerodendrum viscosum* (Lakhna), *Artocarpus heterophyllus* (Kanthal) and *Dryopteris filix-mas* (Saldaokhumai).
+- It describes pounding the rice and plant materials, making a paste and forming flat round starter cakes. The cakes are kept in straw under a jute covering; the thesis reports fungal growth after roughly two days, then sun-drying.
+- For the beverage, it describes cooking 2 kg rice, cooling it on a bamboo plate, mixing in 200 g powdered starter cake, and fermenting in a metal container. The thesis reports 7–8 days in winter and 4–5 days in summer, followed by straining the liquid.
+- The thesis associates Jou with social occasions and describes rice beer used in a Mech festival context elsewhere in the work.
+
+These are historical ethnographic details from the thesis, not a current universal recipe or food-safety recommendation. The thesis title covers the Sub-Himalayan Duars in West Bengal and Assam, but the Jou chapter does not identify an exact Assam village; treat its locality as **Mech community evidence with geographic scope not precise enough to establish current Assam production**.
+
+### What this changes—and what it does not
+- **Jou/Jau:** stronger preparation-level evidence exists for a Mech-associated rice beer than the earlier review and broad Sarma (2017) article alone supplied.
+- **Starter names:** the thesis calls its starter **Emao**. It does not establish that Emao is identical to the review's **Haaz pitha**, **Zu** or **Bakhar**.
+- **Haaz and Photika:** still not independently described as Mech preparations by the sources reviewed. The separate Deori account of Photika must not be transferred to Mech Kachari practice.
+- **Assam locality/current practice:** still unresolved. Do not create extra canonical records for Haaz or Photika on the strength of the review table.
+
+### Next evidence target
+Trace the thesis's underlying sources and look for Mech Kachari community or language documentation in named Assam localities. Keep the thesis as a valuable cross-regional Mech source while the Assam-specific geography remains open.
