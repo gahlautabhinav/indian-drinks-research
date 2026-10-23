@@ -50,7 +50,7 @@ This follow-up tested whether broad results could legitimately close any of the 
 
 ### Interpretation and next action
 
-The result is a **negative evidence-screening update**, not a claim that the districts lack beverage traditions. The most promising next step is to retrieve the full text of SRC-061 and extract its six district names and village list exactly as published; only then compare those names against the current district matrix. For Bajali, search specifically for beverage preparation or consumption evidence rather than transferring findings from medicinal-plant research. For all other districts, keep the existing Open gaps until beverage-specific evidence is found.
+The result is a **negative evidence-screening update**, not a claim that the districts lack beverage traditions. A targeted full-text search has now confirmed SRC-061's six district names; the reviewed main text still does not provide a reliably extractable list of all 32 villages or community-by-district allocation. See [SRC-061 locality and claim-level audit](src-061-locality-and-claim-audit.md). For Bajali, search specifically for beverage preparation or consumption evidence rather than transferring findings from medicinal-plant research. For all other districts, keep the existing Open gaps until beverage-specific evidence is found.
 
 
 
