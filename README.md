@@ -107,3 +107,5 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [`data/epop_plant_inventory_sivasagar_2023.csv`](data/epop_plant_inventory_sivasagar_2023.csv) — 31-row Sivasagar ÉPOP plant inventory transcribed from Mili & Sundriyal (2023).
 
 - [SRC-091 quantitative-metrics audit](research/assam/src-091-quantitative-metrics-audit.md) — documents the life-form count mismatch, FL formula/scale inconsistency, CKSI reproducibility limits, and specific author clarification questions; no source values are silently changed.
+
+- [SRC-091 author clarification request](research/assam/src-091-author-clarification-request.md) — a draft-only, respectful query about voucher records, life-form counts, FL calculations and CKSI reproducibility; no message has been sent.
