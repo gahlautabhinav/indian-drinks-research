@@ -12,22 +12,22 @@
   - Table 1 row 10: *Pteridium aquilinum* (L.) Kuhn; local name Bikh velengoni; communities Ahom and Rabha.
 - The available article table alone does not show whether this is a duplicated/incorrect printed identifier, a collection-series convention, or a database/transcription issue. It must remain an unresolved quality-control flag, not be “fixed” by inventing a replacement number.
 - The remaining 39 voucher strings are unique within this table, but uniqueness in a table is not proof that a publicly accessible herbarium accession exists.
+- The article's Methods section explicitly states that herbarium specimens were deposited at **Arunachal University of Studies (AUS), Namsai, Arunachal Pradesh**. The publisher page does not provide a direct accession catalogue or images linked to these 41 voucher strings.
 
 ## What this does and does not establish
 
 **Established:** the same identifier string is printed on two Table 1 rows naming different taxa.
 
-**Not established:** whether either plant was misidentified, whether a specimen is missing, where the physical vouchers are deposited, whether “ST/EES” maps to a publicly searchable herbarium, or whether the two entries refer to separate sheets with an intentionally reused local number.
+**Not established:** whether either plant was misidentified, whether a specimen is missing, whether “ST/EES” maps to an accession series searchable by AUS, or whether the two entries refer to separate sheets with an intentionally reused local number. The stated repository is AUS, but individual accession identity remains unverified.
 
 The first-pass name crosswalk in `data/src091_taxonomic_reconciliation.csv` does not verify the specimens themselves.
 
 ## Recommended follow-up
 
-1. Check the full article PDF and any supplementary files for a stated herbarium or voucher repository.
-2. Search institutional herbarium catalogues using the full identifier and its prefix variants, without treating a no-result search as proof of non-existence.
-3. Request the voucher-label image, accession details, and collection metadata from the corresponding author if no public record is found.
-4. Confirm the taxon determination, collector, collection date, locality, and specimen repository separately for each row.
-5. Keep the raw table unchanged until evidence supports a correction; log any future correction in a new commit and preserve the original published value.
+1. Ask Arunachal University of Studies (AUS), Namsai, for accession records or label images for all 41 voucher strings, prioritizing ST/EES/2024/015.
+2. If AUS has no public catalogue, request the voucher-label images and collection metadata from the corresponding author, Simi Talukdar (contact listed on the publisher article page).
+3. Confirm the taxon determination, collector, collection date, locality, and specimen repository separately for each row.
+4. Keep the raw table unchanged until evidence supports a correction; log any future correction in a new commit and preserve the original published value.
 
 ## Related archive records
 
