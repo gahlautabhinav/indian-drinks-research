@@ -68,3 +68,13 @@
 - Kept the five village identities unresolved because the paper's accessible text does not name them. No village-level production rows created from an unnamed study sample.
 - Editorial caution: traditional health beliefs are not clinical evidence; reported fermentation intervals are historical descriptions, not safety guidance.
 - Updated the Rabha dossier, source register, and open-gap next action. Next: reconcile starter inventories and extract the Rabha-specific evidence in SRC-091; keep Choko/Jonga-mod/Kecha-mod/Chokot name equivalence open.
+
+
+## 2026-10-23 — Rabha starter inventory reconciliation
+- Compared the source-specific ingredient evidence in Deka & Sarma (2010), Das, Rabha & Das (2021), Duarah et al. (2023), and Talukdar et al. (2026).
+- Key correction: the headline counts are not comparable. The 2021 Choko paper gives three core ingredients, not necessarily an exhaustive inventory; the 2023 paper gives seven rows in its Rabha Phap table; the 2026 paper reports 41 species across three communities, not 41 Rabha species.
+- Found a secondary-source count mismatch: the 2010 inventory is described as ten species in some summaries, while an accessible review table presents eleven Rabha entries. Left unresolved pending row-by-row verification against the original 2010 table.
+- Shared signal: *Artocarpus heterophyllus* appears across focused and survey sources; *Scoparia dulcis* appears in older/2021 evidence but is not listed in the 2023 seven-row Rabha table. Treat as likely locality/sampling variation, not proof of error.
+- Flagged source-level taxonomic concerns in the 2023 table, including a family-label mismatch for *Xanthium strumarium* and uncertain source spellings. No silent taxonomic normalization made.
+- Reaffirmed that 2026 fieldwork covers Goalpara and Kamrup with 10 Rabha informants but does not name villages in the reviewed methods; no village-level records added.
+- Next: verify 2010 original table, inspect 2026 supplementary table for community-specific plant attribution, and continue the unresolved finished-drink name crosswalk.
