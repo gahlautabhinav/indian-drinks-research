@@ -133,3 +133,11 @@
 - Registered SRC-109; added provisional beverage ASM-026-NDJ; added locality leads ASM-PL-094–ASM-PL-099; created `research/assam/nduijao-nduiyi-src-109.md`.
 - Locality note: the paper names Lodi, Asalu, Nutan Gunjung, Boro Haflong and Lisong Basti for starter production; its table reports samples from Haflong Bazaar, Lodi Basti and “Laisong Basti.” Lisong/Laisong spelling remains unresolved. Sample locations are not a comprehensive production map.
 - Do not treat traditional health claims as clinical evidence or the sample alcohol/pH values as universal specifications. Next: verify local spellings and current practice, then cross-check with community sources and existing Dima Hasao dossiers.
+
+### 2026-10-23 — Zao/Zou and Ndhuihi cross-check (SRC-110)
+- Added Yumnam, Hazarika & Sharma (2024), “Metagenomic insights into traditional fermentation of rice-based beverages among ethnic tribes in southern Assam, Northeast India,” to the source register as SRC-110.
+- The study includes 15 samples across five cohorts (three per cohort), including a Zeme Naga beverage. Its prose/methods call the beverage Zao and its starter Ndhuihi, while Table 1 labels the beverage Zou. This internal naming discrepancy is unresolved.
+- Added provisional beverage record ASM-027-ZAO and district-level cohort lead ASM-PL-100. No village was inferred because the accessible sample metadata does not name one.
+- Crosswalk memo: `research/assam/src-110-zao-zou-ndhuihi-crosswalk.md`. Do not merge Zao/Zou with Jeme Naga Nduijao or equate Ndhuihi with Nduiyi based on spelling alone; community labels differ across sources.
+- The study uses bacterial 16S rRNA profiling, not yeast/fungal sequencing. Its pH/EC values are sample-specific and its broad health framing is not clinical evidence.
+- Next: retrieve Atungbou (2020), cited by the study, and verify the Zao/Zou spelling and Ndhuihi/Nduiyi relationship with primary or community evidence.
