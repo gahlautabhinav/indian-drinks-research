@@ -46,6 +46,12 @@ TABLES = {
         "source_refs": "Related_Source_IDs",
         "beverage_refs": "Beverage_ID",
     },
+    "data/assam_district_coverage_matrix.csv": {
+        "primary": "District_Current_Name",
+        "source_refs": "Evidence_Source_IDs",
+        "extra_source_refs": "Administrative_Source_IDs",
+        "beverage_refs": "Beverage_IDs",
+    },
     SOURCE_FILE: {
         "primary": "Source_ID",
         "source_refs": None,
@@ -109,7 +115,7 @@ def main() -> int:
                 errors.append(f"{relative_path}:{line_number}: duplicate {primary} {identifier!r}")
             seen.add(identifier)
 
-        for field in (config["source_refs"], config["beverage_refs"]):
+        for field in (config["source_refs"], config.get("extra_source_refs"), config["beverage_refs"]):
             if field and field not in header:
                 errors.append(f"{relative_path}: missing reference column {field!r}")
 
@@ -130,15 +136,16 @@ def main() -> int:
         header, rows = tables.get(relative_path, ([], []))
         if not header:
             continue
-        source_field = config["source_refs"]
+        source_fields = (config["source_refs"], config.get("extra_source_refs"))
         beverage_field = config["beverage_refs"]
         for line_number, row in enumerate(rows, start=2):
-            if source_field and source_field in row:
-                for ref in split_refs(row.get(source_field, "")):
-                    if ref not in source_ids:
-                        errors.append(
-                            f"{relative_path}:{line_number}: unknown source reference {ref!r}"
-                        )
+            for source_field in source_fields:
+                if source_field and source_field in row:
+                    for ref in split_refs(row.get(source_field, "")):
+                        if ref not in source_ids:
+                            errors.append(
+                                f"{relative_path}:{line_number}: unknown source reference {ref!r}"
+                            )
             if beverage_field and beverage_field in row:
                 for ref in split_refs(row.get(beverage_field, "")):
                     if ref not in beverage_ids:
