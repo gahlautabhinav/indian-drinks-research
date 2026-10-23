@@ -190,3 +190,27 @@ The paper distinguishes Joufinai from the direct rice fermentation product Joubi
 Safety note: reported process times and analytical comparisons are historical research descriptions, not home-production instructions or guarantees of microbiological safety. Traditional medicinal beliefs are not clinical evidence.
 
 Source: Deka, A. K., Basumatary, S., & Deka, D. C. (2025). https://doi.org/10.1186/s42779-025-00286-2
+
+
+## 2026-10-23 product-identity decision: named fruit beverages
+
+A targeted cross-source search found a useful distinction between the broader Bodo Jou family and two additional named fruit-based forms. Deka, Basumatary and Deka (2025; SRC-066) explicitly names **Kamrenga-bidwi** (starfruit) and **Amlai-bidwi** (gooseberry). The article gives source-specific preparation observations and reports summer consumption, but the four named Kokrajhar-area survey localities are not mapped product-by-product in the accessible methods. A second source on Bodo Jou varieties, Deka, Handique and Deka (2021), identifies Joubidwi as fermented, Joufinai as preserved and Jougwran as distilled, but does not independently corroborate the two fruit-beverage names or establish their category.
+
+### Archive decision
+
+- Added provisional master records **ASM-024-KBD** and **ASM-025-ABD** to make both source-attested names discoverable.
+- These records are explicitly single-source and provisional; their geographic confidence is partial and neither is assigned to a particular named village.
+- The 2025 paper's broad framing discusses fruit-based alcoholic beverages, but it does not report an analytical alcohol value for Kamrenga-bidwi or Amlai-bidwi in the sections reviewed. The master records therefore do not assert that either specific form is proven alcoholic.
+- Do not merge either form into Jou Gwran: the paper describes Jou Gwran as a distilled product and describes these bidwi forms separately.
+- No place-coverage rows were added, because the source does not map either form to Amlaiguri, Gendrabili, Banshigaon or the unresolved “Jalpaiguri” locality individually.
+
+### Evidence and remaining uncertainty
+
+The 2025 article describes Kamrenga-bidwi as starfruit-based and Amlai-bidwi as gooseberry-based, with different storage/juice-collection descriptions. Those are author-reported observations from a bounded Kokrajhar-area study, not a universal recipe or proof of statewide prevalence. A 2021 study of the three Jou varieties supports the wider fermented/preserved/distilled distinction, but it is not independent corroboration for these two named fruit forms.
+
+**Next evidence needed:** independent Bodo-language/community corroboration, confirmation of each form's beverage category and current usage, and product-to-village attribution where publication is appropriate. ASM-GAP-051 remains open.
+
+Sources:
+- Deka, A. K., Basumatary, S., & Deka, D. C. (2025). [Methodology of ethnic cereal-based and fruit-based beverages of Bodo community of Assam](https://doi.org/10.1186/s42779-025-00286-2) (SRC-066).
+- Deka, A. K., Handique, P., & Deka, D. C. (2021). [Ethnic food beverages with heavy metal contents: Parameters for associated risk to human health, North-East India](https://doi.org/10.1016/j.toxrep.2021.06.013). This study is used only for the fermented/preserved/distilled Jou classification, not as corroboration for the two fruit-based names.
+
