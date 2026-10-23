@@ -81,6 +81,9 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 
 - [Assam cross-community study source-quality audit](research/assam/cross-community-2026-source-quality-audit.md) — claim-scope limits and internal numerical checks for SRC-091; preserves district-vs-village distinction and flags the FL interpretation and life-form-count discrepancy.
 
+- [SRC-091 Table 1 audit](research/assam/src-091-table1-audit.md) — compares the 41-row publisher table against the prose life-form counts and flags the Drymaria/Pouzolzia naming conflicts and FL-scale issue.
+- [SRC-091 Table 1 transcription](data/src091_table1_transcription.csv) — source-faithful 41-row transcription of community labels, voucher strings, scientific names, family/life-form labels, plant parts, CKSI and FL values.
+
 ## Research datasets
 
 - [`data/lab_profiles.csv`](data/lab_profiles.csv) — sample-level laboratory measurements (alcohol, DPPH, ABTS and total phenolic content) transcribed from the 2019 Assam rice-beer study (`SRC-087`), with reported SEM and caveats.
