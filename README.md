@@ -25,6 +25,7 @@ A source-led archive of India's traditional alcoholic beverage heritage, trackin
 - `data/research_gaps.csv` — questions and next research actions
 - `sources/source_register.csv` — source metadata and limitations
 - `research/assam/judima.md` — Judima dossier updated with historical North Cachar Hills sources SRC-097 and SRC-098, preserving unresolved beverage-name boundaries.
+- [SRC-096 Table 1 extraction and locality boundary audit](research/assam/src-096-table-extraction.md) — source-specific Assam starter/beverage pairings, naming cautions, and explicit reason no village rows were added.
 - `research/assam/judima.md` — initial dossier for Judima
 - `research/assam/apong-mising.md` — Apong forms among Mising communities.
 - `research/assam/sujen-deori.md` — Sujen among Deori communities.
