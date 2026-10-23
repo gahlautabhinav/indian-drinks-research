@@ -53,6 +53,8 @@ These are **archive gaps**, not a finding that those districts lack traditional 
 - `Archive_Coverage_Class` is a scoped description of the evidence already in the repository, not a ranking of cultural importance or beverage diversity.
 - `Next_Research_Action` tells the next researcher how to improve the district record without overstating the evidence.
 
+The grouped public-web search pass and its limits are documented in [`district-search-log.md`](district-search-log.md).
+
 ## Remaining work before Assam transition
 
 This matrix completes the **archive-presence baseline**, but not the external search log. The next close-out pass should search the 14 uncovered districts in grouped, source-led queries and record whether each search found a reliable source, a weak lead, or no suitable source located. Then perform the release check: validate all CSVs, confirm the current Pages deployment, and publish the state-baseline note with remaining gaps listed.
