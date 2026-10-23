@@ -16,7 +16,7 @@ The paper’s comparative table associates the following community labels, start
 | Ahom | Rice | Xajar Pitha | Xajpani | Supports the pairing in this source, not a village attribution. |
 | Mising | Sticky rice | Apong kusure | Apong | The text distinguishes Nagin-Apong and Poro-Apong by substrate/starter handling; preserve these as preparation variants pending further source-specific reconciliation. |
 | Bodo | Rice | emao | Zu | Keep distinct from the Dimasa Zu pairing unless stronger linguistic/ethnographic evidence establishes the relationship. |
-| Karbi | Rice | Thap | Arak | The paper also uses Hor Alank in its discussion; the terminology is not sufficiently consistent here to normalize Hor Alank and Arak as exact synonyms. |
+| Karbi | Rice | Thap | Arak (table wording) | Read this row alongside Teron (2006; SRC-013): Thap is the starter used to ferment Hor-alank, and Hor-arak is the distilled product. The table's shorthand “Arak” must not erase the fermented intermediate or imply that Hor-alank and Hor-arak are synonyms. |
 
 ## Locality finding
 
@@ -29,7 +29,14 @@ The methods report 440 participants, of whom 242 supplied information across all
 - “Adivasi” is too broad to safely map to a particular ethnolinguistic community or district without additional evidence.
 - Zu is reported for both Dimasa and Bodo in this paper; that shared name alone does not prove the beverages are identical.
 - Nagin-Apong and Poro-Apong are described in relation to preparation/substrate handling; do not automatically split or merge canonical beverage records.
-- The Karbi beverage terminology needs corroboration before mapping Arak and Hor Alank as synonyms.
+- **Karbi terminology resolved against SRC-013:** Teron (2006) explicitly distinguishes Hor-alank (fermented rice beer made with Thap) from Hor-arak (distilled from Hor-alank). Therefore, do not normalize Arak and Hor-alank as synonyms. SRC-096's Table 1 uses “Arak” in its Karbi row; retain that source wording but annotate it against the clearer process distinction in SRC-013. The 2010 table row is not sufficient on its own to rewrite the canonical beverage identity.
 - Plant identifications and historical community labels should be checked against the article tables and contemporary ethnobotanical nomenclature before taxonomic or community-level conclusions.
 
 **Outcome:** improves source-to-claim traceability, but adds no locality rows and no new canonical beverage IDs.
+
+
+## Cross-source terminology resolution — Karbi (2026-10-23)
+
+SRC-096 lists the Karbi starter/beverage pair as “Thap / Arak.” This shorthand is potentially misleading when read without the preparation narrative. The already-registered primary ethnographic source SRC-013 (Teron, 2006) explicitly describes **Hor-alank as the fermented rice beer made with Thap** and **Hor-arak as the distilled product obtained from Hor-alank**. The archive's canonical distinction (ASM-005-HAL vs ASM-006-HAR) is therefore retained. This is a source-interpretation correction, not a new beverage record or locality claim.
+
+Source: [Teron (2006), *Hor, the traditional alcoholic beverage of Karbi tribe in Assam*](https://www.jnu.ac.in/Faculty/scgarkoti/tks/pdf/7.TFB_Traditional-Food-_-Beverage.pdf), already registered as SRC-013.
