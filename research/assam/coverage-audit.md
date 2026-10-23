@@ -5,7 +5,7 @@
 
 ## Executive finding
 
-**The repository-level transition gate is passed, but Assam is not complete as a research census and remains active.** The baseline is suitable for a future state transition when you choose to make that switch; it does not mean research should stop now. Geographic coverage remains uneven, and several records rely on district-level leads, historical fieldwork, secondary name lists, or samples whose exact village is not reported.
+**The coverage baseline is established, but the state-transition gate remains pending.** Assam is not complete as a research census and remains active. The close-out review still requires primary-source GI specification extraction for the Bodo Jou products and a targeted process/name claim audit; continue those before recommending the next-state transition. Geographic coverage remains uneven, and several records rely on district-level leads, historical fieldwork, secondary name lists, or samples whose exact village is not reported.
 
 ### Snapshot of the repository
 
@@ -113,10 +113,12 @@ The archive can move to the next state once the following repository-level check
 - [x] **High-priority collisions:** major naming/process conflicts are either supported by source evidence or explicitly retained as unresolved with next actions.
 - [x] **Coverage log:** the 35-district archive-presence matrix and grouped district search log are published; nine districts still have no relevant place row in the current archive, with next actions recorded.
 - [x] **Release note:** [`assam-state-baseline-release.md`](assam-state-baseline-release.md) records scope, counts, known blind spots and open gaps.
+- [ ] **Primary GI specifications:** extract and compare statements of case for Jou Gwran, Jou Gishi and Maibra Jou Bidwi.
+- [ ] **Process/name audit:** finish the targeted high-risk claim checks listed in the close-out review.
 
 ### Practical estimate
 
-The geography normalization, beverage-record desk review, district search log and release note are complete. Archive validation passed and the latest GitHub Pages deployment succeeded. **The repository-level transition gate is passed, but Assam is not exhaustive and remains open for evidence updates.** Continue Assam research until you explicitly choose to begin the next state; do not interpret this baseline as a complete census.
+The geography normalization, beverage-record desk review, district search log and release note are complete. Archive validation passed and the latest GitHub Pages deployment succeeded. **The transition gate is pending.** The geography matrix, district search log and 23-record desk review are in place, but primary-source GI specifications and the targeted process/name claim audit remain unfinished. Continue Assam research; do not interpret the baseline as a complete census or switch states automatically.
 
-Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after transition, provided they are clearly documented and not represented as resolved. Do not switch states automatically: Assam remains the active research state until you choose to move on, and new source-led work can still improve the record.
+Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after the repository-level close-out tasks are completed, provided they are clearly documented and not represented as resolved. Assam remains the active research state until you choose to move on.
 
