@@ -83,7 +83,7 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 
 - [`data/lab_profiles.csv`](data/lab_profiles.csv) — sample-level laboratory measurements (alcohol, DPPH, ABTS and total phenolic content) transcribed from the 2019 Assam rice-beer study (`SRC-087`), with reported SEM and caveats.
 - [`data/epop_plant_inventory_majuli_2026.csv`](data/epop_plant_inventory_majuli_2026.csv) — 2026 Majuli E’pob plant inventory transcription; source spellings and uncertainty retained.
-- [`data/epop_plant_taxon_reconciliation.csv`](data/epop_plant_taxon_reconciliation.csv) — provisional 48-row botanical name reconciliation against the Sivasagar inventory, with confidence and source notes.
+- [`data/epop_plant_taxon_reconciliation.csv`](data/epop_plant_taxon_reconciliation.csv) — 48-row Majuli-to-Sivasagar name reconciliation, now with partial POWO accepted-name, family, lookup-status and authority-URL fields; unchecked taxa remain explicitly unresolved.
 - [`data/epop_taxonomy_quality_audit.csv`](data/epop_taxonomy_quality_audit.csv) — source-table duplicate and cross-study taxonomy quality flags, including verified POWO family conflicts for *Hydrocotyle sibthorpioides*, *Vitex negundo* and *Scoparia dulcis*.
 - [`data/epop_cross_site_comparison.csv`](data/epop_cross_site_comparison.csv) — 48-row cross-site comparison of Majuli and Sivasagar plant names, family labels and uncertainty.
 - [`data/epop_plant_inventory_sivasagar_2023.csv`](data/epop_plant_inventory_sivasagar_2023.csv) — 31-row Sivasagar ÉPOP plant inventory transcribed from Mili & Sundriyal (2023).
