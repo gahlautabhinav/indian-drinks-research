@@ -97,7 +97,7 @@ Do not use “complete” to mean every drink has been found. Instead, move to t
 
 ## District-label normalization follow-up
 
-The working crosswalk is now documented in [`district-crosswalk.md`](district-crosswalk.md). It identifies combined southern Assam labels, the Tiwa study's Nagaon/Morigaon mapping issue, the unresolved “Jalpaiguri” place-name in a Kokrajhar-area paper, and rules for preserving source-era wording. This does not change the existing coverage counts or claim that any locality has been verified beyond its source evidence.
+The working crosswalk is documented in [`district-crosswalk.md`](district-crosswalk.md), and the current 80-row place register has been reviewed in [`geography-normalization-audit.md`](geography-normalization-audit.md). It identifies combined southern Assam labels, the Tiwa study's Nagaon/Morigaon mapping issue, the unresolved “Jalpaiguri” place-name in a Kokrajhar-area paper, and rules for preserving source-era wording. This does not change the existing coverage counts or claim that any locality has been verified beyond its source evidence.
 
 ## Transition plan and completion estimate (2026-10-23)
 
