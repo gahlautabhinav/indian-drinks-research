@@ -174,3 +174,11 @@ Retain the current canonical record ASM-007-JON as a research grouping for now, 
 - Re-check botanical names and family assignments in Duarah et al. Table 6 against authoritative taxonomic sources while retaining source strings.
 - Seek village names or supplementary material for the 2021 and 2026 studies; until then keep their locality granularity at district level.
 - Compare the 2026 supplementary plant table's community-specific attribution before adding species-level rows to the Rabha inventory.
+
+## Primary-source verification of the 2010 plant count — 2026-10-23
+
+The original Deka & Sarma (2010) article has now been checked directly. Its Results section explicitly says **ten plant species** were used in Rabha rice-beer starter cakes, and Table 1 contains ten entries: *Ananas comosus*, *Artocarpus heterophyllus*, *Calotropis gigantea*, *Capsicum frutescens*, *Clerodendrum viscosum* (printed as “Cleodendrum”), *Dennstaedtia scabra*, *Ochthochloa coracana*, *Plumbago indica*, *Saccharum officinarum* and *Scoparia dulcis*. The eleven-item secondary list previously noted included *Sida rhombifolia*, which is not in the primary Table 1. For the 2010 study, use the primary table's ten entries; retain the review's extra *Sida rhombifolia* as an unverified secondary-source discrepancy, not part of the confirmed 2010 list.
+
+The original article also explicitly states that the starter cake is called **bakhor, surachi or phap**, while the finished rice beer is called **choko or jonga-mod** among the Rabhas of Goalpara. This is direct primary-source support for treating *Choko* and *Jonga-mod* as alternate names in that study's context. It does **not** establish that *Kecha-mod*, West Bengal *Chokot/Chokoth*, *Matha Mod* or *Roshi Mod* are synonyms in all places or subgroups.
+
+Source: Deka & Sarma (2010), pp. 460–461, especially Results/Table 1 and the paragraph introducing preparation. Full text: https://nopr.niscpr.res.in/bitstream/123456789/9773/1/IJTK%209%283%29%20459-462.pdf
