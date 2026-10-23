@@ -121,3 +121,4 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [SRC-091 author clarification request](research/assam/src-091-author-clarification-request.md) — a draft-only, respectful query about voucher records, life-form counts, FL calculations and CKSI reproducibility; no message has been sent.
 
 - [SRC-061 locality and claim-level audit](research/assam/src-061-locality-and-claim-audit.md) — records the six named study districts, the 32-village/202-respondent scope, and strict limits on district-by-beverage and village-level inference.
+- [SRC-095 systematic-review screening note](research/assam/src-095-systematic-review-screen.md) — records what the 2026 review abstract supports and what remains unverified pending full-text review.
