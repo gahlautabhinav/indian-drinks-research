@@ -63,3 +63,12 @@ This follow-up tested whether broad results could legitimately close any of the 
 
 The result is a **negative evidence-screening update**, not a claim that the districts lack beverage traditions. The most promising next step is to retrieve the full text of SRC-061 and extract its six district names and village list exactly as published; only then compare those names against the current district matrix. For Bajali, search specifically for beverage preparation or consumption evidence rather than transferring findings from medicinal-plant research. For all other districts, keep the existing Open gaps until beverage-specific evidence is found.
 
+
+
+## Verified update — SRC-061 locality scope
+
+A targeted full-text search recovered the methods text for Borah et al. (2021), which names the six study districts as **Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar, and Sonitpur**. This is stronger than the abstract-only result recorded above. It resolves one narrow gap in the archive: **Biswanath was included in a multi-district field study about traditional alcoholic beverages**, so the matrix now records a study-area lead (ASM-PL-086 / SRC-061).
+
+This does **not** yet identify which of the four studied communities (Ahom, Bodo, Karbi, Mising) or which named beverage was observed in Biswanath, nor does the accessible excerpt provide a village name. Therefore the new place row intentionally has no Beverage_IDs, and the matrix class is “district-level beverage-study area only; product/community attribution unresolved.” Do not treat it as evidence that every beverage in the paper occurs in Biswanath.
+
+The same study's six-district list includes Sonitpur, already represented as a secondary lead in ASM-PL-083; SRC-061 is an additional study-area source for Sonitpur, but the district-level community/product allocation remains unresolved. The other four study districts (Baksa, Golaghat, Lakhimpur, Sivasagar) already have place rows and should be audited against SRC-061 for duplicate or stronger evidence rather than counted as newly discovered coverage.
