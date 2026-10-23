@@ -7,6 +7,8 @@
 
 ## Research summary
 
+See the [controlled Ahom–Bodo naming crosswalk](ahom-bodo-naming-crosswalk.md) for the explicit boundary between the Jou umbrella tradition, registered GI product names, stored/distilled forms and starter terminology. This pass does not merge GI product names with every folk usage of Jou, Joubidwi, finai or Jougwran.
+
 Bodo communities in Assam prepare traditional alcoholic beverages from rice and, in some documented forms, fruit. Published sources describe a rice-based starter culture under names including **Amao** and **Emao**; another ethnobotanical survey lists **Angkur** as a name for the starter. The starter is made from rice powder, plant materials and a small amount of an older starter. Its plant composition varies by place and availability.
 
 The umbrella term **Jou** is used in the literature for the broader Bodo rice-beer tradition. A 2014 field paper describes three kinds as *Jou-bidwi*, *finai* and *gwran*. A 2025 study uses the forms *Joubidwi* for the direct fermented rice beverage, *Joufinai* for a stored beverage, and *Jougwran* for distilled forms, including fruit-based variants. These terms are related, but the exact relationship between older spellings and newer GI product names should not be assumed without checking the GI statements of case and community terminology.
