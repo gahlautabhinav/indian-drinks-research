@@ -40,3 +40,18 @@ Sources report Judima in festivals, hospitality and some marriage, birth and mou
 
 ## Editorial rule
 Treat this as a living research dossier. Preserve uncertainty, add source IDs to claims, and distinguish traditional knowledge from modern commercial production.
+
+
+## Additional historical evidence — North Cachar Hills studies
+
+Two additional sources now broaden the historical evidence base for the Dima Hasao / North Cachar Hills tradition without expanding the locality map:
+
+- **SRC-097 — Chakrabarty, Sharma & Tamang (2009):** the indexed full-text abstract lists Judima, Zunak and Dekujao among rice-based alcoholic beverages familiar in the North Cachar Hills district. Preserve these spellings as the authors printed them; the abstract alone does not establish whether the names are synonyms, subtypes, or distinct beverages, and it does not map each to a named village.
+- **SRC-098 — Chakrabarty, Sharma & Tamang (2014):** the full-text article identifies Judima as the selected fermented beverage and Humao as a dry mixed amylolytic starter in a study of traditional knowledge, production, consumption, microbial profiles and nutritional value. The authors report observation and interviews with producers and consumers. The study is selective, not a district-wide census.
+
+These sources support a **historical district-level literature association**, not a new village-level production claim or proof of current prevalence. Do not merge Zunak or Dekujao into Judima without a dedicated name-boundary investigation. The 2014 article's nutritional and microbial analyses should not be presented as clinical health evidence.
+
+## Updated source list
+
+- SRC-097: [Substrate utilisation in traditional fermentation technology practiced by tribes of North Cachar Hills district of Assam (2009)](https://www.bilaspuruniversity.ac.in/PDF/ResearchPublications/163.pdf).
+- SRC-098: [Traditional technology and product characterization of some lesser-known ethnic fermented foods and beverages of North Cachar Hills District of Assam (2014)](https://www.jnu.ac.in/Faculty/scgarkoti/tks/pdf/7.TFB_Traditional-Food-_-Beverage.pdf).
