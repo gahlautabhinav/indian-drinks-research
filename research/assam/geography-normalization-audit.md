@@ -9,9 +9,9 @@
 A CSV-aware parse of the current place register returns:
 
 - **84 place rows across the project**
-- **81 rows tagged Assam**, four rows tagged to other geographies
-- **26 distinct raw district-field strings** among Assam rows
-- **31 distinct tokens** after splitting those strings on semicolons
+- **84 rows tagged Assam**, four rows tagged to other geographies
+- **29 distinct raw district-field strings** among Assam rows
+- **34 distinct tokens** after splitting those strings on semicolons
 - **22 Assam beverage records** and **48 Assam research gaps** in the current registers
 
 These are archive-row counts, not unique villages or verified administrative districts. Place rows may repeat a locality across beverages, represent starter-culture sampling rather than finished-beverage production, or record broad study scope, historical evidence, applicant addresses, or unresolved locality names.
@@ -24,6 +24,9 @@ These are archive-row counts, not unique villages or verified administrative dis
 | ASM-PL-008 | Lakhimpur; locality not specified | District-level research lead only | Retain district-level confidence until primary text identifies the locality. |
 | ASM-PL-014 / ASM-PL-015 | Karbi Anglong; rural villages or locality not specified | Fieldwork geography is broader than a named-village record | Extract exact locality list from the cited primary source if available; otherwise preserve as district/subdivision evidence. |
 | ASM-PL-082 | West Karbi Anglong; official district cultural page mentions Hor and Horpo | District-level cultural lead; no producing village or equivalence with Hor-alank/Hor-arak established | Compare the terms using primary Karbi-language sources and community-led evidence; do not merge or create a canonical record from the district overview alone. |
+| ASM-PL-083 | Sonitpur; secondary review's broad Adivasi/Haria district association | Secondary community/district lead; no named production village or current production established | Search primary local and tea-garden/community sources; do not automatically map this lead to the Tea-tribe Haria canonical record. |
+| ASM-PL-084 | Chirang; secondary review's Bodo district association | Secondary community/district lead; no named production village or Jou-subtype mapping | Search primary Bodo beverage field studies; do not assign GI variants from a broad district association. |
+| ASM-PL-085 | Udalguri; older fieldwork and secondary community/district associations | District-level Bodo/Rabha lead; no named village or product-specific mapping | Seek primary locality-specific evidence and preserve distinctions between Bodo and Rabha beverage terms. |
 | ASM-PL-033 | Kokrajhar; “Jalpaiguri” as printed in 2025 article | Apparent locality/district mismatch, unresolved | Do not silently change the printed name. Check the original article, maps/supplements and independent local evidence. |
 | ASM-PL-035 / ASM-PL-036 | Bongaigaon; village not identified / Jorhat; ten villages unnamed in accessible abstract | Named study region without named village list | Search full text and supplements; if unavailable, explicitly record “not reported in accessible source”. |
 | ASM-PL-037 | Nagaon; Morigaon study scope with five printed locality spellings | Individual localities not reliably mapped to current districts | Preserve source spellings and uncertainty; map only when the primary source supports it. |
@@ -37,7 +40,7 @@ These are archive-row counts, not unique villages or verified administrative dis
 | ASM-PL-078 | Majuli; three randomly selected villages unnamed in accessible text | Study-level geography only | Retain the unnamed-village status and seek the supplement/author clarification if worthwhile. |
 | ASM-PL-080 / ASM-PL-081 | Multi-district Mising studies; seven or nine villages without names or sample mapping | Broad study scope and missing locality/sample mapping | Do not count as named villages; request supplements and keep source scope explicit. |
 
-The table above is a **priority exception list**, not an exhaustive list of all 81 rows. Rows with named places still require source-scope review: a named field site does not by itself prove present-day production or beverage-specific attribution.
+The table above is a **priority exception list**, not an exhaustive list of all 84 rows. Rows with named places still require source-scope review: a named field site does not by itself prove present-day production or beverage-specific attribution.
 
 ## Normalization rules for the close-out pass
 
@@ -55,7 +58,7 @@ The table above is a **priority exception list**, not an exhaustive list of all 
 - Southern Assam cohort metadata does not resolve village/sample-level geography for Haria, Zao/Zou and Hmar Zu.
 - Some district-level records have no village list in the accessible source text.
 - The place register does not yet have dedicated structured columns for normalized district, geography evidence type, and current-vs-historical status; these are presently conveyed through raw fields and notes.
-- The coverage snapshot had been stale; it has now been refreshed to 81 Assam rows, 26 raw district-field labels and 31 semicolon-separated tokens.
+- The coverage snapshot had been stale; it has now been refreshed to 84 Assam rows, 29 raw district-field labels and 34 semicolon-separated tokens.
 
 ## Completion decision
 
