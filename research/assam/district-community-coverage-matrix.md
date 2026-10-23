@@ -7,8 +7,8 @@
 ## Snapshot
 
 - **35 administrative district rows** in the matrix.
-- **21 districts** have at least one place-register row or a combined regional/study-scope lead.
-- **14 districts** have no relevant place row in the current archive.
+- **22 districts** have at least one place-register row or a combined regional/study-scope lead.
+- **13 districts** have no relevant place row in the current archive.
 - The archive has **80 Assam place rows** overall, but these repeat some localities across beverages/evidence types and include historical fieldwork, starter-culture sampling, broad study regions, applicant addresses and unresolved localities.
 - A place row is not proof of current production, and absence from the register is not evidence of absence of a beverage tradition.
 
@@ -35,7 +35,6 @@ This is a practical working crosswalk. If a later official reorganization change
 11. South Salmara-Mankachar
 12. Tamulpur
 13. Udalguri
-14. West Karbi Anglong
 
 These are **archive gaps**, not a finding that those districts lack traditional beverages. They are priority targets for systematic source searches. In particular, do not assign older undivided Karbi Anglong research to West Karbi Anglong without verifying the original field site against the current boundary.
 
@@ -45,7 +44,7 @@ These are **archive gaps**, not a finding that those districts lack traditional 
 - **Nagaon and Morigaon:** a 2020 Tiwa study is recorded across both districts, but individual locality-to-district assignments remain unresolved. Morigaon also has separate named historical field-study villages.
 - **Kokrajhar:** the strongest evidence density in the current archive, but the printed “Jalpaiguri” locality remains unresolved and the named survey villages are not automatically production sites for every linked Jou form.
 - **Jorhat:** ten named Mising survey villages are recorded, but beverage-to-village attribution is not established for every drink.
-- **Karbi Anglong / West Karbi Anglong:** do not infer present-day district-level distribution from older fieldwork unless the actual villages and boundary history support the assignment.
+- **Karbi Anglong / West Karbi Anglong:** the official West Karbi Anglong cultural page mentions Hor and Horpo but does not identify a production village or establish equivalence with Hor-alank/Hor-arak. Do not infer present-day district-level distribution from older fieldwork unless the actual villages and boundary history support the assignment.
 - **Starter-culture studies:** several localities document starter preparation or sampling, not necessarily finished beverage production in every household or at present.
 
 ## How to use the CSV
