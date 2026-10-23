@@ -5,7 +5,7 @@
 
 ## Executive finding
 
-**Assam is now ready for a state transition as a documented research baseline, but it is not an exhaustive census.** Geographic coverage remains uneven, and several records rely on district-level leads, historical fieldwork, secondary name lists, or samples whose exact village is not reported.
+**The repository-level transition gate is passed, but Assam is not complete as a research census and remains active.** The baseline is suitable for a future state transition when you choose to make that switch; it does not mean research should stop now. Geographic coverage remains uneven, and several records rely on district-level leads, historical fieldwork, secondary name lists, or samples whose exact village is not reported.
 
 ### Snapshot of the repository
 
