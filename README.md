@@ -25,8 +25,10 @@ A source-led archive of India's traditional alcoholic beverage heritage, trackin
 - `data/research_gaps.csv` — questions and next research actions
 - `sources/source_register.csv` — source metadata and limitations
 - `research/assam/judima.md` — Judima dossier updated with historical North Cachar Hills sources SRC-097 and SRC-098, preserving unresolved beverage-name boundaries.
+- [Ahom–Bodo beverage and starter naming crosswalk](research/assam/ahom-bodo-naming-crosswalk.md) — controlled alias/variant decisions, GI-name boundaries, and explicit no-merge rules.
 - [SRC-096 Table 1 extraction and locality boundary audit](research/assam/src-096-table-extraction.md) — source-specific Assam starter/beverage pairings, naming cautions, explicit reason no village rows were added, and cross-source resolution of the Karbi Thap/Arak shorthand.
 - `research/assam/karbi-hor.md` — cross-source terminology audit retains the distinction between fermented Hor-alank and distilled Hor-arak.
+- `research/assam/bodo-gi-provenance-audit.md` — official GI registration metadata and authorized-user address caveats; addresses are not automatically production localities.
 - `research/assam/judima.md` — initial dossier for Judima
 - `research/assam/apong-mising.md` — Apong forms among Mising communities.
 - `research/assam/sujen-deori.md` — Sujen among Deori communities.
