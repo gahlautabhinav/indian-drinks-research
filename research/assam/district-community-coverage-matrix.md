@@ -7,8 +7,8 @@
 ## Snapshot
 
 - **35 administrative district rows** in the matrix.
-- **22 districts** have at least one place-register row or a combined regional/study-scope lead.
-- **13 districts** have no relevant place row in the current archive.
+- **25 districts** have at least one place-register row or a combined regional/study-scope lead.
+- **10 districts** have no relevant place row in the current archive.
 - The archive has **80 Assam place rows** overall, but these repeat some localities across beverages/evidence types and include historical fieldwork, starter-culture sampling, broad study regions, applicant addresses and unresolved localities.
 - A place row is not proof of current production, and absence from the register is not evidence of absence of a beverage tradition.
 
