@@ -17,6 +17,10 @@ Keep Kamrup and Kamrup Metropolitan distinct. Preserve historical locality wordi
 - **Cachar; Karimganj (renamed Sribhumi); Dima Hasao (broader Hmar cultural-region lead):** mixed sample-region and cultural-region label. Do not count Dima Hasao as a confirmed Hmar Zu sample district.
 - **Not established in reviewed abstract:** leave district unresolved. Do not infer it from community distribution or another beverage's locality.
 
+## Register count reconciliation (2026-10-23)
+
+A fresh CSV-aware parse of `data/places_coverage.csv` finds 84 rows total, of which 80 are tagged Assam. Those Assam rows contain 25 distinct raw district-field strings and 30 tokens when semicolon-separated strings are split. These are raw-label counts only: they are not counts of official districts or unique localities. See [geography normalization audit](geography-normalization-audit.md) for the priority exception register and treatment rules.
+
 ## Interpretation rules
 
 1. Kokrajhar has the densest place-row cluster, largely due to Bodo beverage research. This is evidence density in the archive, not a ranking of actual beverage diversity.
