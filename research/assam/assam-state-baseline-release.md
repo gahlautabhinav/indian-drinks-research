@@ -1,7 +1,7 @@
 # Assam state-baseline release note
 
 **Release candidate date:** 2026-10-23  
-**Release status:** Transition-ready baseline pending final CI/Pages confirmation  
+**Release status:** Transition-ready baseline confirmed on 2026-10-23  
 **Scope:** Publicly documented traditional beverage traditions represented in the current archive; not an exhaustive census of every Assam beverage or community practice.
 
 ## Snapshot at release candidate
@@ -46,4 +46,4 @@ After the workflow gate passes, retain Assam as a maintainable archive with open
 
 - [x] CSV structure and cross-reference validation passed after the latest data changes.
 - [x] The district/community matrix, search log, beverage-record review and known-limitations documents are indexed.
-- [ ] Latest GitHub Pages deployment succeeds for the final documentation commit.
+- [x] Latest GitHub Pages deployment succeeds for the final documentation commit (run [39927405518](https://github.com/gahlautabhinav/indian-drinks-research/actions/runs/39927405518)).
