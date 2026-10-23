@@ -71,6 +71,12 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - `data/src091_table1_transcription.csv` — 41 Table 1 rows preserved as published.
 - `data/src091_taxonomic_reconciliation.csv` — separate 41-row taxonomic crosswalk; pending records are not treated as errors.
 
+
+- [SRC-091 taxonomic reconciliation](research/assam/src-091-taxonomic-reconciliation.md) — first-pass POWO crosswalk for all 41 Table 1 names; nomenclatural conflicts and voucher-level limitations remain explicit.
+- `data/src091_table1_transcription.csv` — 41 Table 1 rows preserved as published.
+- `data/src091_taxonomic_reconciliation.csv` — separate 41-row POWO crosswalk, with source names retained and taxonomic treatment differences flagged.
+- `data/src091_voucher_audit.csv` — checks 41 printed voucher identifiers; flags ST/EES/2024/015, which appears against two taxa.
+
 ## Dashboard
 
 The repository includes **Fieldnotes**, a static research dashboard for browsing beverage records, linked evidence, source-specific production methods, cultural-practice notes, geographic coverage and open research gaps. The interface loads its data from the CSV files in this repository and the dossiers from `research/`; the CSV/Markdown archive remains the source of truth.
