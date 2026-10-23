@@ -77,3 +77,17 @@ SRC-083's pages also report ritual, marriage and hospitality contexts. These are
 - A secondary source's alcohol percentage, health benefit or “strongest” ranking should not be presented as universal without checking the study design, sample and analytical method.
 - The 2025 Bodo field study (SRC-081) discusses both fermented and fruit-based beverages and a distillate called Jougwran. Its four named survey localities are survey scope, not proof that each product is made in each locality.
 - The GI geography shown in registry metadata is “Assam”. This alone does not establish uniform production throughout the state; the Statement of Case, map and producer list remain the key outstanding documents.
+
+
+## Authorized-user address review — 2026-10-23
+
+The current official registry detail pages expose Authorized User rows for all three registrations. Examples of locality strings in those public records include Deborbill / Amteka Bazar / Amguri, West Dangarkutti / Dotoma, Batabari, and Palashbari / Polashbari (the latter appears in the application 970 record). These strings are recorded here as **registry-address leads only**.
+
+An Authorized User address may be a person's declared address and is not automatically a production site, a surveyed village, or evidence that every GI product is brewed there. Therefore, this pass does not create or upgrade beverage-place rows from those addresses. If used in a later geography pass, first inspect the GI Statement of Case, the producer-list document, and any map/area description; distinguish a legal GI area from individual authorized-user addresses and from directly observed production localities.
+
+Official registry detail pages:
+- Jou Gwran, application 968: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968
+- Jou Gishi, application 969: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969
+- Maibra Jou Bidwi, application 970: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+The downloadable Statements of Case are listed on those pages but have not yet been extracted in this pass. No locality row was added from the address strings.
