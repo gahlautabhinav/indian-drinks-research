@@ -55,3 +55,8 @@ These sources support a **historical district-level literature association**, no
 
 - SRC-097: [Substrate utilisation in traditional fermentation technology practiced by tribes of North Cachar Hills district of Assam (2009)](https://www.bilaspuruniversity.ac.in/PDF/ResearchPublications/163.pdf).
 - SRC-098: [Traditional technology and product characterization of some lesser-known ethnic fermented foods and beverages of North Cachar Hills District of Assam (2014)](https://www.jnu.ac.in/Faculty/scgarkoti/tks/pdf/7.TFB_Traditional-Food-_-Beverage.pdf).
+
+
+## SRC-098 study-design clarification (2026-10-23)
+
+The full-text abstract of Chakrabarty, Sharma and Tamang (2014) specifies a **selected-product characterization study**, not a district-wide survey: the authors selected five product categories—wet Tuaithur, dry Tuairoi, Honoheingrain, the dry mixed amylolytic starter Humao, and the beverage Judima—and report 21 samples across those five categories. The study combines producer/consumer interviews and observation with microbial and nutritional analysis. Its district-level framing supports historical association with North Cachar Hills (now Dima Hasao), but the accessible abstract does not supply village-by-beverage counts or establish current prevalence. The 21 samples must not be misreported as 21 Judima samples. [Source: SRC-098; full text](https://www.jnu.ac.in/Faculty/scgarkoti/tks/pdf/7.TFB_Traditional-Food-_-Beverage.pdf).
