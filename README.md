@@ -57,6 +57,7 @@ The archive began with Assam and is now expanding state by state; Union Territor
 
 
 - `research/assam/coverage-audit.md` — repository-level Assam coverage audit, evidence tiers, geographic limitations and exit criteria before moving to another state.
+- `research/assam/geography-normalization-audit.md` — refreshed 80-row Assam place-register audit, raw district-label counts, priority geographic exceptions and safe normalization rules.
 - [Assam archive integrity audit](research/assam/integrity-audit.md) — current CSV row counts, schema and reference validation, repaired source-register issue, and remaining evidence-quality risks.
 - [Southern Assam sample audit](research/assam/southern-assam-sample-audit.md) — full-text review of the 2024 and 2026 multi-community studies and limits of village-level attribution.
 - [Southern Assam sequencing accession crosswalk](research/assam/sequence-accession-crosswalk.md) — verified mapping of five public BioSample/SRA Sample records to Haria, Judima, Zao/Zou, Hor Alank and Hmar Zu; original-sample pooling and locality limits remain explicit.
