@@ -25,6 +25,10 @@ The literature describes rice-based fermentation using a locally prepared plant-
 
 The 2020 study names field localities as Boaropujia, Raha, Kahua-ati, Neeli and Dalang-ghat, spanning Nagaon and Morigaon districts. Exact village-to-district assignment and present-day production status should be checked against the article's full text and local confirmation. Do not treat reported preparation times or plant lists as universal.
 
+### Extracted starter-plant inventory (SRC-078)
+
+Das (2016) lists 19 plant taxa associated with Bakhor preparation in the five-village Morigaon survey. The transcription is preserved in [`data/tiwa_bakhor_plant_inventory.csv`](../../data/tiwa_bakhor_plant_inventory.csv), including vernacular names, source spellings, any plant part named in the table, and the source's reported use or preparation role. The table's botanical names, author citations and some family labels contain spelling/identification issues; the CSV deliberately preserves the raw source strings rather than silently correcting them. It is an extraction layer, not a taxonomically validated checklist. The article's medicinal statements are reports of traditional beliefs or uses and are not evidence of clinical efficacy or safety.
+
 ## Cultural context and reported health claims
 
 The sources describe Zu/Chu as part of Tiwa food and social life. The 2020 article reports traditional beliefs that the drink or starter has medicinal properties, including use in connection with human and cattle ailments. These are ethnographic reports of community beliefs, not clinical evidence of safety or efficacy. This archive does not endorse alcoholic beverages as treatment.
