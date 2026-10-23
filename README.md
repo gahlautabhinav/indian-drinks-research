@@ -76,6 +76,7 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - `data/src091_table1_transcription.csv` — 41 Table 1 rows preserved as published.
 - `data/src091_taxonomic_reconciliation.csv` — separate 41-row POWO crosswalk, with source names retained and taxonomic treatment differences flagged.
 - `data/src091_voucher_audit.csv` — checks 41 printed voucher identifiers; flags ST/EES/2024/015, which appears against two taxa.
+- [SRC-091 voucher audit](research/assam/src-091-voucher-audit.md) — flags the repeated ST/EES/2024/015 identifier and defines specimen-verification steps without guessing a correction.
 
 ## Dashboard
 
