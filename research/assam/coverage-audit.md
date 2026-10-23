@@ -12,12 +12,12 @@
 | Measure | Current count | What it means |
 |---|---:|---|
 | Canonical beverage records tagged Assam | 22 | Current working inventory; not a count of all Assam beverages |
-| Assam place-coverage rows | 66 | Place leads and study locations; rows can be district-level, historical, unresolved, or address-only |
-| District labels represented in Assam place rows | 23 | Includes combined regional labels and unresolved labels; **not** 22 cleanly verified administrative districts |
-| Assam research gaps | 41 | All 41 are currently marked Open |
-| Sources in source register | 79 overall | Source-register total across the project, not Assam-only |
+| Assam place-coverage rows | 80 | Place leads and study locations; rows can be district-level, historical, unresolved, or address-only |
+| Raw district-field labels represented in Assam place rows | 25 | Includes combined regional labels and unresolved labels; **not** 22 cleanly verified administrative districts |
+| Assam research gaps | 48 | All 41 are currently marked Open |
+| Sources in source register | 90 overall | Source-register total across the project, not Assam-only |
 
-Counts are from the current CSVs as of 2026-10-22. The place register contains repeated places for different drinks and evidence types, so 66 Assam rows do not mean 66 unique villages. Some entries represent district-level studies without named villages, GI applicant addresses, or broad southern Assam sampling regions. The 23 distinct district-field labels include combined and unresolved labels; they are not 23 verified administrative districts. The full place register contains 70 rows across all states.
+Counts refreshed from the current CSVs on 2026-10-23. The place register contains repeated places for different drinks and evidence types, so 80 Assam rows do not mean 80 unique villages. Some entries represent district-level studies without named villages, GI applicant addresses, broad study regions, or unresolved locality leads. The 25 distinct raw district-field labels split into 30 semicolon-separated tokens include combined and unresolved labels; they are not counts of verified administrative districts. The full place register contains 84 rows across all states.
 
 ## Evidence tiers
 
@@ -63,7 +63,7 @@ These are important research targets, but adding canonical records before the id
 
 The current place register includes evidence leads across Upper Assam, central Assam, the BTR/Lower Assam area, Karbi Anglong, and southern Assam. Kokrajhar has the largest concentration of place rows, driven in part by detailed Bodo beverage work. This is an **evidence-density observation**, not proof that Kokrajhar has the most beverage diversity or that underrepresented districts have no traditions.
 
-The 22 district labels in the CSV cannot be compared directly with an official district count: some rows combine multiple districts into one regional label, and one unresolved label is not an administrative district. A proper district-coverage matrix still needs to normalize current and historical district names, distinguish present-day boundaries from older study geography, and mark each district as:
+The raw district-field labels in the CSV cannot be compared directly with an official district count: some rows combine multiple districts into one regional label, and some are unresolved or study-scope labels rather than administrative districts. A proper district-coverage matrix still needs to normalize current and historical district names, distinguish present-day boundaries from older study geography, and mark each district as:
 1. named village / direct field evidence;
 2. district-level fieldwork only;
 3. community or regional association only;
