@@ -8,7 +8,7 @@
 
 - The 41 source rows remain unchanged in `data/src091_table1_transcription.csv`.
 - `data/src091_taxonomic_reconciliation.csv` adds a separate 41-row reconciliation layer.
-- Thirty-four of 41 rows now have a targeted POWO name/family check or a specific taxonomic conflict recorded; seven remain pending, and *Drymaria diandra* remains unresolved at authorship level. This is a literature crosswalk, not voucher verification. “Pending” means not reviewed here, not incorrect.
+- Thirty-five of 41 rows now have a targeted POWO name/family check or a specific taxonomic issue recorded; six remain pending. *Drymaria diandra* has been reviewed but remains unresolved at authorship level. This is a literature crosswalk, not voucher verification. “Pending” means not reviewed here, not incorrect.
 - A literature or POWO accepted-name match does **not** independently verify the plant collected under a voucher number. Voucher images, herbarium records, or author confirmation would be needed for specimen-level identification.
 - Do not replace source strings, families, plant parts, or values in the transcription layer with normalized values.
 
@@ -32,7 +32,7 @@
 
 ## Still open
 
-- Reconcile the remaining seven pending rows against POWO and/or World Flora Online, recording authority URLs and exact author citations.
+- Reconcile the remaining six pending rows against POWO and/or World Flora Online, recording authority URLs and exact author citations.
 - Resolve the article's prose/table discrepancy for *Drymaria* and *Pouzolzia* against the final article text and, if possible, voucher records.
 - Check the voucher numbers, including repeated voucher identifiers, against herbarium/accession records. A voucher number printed in the article is not itself a publicly verified accession.
 - Keep ethnobotanical attribution, plant identity, reported plant part, and claimed beverage use as separate evidence dimensions.
