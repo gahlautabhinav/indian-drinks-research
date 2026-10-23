@@ -99,3 +99,14 @@ See [SRC-095 systematic review screening note](src-095-systematic-review-screen.
 The publisher-indexed preview exposed candidate references that were then checked independently against accessible publication records. Four were absent as exact-title records in the register and were added as SRC-096–SRC-099: Tanti et al. (2010) on starter-culture ethnobotany across six Northeast Indian states; Chakrabarty et al. (2009) on substrate use and fermented products in historical North Cachar Hills; Chakrabarty et al. (2014) on selected fermented foods/beverages including Judima and Humao; and Kalita et al. (2021), a statewide secondary review. The archive records each with evidence-type and locality caveats. This is a targeted reference reconciliation, not an extraction of the full 42-study list, and inclusion of these papers in SRC-095's systematic synthesis is not confirmed.
 
 Already registered exact-title overlaps include SRC-023 (Bora et al. 2016), SRC-071 (Saikia et al. 2007), SRC-087 (Das et al. 2019), SRC-017 (Deka & Sarma 2010), and SRC-018 (Bhuyan & Baishya 2013). Do not count review citations as independent field observations or use statewide review claims to close district gaps.
+
+
+### Full-text follow-up — SRC-096 to SRC-098
+
+**SRC-096 (Tanti et al. 2010):** the full-text PDF was available through the NIScPR repository. The methods report 440 participants, of whom 242 supplied information across all methods; prior informed consent is reported. The paper documents starter/beverage pairs including Adivasi Dabai/Haria, Dimasa Hamao/Zu, Ahom Xajar Pitha/Xajpani, Mising Apong kusure/Apong, Bodo emao/Zu and Karbi Thap/Arak. It also describes Nagin-Apong and Poro-Apong as differing in substrate/starter handling. The table's locality data still require structured extraction before assigning village coverage; historical community labels and plant identifications require care.
+
+**SRC-097 (Chakrabarty et al. 2009):** indexed full-text abstract confirms the historical district-level list Judima, Zunak and Dekujao. No named village mapping or synonymy is inferred.
+
+**SRC-098 (Chakrabarty et al. 2014):** full-text PDF confirms a selected-product study involving Judima and the Humao starter, with observation/interviews and microbial/nutritional characterization. This does not establish a district-wide census or village-level distribution.
+
+The Judima dossier now cites SRC-097 and SRC-098 as historical district-level evidence. No new place row or beverage identity merge was created. Next step is to extract SRC-096's locality/source table carefully and cross-check older name forms before making any geographic updates.
