@@ -158,3 +158,12 @@ The paper describes a traditional distillation arrangement using vessels named *
 ### Cultural claims and limits
 
 The article connects beverage use with Baisagu and offerings to Bathou and describes beliefs around storage vessels and starter cakes near fireplaces. These are reported cultural practices, not universal claims about all Bodo households. Its references to traditional medicinal uses are ethnographic reports, not clinical evidence of efficacy or safety. [SRC-066](https://doi.org/10.1186/s42779-025-00286-2)
+
+
+## Cross-community field study (2026): Bodo comparison and limits
+
+Talukdar et al. (2026; SRC-091) provide a recent cross-community ethnobotanical and cultural-ecology study using semi-structured interviews, focus groups and participant observation. The study's Bodo fieldwork covers Kokrajhar and Baksa districts; its wider design also includes Rabha fieldwork in Goalpara and Kamrup and Ahom fieldwork in Tinsukia and Dibrugarh. The authors report 41 plant species across 29 families across the three community traditions and state that participant consent was obtained.
+
+This is useful contemporary comparative evidence, but its six district study design must not be converted into a village-level production map. The abstract and accessible methods do not establish that every beverage form in this dossier occurs in every Bodo study district. Plant-use and cultural claims should be extracted from the article's tables and results with source-specific attribution before updating individual beverage recipes or locality records. Ethnobotanical use is not clinical evidence of efficacy or safety.
+
+**Source:** https://doi.org/10.1007/s44187-026-01101-w (SRC-091).
