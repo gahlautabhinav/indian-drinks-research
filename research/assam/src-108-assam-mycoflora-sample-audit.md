@@ -22,3 +22,9 @@
 Retrieve the sample/table metadata, reconcile the six-versus-seven-district discrepancy, and compare the results with SRC-106/SRC-107 and existing Assam starter-culture sources before adding beverage or place records.
 
 **Publisher full text:** https://arccjournals.com/journal/asian-journal-of-dairy-and-food-research/DR-1829
+
+
+## Full-text verification update (2026-10-23)
+The publisher-hosted PDF was inspected. The abstract names seven districts (Jorhat, Sivasagar, Golaghat, Lakhimpur, Dhemaji, Majuli and Karbi Anglong), while the introduction says six districts. The article names three starter types but does not provide a sample-by-sample mapping to district, community or village. The organism tables report taxa and isolate groups, not field localities. This discrepancy cannot be resolved from the published article alone; the original sample register or author clarification is needed.
+
+Next: retain the discrepancy as unresolved. Do not infer which district supplied which starter or add village rows. Cross-check taxa with SRC-106/SRC-107 and other Assam starter-culture sources.
