@@ -1,14 +1,14 @@
 # Assam beverage-record close-out review
 
 **Review date:** 2026-10-23  
-**Scope:** All 22 canonical Assam rows in `data/beverages.csv`, checked against the current source register, place register, production-method records, cultural-practice records and research-gap register.  
+**Scope:** All 23 canonical Assam rows in `data/beverages.csv`, checked against the current source register, place register, production-method records, cultural-practice records and research-gap register.  
 **Review type:** Record-consistency and evidence-scope review. This is not a fresh full-text verification of every cited publication, and it does not certify current production or exhaustive coverage.
 
 ## Executive result
 
-- **22/22 Assam beverage rows** have a source-backed ID list whose IDs resolve in the current 90-row source register.
-- **22/22** have at least one corresponding place-register row.
-- All 22 records already communicate meaningful uncertainty through their evidence/geographic-confidence or open-question fields; this must remain visible in the public archive.
+- **23/23 Assam beverage rows** have a source-backed ID list whose IDs resolve in the current 98-row source register.
+- **23/23** have at least one corresponding place-register row.
+- All 23 records communicate meaningful uncertainty through their evidence/geographic-confidence or open-question fields; this must remain visible in the public archive.
 - No beverage should be described as exhaustively mapped or confirmed to be currently made across all listed districts.
 - The principal close-out risks are **name/product boundaries**, **process classification**, **source-specific recipe transfer**, **current-practice versus historical evidence**, and **district/community leads being mistaken for village-level production**.
 
@@ -38,6 +38,7 @@
 | ASM-020-SEP | Sepa — Sonowal Kachari | Abstract-level support for Sepa-specific details | Do not fill in a Sepa recipe by transferring Rohi details. Need full text or community-specific process/locality evidence. |
 | ASM-021-BRM | Black Rohi Modh | Separate sample/substrate documented; canonical status provisional | Whether it is a locally recognized distinct drink or a black-rice Rohi variant; exact Kachari subcommunity and sample-specific starter/process. |
 | ASM-022-CHU | Garo Chu | Field/review sources identify the drink; village attribution weak | Identify which household/village produced Chu; confirm whether Chu, Su, Chubok and Chubitchi are related or distinct. Secondary recipe descriptions are not universal. |
+| ASM-023-HTC | Hill-Tiwa Chu | 2014 ethnobotanical study; ten named study villages; current village-level production unverified | Keep separate from Plains-Tiwa ASM-015-TZU; establish current production and clarify whether the sometimes-distilled form is the same drink or a separate preparation. |
 
 ## Cross-register findings
 
@@ -46,11 +47,11 @@
 A duplicate-source check identified `SRC-090` as a duplicate metadata entry for the same Borah (2026) article recorded canonically as `SRC-084`. The duplicate ID is retained as a retired alias; it must not be counted as an independent publication. The corresponding comparison gap now cites `SRC-084`. A second duplicate pair is `SRC-066` / `SRC-081` for the 2025 Bodo beverage-methodology article; `SRC-081` is retained as a retired alias, and active beverage/place/gap references now use `SRC-066` only.
 
 
-All source IDs listed in the 22 Assam beverage rows resolve to entries in the current source register. This confirms referential integrity, not that every claim in every record is fully supported by the linked source.
+All source IDs listed in the 23 Assam beverage rows resolve to entries in the current source register. This confirms referential integrity, not that every claim in every record is fully supported by the linked source.
 
 ### Place coverage
 
-All 22 beverage IDs appear in at least one place-register row. The meaning of that association differs by row: named field locality, starter-culture sample, household sample, district-level study, multi-village scope, GI applicant address or unresolved locality. A place link must not be rendered as proof of present-day production of every linked beverage.
+All 23 beverage IDs appear in at least one place-register row. The meaning of that association differs by row: named field locality, starter-culture sample, household sample, district-level study, multi-village scope, GI applicant address or unresolved locality. A place link must not be rendered as proof of present-day production of every linked beverage.
 
 ### Production-method coverage
 
