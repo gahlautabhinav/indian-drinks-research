@@ -83,8 +83,9 @@ Full text: https://ijpsr.com/bft-article/medicinal-plants-used-in-rice-beer-star
 **Supports:** Tiwa Zu/Chu and Bakhor terminology; selected Tiwa starter survey in Nagaon district; sample-specific inventory of 20 plants; mention of Juguli as an ethnoveterinary concoction.  
 **Limitations:** Selected villages/households do not define the whole Tiwa tradition; reported medicinal properties are not clinical evidence; botanical names and local terms should be checked against primary community sources.
 
-### SRC-038 — Ethnobotanical appraisal of the Hill-Tiwas of Assam, India
-https://www.researchgate.net/publication/308485225_Ethnobotanical_appraisal_of_the_Hill-Tiwas_of_Assam_India
+### SRC-038 — Teron, Robindra; Borthakur, S. K. (2014)
+“Ethnobotanical appraisal of the Hill-Tiwas of Assam, India.” *Pleione*, 8(1), 109–119.  
+Full text: https://www.researchgate.net/publication/308485225_Ethnobotanical_appraisal_of_the_Hill-Tiwas_of_Assam_India
 
-**Supports:** Hill-Tiwa use of the name Chu; starter cake based on rice and plants; reports that some beverage may be distilled in a crude still.  
-**Limitations:** Cross-check full bibliographic details and original text; do not merge the described distilled product with plains-Tiwa Zu/Chu without evidence.
+**Supports:** Ten named Hill-Tiwa study villages in Hamren subdivision; Chu as a common Hill-Tiwa alcoholic drink; rice-and-plant starter cakes; Croton joufra with Amomum koenigii or Acacia pennata sometimes used as substitutes; report that some beer is distilled.  
+**Limitations:** Does not map every beverage/process detail to each village, establish current production, or resolve whether the distilled form is identical to Plains-Tiwa Zu/Chu.
