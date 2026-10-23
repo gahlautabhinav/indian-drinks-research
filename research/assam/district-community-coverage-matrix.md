@@ -7,12 +7,12 @@
 ## Snapshot
 
 - **35 administrative district rows** in the matrix.
-- **25 districts** have at least one place-register row or a combined regional/study-scope lead.
-- **10 districts** have no relevant place row in the current archive.
-- The archive has **80 Assam place rows** overall, but these repeat some localities across beverages/evidence types and include historical fieldwork, starter-culture sampling, broad study regions, applicant addresses and unresolved localities.
+- **26 districts** have at least one place-register row or a combined regional/study-scope lead.
+- **9 districts** have no relevant place row in the current archive.
+- The archive has **86 Assam place rows** overall, but these repeat some localities across beverages/evidence types and include historical fieldwork, starter-culture sampling, broad study regions, applicant addresses and unresolved localities.
 - A place row is not proof of current production, and absence from the register is not evidence of absence of a beverage tradition.
 
-The matrix distinguishes named locality/study-site evidence, district-level leads, combined regional labels, and districts with no relevant place row in the current archive. Each row carries source IDs, beverage IDs where available, a caveat and a next research action.
+The matrix distinguishes named locality/study-site evidence, district-level leads, combined regional labels, and districts with no relevant place row in the current archive. The 2026-10-23 refresh adds the ten-village Hill-Tiwa ethnobotanical study scope under West Karbi Anglong (ASM-PL-087; SRC-038); Chu is documented at community level, not assigned to every village. Each row carries source IDs, beverage IDs where available, a caveat and a next research action.
 
 ## Administrative normalization
 
