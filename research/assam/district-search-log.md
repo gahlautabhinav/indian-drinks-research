@@ -75,3 +75,9 @@ The district matrix now cross-references SRC-061 as study-area evidence for all 
 ### Next action
 
 Search beverage-specific sources for the seven named Bajali villages and the former Barpeta district, including local-language spellings and older administrative geography. Until a source connects a named beverage with a named locality, keep both district gaps open. The medicinal-plant studies are discovery leads for possible local knowledge-holder networks, not evidence of beverage production.
+
+## Review-level source screening — SRC-095
+
+A 2026 *Next Research* systematic review on traditional fermented rice beverages of Assam was registered as SRC-095 after an abstract-level screen: https://doi.org/10.1016/j.nexres.2025.101241. The accessible abstract covers beverage substrates, starter cakes, microbes, fermentation, bioactive compounds and traditional plant use, but the full-text search strategy and included-study table were not reviewed in this pass.
+
+**Evidence decision:** review-level discovery source only. It does not close any district gap, establish current production, or justify new locality rows. The next step is to inspect the full text and crosswalk its included primary studies against the archive's source register before adding any new claims.
