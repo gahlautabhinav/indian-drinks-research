@@ -11,7 +11,7 @@
 
 | Measure | Current count | What it means |
 |---|---:|---|
-| Canonical beverage records tagged Assam | 22 | Current working inventory; not a count of all Assam beverages |
+| Canonical beverage records tagged Assam | 23 | Current working inventory; not a count of all Assam beverages |
 | Assam place-coverage rows | 86 | Place leads and study locations; rows can be district-level, historical, unresolved, or address-only |
 | Raw district-field labels represented in Assam place rows | 31 | Includes combined regional labels and unresolved labels; **not** 22 cleanly verified administrative districts |
 | Assam research gaps | 46 | All 46 are currently marked Open |
@@ -92,12 +92,12 @@ Do not use “complete” to mean every drink has been found. Instead, move to t
 - [ ] A district/community search log records areas searched, evidence found, and areas where no reliable source was located.
 - [ ] High-priority name collisions are either resolved with appropriate evidence or explicitly retained as unresolved.
 
-**Recommendation:** The geography matrix, 22-record desk review and grouped district search pass are now in place. Do not call Assam exhaustive; finish the release note and verify the final CI/Pages runs, then treat this as a transition-ready baseline with clearly listed long-term gaps.
+**Recommendation:** The geography matrix, 23-record desk review and grouped district search pass are now in place. Do not call Assam exhaustive; finish the release note and verify the final CI/Pages runs, then treat this as a transition-ready baseline with clearly listed long-term gaps.
 
 
 ## District-label normalization follow-up
 
-The working crosswalk is documented in [`district-crosswalk.md`](district-crosswalk.md), and the current 86-row Assam place register has been reviewed in [`geography-normalization-audit.md`](geography-normalization-audit.md). The 22-record desk review is in [`beverage-record-closeout-review.md`](beverage-record-closeout-review.md); it confirms source-ID resolution and records process/name risks, but is not a full-text re-verification of every cited claim. The 35-district archive-presence baseline is now published in [`district-community-coverage-matrix.md`](district-community-coverage-matrix.md) with the row-level CSV at [`data/assam_district_coverage_matrix.csv`](../../data/assam_district_coverage_matrix.csv). The targeted district search outcomes and ten remaining no-row districts are recorded in [`district-search-log.md`](district-search-log.md). The proposed transition-ready state baseline and final workflow gate are recorded in [`assam-state-baseline-release.md`](assam-state-baseline-release.md). It identifies combined southern Assam labels, the Tiwa study's Nagaon/Morigaon mapping issue, the unresolved “Jalpaiguri” place-name in a Kokrajhar-area paper, and rules for preserving source-era wording. This matrix records archive presence and administrative normalization; it does not upgrade any locality beyond the evidence in its source.
+The working crosswalk is documented in [`district-crosswalk.md`](district-crosswalk.md), and the current 86-row Assam place register has been reviewed in [`geography-normalization-audit.md`](geography-normalization-audit.md). The 23-record desk review is in [`beverage-record-closeout-review.md`](beverage-record-closeout-review.md); it confirms source-ID resolution and records process/name risks, but is not a full-text re-verification of every cited claim. The 35-district archive-presence baseline is now published in [`district-community-coverage-matrix.md`](district-community-coverage-matrix.md) with the row-level CSV at [`data/assam_district_coverage_matrix.csv`](../../data/assam_district_coverage_matrix.csv). The targeted district search outcomes and ten remaining no-row districts are recorded in [`district-search-log.md`](district-search-log.md). The proposed transition-ready state baseline and final workflow gate are recorded in [`assam-state-baseline-release.md`](assam-state-baseline-release.md). It identifies combined southern Assam labels, the Tiwa study's Nagaon/Morigaon mapping issue, the unresolved “Jalpaiguri” place-name in a Kokrajhar-area paper, and rules for preserving source-era wording. This matrix records archive presence and administrative normalization; it does not upgrade any locality beyond the evidence in its source.
 
 ## Transition plan and completion estimate (2026-10-23)
 
@@ -109,7 +109,7 @@ The archive can move to the next state once the following repository-level check
 
 - [x] **Integrity:** latest CSV validation passed after the current matrix and source-register changes; source and beverage references resolve; new audit files are indexed.
 - [x] **Geography:** the 35-district matrix maps archive evidence to current administrative names or explicitly labels combined/unresolved geography. Raw source-era locality strings remain preserved.
-- [x] **Record review:** all 22 Assam beverage records received a desk-review pass for identity, process classification, source attribution, evidence level and geographic confidence. This is not field verification or full-text revalidation of every claim.
+- [x] **Record review:** all 23 Assam beverage records received a desk-review pass for identity, process classification, source attribution, evidence level and geographic confidence. This is not field verification or full-text revalidation of every claim.
 - [x] **High-priority collisions:** major naming/process conflicts are either supported by source evidence or explicitly retained as unresolved with next actions.
 - [x] **Coverage log:** the 35-district archive-presence matrix and grouped district search log are published; nine districts still have no relevant place row in the current archive, with next actions recorded.
 - [x] **Release note:** [`assam-state-baseline-release.md`](assam-state-baseline-release.md) records scope, counts, known blind spots and open gaps.
