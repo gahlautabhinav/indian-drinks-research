@@ -10,7 +10,7 @@ Keep Kamrup and Kamrup Metropolitan distinct. Preserve historical locality wordi
 
 ## Historical Karbi Anglong / current West Karbi Anglong
 
-- Teron and Borthakur (2014; SRC-038) studied Hill-Tiwa ethnobotany in the Hamren subdivision of the then Karbi Anglong district. The Assam government identifies West Karbi Anglong as the district formed from the former Karbi Anglong district's Hamren subdivision, with Hamren as headquarters. For study-area normalization, use **West Karbi Anglong (source-era district: Karbi Anglong)** while retaining the original historical label. This is a district-level normalization, not proof of beverage production in each named village. Official reference: https://westkarbianglong.assam.gov.in/portlets/district-profile-of-west-karbi-anglong (SRC-092 is the project's official Assam district-directory source; the district profile is an additional public reference).
+- Teron and Borthakur (2014; SRC-038) studied Hill-Tiwa ethnobotany in the Hamren subdivision of the then Karbi Anglong district. The Assam government identifies West Karbi Anglong as the district formed from the former Karbi Anglong district's Hamren subdivision, with Hamren as headquarters. For study-area normalization, use **West Karbi Anglong (source-era district: Karbi Anglong)** while retaining the original historical label. This is a district-level normalization, not proof of beverage production in each named village. Official reference: https://westkarbianglong.assam.gov.in/portlets/district-profile-of-west-karbi-anglong (SRC-092 is the statewide administrative directory; SRC-100 is the specific official West Karbi Anglong district profile).
 
 ## Labels needing review
 
