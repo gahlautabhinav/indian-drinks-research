@@ -59,8 +59,8 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - `research/assam/coverage-audit.md` — repository-level Assam coverage audit, evidence tiers, geographic limitations and exit criteria before moving to another state.
 - `research/assam/beverage-record-closeout-review.md` — all 22 Assam beverage records checked for source-reference integrity, geographic confidence, process/name risks and close-out actions.
 - `data/assam_district_coverage_matrix.csv` — 35-district archive-presence matrix with explicit evidence classes, linked place/beverage/source IDs and next actions.
-- `research/assam/district-community-coverage-matrix.md` — methodology, current administrative name normalization, 14 districts with no relevant place row, and next search-log actions.
-- `research/assam/geography-normalization-audit.md` — refreshed 80-row Assam place-register audit, raw district-label counts, priority geographic exceptions and safe normalization rules.
+- `research/assam/district-community-coverage-matrix.md` — methodology, current administrative name normalization, 13 districts with no relevant place row, and next search-log actions.
+- `research/assam/geography-normalization-audit.md` — refreshed 81-row Assam place-register audit, raw district-label counts, priority geographic exceptions and safe normalization rules.
 - [Assam archive integrity audit](research/assam/integrity-audit.md) — current CSV row counts, schema and reference validation, repaired source-register issue, and remaining evidence-quality risks.
 - [Southern Assam sample audit](research/assam/southern-assam-sample-audit.md) — full-text review of the 2024 and 2026 multi-community studies and limits of village-level attribution.
 - [Southern Assam sequencing accession crosswalk](research/assam/sequence-accession-crosswalk.md) — verified mapping of five public BioSample/SRA Sample records to Haria, Judima, Zao/Zou, Hor Alank and Hmar Zu; original-sample pooling and locality limits remain explicit.
