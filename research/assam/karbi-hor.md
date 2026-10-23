@@ -39,6 +39,10 @@ The archive does not yet have a verified current village-by-village map for eith
 
 Teron (2006) reports Hor-alank in traditional marriage and worship contexts, and Hor-arak in social occasions including death ceremonies and guest hospitality. The Government of West Karbi Anglong also describes Hor as integral to Karbi culture and mentions Horpo in Chojun. Because Horpo appears as a related but distinct term in the official cultural overview, it is not merged with Hor-alank or Hor-arak without stronger evidence.
 
+## Cross-source terminology audit — SRC-096 (2026-10-23)
+
+Tanti et al. (2010; SRC-096) lists the Karbi pairing as “Thap / Arak” in its comparative table. This abbreviated table entry should not be interpreted as evidence that the fermented product is named only Arak, nor as a reason to merge the fermented and distilled records. Teron (2006; SRC-013) gives the clearer process sequence: Thap is the starter, Hor-alank is the fermented rice beer, and Hor-arak is distilled from Hor-alank. The archive therefore retains ASM-005-HAL and ASM-006-HAR as separate beverage records. SRC-096 remains useful for the reported starter association, but its shorthand beverage label is annotated rather than treated as a complete product taxonomy.
+
 ## Research gaps
 
 1. Extract the precise locality list and still details from Teron (2006).
