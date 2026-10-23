@@ -5,7 +5,7 @@
 
 ## Executive finding
 
-**Assam is not ready to be marked complete.** The archive has a substantial starting inventory, but geographic coverage is uneven and several records still rely on district-level leads, historical fieldwork, secondary name lists, or samples whose exact village is not reported.
+**Assam is now ready for a state transition as a documented research baseline, but it is not an exhaustive census.** Geographic coverage remains uneven, and several records rely on district-level leads, historical fieldwork, secondary name lists, or samples whose exact village is not reported.
 
 ### Snapshot of the repository
 
@@ -112,11 +112,11 @@ The archive can move to the next state once the following repository-level check
 - [x] **Record review:** all 22 Assam beverage records received a desk-review pass for identity, process classification, source attribution, evidence level and geographic confidence. This is not field verification or full-text revalidation of every claim.
 - [x] **High-priority collisions:** major naming/process conflicts are either supported by source evidence or explicitly retained as unresolved with next actions.
 - [x] **Coverage log:** the 35-district archive-presence matrix and grouped district search log are published; ten districts still have no relevant place row in the current archive, with next actions recorded.
-- [ ] **Release note:** record what the state baseline covers, the known blind spots, and which gaps remain open for future updates.
+- [x] **Release note:** [`assam-state-baseline-release.md`](assam-state-baseline-release.md) records scope, counts, known blind spots and open gaps.
 
 ### Practical estimate
 
-The geography normalization, beverage-record desk review and first grouped district search pass are complete. The only remaining transition gate is to publish the baseline release note and confirm the latest archive-validation and GitHub Pages workflows. **Estimate: one final close-out pass**, assuming those workflows succeed. This is a workflow-based estimate, not a claim that every open research question is solved.
+The geography normalization, beverage-record desk review, district search log and release note are complete. Archive validation passed and the latest GitHub Pages deployment succeeded. **The transition gate is passed.** Assam can remain active for future evidence updates while the next state begins.
 
-Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after transition, provided they are clearly documented and not represented as resolved. The next state should begin only after the minimum transition gate passes, not after every open research question is closed.
+Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after transition, provided they are clearly documented and not represented as resolved. The next state may begin now; Assam remains an updateable archive with unresolved questions clearly documented.
 
