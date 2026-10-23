@@ -15,7 +15,7 @@
 | Assam place-coverage rows | 85 | Place leads and study locations; rows can be district-level, historical, unresolved, or address-only |
 | Raw district-field labels represented in Assam place rows | 25 | Includes combined regional labels and unresolved labels; **not** 22 cleanly verified administrative districts |
 | Assam research gaps | 48 | All 48 are currently marked Open |
-| Sources in source register | 94 overall | Source-register rows across the project, not unique publications; SRC-090 is a retired duplicate alias of SRC-084 |
+| Sources in source register | 99 overall | Source-register rows across the project, not unique publications; SRC-090 is a retired duplicate alias of SRC-084 |
 
 Counts refreshed from the current CSVs on 2026-10-23. The place register contains repeated places for different drinks and evidence types, so 85 Assam rows do not mean 85 unique villages. Some entries represent district-level studies without named villages, GI applicant addresses, broad study regions, or unresolved locality leads. The 29 distinct raw district-field labels split into 34 semicolon-separated tokens include combined and unresolved labels; they are not counts of verified administrative districts. The full place register contains 89 rows across all states. The new `data/assam_district_coverage_matrix.csv` provides one row for each of 35 administrative district names in the working baseline; 9 districts currently have no place row at all; Biswanath now has a district-level beverage-study-area lead (SRC-061) but still lacks product/community-specific attribution. See `district-community-coverage-matrix.md` for the administrative sources and caveats.
 
