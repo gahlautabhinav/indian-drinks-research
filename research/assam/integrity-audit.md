@@ -18,7 +18,8 @@ The core CSV archive is structurally consistent after one source-register repair
 | `data/production_methods.csv` | 44 | Source-specific method records |
 | `data/cultural_practices.csv` | 19 | Source-linked cultural-practice records |
 | `data/research_gaps.csv` | 50 | 48 Assam gaps; all 48 remain Open |
-| `sources/source_register.csv` | 90 | Source entries across the project |
+| `data/assam_district_coverage_matrix.csv` | 35 | One row per district in the administrative baseline; 14 have no relevant place row in the current archive |
+| `sources/source_register.csv` | 93 | Source-register rows across the project; SRC-090 is a retired duplicate alias of SRC-084 |
 
 The 80 Assam place rows contain 25 distinct raw district-field labels and 30 distinct semicolon-separated label tokens. Neither number is a count of verified administrative districts: combined, historical, cultural-region, study-scope and unresolved labels remain in the register by design and are documented in `district-crosswalk.md`.
 
@@ -26,13 +27,15 @@ The 80 Assam place rows contain 25 distinct raw district-field labels and 30 dis
 
 | Check | Result | Interpretation |
 |---|---|---|
-| CSV row width matches header | Pass after repair | All populated rows in the seven core CSVs have the expected number of columns |
+| CSV row width matches header | Pass after repair | All populated rows in the eight tracked CSV tables have the expected number of columns |
 | Blank primary IDs | None found | Every populated data row has an identifier |
 | Duplicate primary IDs within each CSV | None found | IDs are unique within each table |
-| Source IDs referenced by core CSVs exist in source register | Pass | No dangling source references found |
+| Source IDs referenced by core CSVs and district matrix exist in source register | Pass | Evidence and administrative source references in the matrix also resolve |
 | Beverage IDs referenced by places, communities, methods, practices and gaps exist in beverage register | Pass | No dangling beverage references found |
 | Assam gap next-action fields | Pass | All 48 Assam gaps have a next action |
 | Assam gap status | Open | All 48 remain open; do not interpret open as failure, because some questions need fieldwork or author/community input |
+| Prose-field source-token guard | Pass | Validator rejects source-ID tokens accidentally appended to beverage Open_Questions fields |
+| Research-gap traceability | Pass with no warnings | Every Assam beverage with an Open_Questions value has at least one Assam gap row referencing that beverage ID, parsing semicolon-separated IDs correctly |
 | Coverage audit snapshot counts | Corrected | Updated from older values to match current CSVs |
 
 ## Correction made during this audit
@@ -42,11 +45,11 @@ The `SRC-079` row in `sources/source_register.csv` had only 10 fields instead of
 - **Claims supported:** the public BioSample metadata maps cohort labels TT/DMK/ZN/K1/HM to Haria/Judima/Zao/Hor Alank/Hmar Zu; the accession crosswalk is linked.
 - **Limitations:** the five public records do not resolve the 15 original field samples' relationship to the sequencing library or establish village origins; supplementary and experiment/run metadata review remains open.
 
-The written coverage audit was refreshed again on 2026-10-23 to report 80 Assam place rows, 25 raw district-field labels, 30 semicolon-separated district tokens, and 90 source entries. The gap register now contains 48 Assam gaps, including three SRC-091 quantitative/taxonomic/voucher follow-up records. The cohort-to-accession provenance limits for Haria, Zao/Zou and Hmar Zu remain unchanged.
+The written coverage audit was refreshed again on 2026-10-23 to report 80 Assam place rows, 25 raw district-field labels, 30 semicolon-separated district tokens, and 93 source-register rows. The gap register contains 48 Assam gaps, including three SRC-091 quantitative/taxonomic/voucher follow-up records. The 35-row district matrix is now tracked by CI. The cohort-to-accession provenance limits for Haria, Zao/Zou and Hmar Zu remain unchanged.
 
 ## Duplicate-source reconciliation (2026-10-23)
 
-A source-register review found that `SRC-084` and `SRC-090` describe the same Borah (2026) Majuli Apong ethnobotany article: same title, author, year, journal and DOI. To avoid counting the same publication twice, `SRC-090` is now explicitly retained as a retired duplicate alias pointing to canonical `SRC-084`; the related research-gap citation was updated to `SRC-084`. The stable ID remains in the register for traceability, so the register still has 90 rows but those rows should not be interpreted as 90 unique publications.
+A source-register review found that `SRC-084` and `SRC-090` describe the same Borah (2026) Majuli Apong ethnobotany article: same title, author, year, journal and DOI. To avoid counting the same publication twice, `SRC-090` is now explicitly retained as a retired duplicate alias pointing to canonical `SRC-084`; the related research-gap citation was updated to `SRC-084`. The stable ID remains in the register for traceability, so the register now has 93 rows; do not interpret row count as a count of unique publications.
 
 ## Remaining research-quality risks
 
