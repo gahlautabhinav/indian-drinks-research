@@ -92,7 +92,7 @@ Do not use “complete” to mean every drink has been found. Instead, move to t
 - [ ] A district/community search log records areas searched, evidence found, and areas where no reliable source was located.
 - [ ] High-priority name collisions are either resolved with appropriate evidence or explicitly retained as unresolved.
 
-**Recommendation:** Keep Assam active for at least one focused geography-normalization pass and one existing-source extraction pass. The archive is rich enough to guide those passes, but the present records do not support a defensible “Assam finished” claim or a reliable percentage-complete estimate.
+**Recommendation:** The geography matrix, 22-record desk review and grouped district search pass are now in place. Do not call Assam exhaustive; finish the release note and verify the final CI/Pages runs, then treat this as a transition-ready baseline with clearly listed long-term gaps.
 
 
 ## District-label normalization follow-up
@@ -107,22 +107,16 @@ The working crosswalk is documented in [`district-crosswalk.md`](district-crossw
 
 The archive can move to the next state once the following repository-level checks pass:
 
-- [ ] **Integrity:** latest CSV validation passes; source and beverage references resolve; new audit files are indexed.
-- [ ] **Geography:** every Assam place row has a defensible evidence type and either a normalized district or an explicit unresolved/not-established label. Do not silently rewrite the source locality.
-- [ ] **Record review:** all 22 Assam beverage records receive a final pass for identity, process classification, source attribution, evidence level and geographic confidence. This is a scoped desk review, not a claim of field verification.
-- [ ] **High-priority collisions:** major naming/process conflicts are either supported by source evidence or explicitly retained as unresolved with next actions.
-- [ ] **Coverage log:** publish a district/community search matrix showing what was searched, what evidence was found, and where the archive has no suitable source yet.
+- [x] **Integrity:** latest CSV validation passed after the current matrix and source-register changes; source and beverage references resolve; new audit files are indexed.
+- [x] **Geography:** the 35-district matrix maps archive evidence to current administrative names or explicitly labels combined/unresolved geography. Raw source-era locality strings remain preserved.
+- [x] **Record review:** all 22 Assam beverage records received a desk-review pass for identity, process classification, source attribution, evidence level and geographic confidence. This is not field verification or full-text revalidation of every claim.
+- [x] **High-priority collisions:** major naming/process conflicts are either supported by source evidence or explicitly retained as unresolved with next actions.
+- [x] **Coverage log:** the 35-district archive-presence matrix and grouped district search log are published; ten districts still have no relevant place row in the current archive, with next actions recorded.
 - [ ] **Release note:** record what the state baseline covers, the known blind spots, and which gaps remain open for future updates.
 
 ### Practical estimate
 
-As of 2026-10-23, Assam is **not transition-ready yet**. The remaining work is bounded enough for a short close-out sequence, provided we do not wait indefinitely for author replies or community fieldwork:
-
-1. **Pass A — data and geography normalization:** audit the full place register against the district crosswalk; label every row by evidence geography and resolve or explicitly park anomalous labels.
-2. **Pass B — beverage-by-beverage close-out:** check all 22 Assam records for source/identity/process/geographic-confidence consistency; fix only evidence-supported issues and record unresolved points.
-3. **Pass C — search matrix and release gate:** create a reproducible district/community coverage log, rerun validation, check Pages deployment, and publish a state-baseline note.
-
-**Estimate: about 3 focused work passes after the current SRC-091 audit, likely 3–5 “continue” turns if no new blocking data issue appears.** This is a workload estimate, not a calendar deadline. If the geography or record review reveals a substantive inconsistency, add a pass rather than lower the evidence standard.
+The geography normalization, beverage-record desk review and first grouped district search pass are complete. The only remaining transition gate is to publish the baseline release note and confirm the latest archive-validation and GitHub Pages workflows. **Estimate: one final close-out pass**, assuming those workflows succeed. This is a workflow-based estimate, not a claim that every open research question is solved.
 
 Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after transition, provided they are clearly documented and not represented as resolved. The next state should begin only after the minimum transition gate passes, not after every open research question is closed.
 
