@@ -101,3 +101,12 @@ The accessible 2010 primary ethnobotanical study by Deka and Sarma documents Rab
 - Next useful evidence: a Rabha-language/community-authored account or a primary study that explicitly connects either name to a named settlement, recipe/process, starter and community-preferred meaning.
 
 The present desk-research result is a **bounded negative finding**: no preparation-level corroboration was found in the sources reviewed in this pass. It does not prove that the beverages do not exist or are no longer made.
+
+
+## Cross-community field study (2026): Rabha comparison and limits
+
+Talukdar et al. (2026; SRC-091) report Rabha fieldwork in Goalpara and Kamrup districts as part of a comparative study of Bodo, Rabha and Ahom traditional beverage practices. The study combines interviews, focus groups, participant observation and botanical identification, reporting 41 plant species across 29 families across the three communities.
+
+This adds a recent research lead beyond older Goalpara literature and the cross-border West Bengal Choko/Chokot study. However, the accessible abstract/methods do not establish village-level production of Jonga-mod, Kecha-mod or Choko at each study site, nor do they resolve whether these names are synonyms or regional forms. Do not add locality rows or merge beverage names solely from the district-level study design. Extract the Rabha-specific results and plant table with their exact community and locality attribution before revising the canonical record.
+
+**Source:** https://doi.org/10.1007/s44187-026-01101-w (SRC-091).
