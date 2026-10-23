@@ -61,3 +61,17 @@ A targeted full-text search recovered the methods text for Borah et al. (2021), 
 This does **not** yet identify which of the four studied communities (Ahom, Bodo, Karbi, Mising) or which named beverage was observed in Biswanath, nor does the accessible excerpt provide a village name. Therefore the new place row intentionally has no Beverage_IDs, and the matrix class is “district-level beverage-study area only; product/community attribution unresolved.” Do not treat it as evidence that every beverage in the paper occurs in Biswanath.
 
 The district matrix now cross-references SRC-061 as study-area evidence for all six named districts: Baksa, Biswanath, Golaghat, Lakhimpur, Sivasagar, and Sonitpur. Existing place rows in the other five districts were not re-labelled as SRC-061 product evidence; the matrix caveat explicitly keeps the source at study-area scope. Sonitpur's existing ASM-PL-083 secondary lead remains separate from this broader study-area citation. Community-by-district and village-level attribution is still an open extraction task.
+
+
+## Follow-up district screening — Bajali and Barpeta
+
+**Search date:** 2026-10-23  
+**Decision:** No beverage-place rows added from the sources below because the reviewed papers document medicinal-plant use, not traditional beverage preparation, consumption, or production.
+
+- **Bajali:** Basumatary et al. (2025), *A quantitative ethno-botanical study of traditional medicinal plant use among the Bodo community of Bajali district, Assam, India*, reports medicinal-plant research in seven Bodo-dominated villages: Chenglimari, Duramari, Mwithabari, Jamguri, Bharegaon, Sonapur and Kathalmurighat. It explicitly describes Bajali as formerly part of undivided Barpeta. This is a useful community and locality lead for future beverage-specific research, but the study's objectives and results concern ethnomedicinal plants; it does not establish that a traditional beverage is produced in any of those villages. DOI: https://doi.org/10.32859/era.32.60.1-29
+- **Barpeta:** Bhattacharjya et al. (2023), *An ethnobotanical survey on phytomedicines based on traditional knowledge in the Barpeta district, Assam, India*, documents medicinal plants through interviews with local practitioners. It is not beverage-production evidence and should not be used to infer beverage traditions. DOI: https://doi.org/10.1016/j.jaim.2023.100763
+- **Geographic caution:** Since Bajali was established as a separate district in 2021, older work indexed under Barpeta may have been conducted in areas now inside Bajali. Historical district labels should be retained as printed and crosswalked only when village locations are available; do not automatically move a Barpeta-wide claim to Bajali.
+
+### Next action
+
+Search beverage-specific sources for the seven named Bajali villages and the former Barpeta district, including local-language spellings and older administrative geography. Until a source connects a named beverage with a named locality, keep both district gaps open. The medicinal-plant studies are discovery leads for possible local knowledge-holder networks, not evidence of beverage production.
