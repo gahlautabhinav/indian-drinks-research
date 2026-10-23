@@ -136,3 +136,21 @@ The 2023 multi-community ethnobotanical survey reports 20 plants used in Tiwa st
 - Teron & Borthakur (2014), full text: https://www.researchgate.net/publication/308485225_Ethnobotanical_appraisal_of_the_Hill-Tiwas_of_Assam_India
 - Das, Abhijit, “Medicinal plants used traditionally for the preparation of rice beer by the tiwa tribe of Morigaon district of Assam, India”: https://www.journalcra.com/article/medicinal-plants-used-traditionally-preparation-rice-beer-tiwa-tribe-morigaon-district-assam
 - Duarah, Kalita & Mishra (2023), “Medicinal plants used in rice beer starter culture by different tribes in Assam”: https://ijpsr.com/bft-article/medicinal-plants-used-in-rice-beer-starter-culture-by-different-tribes-in-assam-an-ethnobotanical-survey/?view=fulltext
+
+
+## New current-practice lead — urban-adjacent Plains-Tiwa Zu (2025 fieldwork)
+
+A recently surfaced study by Janarddan Deka and Nishika Dey, “Brewing Continuity in an Urban Tiwa Settlement: Production, Cost, Women's Work, and the Cultural Meaning of Zu in Betkuchi Lalung Gaon, Assam,” provides a more recent fieldwork lead than the 2015–2020 village surveys. The journal abstract reports fieldwork from approximately 25 January to 10 February 2025, combining household survey, observation, interviews, case studies and group discussion in 25 of 37 recorded households. The settlement is identified as Betkuchi Lalung Gaon in Kamrup Metropolitan, Assam.
+
+The abstract describes Zu-making as an ongoing household and cultural practice: women prepare or obtain Bakhor starter cakes, process and cool rice, add starter, monitor fermentation, filter the drink, assess quality and manage household sales. It associates Zu with hospitality, ancestral offerings, festivals and life-cycle rites, and reports changes related to limited space, plant availability, education and shifting preferences. Treat these findings as one settlement case study, not a statewide generalisation.
+
+**Economic data caveat:** the abstract reports input costs of ₹480 for a five-kilogram batch while the stated yield and price imply gross receipts of ₹200–300. Its monthly earnings figure cannot therefore be treated as verified profit without checking the full paper and reconciling the arithmetic.
+
+**Geographic decision:** add Betkuchi Lalung Gaon as a documented 2025 fieldwork locality for Plains-Tiwa Zu. This updates the evidence base but does not prove production in all 37 households or all nearby Tiwa settlements.
+
+Source: Deka, J. & Dey, N. (2025), *Brewing Continuity in an Urban Tiwa Settlement: Production, Cost, Women's Work, and the Cultural Meaning of Zu in Betkuchi Lalung Gaon, Assam*. Journal page: https://nrjss.in/social-science ; DOI listed by the journal: https://doi.org/10.5281/zenodo.22629564
+
+### Updated synthesis
+- Plains-Tiwa Zu/Bakhor is documented across multiple study periods and localities, including a 2025 urban-adjacent settlement case in Kamrup Metropolitan.
+- The recent case adds current-practice, labour and household-economy evidence that is absent from the earlier starter-plant inventories.
+- Hill-Tiwa Chu remains a distinct comparison lead pending community-verified product boundaries; similar romanized names do not establish synonymy.
