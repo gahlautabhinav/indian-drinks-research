@@ -126,3 +126,10 @@
 - Created `research/assam/src-108-assam-mycoflora-sample-audit.md`; added ASM-GAP-053 to track sample-level geographic reconciliation.
 - No beverage or place records were added because sample-to-community and sample-to-village links are not sufficiently established. The paper’s discussion about one isolated yeast is not treated as a finished-product clinical or safety assessment.
 - Next: inspect full sample tables/supplementary material and resolve the district-count discrepancy if possible; cross-check the findings against existing starter-culture studies.
+
+### 2026-10-23 — Jeme Naga Nduijao and Nduiyi primary-source pass (SRC-109)
+- Followed the reference in SRC-108 to Chakrabarty (2017), “Identification of Yeast Strain Isolated from Nduiyi of Dima Hasao District of Assam, India,” and screened the full text.
+- The source distinguishes Nduiyi (starter cake) from Nduijao (sweet-sour alcoholic beverage), describes starter preparation, identifies *Saccharomyces cerevisiae* and *Candida glabrata* in starter isolates, and reports study-specific Nduijao pH 4.3 ± 0.1 and alcohol 4.0–6.0%.
+- Registered SRC-109; added provisional beverage ASM-026-NDJ; added locality leads ASM-PL-094–ASM-PL-099; created `research/assam/nduijao-nduiyi-src-109.md`.
+- Locality note: the paper names Lodi, Asalu, Nutan Gunjung, Boro Haflong and Lisong Basti for starter production; its table reports samples from Haflong Bazaar, Lodi Basti and “Laisong Basti.” Lisong/Laisong spelling remains unresolved. Sample locations are not a comprehensive production map.
+- Do not treat traditional health claims as clinical evidence or the sample alcohol/pH values as universal specifications. Next: verify local spellings and current practice, then cross-check with community sources and existing Dima Hasao dossiers.
