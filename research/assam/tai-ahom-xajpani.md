@@ -7,6 +7,8 @@
 
 ## Naming and classification
 
+See the [controlled Ahom–Bodo naming crosswalk](ahom-bodo-naming-crosswalk.md) for the current alias/variant decisions and no-merge rules. In brief, starter names remain separate from beverage names, and Luk-Lau/Nam-Lau/Laopani are not automatically merged into Xajpani.
+
 The 2012 survey by Das, Deka and Miyaji calls the beverage **Xaj pani or Koloh pani** and places its study in Sivasagar district. Bhuyan and Baishya (2013) use **Haj pani** for the Ahom beverage and also refer to Koloh pani. Other reviews use **Xaj / Xaj-pani** and mention **Haaj or Laopani**. These names overlap in the literature, but the archive does not assume every term is a perfect synonym. Confirm preferred spelling, pronunciation and distinctions with Tai-Ahom language and community sources.
 
 Starter terminology is separate from beverage terminology. Sources report **Vekur pitha**, **Xaj-pitha / Xajor pitha**, and **Haaj-pitha**. **Ghai pitha** is described in a 2023 review as a parent/previous starter used to seed a new starter. Do not treat these starter names as beverage names.
