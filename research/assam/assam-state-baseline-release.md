@@ -18,7 +18,7 @@
 | District baseline rows | 35 | One row for each district name in the working administrative reference layer |
 | Districts with no place row at all | 9 | Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. Biswanath has a study-area lead only; product/community attribution remains unresolved. |
 | Assam research gaps | 47 | All remain open; each has a next action |
-| Source-register rows | 98 | Includes retired duplicate aliases; row count is not a unique-publication count |
+| Source-register rows | 99 | Includes retired duplicate aliases; row count is not a unique-publication count |
 
 ## What this baseline includes
 
