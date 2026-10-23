@@ -7,6 +7,7 @@ Uses only Python's standard library. Run from the repository root:
 from __future__ import annotations
 
 import csv
+import re
 import sys
 from pathlib import Path
 
@@ -145,6 +146,34 @@ def main() -> int:
                             f"{relative_path}:{line_number}: unknown beverage reference {ref!r}"
                         )
 
+    # Catch source-ID fragments accidentally pasted into prose instead of reference columns.
+    _, beverage_rows = tables.get(BEVERAGE_FILE, ([], []))
+    for line_number, row in enumerate(beverage_rows, start=2):
+        open_questions = row.get("Open_Questions", "")
+        if re.search(r";\\s*SRC-\\d+\\b", open_questions):
+            errors.append(
+                f"{BEVERAGE_FILE}:{line_number}: source ID token appears in Open_Questions; "
+                "put citations in Source_IDs and keep question text clean"
+            )
+
+    # A substantive open question should normally be traceable to at least one gap.
+    # This is a warning, not a failure: some notes are editorial or intentionally lower priority.
+    warnings: list[str] = []
+    gap_rows = tables.get("data/research_gaps.csv", ([], []))[1]
+    for row in beverage_rows:
+        if row.get("State", "").strip() != "Assam" or not row.get("Open_Questions", "").strip():
+            continue
+        beverage_id = row.get("Beverage_ID", "").strip()
+        linked_gap = any(
+            row_gap.get("State", "").strip() == "Assam"
+            and beverage_id in split_refs(row_gap.get("Beverage_ID", ""))
+            for row_gap in gap_rows
+        )
+        if not linked_gap:
+            warnings.append(
+                f"{beverage_id}: Open_Questions has no Assam research-gap row containing this beverage ID"
+            )
+
     if errors:
         print("Archive validation FAILED:")
         for error in errors:
@@ -152,6 +181,8 @@ def main() -> int:
         return 1
 
     print("Archive validation PASSED.")
+    for warning in warnings:
+        print(f"WARNING: {warning}")
     for relative_path, (_, rows) in tables.items():
         print(f"- {relative_path}: {len(rows)} records")
     print("Primary IDs are nonblank and unique; CSV row widths and source/beverage references are valid.")
