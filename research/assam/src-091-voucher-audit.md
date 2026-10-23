@@ -29,6 +29,12 @@ The first-pass name crosswalk in `data/src091_taxonomic_reconciliation.csv` does
 3. Confirm the taxon determination, collector, collection date, locality, and specimen repository separately for each row.
 4. Keep the raw table unchanged until evidence supports a correction; log any future correction in a new commit and preserve the original published value.
 
+## Contact and verification route
+
+The corresponding author listed on the publisher page is Simi Talukdar (simfly2015@gmail.com). A respectful, targeted draft covering the repeated voucher string, life-form counts and FL formula is maintained at [src-091-author-clarification-request.md](src-091-author-clarification-request.md). It is a draft only; no email has been sent.
+
+As an independent botanical contact only, the Botanical Survey of India's Arunachal Pradesh Regional Centre maintains the ARUN regional herbarium and publishes contact details at https://bsi.gov.in/rc-page/en?rcu=127%2C35. BSI/ARUN is **not** the repository named in this article and must not be described as holding these specimens. AUS remains the primary repository to query.
+
 ## Related archive records
 
 - Raw Table 1 transcription: `data/src091_table1_transcription.csv`
