@@ -61,6 +61,7 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - `data/assam_district_coverage_matrix.csv` — 35-district archive-presence matrix with explicit evidence classes, linked place/beverage/source IDs and next actions.
 - `research/assam/district-community-coverage-matrix.md` — methodology, current administrative name normalization, 10 districts with no relevant place row, and next search-log actions.
 - `research/assam/district-search-log.md` — grouped search queries, district-level leads found, ten districts still lacking a relevant archive place row, and follow-up actions.
+- `research/assam/assam-state-baseline-release.md` — release candidate for the transition-ready Assam baseline, with counts, known limitations and final CI/Pages gate.
 - `research/assam/geography-normalization-audit.md` — refreshed 84-row Assam place-register audit, raw district-label counts, priority geographic exceptions and safe normalization rules.
 - [Assam archive integrity audit](research/assam/integrity-audit.md) — current CSV row counts, schema and reference validation, repaired source-register issue, and remaining evidence-quality risks.
 - [Southern Assam sample audit](research/assam/southern-assam-sample-audit.md) — full-text review of the 2024 and 2026 multi-community studies and limits of village-level attribution.
