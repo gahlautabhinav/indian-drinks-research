@@ -55,6 +55,6 @@ These are **archive gaps**, not a finding that those districts lack traditional 
 
 The grouped public-web search pass and its limits are documented in [`district-search-log.md`](district-search-log.md).
 
-## Remaining work before Assam transition
+## Remaining work after transition
 
-This matrix completes the **archive-presence baseline**, but not the external search log. The next close-out pass should search the 14 uncovered districts in grouped, source-led queries and record whether each search found a reliable source, a weak lead, or no suitable source located. Then perform the release check: validate all CSVs, confirm the current Pages deployment, and publish the state-baseline note with remaining gaps listed.
+This matrix completes the **archive-presence baseline**, but not the external search log. The next maintenance pass can continue searching the ten districts that still have no relevant place row and update the matrix only when evidence is found. The current release gate has passed: archive validation succeeded, the release note is published, and the latest Pages deployment succeeded. Keep unresolved questions open rather than filling them with inference.
