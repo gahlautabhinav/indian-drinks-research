@@ -109,3 +109,12 @@ Bhuyan and Baishya (2013) report an Ahom locality/informant trail associated wit
 ### Research decision
 
 Do not create a new canonical beverage row and do not silently add Luk-Lau to ASM-008-XAJ's confirmed synonym list. Keep it as a historically grounded naming lead attached to the open terminology question. The most valuable next evidence is a qualified reading of the *Khon Ming* manuscript passage, a Tai-Ahom language source defining the terms, or consent-based confirmation from knowledgeable Tai-Ahom speakers/brewers in a named locality.
+
+
+## Cross-community field study (2026): Ahom comparison and limits
+
+Talukdar et al. (2026; SRC-091) include Ahom fieldwork in Tinsukia and Dibrugarh districts within a comparative study of Bodo, Rabha and Ahom traditional beverage practices. The study uses interviews, focus groups, participant observation and botanical identification and reports 41 plant species across 29 families across the three communities.
+
+The new study is a recent comparative source, not a census of Xajpani production. Its district-level design does not prove that Xajpani, Koloh pani, Haj pani or every starter-culture variant is present in each district or village. Keep beverage names and starter names distinct, and extract the Ahom-specific tables/results before adding locality claims or reconciling plant lists with earlier studies.
+
+**Source:** https://doi.org/10.1007/s44187-026-01101-w (SRC-091).
