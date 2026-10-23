@@ -42,3 +42,11 @@
 - Geographic note: the 2020 paper reports Xaj-pitha starter sampling across Tinsukia, Dibrugarh, Sivasagar, Jorhat, Lakhimpur and Dhemaji. These are starter-sampling localities, not proof that every site currently produces Xajpani. Titabar (Jorhat) is a distinct 2016 household sampling locality; Baragharia (Golaghat) remains a secondary-source locality lead pending primary-source corroboration.
 - Editorial caution: starter plant lists and microbial profiles are study-specific; distinguish starter names from beverage names, and do not treat reported medicinal use as clinical evidence or historic process durations as safety guidance.
 - Next planned case: Bodo Jou/Jou bishi, beginning with local terminology and distinctions among fermented forms and starter terms.
+
+
+## 2026-10-23 — Tiwa Zu / Chu locality and process distinction pass
+- Reopened the Hill-Tiwa primary ethnobotanical study by Teron & Borthakur (2014), confirming ten study villages in Hamren subdivision: Umdoba, Morten, Khumrei Khora, Ulukunchi, Umswai, Boramli, Khyabat, Bor Rongkhoi, Ghelani and Tumpreng.
+- Extracted the Hill-Tiwa Chu starter details: rice-and-plant starter cakes; *Croton joufra* as the reported primary plant, with *Amomum koenigii* and *Acacia pennata* reported as substitutes; some beer reportedly distilled in a crude still.
+- Cross-checked against Das's Plains-Tiwa survey of five named Morigaon villages and the 2023 multi-community survey. The 19-vs-20 starter-plant counts are retained as source-specific inventories pending taxonomic reconciliation.
+- Editorial decision: keep Hill-Tiwa Chu distinct as an unresolved comparison to Plains-Tiwa Zu/Chu; study villages do not prove current production in each village, and the distilled product is not assumed to be the same canonical beverage.
+- Next: reconcile the three starter-plant inventories and source metadata before changing canonical record counts.
