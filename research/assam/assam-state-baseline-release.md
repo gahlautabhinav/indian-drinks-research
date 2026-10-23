@@ -4,6 +4,8 @@
 **Release status:** Transition-ready baseline confirmed on 2026-10-23  
 **Scope:** Publicly documented traditional beverage traditions represented in the current archive; not an exhaustive census of every Assam beverage or community practice.
 
+**Live dashboard:** https://gahlautabhinav.github.io/indian-drinks-research/
+
 ## Snapshot at release candidate
 
 | Measure | Current count | Interpretation |
