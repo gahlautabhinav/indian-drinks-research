@@ -6,7 +6,7 @@
 
 ## Executive result
 
-- **23/23 Assam beverage rows** have a source-backed ID list whose IDs resolve in the current 98-row source register.
+- **23/23 Assam beverage rows** have a source-backed ID list whose IDs resolve in the current 99-row source register.
 - **23/23** have at least one corresponding place-register row.
 - All 23 records communicate meaningful uncertainty through their evidence/geographic-confidence or open-question fields; this must remain visible in the public archive.
 - No beverage should be described as exhaustively mapped or confirmed to be currently made across all listed districts.
