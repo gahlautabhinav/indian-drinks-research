@@ -70,3 +70,19 @@ It is **not sufficient alone** for:
 
 - Publisher page and full article: https://link.springer.com/article/10.1007/s44187-026-01101-w
 - DOI: https://doi.org/10.1007/s44187-026-01101-w
+
+
+## 5. Beverage-to-plant attribution audit — 2026-10-23
+
+The source-faithful transcription of Table 1 is archived at data/src091_table1_transcription.csv. Its columns include local name, community, voucher, scientific name, life form, family, plant part, CKSI and FL, but **no field identifying the specific finished beverage or starter-culture product to which each plant row belongs**. The article's general-method prose mentions Jou, Choko and Xajpani, while Table 1 attributes plants to Ahom, Bodo and/or Rabha communities. These two kinds of information must not be joined into plant-by-beverage claims without additional evidence.
+
+Practical interpretation:
+- A plant tagged “Ahom” is community-attributed in the paper; this alone does not prove it is used in every Ahom beverage or every Xajpani preparation.
+- A plant tagged “Bodo; Rabha” cannot be assigned to Jou and Choko separately unless a source passage explicitly makes that connection.
+- Shared plant rows may support a broad cross-community ethnobotanical comparison, but not a complete ingredient list for any single beverage.
+- The article's stated total of 24 species common to all three communities should be checked against the table's community labels before reproducing as a calculated archive result.
+
+This is a separate evidence limitation from the life-form-count discrepancy, FL-scale issue, and duplicate voucher identifier. It keeps SRC-091 useful as a comparative ethnobotanical source without allowing over-specific recipe claims.
+
+### Required follow-up
+Request the authors' underlying plant-by-community-by-beverage table or field-note mapping, if it exists and can be shared ethically. Until then, use the Table 1 transcription as community-level plant evidence only, and preserve the missing beverage-level link as an open research gap.
