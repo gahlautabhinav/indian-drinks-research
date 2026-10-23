@@ -110,3 +110,8 @@ Already registered exact-title overlaps include SRC-023 (Bora et al. 2016), SRC-
 **SRC-098 (Chakrabarty et al. 2014):** full-text PDF confirms a selected-product study involving Judima and the Humao starter, with observation/interviews and microbial/nutritional characterization. This does not establish a district-wide census or village-level distribution.
 
 The Judima dossier now cites SRC-097 and SRC-098 as historical district-level evidence. No new place row or beverage identity merge was created. SRC-096's table extraction is documented in [src-096-table-extraction.md](src-096-table-extraction.md). It improves traceability but does not justify geographic updates; future work should corroborate older name forms and seek independent locality-specific sources.
+
+
+### Karbi terminology cross-check — SRC-013 against SRC-096
+
+Teron (2006; SRC-013) explicitly distinguishes Hor-alank (fermented rice beer made with Thap) from Hor-arak (distilled from Hor-alank). Tanti et al. (2010; SRC-096) gives the shorter comparative-table entry “Thap / Arak.” This is a terminology-scope issue, not evidence of synonymy: the Karbi dossier retains separate canonical records for the fermented and distilled forms. The SRC-096 extraction note now records this cross-source interpretation. No new beverage or locality rows were added.
