@@ -94,3 +94,45 @@ Full text: https://www.researchgate.net/publication/308485225_Ethnobotanical_app
 
 **Supports:** Ten named Hill-Tiwa study villages in Hamren subdivision; Chu as a common Hill-Tiwa alcoholic drink; rice-and-plant starter cakes; Croton joufra with Amomum koenigii or Acacia pennata sometimes used as substitutes; report that some beer is distilled.  
 **Limitations:** Does not map every beverage/process detail to each village, establish current production, or resolve whether the distilled form is identical to Plains-Tiwa Zu/Chu.
+
+
+## Follow-up research pass — 2026-10-23
+
+### New finding: Hill-Tiwa Chu must remain analytically separate from Plains-Tiwa Zu/Chu
+
+The full text of Teron & Borthakur (2014), *Ethnobotanical appraisal of the Hill-Tiwas of Assam, India* (*Pleione* 8(1): 109–119), confirms a Hill-Tiwa field study conducted from 2007 to 2012 in ten villages in the Hamren subdivision of then-Karbi Anglong district:
+
+- Umdoba
+- Morten
+- Khumrei Khora
+- Ulukunchi
+- Umswai
+- Boramli
+- Khyabat
+- Bor Rongkhoi
+- Ghelani
+- Tumpreng
+
+The article describes Chu as a locally important alcoholic rice beverage, including use in traditional rituals. It reports starter cakes made from rice and plant ingredients. The source-specific primary plant is *Croton joufra* Roxb.; *Amomum koenigii* and bark of *Acacia pennata* are described as occasional substitutes. It also reports that some beer is distilled in a crude still.
+
+**Interpretation:** This is direct evidence for a Hill-Tiwa Chu tradition and its broad study-area footprint, but it does not establish that each of the ten villages used every reported ingredient or distilled the beverage. Nor does it prove that the distilled product is identical to the Plains-Tiwa beverage recorded as Zu/Chu. Do not create a synonym link or merge process descriptions without better evidence.
+
+### Plains-Tiwa comparison
+
+Das's 2015 field survey, published as “Medicinal plants used traditionally for the preparation of rice beer by the Tiwa tribe of Morigaon district of Assam, India,” explicitly names five Morigaon villages: Borchila, Ga-khujuwa, Kahua-ati, Gokhai-khonda and Dalang-ghat. It describes the starter cake as *bakhor* and lists approximately 19 plant species. These village-level data are a separate Plains-Tiwa evidence set; they must not be mixed with the ten Hill-Tiwa study villages.
+
+The 2023 multi-community ethnobotanical survey reports 20 plants used in Tiwa starter culture. The difference between 19 and 20 should be treated as source/sampling variation pending a taxon-by-taxon reconciliation, not as an error to silently normalize. Reported traditional medicinal uses are not clinical evidence.
+
+### Geographic and record decisions
+
+1. Keep canonical record **ASM-015-TZU** for the Plains-Tiwa tradition as currently scoped.
+2. Keep the Hill-Tiwa Chu evidence as a distinct comparison lead until the name/process boundary is community-verified; do not silently create a new canonical beverage merely because the article uses the same romanized word.
+3. Record the ten Hill-Tiwa villages as **study villages**, not as proof that every village currently produces Chu.
+4. Keep the five Das (2015) Plains-Tiwa villages separate from the five localities reported by Goswami et al. (2020), whose individual district assignments remain unclear in the accessible source.
+5. Next steps: reconcile starter-plant lists from Das (2016 publication), Goswami et al. (2020), and Duarah et al. (2023); check the original article table against accepted botanical names; seek locality-specific current-production evidence.
+
+### Source records consulted
+
+- Teron & Borthakur (2014), full text: https://www.researchgate.net/publication/308485225_Ethnobotanical_appraisal_of_the_Hill-Tiwas_of_Assam_India
+- Das, Abhijit, “Medicinal plants used traditionally for the preparation of rice beer by the tiwa tribe of Morigaon district of Assam, India”: https://www.journalcra.com/article/medicinal-plants-used-traditionally-preparation-rice-beer-tiwa-tribe-morigaon-district-assam
+- Duarah, Kalita & Mishra (2023), “Medicinal plants used in rice beer starter culture by different tribes in Assam”: https://ijpsr.com/bft-article/medicinal-plants-used-in-rice-beer-starter-culture-by-different-tribes-in-assam-an-ethnobotanical-survey/?view=fulltext
