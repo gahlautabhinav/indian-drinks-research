@@ -73,6 +73,6 @@ Full text: https://www.researchgate.net/publication/308485225_Ethnobotanical_app
 
 ### Administrative normalization
 
-Government of Assam, West Karbi Anglong district profile: https://westkarbianglong.assam.gov.in/portlets/district-profile-of-west-karbi-anglong
+Government of Assam, West Karbi Anglong district profile (SRC-100): https://westkarbianglong.assam.gov.in/portlets/district-profile-of-west-karbi-anglong
 
 **Supports:** West Karbi Anglong as the district formed from the former Karbi Anglong district's Hamren subdivision, with Hamren as headquarters. This administrative source does not provide beverage evidence.
