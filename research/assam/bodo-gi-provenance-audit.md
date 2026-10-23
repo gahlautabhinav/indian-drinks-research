@@ -91,3 +91,24 @@ Official registry detail pages:
 - Maibra Jou Bidwi, application 970: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
 
 The downloadable Statements of Case are listed on those pages but have not yet been extracted in this pass. No locality row was added from the address strings.
+
+
+## Registry re-check — authorized-user lists, 2026-10-23
+
+The live registry pages were re-opened for all three applications. The currently displayed authorized-user address strings compare as follows:
+
+| Registry address string | Jou Gwran (968) | Jou Gishi (969) | Maibra Jou Bidwi (970) |
+|---|---|---|---|
+| Deborbill / Amteka Bazar / Amguri | Listed | Listed | Listed |
+| West Dangarkutti / Dotoma / Dotma | Listed | Listed | Listed |
+| Batabari | Listed | Listed | Listed |
+| Palashbari / Polashbari | Listed | Not listed on the current page | Listed |
+
+Official pages:
+- https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968
+- https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969
+- https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+**Interpretation:** these are verified registry display entries and useful leads for document-level comparison. They are not independent confirmation that brewing occurs at the addresses, nor that each product is produced at every shared address. In particular, the different Palashbari listing across applications is a reason to inspect the original producer lists and Statements of Case rather than infer product distribution from the live authorized-user table.
+
+The official pages still list the Statement of Case and producers list as downloadable PDFs, but the web-readable page exposes the same generic PDF image link for multiple document rows; the underlying files could not be individually extracted in this pass. No locality/production row was added, no GI boundary was inferred, and ASM-GAP-026 remains open.
