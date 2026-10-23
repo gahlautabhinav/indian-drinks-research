@@ -110,3 +110,35 @@ Talukdar et al. (2026; SRC-091) report Rabha fieldwork in Goalpara and Kamrup di
 This adds a recent research lead beyond older Goalpara literature and the cross-border West Bengal Choko/Chokot study. However, the accessible abstract/methods do not establish village-level production of Jonga-mod, Kecha-mod or Choko at each study site, nor do they resolve whether these names are synonyms or regional forms. Do not add locality rows or merge beverage names solely from the district-level study design. Extract the Rabha-specific results and plant table with their exact community and locality attribution before revising the canonical record.
 
 **Source:** https://doi.org/10.1007/s44187-026-01101-w (SRC-091).
+
+## Full-text extraction pass — Das, Rabha & Das (2021)
+
+**Source:** Utpala Das, David Rabha and Jugabrat Das, “Traditional Methods of Preparation of Choko: A Fermented Rice Beer by the Rabha Tribe of Goalpara District, Assam,” *Environment and Ecology* 39(2), 455–459; received 4 March 2021, accepted 20 May 2021, published 10 June 2021. Full text: https://environmentandecology.com/wp-content/uploads/2024/08/MS23.pdf
+
+### Fieldwork design
+The authors state that fieldwork ran from August 2019 to January 2020 in five remote villages of Goalpara district. They interviewed 150 older, experienced participants and conducted focus-group discussions in each village, with particular attention to women aged 18–60 who were involved in preparation. The article does not name the five villages in the accessible text; do not invent village records from this district-level description.
+
+### Source-specific starter and equipment
+The article identifies Phap as the starter cake and also calls it Bakhor. It describes the starter ingredients as Phap jibra (*Scoparia dulcis*), Pan-chung (*Artocarpus heterophyllus*) and Mai (*Oryza sativa*). These three ingredients are the paper's stated core ingredients, not a complete universal formula for all Rabha groups.
+
+The described equipment includes:
+- **Jonga:** earthen pitcher, reported capacity 4–5 kg
+- **Janthi:** bamboo filter, identified as *Bambusa vulgaris*
+- **Rai:** banana leaves, identified in the paper as *Musa balbisiana*
+- **Kur:** bamboo rope
+- **Hanger:** a small piece of charcoal
+- **Mai:** rice
+
+### Process as documented by the authors
+The authors describe cooking the rice, cooling it on a bamboo mat, mixing it with powdered Phap, placing the mixture in the Jonga, sealing the vessel with banana leaves and charcoal, then filtering the fermented mixture through Janthi. Their account reports a 5–6 day fermentation interval; it also cites Deka and Sarma (2010) for a seasonal account of 4–5 days in summer and 7–8 days in winter. These are historical source-specific observations, not safety guidance or a universal schedule.
+
+### Cultural and evidence cautions
+The paper associates Choko with Baikho puja, engagement and marriage contexts. It repeats traditional beliefs about health benefits; these must be described as reported beliefs rather than demonstrated clinical effects. The article says knowledge was concentrated among older people, but its sample does not establish the present-day status of every Rabha settlement.
+
+### Terminology decision
+This source uses **Choko** as the finished beverage and **Phap/Bakhor** as starter names. It does not prove that Jonga-mod, Kecha-mod, Choko and West Bengal Chokot are all exact synonyms. Preserve each source's wording and keep the canonical record ASM-007-JON until community- and locality-specific evidence resolves the names.
+
+### Next evidence needed
+1. Identify the five study villages from author correspondence or supplementary field materials.
+2. Compare the source's three named starter ingredients against the ten-species inventory in Deka & Sarma (2010) and the seven-species report in Duarah et al. (2023); do not treat the different counts as direct contradictions without checking sampling and ingredient criteria.
+3. Extract the Rabha-specific results from the 2026 comparative study (SRC-091) before using it to revise names or geography.
