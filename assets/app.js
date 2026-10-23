@@ -24,7 +24,9 @@
     "ASM-018-HZU": "research/assam/hmar-zu.md",
     "ASM-019-ROH": "research/assam/sonowal-kachari-rohi-sepa.md",
     "ASM-020-SEP": "research/assam/sonowal-kachari-rohi-sepa.md",
-    "ASM-021-BRM": "research/assam/sonowal-kachari-rohi-sepa.md"
+    "ASM-021-BRM": "research/assam/sonowal-kachari-rohi-sepa.md",
+    "ASM-022-CHU": "research/assam/garo-chu.md",
+    "ASM-023-HTC": "research/assam/hill-tiwa-chu.md"
   };
   const dataFiles = {
     beverages: "data/beverages.csv", places: "data/places_coverage.csv", communities: "data/communities.csv",
