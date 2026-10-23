@@ -75,7 +75,7 @@ The raw district-field labels in the CSV cannot be compared directly with an off
 ## Highest-value next work
 
 1. **Normalize the geography first.** Build a district crosswalk for all Assam rows, including historical names, combined regional labels, current district names and uncertain village spellings. Resolve the printed “Jalpaiguri” entry rather than silently correcting it.
-2. **Extract village lists from existing studies before broadening the bibliography.** Prioritize the ten-village Chaodang/Mising study, the six-district Tai-Ahom starter studies, Karbi rural fieldwork, and Bodo/Rabha/Ahom source supplements.
+2. **Extract locality details from existing studies before broadening the bibliography.** Prioritize the ten-village Chaodang study (village names remain absent from the accessible record), Mising village-level source comparisons, the six-district Tai-Ahom starter studies, Karbi rural fieldwork, and Bodo/Rabha/Ahom source supplements.
 3. **Separate historical documentation from present-day practice.** For older fieldwork, record year, locality and what was actually observed; do not imply that the practice remains common today.
 4. **Prioritize low-geographic-confidence records.** Haria, Zao/Zou, Hmar Zu, Sepa, Black Rohi Modh, Garo Chu and Mech Kachari names need exact locality/community attribution or an explicit “not available” result.
 5. **Continue identity-boundary research without premature record creation.** Keep Chu/Su/Chubitchi, Luk-Lau/Xajpani, Rochi/Rohi and Haaz/Photika/Jau unresolved until suitable language, process and community evidence is found.
