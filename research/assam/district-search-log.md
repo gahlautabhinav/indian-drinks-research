@@ -14,22 +14,11 @@
 | “Assam traditional rice beer Hojai Charaideo Bajali Chirang Tamulpur West Karbi Anglong ethnography” | Chirang, West Karbi Anglong and comparison districts | Found the official West Karbi Anglong district cultural page describing Hor and mentioning Horpo in the Chojun ritual; also found broad Bodo district associations. | West Karbi page already registered as SRC-016. Added ASM-PL-082 as a district-level cultural lead only; do not merge Hor/Horpo with Hor-alank/Hor-arak without further evidence. |
 | “Rice Beer and Local Communities of Assam” full-text check | Udalguri and comparison districts | The 2017 article's methods section explicitly lists fieldwork in Udalguri for Rabha and Bodo, but gives no named village or product-specific locality mapping in that section. | Existing SRC-054 updated with the methods detail and limitations; ASM-PL-085 records the district-level lead without inventing a village. |
 
-## Ten districts still without a relevant place row
+## Districts with no place row at all
 
-After the current pass, the matrix retains these ten districts as **no relevant place row in the current archive**:
+After the SRC-061 follow-up, nine districts still have **no place row at all** in the current matrix: Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar, and Tamulpur. **Biswanath is no longer in this list** because ASM-PL-086 records a district-level beverage-study area, but it remains unresolved at the community/product level and does not establish village-level production.
 
-1. Barpeta
-2. Biswanath
-3. Bajali
-4. Charaideo
-5. Darrang
-6. Dhubri
-7. Hojai
-8. Nalbari
-9. South Salmara-Mankachar
-10. Tamulpur
-
-These are the next search priorities. The search pass was not an exhaustive review of local-language books, district archives, theses, unpublished field notes, or community-held knowledge. No district should be described as lacking a beverage tradition based on this result.
+This is not an exhaustive review of local-language books, district archives, theses, unpublished field notes, or community-held knowledge. No district should be described as lacking a beverage tradition based on this result.
 
 ## Leads added or strengthened without overclaiming
 
