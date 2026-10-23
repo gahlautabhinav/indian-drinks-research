@@ -104,3 +104,11 @@
 - Explicitly separated the review's broad “approximately 70 medicinal plants” summary and pharmacological framing from validated beverage-specific recipes, clinical efficacy or safety evidence.
 - Created `research/assam/src-095-systematic-review-audit.md` and updated SRC-095 limitations. No canonical beverage or locality records were added from secondary synthesis alone.
 - Next: obtain and crosswalk the complete included-study list against existing source IDs and dossiers; add only genuinely missing primary sources. Assam state-transition gate remains unpassed.
+
+
+## 2026-10-23 — SRC-105 biochemical sample crosswalk
+- Located and screened the open-access Das, Khawas, Miyaji & Deka (2014) paper, “HPLC and GC-MS analyses of organic acids, carbohydrates, amino acids and volatile aromatic compounds in some varieties of rice beer from northeast India” (DOI 10.1002/jib.134), cited by the 2026 systematic review.
+- Extracted five Assam sample-to-locality links: Bodo Jou-bishi at Gossaigaon (AsB1), Adivasi Lao-pani at Gossaigaon (AsB2), Karbi Hor-alank at Diphu (AsB3), Ahom Xaj-pani at Sibsagar (AsB4), and Mising Apong at Lakhimpur (AsB5).
+- Recorded the source-reported sample alcohol/pH values in a new audit memo and added source record SRC-105 plus place rows ASM-PL-089–ASM-PL-093. These are sample collection localities, not named production villages or proof of current brewing.
+- Key caveat: one sample code per named Assam beverage/locality; laboratory triplicates are not independent household samples. Values are historical sample-specific results, not universal product specifications. Did not adopt the article’s broad safety conclusion as evidence of general safety.
+- No new canonical beverage records were added. Next: seek exact sample village/producer information and trace whether the Apong sample can be linked to a specific Nogin/Po:ro subtype without inference.
