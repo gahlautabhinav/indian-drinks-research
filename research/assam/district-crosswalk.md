@@ -23,7 +23,7 @@ Keep Kamrup and Kamrup Metropolitan distinct. Preserve historical locality wordi
 
 ## Register count reconciliation (2026-10-23)
 
-A fresh CSV-aware parse of `data/places_coverage.csv` finds 89 rows total, of which 85 are tagged Assam. Those Assam rows contain 29 distinct raw district-field strings and 34 tokens when semicolon-separated strings are split. These are raw-label counts only: they are not counts of official districts or unique localities. See [geography normalization audit](geography-normalization-audit.md) for the priority exception register and treatment rules.
+A fresh CSV-aware parse of `data/places_coverage.csv` finds 90 rows total, of which 86 are tagged Assam. Those Assam rows contain 31 distinct raw district-field strings and 36 tokens when semicolon-separated strings are split. These are raw-label counts only: they are not counts of official districts or unique localities. See [geography normalization audit](geography-normalization-audit.md) for the priority exception register and treatment rules.
 
 ## Interpretation rules
 
