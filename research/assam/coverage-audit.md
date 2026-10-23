@@ -111,12 +111,12 @@ The archive can move to the next state once the following repository-level check
 - [x] **Geography:** the 35-district matrix maps archive evidence to current administrative names or explicitly labels combined/unresolved geography. Raw source-era locality strings remain preserved.
 - [x] **Record review:** all 22 Assam beverage records received a desk-review pass for identity, process classification, source attribution, evidence level and geographic confidence. This is not field verification or full-text revalidation of every claim.
 - [x] **High-priority collisions:** major naming/process conflicts are either supported by source evidence or explicitly retained as unresolved with next actions.
-- [x] **Coverage log:** the 35-district archive-presence matrix and grouped district search log are published; ten districts still have no relevant place row in the current archive, with next actions recorded.
+- [x] **Coverage log:** the 35-district archive-presence matrix and grouped district search log are published; nine districts still have no relevant place row in the current archive, with next actions recorded.
 - [x] **Release note:** [`assam-state-baseline-release.md`](assam-state-baseline-release.md) records scope, counts, known blind spots and open gaps.
 
 ### Practical estimate
 
 The geography normalization, beverage-record desk review, district search log and release note are complete. Archive validation passed and the latest GitHub Pages deployment succeeded. **The repository-level transition gate is passed, but Assam is not exhaustive and remains open for evidence updates.** Continue Assam research until you explicitly choose to begin the next state; do not interpret this baseline as a complete census.
 
-Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after transition, provided they are clearly documented and not represented as resolved. The next state may begin now; Assam remains an updateable archive with unresolved questions clearly documented.
+Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after transition, provided they are clearly documented and not represented as resolved. Do not switch states automatically: Assam remains the active research state until you choose to move on, and new source-led work can still improve the record.
 
