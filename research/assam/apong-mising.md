@@ -193,3 +193,15 @@ The repository now includes [`data/epop_plant_inventory_sivasagar_2023.csv`](../
 Family names are also not fully aligned across the papers: for example, *Hydrocotyle sibthorpioides* is labelled Araliaceae in the Majuli table and Apiaceae in the Sivasagar table; *Vitex negundo* is labelled Lamiaceae in Majuli and Verbenaceae in Sivasagar; *Scoparia dulcis* is labelled Plantaginaceae and Scrophulariaceae respectively. These differences may reflect taxonomic treatments or classification updates, not necessarily wrong specimen identification. The crosswalk preserves the published family names and flags them for harmonization rather than silently overwriting them.
 
 **Interpretation boundary:** a name match is not proof of identical local use, plant part, or specimen. The Sivasagar paper states that it prepared herbarium material, but this archive has not inspected individual voucher labels. The Majuli paper reports 48 species, yet its table lists *Zanthoxylum oxyphyllum* twice under “Prothoma” and “Mejenga”; until the author or vouchers clarify the duplicate, report 48 as the source's reported count/table entries, not a fully verified unique-taxon count. [Majuli primary article](https://doi.org/10.21474/IJAR01/23298)
+
+### Botanical name and family reconciliation — audit update (23 October 2026)
+
+The source transcription tables deliberately preserve the plant names and family labels as printed. A focused check against Royal Botanic Gardens, Kew's Plants of the World Online (POWO) found three family-label conflicts between the Majuli 2026 and Sivasagar 2023 ÉPOP inventories despite matching binomials:
+
+- *Hydrocotyle sibthorpioides* — POWO places the name in Araliaceae; the Majuli table uses Araliaceae and the Sivasagar table uses Apiaceae ([POWO record](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843698-1)).
+- *Vitex negundo* — POWO places the name in Lamiaceae; the Majuli table uses Lamiaceae and the Sivasagar table uses Verbenaceae ([POWO record](https://powo.science.kew.org/taxon/865894-1)).
+- *Scoparia dulcis* — POWO places the name in Plantaginaceae; the Majuli table uses Plantaginaceae and the Sivasagar table uses Scrophulariaceae ([POWO record](https://powo.science.kew.org/taxon/230902-2)).
+
+The cross-study name match for *Chromolaena odorata* and *Eupatorium odoratum* is supported by POWO's synonymy record ([POWO record](https://powo.science.kew.org/taxon/57443-2)). The Sivasagar table's “*Alstonia shcolaris*” is treated as a likely table spelling error and reconciled to *Alstonia scholaris* in analysis, without changing the original transcription. These checks establish nomenclatural/family alignment only; they do not independently verify specimen identity or whether the same plant part and starter-culture role were used in both local settings.
+
+The repository taxonomy audit records these issues as EPOP-QA-004. A full 79-row POWO crosswalk remains outstanding; unchecked names must not be treated as verified.
