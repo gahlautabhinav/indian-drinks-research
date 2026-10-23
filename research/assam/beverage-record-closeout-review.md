@@ -43,6 +43,9 @@
 
 ### Source references
 
+A duplicate-source check identified `SRC-090` as a duplicate metadata entry for the same Borah (2026) article recorded canonically as `SRC-084`. The duplicate ID is retained as a retired alias; it must not be counted as an independent publication. The corresponding comparison gap now cites `SRC-084`.
+
+
 All source IDs listed in the 22 Assam beverage rows resolve to entries in the current source register. This confirms referential integrity, not that every claim in every record is fully supported by the linked source.
 
 ### Place coverage
