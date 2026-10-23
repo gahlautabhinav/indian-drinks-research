@@ -86,3 +86,24 @@ This is a separate evidence limitation from the life-form-count discrepancy, FL-
 
 ### Required follow-up
 Request the authors' underlying plant-by-community-by-beverage table or field-note mapping, if it exists and can be shared ethically. Until then, use the Table 1 transcription as community-level plant evidence only, and preserve the missing beverage-level link as an open research gap.
+
+
+## 6. Table consistency audit — 2026-10-23
+
+The publisher's Version of Record was checked directly, and the Table 1 transcription was programmatically counted from \`data/src091_table1_transcription.csv\`. This pass separates the article's narrative totals from what its own table labels actually support.
+
+### Reproducible counts from the archived Table 1 transcription
+
+- **41 table rows and 41 distinct scientific-name strings** are present in the transcription.
+- Community labels occur on 35 rows for Ahom, 20 for Bodo and 16 for Rabha. These are row-label counts and are not counts of unique beverages, villages or informants.
+- Only **8 of 41 rows** carry all three labels (Ahom; Bodo; Rabha) in the published community-attribution column. Those eight names are *Scoparia dulcis*, *Ananas comosus*, *Piper betle*, *Mangifera indica*, *Christella parasitica*, *Musa paradisiaca*, *Artocarpus heterophyllus* and *Psidium guajava*.
+- The article's narrative says **24 of 41 species** are common to all three communities. The table labels as transcribed do not reproduce that figure. Do not repeat 24 as an independently verified table-derived count until the authors explain whether another definition, supplementary table or correction was intended.
+- The paper's reported life-form counts (17 herbs, 13 shrubs, 9 trees, 4 climbers and 4 ferns) total **47**, not 41. In the Table 1 transcription, the single source-reported life-form category per row counts as: 13 herbs, 10 shrubs, 9 trees, 4 climbers, 3 ferns, 1 small tree and 1 woody climber. The paper may be using a different classification or counting multiple life forms for some taxa, but the text does not make that reconciliation clear.
+- The methods describe Fidelity Level (FL) as a percentage multiplied by 100, yet Table 1 and the top-ten table show values mostly around 1–4 (for example, 3.78). Without an explicit alternate scale or denominator, those values cannot safely be described as conventional percentage consensus scores. Preserve the values as published and flag the scale/formula for author clarification.
+
+### Interpretation and next action
+
+These are **internal consistency questions**, not proof that the fieldwork or individual plant observations are false. The archive keeps the publisher's data verbatim in the transcription and records the discrepancy rather than silently correcting the source. Ask the corresponding author whether a corrected table or supplementary community-by-beverage matrix exists, and ask them to reconcile (1) the 24/41 shared-species claim, (2) life-form totals, and (3) the FL formula and scale.
+
+The paper's study districts remain study-scope evidence only. Table 1's community labels do not establish which exact finished beverage or starter product each taxon belongs to. No canonical beverage ingredient lists or locality rows were changed in this audit.
+
