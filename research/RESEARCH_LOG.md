@@ -59,3 +59,12 @@
 - Recorded new evidence on women's work, family transmission, ritual/social use and changing urban-adjacent production conditions.
 - Flagged internal economic arithmetic: stated batch input cost (₹480) exceeds stated gross receipts (₹200–300); monthly earnings must not be labelled verified profit without full-text reconciliation.
 - Next: compare the full paper's process vocabulary and plant availability discussion with the older Morigaon/Nagaon studies; keep Hill-Tiwa Chu unmerged.
+
+
+## 2026-10-23 — Rabha Choko full-text extraction pass
+- Screened the full text of Das, Utpala; Rabha, David; and Das, Jugabrat (2021), “Traditional Methods of Preparation of Choko: A Fermented Rice Beer by the Rabha Tribe of Goalpara District, Assam,” *Environment and Ecology* 39(2):455–459.
+- Confirmed study period August 2019–January 2020; five unnamed remote Goalpara villages; 150 older experienced participants; focus-group discussions with particular attention to women involved in preparation.
+- Extracted source-specific Phap/Bakhor starter ingredients (Scoparia dulcis, Artocarpus heterophyllus, Oryza sativa), equipment vocabulary (Jonga, Janthi, Rai, Kur, Hanger), process description and stated fermentation interval.
+- Kept the five village identities unresolved because the paper's accessible text does not name them. No village-level production rows created from an unnamed study sample.
+- Editorial caution: traditional health beliefs are not clinical evidence; reported fermentation intervals are historical descriptions, not safety guidance.
+- Updated the Rabha dossier, source register, and open-gap next action. Next: reconcile starter inventories and extract the Rabha-specific evidence in SRC-091; keep Choko/Jonga-mod/Kecha-mod/Chokot name equivalence open.
