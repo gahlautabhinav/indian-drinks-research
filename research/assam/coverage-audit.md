@@ -98,3 +98,31 @@ Do not use “complete” to mean every drink has been found. Instead, move to t
 ## District-label normalization follow-up
 
 The working crosswalk is now documented in [`district-crosswalk.md`](district-crosswalk.md). It identifies combined southern Assam labels, the Tiwa study's Nagaon/Morigaon mapping issue, the unresolved “Jalpaiguri” place-name in a Kokrajhar-area paper, and rules for preserving source-era wording. This does not change the existing coverage counts or claim that any locality has been verified beyond its source evidence.
+
+## Transition plan and completion estimate (2026-10-23)
+
+“Assam complete” means **transition-ready baseline**, not an exhaustive census and not that all research gaps are closed. A state with living, changing traditions cannot responsibly be certified exhaustive from published sources alone.
+
+### Minimum transition gate
+
+The archive can move to the next state once the following repository-level checks pass:
+
+- [ ] **Integrity:** latest CSV validation passes; source and beverage references resolve; new audit files are indexed.
+- [ ] **Geography:** every Assam place row has a defensible evidence type and either a normalized district or an explicit unresolved/not-established label. Do not silently rewrite the source locality.
+- [ ] **Record review:** all 22 Assam beverage records receive a final pass for identity, process classification, source attribution, evidence level and geographic confidence. This is a scoped desk review, not a claim of field verification.
+- [ ] **High-priority collisions:** major naming/process conflicts are either supported by source evidence or explicitly retained as unresolved with next actions.
+- [ ] **Coverage log:** publish a district/community search matrix showing what was searched, what evidence was found, and where the archive has no suitable source yet.
+- [ ] **Release note:** record what the state baseline covers, the known blind spots, and which gaps remain open for future updates.
+
+### Practical estimate
+
+As of 2026-10-23, Assam is **not transition-ready yet**. The remaining work is bounded enough for a short close-out sequence, provided we do not wait indefinitely for author replies or community fieldwork:
+
+1. **Pass A — data and geography normalization:** audit the full place register against the district crosswalk; label every row by evidence geography and resolve or explicitly park anomalous labels.
+2. **Pass B — beverage-by-beverage close-out:** check all 22 Assam records for source/identity/process/geographic-confidence consistency; fix only evidence-supported issues and record unresolved points.
+3. **Pass C — search matrix and release gate:** create a reproducible district/community coverage log, rerun validation, check Pages deployment, and publish a state-baseline note.
+
+**Estimate: about 3 focused work passes after the current SRC-091 audit, likely 3–5 “continue” turns if no new blocking data issue appears.** This is a workload estimate, not a calendar deadline. If the geography or record review reveals a substantive inconsistency, add a pass rather than lower the evidence standard.
+
+Author replies, new fieldwork, voucher-label access and community confirmation can remain long-term open gaps after transition, provided they are clearly documented and not represented as resolved. The next state should begin only after the minimum transition gate passes, not after every open research question is closed.
+
