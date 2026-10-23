@@ -142,3 +142,35 @@ This source uses **Choko** as the finished beverage and **Phap/Bakhor** as start
 1. Identify the five study villages from author correspondence or supplementary field materials.
 2. Compare the source's three named starter ingredients against the ten-species inventory in Deka & Sarma (2010) and the seven-species report in Duarah et al. (2023); do not treat the different counts as direct contradictions without checking sampling and ingredient criteria.
 3. Extract the Rabha-specific results from the 2026 comparative study (SRC-091) before using it to revise names or geography.
+
+
+## Cross-study starter inventory reconciliation — 2026-10-23
+
+### Scope and confidence
+This pass compares the Rabha-specific starter-culture evidence visible in four sources: Deka & Sarma (2010), Das, Rabha & Das (2021), Duarah et al. (2023), and Talukdar et al. (2026). It is a source-level reconciliation, not a definitive community-wide ingredient list. Keep author spellings and taxonomic uncertainties visible; no plant should be normalized or removed just to force the studies to agree.
+
+### Study comparison
+
+| Source | Geographic/sample scope | Reported ingredients or count | What the evidence can support |
+|---|---|---|---|
+| Deka & Sarma (2010), SRC-059 | Rabha rice-beer preparation in Goalpara district; Dhupdhora is identified in the later literature's description of the study | Later review tables attribute a 10-species inventory to this source, but a secondary table in the 2021 review lists 11 entries under Rabha (including *Ananas comosus*, *Artocarpus heterophyllus*, *Calotropis gigantea*, *Capsicum frutescens*, *Clerodendrum viscosum*, *Dennstaedtia scabra*, *Ochthochloa coracana*, *Plumbago indica*, *Saccharum officinarum*, *Scoparia dulcis* and *Sida rhombifolia*) | The count itself requires checking against the original 2010 table; preserve the secondary list as a lead, not a corrected canonical inventory. |
+| Das, Rabha & Das (2021), SRC-102 | Five unnamed remote Goalpara villages; fieldwork Aug 2019–Jan 2020; 150 older participants | Three stated core ingredients: rice (*Oryza sativa*), *Scoparia dulcis* and *Artocarpus heterophyllus*; starter called Phap/Bakhor | This is a focused preparation description, not evidence that the starter contains only three plants in every household. |
+| Duarah et al. (2023), SRC-037 | Starter-culture survey; methods assign Rabha data to Bongaigaon district; village names not supplied in the accessible method text | Table 6 gives seven rows for Phap: *Musa balbisiana*, *Artocarpus heterophyllus*, *Xanthium strumarium*, *Centella asiatica*, *Hydrocotyle sibthorpioides*, *Sphaerostepheras unitus* (source spelling) and *Clerodendrum indicum* | A distinct district/sample and a specific seven-row table. The paper's table contains a family-label inconsistency for *Xanthium strumarium* and botanical spelling/identification issues; preserve raw names and flag them for taxonomic review. |
+| Talukdar et al. (2026), SRC-091 | Fieldwork Feb 2023–2024; 10 Rabha informants across Goalpara and Kamrup districts; villages are not named in the text reviewed | 41 species in total across Rabha, Bodo and Ahom, with some shared and some community-associated species; the paper highlights *Pouzolzia viminea* and *Plumbago zeylanica* as particularly ritualistically significant among Rabha and Bodo | New cross-community context and a broader district footprint, but the overall 41-species total must not be read as a Rabha-only count. The accessible narrative does not justify assigning every listed plant exclusively to Rabha Choko. |
+
+### Findings
+1. The headline counts (10, 3, 7, and 41 across three communities) are not directly comparable: they refer to different sampling frames, table definitions and scopes. The 2021 article's three ingredients are presented as core ingredients, while the 2023 table explicitly lists seven Phap entries and the 2026 total pools three communities.
+2. There is a clear shared signal for *Artocarpus heterophyllus* and *Scoparia dulcis* across the focused Choko paper and the older literature. The 2023 Phap table also includes *Artocarpus heterophyllus*, but does not list *Scoparia dulcis* in its seven-row table. This may reflect locality or practice variation, not necessarily a contradiction.
+3. *Musa balbisiana* is recorded in the 2023 table as a covering material, while the 2021 Choko paper describes banana leaves as a sealing material. These are overlapping uses of banana leaves, but they do not prove identical taxonomic identification or the same plant part nomenclature across studies.
+4. The 2010 count discrepancy (10 reported in some secondary descriptions versus 11 visible entries in a review's Rabha list) remains open until the primary table is checked row-by-row. Do not present a definitive number for the 2010 inventory in dashboard summaries yet.
+5. The 2026 study documents Rabha research in Goalpara and Kamrup but gives only 10 Rabha informants and no named villages in the reviewed methods. Do not add place-level rows from district labels alone.
+6. Ethnomedicinal uses and reported health benefits are traditional claims, not clinical efficacy evidence. Duarah et al. explicitly notes that efficacy evidence for the plants used in starter cultures is lacking.
+
+### Terminology decision
+Retain the current canonical record ASM-007-JON as a research grouping for now, but treat each name as a source-specific label: **Jonga mod / Kecha mod** (Deka & Sarma literature), **Choko** (Das et al. 2021; Talukdar et al. 2026), **Phap / Bakhor / Surachi** (starter names in different sources), and **Chokot/Chokoth** (cross-border Rabha comparison). The current evidence does not establish that all finished-drink names are exact synonyms, nor that starter names are interchangeable across all Rabha subgroups.
+
+### Next checks
+- Verify the original 2010 paper's Table 1 against the review's eleven-item list.
+- Re-check botanical names and family assignments in Duarah et al. Table 6 against authoritative taxonomic sources while retaining source strings.
+- Seek village names or supplementary material for the 2021 and 2026 studies; until then keep their locality granularity at district level.
+- Compare the 2026 supplementary plant table's community-specific attribution before adding species-level rows to the Rabha inventory.
