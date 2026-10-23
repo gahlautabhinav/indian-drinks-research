@@ -35,3 +35,17 @@ The preview snippets are not sufficient to certify that these are all among the 
 ## Archive decision
 
 Keep SRC-095 as **review-level discovery evidence only**. Do not create place rows, promote district coverage, or raise beverage confidence on the strength of this review preview. Do not repeat the review’s pharmacological or health language as established benefit. The next high-value step is to obtain a lawful full-text copy or supplement from the authors/library, then transcribe the included-study table and PRISMA details and crosswalk each reference to existing source IDs before adding only demonstrably missing primary sources.
+
+
+## Reference crosswalk extension — verified candidate sources
+
+A follow-up exact-title search confirmed four relevant references visible in the publisher-indexed preview that were **not present as exact-title records in the source register at the time of screening**. They have now been registered as discovery sources:
+
+| New ID | Reference | Evidence role | Boundary |
+|---|---|---|---|
+| SRC-096 | Tanti et al. (2010), “Ethnobotany of starter cultures used in alcohol fermentation by a few ethnic tribes of Northeast India” | Multi-state primary ethnobotanical/starter-culture study; includes Assam community starter/beverage pairs | Exact village-level Assam mapping still needs table extraction; not a current production census |
+| SRC-097 | Chakrabarty, Sharma & Tamang (2009), “Substrate utilisation in traditional fermentation technology practiced by tribes of North Cachar Hills district of Assam” | Primary study on substrates and locally named fermented products | Historical district label; product/village attribution needs full-text extraction |
+| SRC-098 | Chakrabarty, Sharma & Tamang (2014), “Traditional technology and product characterization of some lesser-known ethnic fermented foods and beverages of North Cachar Hills District of Assam” | Primary documentation and product characterization of Judima and Humao starter among selected products | Not a complete district beverage census |
+| SRC-099 | Kalita et al. (2021), “Traditional rice beer of Assam, North East India: traditionalism, ethnobiology and its pharmacomedicinal trends” | Secondary review useful for reference discovery | Trace claims to primary sources; do not use medicinal framing as clinical evidence |
+
+These records were added because the titles and publication details could be checked against accessible journal/repository pages or article PDFs, not merely because they appeared in the review. Their registration does **not** imply that SRC-095's full included-study table was extracted or that all four were among the 42 included studies. The review's full reference list and inclusion status remain unresolved. Exact source records already present include SRC-023 (Bora et al. 2016, Xaj-pitha starter metagenomics), SRC-071 (Saikia et al. 2007, Tai-Ahom food/beverage ethnobotany), SRC-087 (Das et al. 2019, Assam rice-beer microbiota/metabolites), SRC-017 (Deka & Sarma 2010, Rabha starter herbs), and SRC-018 (Bhuyan & Baishya 2013, rice-beer plant review). Some older register entries for other reviews have duplicate aliases; consult their canonicalisation notes before citing them.
