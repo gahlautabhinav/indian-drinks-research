@@ -1,7 +1,7 @@
 # Assam state-baseline release note
 
 **Release candidate date:** 2026-10-23  
-**Release status:** Transition-ready baseline confirmed on 2026-10-23  
+**Release status:** Research baseline in progress; state-transition gate not yet passed  
 **Scope:** Publicly documented traditional beverage traditions represented in the current archive; not an exhaustive census of every Assam beverage or community practice.
 
 **Live dashboard:** https://gahlautabhinav.github.io/indian-drinks-research/
@@ -10,22 +10,22 @@
 
 | Measure | Current count | Interpretation |
 |---|---:|---|
-| Canonical Assam beverage records | 22 | Working inventory; not exhaustive |
-| Assam place-register rows | 85 | Repeated/locality, district, historical, community, study-scope and unresolved leads; not 84 unique villages |
-| Place rows across the project | 89 | Includes four rows tagged to other geographies |
-| Raw district-field strings among Assam place rows | 29 | Combined and unresolved labels included |
-| Semicolon-separated district tokens | 34 | Not an official district count |
+| Canonical Assam beverage records | 23 | Working inventory; not exhaustive |
+| Assam place-register rows | 86 | Repeated/locality, district, historical, community, study-scope and unresolved leads; not 86 unique villages |
+| Place rows across the project | 90 | Includes four rows tagged to other geographies |
+| Raw district-field strings among Assam place rows | 31 | Combined and unresolved labels included |
+| Semicolon-separated district tokens | 36 | Not an official district count |
 | District baseline rows | 35 | One row for each district name in the working administrative reference layer |
 | Districts with no place row at all | 9 | Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. Biswanath has a study-area lead only; product/community attribution remains unresolved. |
-| Assam research gaps | 48 | All remain open; each has a next action |
-| Source-register rows | 99 | Includes two retired duplicate aliases; not 93 unique publications |
+| Assam research gaps | 46 | All remain open; each has a next action |
+| Source-register rows | 98 | Includes retired duplicate aliases; row count is not a unique-publication count |
 
 ## What this baseline includes
 
 - A current archive-integrity audit and CI validation for CSV shape, primary IDs, source/beverage references, district-matrix references, stray source-ID tokens in prose fields, and gap traceability.
 - A district crosswalk and a 35-district archive-presence matrix that distinguish named locality/study-site evidence from district-level, community-distribution, combined-region and unresolved leads.
-- A grouped district search log documenting the queries attempted, leads found and ten districts where no relevant place row was found in this pass.
-- A desk review of all 22 Assam beverage records, with source IDs, process/name conflicts, geographic-confidence limits and next actions.
+- A grouped district search log documenting the queries attempted, leads found and nine districts where no relevant place row was found in this pass.
+- A desk review of all 23 Assam beverage records, with source IDs, process/name conflicts, geographic-confidence limits and next actions.
 - A taxonomic, quantitative and voucher audit of the 2026 cross-community paper (SRC-091), including a draft author clarification request. The request has **not** been sent.
 - Source-ID canonicalization for two duplicate source pairs: SRC-081 is a retired alias of SRC-066; SRC-090 is a retired alias of SRC-084. Active CSV references use canonical IDs.
 
@@ -40,12 +40,14 @@
 
 ## Transition decision
 
-**Assam can be treated as complete for the purpose of starting the next state's research baseline once the latest archive validation and GitHub Pages deployment both pass.** “Complete” here means the scope, evidence classes, known gaps and next actions are published and reproducible. It does not mean every beverage has been discovered, all 48 research gaps are closed, or every listed tradition is currently practiced.
+**Assam is not yet ready for the next-state transition.** The repository baseline and geography matrix are useful, but the close-out review still requires a primary-source GI specification pass for the Bodo Jou products and a targeted process/name claim audit. The Hill-Tiwa Chu record has been added and reviewed, but this does not close those remaining checks. “Complete” here means the scope, evidence classes, known gaps and next actions are published and reproducible. It does not mean every beverage has been discovered, all 46 research gaps are closed, or every listed tradition is currently practiced.
 
-After the workflow gate passes, retain Assam as a maintainable archive with open gaps while beginning the next state. Do not wait indefinitely for author replies or fieldwork; do not mark unresolved claims as verified to achieve closure.
+Keep Assam as the active research state until those repository-level checks are completed and you choose to move on. Long-term fieldwork and community-confirmation gaps may remain open, but the primary-source and process/name close-out tasks should be completed first. Do not mark unresolved claims as verified to achieve closure.
 
 ## Final workflow gate
 
 - [x] CSV structure and cross-reference validation passed after the latest data changes.
 - [x] The district/community matrix, search log, beverage-record review and known-limitations documents are indexed.
+- [ ] Extract and compare the primary GI specifications for Jou Gwran, Jou Gishi and Maibra Jou Bidwi.
+- [ ] Complete the targeted process/name claim audit identified in the close-out review.
 - [x] Latest GitHub Pages deployment succeeds for the final documentation commit (run [39927405518](https://github.com/gahlautabhinav/indian-drinks-research/actions/runs/39927405518)).
