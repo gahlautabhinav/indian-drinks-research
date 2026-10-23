@@ -11,12 +11,12 @@
 | Measure | Current count | Interpretation |
 |---|---:|---|
 | Canonical Assam beverage records | 22 | Working inventory; not exhaustive |
-| Assam place-register rows | 84 | Repeated/locality, district, historical, community, study-scope and unresolved leads; not 84 unique villages |
-| Place rows across the project | 88 | Includes four rows tagged to other geographies |
+| Assam place-register rows | 85 | Repeated/locality, district, historical, community, study-scope and unresolved leads; not 84 unique villages |
+| Place rows across the project | 89 | Includes four rows tagged to other geographies |
 | Raw district-field strings among Assam place rows | 29 | Combined and unresolved labels included |
 | Semicolon-separated district tokens | 34 | Not an official district count |
 | District baseline rows | 35 | One row for each district name in the working administrative reference layer |
-| Districts with no relevant place row in the current archive | 10 | Barpeta, Biswanath, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur |
+| Districts with no place row at all | 9 | Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. Biswanath has a study-area lead only; product/community attribution remains unresolved. |
 | Assam research gaps | 48 | All remain open; each has a next action |
 | Source-register rows | 93 | Includes two retired duplicate aliases; not 93 unique publications |
 
