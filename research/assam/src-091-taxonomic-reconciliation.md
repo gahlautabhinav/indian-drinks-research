@@ -1,4 +1,4 @@
-# SRC-091 taxonomic reconciliation — tranche 1
+# SRC-091 taxonomic reconciliation — rolling audit
 
 **Review date:** 2026-10-23  
 **Source:** Talukdar et al. (2026), *Cultural ecology and conservation of traditional beverage practices among selected communities of Assam, Northeast India*, Discover Food 6:376. DOI: https://doi.org/10.1007/s44187-026-01101-w  
@@ -8,7 +8,7 @@
 
 - The 41 source rows remain unchanged in `data/src091_table1_transcription.csv`.
 - `data/src091_taxonomic_reconciliation.csv` adds a separate 41-row reconciliation layer.
-- Eight rows received targeted nomenclatural review in this tranche; the other 33 remain explicitly pending. “Pending” means not reviewed here, not incorrect.
+- Thirty-four of 41 rows now have a targeted POWO name/family check or a specific taxonomic conflict recorded; seven remain pending, and *Drymaria diandra* remains unresolved at authorship level. This is a literature crosswalk, not voucher verification. “Pending” means not reviewed here, not incorrect.
 - A literature or POWO accepted-name match does **not** independently verify the plant collected under a voucher number. Voucher images, herbarium records, or author confirmation would be needed for specimen-level identification.
 - Do not replace source strings, families, plant parts, or values in the transcription layer with normalized values.
 
@@ -23,9 +23,16 @@
 7. **Zanthoxylum rhetsa** — POWO accepts the published name in Rutaceae.
 8. **Drymaria diandra (Sw.) Blume** — left unresolved at authorship level. Search results surface different *Drymaria diandra* author citations and taxonomic treatments; a binomial-only match is not sufficient to harmonize this row.
 
+9. **Pteridium aquilinum** — POWO places this taxon in Dennstaedtiaceae, whereas Table 1 reports Pteridaceae. Preserve the source family label and flag the classification conflict.
+10. **Christella parasitica** — POWO treats the published name as a synonym of *Thelypteris parasitica*; fern taxonomy can vary by checklist, so retain the original row and record the crosswalk separately.
+11. **Musa paradisiaca** — POWO treats *Musa × paradisiaca* as an accepted hybrid name. The article omits the hybrid marker; the transcription retains that exact published string.
+12. **Thunbergia grandiflora** — POWO accepts the name with author citation Roxb.; the article includes “Roxb. ex Rottl.” in its citation. This is flagged for author-citation checking rather than silently corrected.
+13. **Tinospora cordifolia** — the source's “(Thunb.) Miers” differs from POWO's accepted author citation “(Willd.) Hook.f. & Thomson”; requires source-level review.
+14. **Chloranthus elatior** — POWO synonymizes this name under *Chloranthus serratus*, while some regional treatments accept *C. elatior*. This is an alternate-treatment issue.
+
 ## Still open
 
-- Reconcile the remaining 33 rows against POWO and/or World Flora Online, recording authority URLs and exact author citations.
+- Reconcile the remaining seven pending rows against POWO and/or World Flora Online, recording authority URLs and exact author citations.
 - Resolve the article's prose/table discrepancy for *Drymaria* and *Pouzolzia* against the final article text and, if possible, voucher records.
 - Check the voucher numbers, including repeated voucher identifiers, against herbarium/accession records. A voucher number printed in the article is not itself a publicly verified accession.
 - Keep ethnobotanical attribution, plant identity, reported plant part, and claimed beverage use as separate evidence dimensions.
@@ -40,3 +47,8 @@
 - POWO, *Pouzolzia sanguinea*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:856236-1
 - POWO, *Zanthoxylum rhetsa*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:775986-1
 - POWO, *Drymaria cordata* and related names: https://powo.science.kew.org/taxon/30172747-2
+- POWO, *Pteridium aquilinum*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17210060-1
+- POWO, *Christella parasitica* / *Thelypteris parasitica*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1109021-2
+- POWO, *Musa × paradisiaca*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:797595-1
+- POWO, *Thunbergia grandiflora*: https://powo.science.kew.org/taxon/117460-3
+- POWO, *Tinospora cordifolia*: https://powo.science.kew.org/taxon/907828-1
