@@ -81,3 +81,14 @@ Search beverage-specific sources for the seven named Bajali villages and the for
 A 2026 *Next Research* systematic review on traditional fermented rice beverages of Assam was registered as SRC-095 after an abstract-level screen: https://doi.org/10.1016/j.nexres.2025.101241. The accessible abstract covers beverage substrates, starter cakes, microbes, fermentation, bioactive compounds and traditional plant use, but the full-text search strategy and included-study table were not reviewed in this pass.
 
 **Evidence decision:** review-level discovery source only. It does not close any district gap, establish current production, or justify new locality rows. The next step is to inspect the full text and crosswalk its included primary studies against the archive's source register before adding any new claims.
+
+
+## Follow-up review screen — SRC-095 publisher preview
+
+**Screening date:** 2026-10-23. The publisher search-indexed preview exposed more than the abstract, including a literature-selection paragraph and snippets from the references and major sections. Direct publisher-page retrieval was access-restricted, and ResearchGate states that no full text is available there; this is therefore a **preview-level screen, not a full-text audit**.
+
+The indexed preview reports 2,997 initial search results, 512 duplicates removed, 2,204 relevance exclusions, 233 title/abstract exclusions, six full-text exclusions, and 42 included fermented-beverage studies. The full PRISMA flow, search strategy, inclusion criteria and included-study table remain unverified. The publisher search result displays 166 references; ResearchGate metadata displays 153. This discrepancy is unresolved and does not alter the reported 42 included studies.
+
+Reference snippets surfaced several candidates relevant to the existing archive: Das, Deka & Miyaji (2012) on preparation/starter plants; Bhuyan & Baishya (2013) on plants used in traditional rice beer; Saikia et al. (2007) on Tai-Ahom food and beverage ethnobotany; Tanti et al. (2010) on starter cultures; Bora et al. (2016) on Xaj-pitha microbiota; Das et al. (2019) on Assam rice-beer microbiota/metabolites; Deka & Sarma (2010) on Rabha starter herbs; Chakrabarty et al. (2010/2014) on North Cachar Hills fermentation; and Kalita et al. (2021) on Assam rice beer. Some visible titles are already represented by SRC-006/SRC-014, SRC-017, SRC-018 and SRC-087. This is only a partial, index-derived list; it does not prove inclusion in the review or prove that the remaining items are absent from the register. **No new source IDs or place claims were created from snippets alone.**
+
+See [SRC-095 systematic review screening note](src-095-systematic-review-screen.md) for the access limitations, overlap check and next-step protocol. Priority: obtain a legitimate full text, extract the 42-study list and beverage/starter table, then reconcile every reference against the register before adding sources.
