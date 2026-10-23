@@ -150,7 +150,7 @@ def main() -> int:
     _, beverage_rows = tables.get(BEVERAGE_FILE, ([], []))
     for line_number, row in enumerate(beverage_rows, start=2):
         open_questions = row.get("Open_Questions", "")
-        if re.search(r";\\s*SRC-\\d+\\b", open_questions):
+        if re.search(r";\s*SRC-\d+\b", open_questions):
             errors.append(
                 f"{BEVERAGE_FILE}:{line_number}: source ID token appears in Open_Questions; "
                 "put citations in Source_IDs and keep question text clean"
