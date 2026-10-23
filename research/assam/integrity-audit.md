@@ -44,6 +44,10 @@ The `SRC-079` row in `sources/source_register.csv` had only 10 fields instead of
 
 The written coverage audit was refreshed again on 2026-10-23 to report 80 Assam place rows, 25 raw district-field labels, 30 semicolon-separated district tokens, and 90 source entries. The gap register now contains 48 Assam gaps, including three SRC-091 quantitative/taxonomic/voucher follow-up records. The cohort-to-accession provenance limits for Haria, Zao/Zou and Hmar Zu remain unchanged.
 
+## Duplicate-source reconciliation (2026-10-23)
+
+A source-register review found that `SRC-084` and `SRC-090` describe the same Borah (2026) Majuli Apong ethnobotany article: same title, author, year, journal and DOI. To avoid counting the same publication twice, `SRC-090` is now explicitly retained as a retired duplicate alias pointing to canonical `SRC-084`; the related research-gap citation was updated to `SRC-084`. The stable ID remains in the register for traceability, so the register still has 90 rows but those rows should not be interpreted as 90 unique publications.
+
 ## Remaining research-quality risks
 
 These are not CSV parser failures; they are substantive evidence gaps that remain visible and should not be hidden by a clean integrity check:
