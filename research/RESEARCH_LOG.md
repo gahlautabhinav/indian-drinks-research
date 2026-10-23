@@ -119,3 +119,10 @@
 - Created `research/assam/starter-culture-yeast-crosswalk-src-106-107.md` to separate secondary-review claims from experimental evidence and record limitations.
 - No canonical beverage records or village/place rows were added: microbial starter evidence alone does not prove a finished-beverage identity or production locality. No alcohol, safety or clinical-health claims were inferred from yeast findings.
 - Next: obtain the full Nath et al. (2020) text/sample table and compare SRC-106’s cited primary studies against the archive before expanding the source register.
+
+### 2026-10-23 — SRC-108 Assam mycoflora study audit
+- Added SRC-108: Saikia, Ali, Gogoi & Nath (2024), “Isolation and Characterization of the Mycofloral Diversity in Traditional Assamese Alcoholic Fermentation from India.” The article reports nine starter samples collected in 2019–2020 and identifies several yeast and fungal taxa.
+- Recorded an unresolved source-quality discrepancy: the abstract lists seven districts, while the methods/introduction describes six. The accessible sample description names Xaaj pitha, Apong and Suzen (mod pitha) but does not map every sample to a named village and community.
+- Created `research/assam/src-108-assam-mycoflora-sample-audit.md`; added ASM-GAP-053 to track sample-level geographic reconciliation.
+- No beverage or place records were added because sample-to-community and sample-to-village links are not sufficiently established. The paper’s discussion about one isolated yeast is not treated as a finished-product clinical or safety assessment.
+- Next: inspect full sample tables/supplementary material and resolve the district-count discrepancy if possible; cross-check the findings against existing starter-culture studies.
