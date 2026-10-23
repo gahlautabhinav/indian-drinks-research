@@ -31,7 +31,7 @@
 
 ## Known limitations that remain open
 
-1. **Incomplete discovery:** ten districts have no relevant place row in the current archive. The search log does not claim that no traditions exist there.
+1. **Incomplete discovery:** nine districts have no relevant place row in the current archive. The search log does not claim that no traditions exist there.
 2. **No exhaustive current-practice census:** several entries are historical, household-level, starter-culture, secondary-review or district-level evidence. Current prevalence and producer-village maps remain incomplete.
 3. **Beverage identity/process conflicts:** Poro Apong filtration versus distillation; Bodo Jou-family product boundaries; Rabha Jonga-mod-related terms; Tai-Ahom Xajpani-related names; and Rohi/Sepa/Black Rohi Modh remain open where evidence does not settle equivalence.
 4. **Primary GI specifications:** statements of case for Bodo Jou Gwran, Jou Gishi and Maibra Jou Bidwi still need extraction and product-specific comparison. Registration metadata confirms GI status but does not itself establish village-level production.
