@@ -141,3 +141,11 @@
 - Crosswalk memo: `research/assam/src-110-zao-zou-ndhuihi-crosswalk.md`. Do not merge Zao/Zou with Jeme Naga Nduijao or equate Ndhuihi with Nduiyi based on spelling alone; community labels differ across sources.
 - The study uses bacterial 16S rRNA profiling, not yeast/fungal sequencing. Its pH/EC values are sample-specific and its broad health framing is not clinical evidence.
 - Next: retrieve Atungbou (2020), cited by the study, and verify the Zao/Zou spelling and Ndhuihi/Nduiyi relationship with primary or community evidence.
+
+### 2026-10-23 — Zeme Zou variants and Nduizou crosswalk (SRC-111)
+- Retrieved Atungbou (2020), “Food practice for physical and spiritual well-being of the Zeme, the tribe in Northeast India” (open access; DOI 10.1186/s42779-020-00074-0), cited by SRC-110 for Zeme beverage preparation.
+- The ethnography describes three named forms within the broader Zou category: Tekuizou/Zousang, Tamzou/Lingtakzou (also Tamzau spelling), and Nduizou/Herazou. It gives source-specific preparation descriptions and social/ritual contexts.
+- Added SRC-111 and `research/assam/src-111-zeme-zou-variants.md`; added provisional beverage records ASM-028-TKZ, ASM-029-TLZ and ASM-030-NDZ.
+- Important unresolved identity question: Atungbou’s Nduizou and starter “nduihi” resemble Chakrabarty (2017; SRC-109) Nduijao/Nduiyi and Yumnam et al. (2024; SRC-110) Zao/Ndhuihi, but none of these sources explicitly establishes synonymy. Keep records separate pending community or author clarification.
+- No new place rows were added because the article does not give a named village for each form. Traditional health framing was not treated as clinical evidence.
+- Next: seek community-led clarification of these names and verify whether the SRC-110 sample corresponds to one of Atungbou’s named Zou forms.
