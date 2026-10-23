@@ -1,5 +1,9 @@
 # Indian Traditional Beverages Research Archive
 
+> **[Open the live research dashboard](https://gahlautabhinav.github.io/indian-drinks-research/)** — browse the archive's state and beverage research dossiers.
+
+[Repository](https://github.com/gahlautabhinav/indian-drinks-research) · [Live dashboard](https://gahlautabhinav.github.io/indian-drinks-research/)
+
 A source-led archive of India's traditional alcoholic beverage heritage, tracking state, district and village evidence where available.
 
 ## Research principles
