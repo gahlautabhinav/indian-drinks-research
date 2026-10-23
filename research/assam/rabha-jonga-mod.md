@@ -191,3 +191,25 @@ The 2023 paper by Ghosh et al., “Biochemical and Metagenomic sketching of micr
 The article reports measured pH around 4.3 ± 0.57 and alcohol content 12.66 ± 1.15% for its sampled Chokot. These are sample-specific analytical results, not general specifications or safety guidance. The study focuses on starter microbiota and does not establish equivalence with the Goalpara term Kecha-mod, nor with Matha Mod/Roshi Mod.
 
 Sources: https://doi.org/10.1016/j.egg.2023.100193 ; repository record https://ir.nbu.ac.in/items/5aa4769e-26ce-44e1-afc1-0e0556a12165
+
+
+## Name crosswalk audit: Kecha-mod, Matha Mod and Roshi Mod — 2026-10-23
+
+### Evidence by name
+- **Jonga-mod / Choko:** Deka & Sarma (2010) explicitly calls the Goalpara Rabha finished drink “Jonga mod or Kecha mod” in its section heading and calls it “choko or jonga-mod” in the preparation text. The wording varies within the published literature, so retain the original phrasing by passage rather than silently forcing a single exact synonym set.
+- **Kecha-mod:** The 2010 primary article and the 2013 review by Bhuyan & Baishya use “Jonga mod or Kecha mod” for Rabha rice beer. This is reasonable evidence of paired naming in the Goalpara-focused literature, but neither source demonstrates that every Rabha subgroup or locality uses the names identically.
+- **Choko / Chokot:** Ghosh et al. (2023) use the paired form “Chokot” in the title and refer to Choko/Chokot for a Rabha rice-based beverage across North Bengal and Assam. The study's sampled West Bengal locality is Rashik Bill Rabha Basti, Cooch Behar district. This supports a cross-border related-name relationship, not proof of identical recipes in all localities.
+- **Matha Mod / Roshi Mod:** The Assam Tourism cuisine page lists both names as Rabha beverages but gives no recipe, starter, district, subgroup, or source citation for either. No preparation-level primary corroboration was identified in this pass. They remain unlinked labels/leads, not aliases of Jonga-mod/Choko and not separate canonical beverage records yet.
+
+### Starter inventory caveat from the 2023 survey
+Duarah, Kalita & Mishra (2023) reports seven entries in Table 6 for the Rabha Phap starter: *Musa balbisiana*, *Artocarpus heterophyllus*, *Xanthium strumarium*, *Centella asiatica*, *Hydrocotyle sibthorpioides*, *Sphaerostepheras unitus* (source spelling) and *Clerodendrum indicum*. However, their cross-community Table 7 marks *Scoparia dulcis* as not used by Rabha, consistent with its absence from Table 6; this differs from the 2010 Goalpara inventory, where *Scoparia dulcis* is listed. The authors explicitly state that plant use varies by community and area and that some plants have become less available. Preserve this as a locality/sample difference, and retain the source's raw botanical spellings and family-label inconsistencies until taxonomic review.
+
+### Current identity decision
+Maintain one research grouping for the linked Jonga-mod/Choko/Chokot/Kecha-mod literature, but preserve source-specific names and locality context in the evidence notes. Do not attach Matha Mod or Roshi Mod to that group until a source compares preparation or a community-specific source clarifies the relationship. Do not interpret tourism copy as proof of two distinct recipes either.
+
+Sources:
+- Deka & Sarma (2010): https://nopr.niscpr.res.in/bitstream/123456789/9773/1/IJTK%209%283%29%20459-462.pdf
+- Bhuyan & Baishya (2013): https://doi.org/10.1016/j.dit.2013.09.002
+- Duarah et al. (2023): https://doi.org/10.13040/IJPSR.0975-8232.14(6).3012-27
+- Ghosh et al. (2023): https://doi.org/10.1016/j.egg.2023.100193
+- Assam Tourism cuisine page: https://assamtourism.gov.in/cuisine.php
