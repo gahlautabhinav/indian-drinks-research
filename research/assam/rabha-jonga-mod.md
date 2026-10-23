@@ -182,3 +182,12 @@ The original Deka & Sarma (2010) article has now been checked directly. Its Resu
 The original article also explicitly states that the starter cake is called **bakhor, surachi or phap**, while the finished rice beer is called **choko or jonga-mod** among the Rabhas of Goalpara. This is direct primary-source support for treating *Choko* and *Jonga-mod* as alternate names in that study's context. It does **not** establish that *Kecha-mod*, West Bengal *Chokot/Chokoth*, *Matha Mod* or *Roshi Mod* are synonyms in all places or subgroups.
 
 Source: Deka & Sarma (2010), pp. 460–461, especially Results/Table 1 and the paragraph introducing preparation. Full text: https://nopr.niscpr.res.in/bitstream/123456789/9773/1/IJTK%209%283%29%20459-462.pdf
+
+
+## Cross-border Choko/Chokot evidence — 2026-10-23
+
+The 2023 paper by Ghosh et al., “Biochemical and Metagenomic sketching of microbial populations in the starter culture of ‘Chokot’, a rice-based fermented liquor of Rabha Tribe in North Bengal, India,” explicitly describes “Choko/Chokot” as a rice-based Rabha beverage found in North Bengal and Assam, with variation associated with the Bakhor/Phap starter culture. Its samples were collected in February 2022 from rural Rabha households in Rashik Bill Rabha Basti, Cooch Behar district, West Bengal; the study also collected three bottles of freshly prepared Chokot. This is strong evidence that the paired labels Choko/Chokot are used in the research literature for the related Rabha rice-based beverage across the two regions. It is not, by itself, proof that every locality's recipe or product is identical.
+
+The article reports measured pH around 4.3 ± 0.57 and alcohol content 12.66 ± 1.15% for its sampled Chokot. These are sample-specific analytical results, not general specifications or safety guidance. The study focuses on starter microbiota and does not establish equivalence with the Goalpara term Kecha-mod, nor with Matha Mod/Roshi Mod.
+
+Sources: https://doi.org/10.1016/j.egg.2023.100193 ; repository record https://ir.nbu.ac.in/items/5aa4769e-26ce-44e1-afc1-0e0556a12165
