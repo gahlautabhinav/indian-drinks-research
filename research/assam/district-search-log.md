@@ -115,3 +115,10 @@ The Judima dossier now cites SRC-097 and SRC-098 as historical district-level ev
 ### Karbi terminology cross-check — SRC-013 against SRC-096
 
 Teron (2006; SRC-013) explicitly distinguishes Hor-alank (fermented rice beer made with Thap) from Hor-arak (distilled from Hor-alank). Tanti et al. (2010; SRC-096) gives the shorter comparative-table entry “Thap / Arak.” This is a terminology-scope issue, not evidence of synonymy: the Karbi dossier retains separate canonical records for the fermented and distilled forms. The SRC-096 extraction note now records this cross-source interpretation. No new beverage or locality rows were added.
+
+
+### Ahom–Bodo naming crosswalk — 2026-10-23
+
+Created [ahom-bodo-naming-crosswalk.md](ahom-bodo-naming-crosswalk.md) to separate beverage names, starter names, umbrella traditions, stored forms, distilled products and GI-defined names. It preserves the open relationship among Xajpani/Koloh pani/Haj pani/Laopani/Luk-Lau and the unresolved boundary between folk Bodo Jou terms and the three GI-registered product names. The crosswalk adds no beverage IDs and no locality rows.
+
+The official GI registry pages for Jou Gishi (969), Jou Gwran (968) and Maibra Jou Bidwi (970) list authorized-user address strings. These are now documented in the GI provenance audit as address leads only; no production locality is inferred from them, and the Statements of Case remain to be extracted.
