@@ -17,7 +17,7 @@ A 2023 ethnobotanical survey by Duarah, Kalita and Mishra independently lists Ti
 
 - **Zu / Chu:** both forms appear in literature for the Tiwa beverage. The sources reviewed do not establish whether the spellings reflect dialect, transliteration, or different local preparations. They are retained as reported variants for now.
 - **Bakhor:** starter culture/cake name, not a beverage synonym.
-- Some Hill-Tiwa ethnobotanical literature describes rice beer called Chu and notes that some beer is distilled in a crude still. The available evidence does not establish that this distilled product is identical to every Zu/Chu described in the plains-Tiwa field studies. Do not create a separate canonical distilled record until a source clearly defines the product boundary.
+- **Hill-Tiwa Chu is kept separate for now.** Teron and Borthakur (2014; SRC-038) studied Hill-Tiwa ethnobotany in the Hamren subdivision of the then Karbi Anglong district, with fieldwork in ten named villages during 2007–2012. They describe Chu as a common Hill-Tiwa alcoholic drink made using rice-and-plant starter cakes, name Croton joufra leaves as a starter ingredient and Amomum koenigii or Acacia pennata as occasional substitutes, and report that some beer is distilled in a crude still. The paper does not map each beverage/process detail to each village or fully define the distilled product. Similar spelling alone is not enough to merge Hill-Tiwa Chu with Plains-Tiwa Zu/Chu.
 
 ## Ingredients and preparation
 
