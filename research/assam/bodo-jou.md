@@ -169,3 +169,24 @@ Talukdar et al. (2026; SRC-091) provide a recent cross-community ethnobotanical 
 This is useful contemporary comparative evidence, but its six district study design must not be converted into a village-level production map. The abstract and accessible methods do not establish that every beverage form in this dossier occurs in every Bodo study district. Plant-use and cultural claims should be extracted from the article's tables and results with source-specific attribution before updating individual beverage recipes or locality records. Ethnobotanical use is not clinical evidence of efficacy or safety.
 
 **Source:** https://doi.org/10.1007/s44187-026-01101-w (SRC-091).
+
+## Detailed 2025 process comparison: Joufinai and fruit-based Jougwran — 2026-10-23
+
+Deka, Basumatary & Deka (2025; SRC-066) provides a focused field description based on 50 interviews in rural Kokrajhar-area villages during April–July 2022 and October–November 2023. The article names Amlaiguri, Gendrabili and Banshigaon, plus a fourth locality rendered as “Jalpaiguri” at 10 km east of Kokrajhar headquarters. That fourth name is geographically suspect in this context and remains flagged in ASM-GAP-028; do not geocode it as the West Bengal city without clarification.
+
+### Product distinctions explicitly described
+- **Joubidwi:** described as the fresh/direct rice-based fermentation product; used as a comparison point for stored Joufinai.
+- **Joufinai:** described as a stored cereal-based alcoholic beverage. The 2025 account uses rice and Amao starter; the fermented rice mixture is stored in a vessel, with collected liquid changing in colour and yield with storage time. The article describes 3-, 6-, 10- and 12-month storage comparisons and says stored beverage is commonly kept near fireplaces as a cultural practice. Do not imply all households use one storage duration.
+- **Kanthal-Jougwran:** distilled beverage prepared from jackfruit flesh/cloves and starter, with fermentation reported up to three days before distillation.
+- **Kola-Jougwran:** distilled beverage prepared from mashed banana and starter, with fermentation reported for three to four days before distillation.
+- **Kamrenga-bidwi:** reported fruit beverage from unripe starfruit with a small amount of sugar and starter; the paper describes sunlight exposure and later juice collection.
+- **Amlai-bidwi:** reported gooseberry beverage prepared with starter and stored before juice collection.
+
+These are separate source-described forms and should not be collapsed into one “Jou” recipe. The article says fruit-based Jougwran and stored cereal-based Joufinai had not previously been detailed in the literature as of its publication; treat that as the authors' literature claim, not proof no earlier oral or local documentation exists.
+
+### Terminology and data treatment
+The paper distinguishes Joufinai from the direct rice fermentation product Joubidwi and describes Jougwran as a distilled product, including fruit-based variants. This helps close the process distinction at literature level, but **does not settle whether older “finai” is always synonymous with Joufinai** or whether the umbrella term Jou and Jou bishi applies to every named form. Keep ASM-GAP-024 and ASM-GAP-029 open for local terminology confirmation.
+
+Safety note: reported process times and analytical comparisons are historical research descriptions, not home-production instructions or guarantees of microbiological safety. Traditional medicinal beliefs are not clinical evidence.
+
+Source: Deka, A. K., Basumatary, S., & Deka, D. C. (2025). https://doi.org/10.1186/s42779-025-00286-2
