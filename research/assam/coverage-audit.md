@@ -1,6 +1,6 @@
 # Assam Beverage Research Coverage Audit
 
-**Audit date:** 2026-10-22  
+**Audit date:** 2026-10-23  
 **Purpose:** Assess the archive's current evidence footprint and identify what remains before treating Assam as ready for a state transition. This is an audit of the repository, not a census of Assam's beverage traditions.
 
 ## Executive finding
@@ -14,10 +14,10 @@
 | Canonical beverage records tagged Assam | 22 | Current working inventory; not a count of all Assam beverages |
 | Assam place-coverage rows | 80 | Place leads and study locations; rows can be district-level, historical, unresolved, or address-only |
 | Raw district-field labels represented in Assam place rows | 25 | Includes combined regional labels and unresolved labels; **not** 22 cleanly verified administrative districts |
-| Assam research gaps | 48 | All 41 are currently marked Open |
-| Sources in source register | 90 overall | Source-register total across the project, not Assam-only |
+| Assam research gaps | 48 | All 48 are currently marked Open |
+| Sources in source register | 93 overall | Source-register rows across the project, not unique publications; SRC-090 is a retired duplicate alias of SRC-084 |
 
-Counts refreshed from the current CSVs on 2026-10-23. The place register contains repeated places for different drinks and evidence types, so 80 Assam rows do not mean 80 unique villages. Some entries represent district-level studies without named villages, GI applicant addresses, broad study regions, or unresolved locality leads. The 25 distinct raw district-field labels split into 30 semicolon-separated tokens include combined and unresolved labels; they are not counts of verified administrative districts. The full place register contains 84 rows across all states.
+Counts refreshed from the current CSVs on 2026-10-23. The place register contains repeated places for different drinks and evidence types, so 80 Assam rows do not mean 80 unique villages. Some entries represent district-level studies without named villages, GI applicant addresses, broad study regions, or unresolved locality leads. The 25 distinct raw district-field labels split into 30 semicolon-separated tokens include combined and unresolved labels; they are not counts of verified administrative districts. The full place register contains 84 rows across all states. The new `data/assam_district_coverage_matrix.csv` provides one row for each of 35 administrative district names in the working baseline; 14 districts currently have no relevant place row in the archive. See `district-community-coverage-matrix.md` for the administrative sources and caveats.
 
 ## Evidence tiers
 
