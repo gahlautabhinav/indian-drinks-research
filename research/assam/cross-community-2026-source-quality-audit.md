@@ -107,3 +107,17 @@ These are **internal consistency questions**, not proof that the fieldwork or in
 
 The paper's study districts remain study-scope evidence only. Table 1's community labels do not establish which exact finished beverage or starter product each taxon belongs to. No canonical beverage ingredient lists or locality rows were changed in this audit.
 
+## 6. Table consistency audit — 2026-10-23
+
+The publisher's Version of Record was checked directly, and the Table 1 transcription was counted from `data/src091_table1_transcription.csv`.
+
+- The transcription contains **41 rows and 41 distinct scientific-name strings**.
+- Community labels occur on 35 rows for Ahom, 20 for Bodo and 16 for Rabha. These are row-label counts, not counts of unique beverages, villages or informants.
+- Only **8 of 41 rows** carry all three labels (Ahom; Bodo; Rabha): *Scoparia dulcis*, *Ananas comosus*, *Piper betle*, *Mangifera indica*, *Christella parasitica*, *Musa paradisiaca*, *Artocarpus heterophyllus* and *Psidium guajava*.
+- The article's narrative says **24 of 41 species** are common to all three communities. The transcribed table labels do not reproduce that figure. Do not repeat 24 as a table-derived count until the authors explain whether another definition, supplement or correction was intended.
+- The paper's narrative life-form counts (17 herbs, 13 shrubs, 9 trees, 4 climbers and 4 ferns) total **47**, not 41. Table 1's row labels count 13 herbs, 10 shrubs, 9 trees, 4 climbers, 3 ferns, 1 small tree and 1 woody climber. A different classification or multi-category count is possible, but the text does not reconcile it.
+- The methods describe Fidelity Level (FL) as a percentage multiplied by 100, yet table values are mostly around 1–4. Without a clear alternate scale or denominator, these cannot safely be described as conventional percentage consensus scores.
+
+These are internal consistency questions, not proof that individual observations are false. The archive preserves the publisher's transcription and records the discrepancy rather than silently correcting it. Ask the corresponding author whether a corrected table or supplementary community-by-beverage matrix exists, and ask them to reconcile the shared-species total, life-form totals, and FL formula/scale.
+
+The paper's districts remain study-scope evidence only. Table 1 has community labels but no finished-beverage/starter-specific column, so it does not establish which exact beverage each plant belongs to. No canonical ingredient lists or locality rows were changed in this audit.
