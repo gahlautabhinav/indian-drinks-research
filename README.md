@@ -65,6 +65,12 @@ The archive began with Assam and is now expanding state by state; Union Territor
 - [Mising Apong locality audit](research/assam/mising-apong-locality-audit.md) — ten named Jorhat study villages and a 2026 Majuli study, with beverage-to-village attribution left unresolved where the source does not map it.
 - `research/assam/district-crosswalk.md` — working normalization rules for combined, historical and unresolved Assam district labels.
 
+
+- [SRC-091 Table 1 audit](research/assam/src-091-table1-audit.md) — row-level table/prose discrepancies, life-form counts and FL metric cautions.
+- [SRC-091 taxonomic reconciliation](research/assam/src-091-taxonomic-reconciliation.md) — preliminary POWO crosswalk, family conflicts and pending specimen-level verification.
+- `data/src091_table1_transcription.csv` — 41 Table 1 rows preserved as published.
+- `data/src091_taxonomic_reconciliation.csv` — separate 41-row taxonomic crosswalk; pending records are not treated as errors.
+
 ## Dashboard
 
 The repository includes **Fieldnotes**, a static research dashboard for browsing beverage records, linked evidence, source-specific production methods, cultural-practice notes, geographic coverage and open research gaps. The interface loads its data from the CSV files in this repository and the dossiers from `research/`; the CSV/Markdown archive remains the source of truth.
