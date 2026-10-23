@@ -8,7 +8,7 @@
 
 - The 41 source rows remain unchanged in `data/src091_table1_transcription.csv`.
 - `data/src091_taxonomic_reconciliation.csv` adds a separate 41-row reconciliation layer.
-- All 41 rows now have a first-pass POWO name/family review or a specific taxonomic issue recorded. This is a literature crosswalk, not voucher verification. This is a literature crosswalk, not voucher verification. “Pending” means not reviewed here, not incorrect.
+- All 41 rows now have a first-pass POWO name/family review or a specific taxonomic issue recorded. This is a literature crosswalk, not voucher verification. “Pending” means not reviewed here, not incorrect.
 - A literature or POWO accepted-name match does **not** independently verify the plant collected under a voucher number. Voucher images, herbarium records, or author confirmation would be needed for specimen-level identification.
 - Do not replace source strings, families, plant parts, or values in the transcription layer with normalized values.
 
@@ -19,7 +19,7 @@
 3. **Vernonia cinerea** — POWO treats this name as a synonym of *Cyanthillium cinereum*. Keep the source name as published; use the crosswalk for normalized search.
 4. **Acacia pennata** — POWO accepts *Senegalia pennata* and treats *Acacia pennata* as a synonym.
 5. **Camphora glandulifera** — POWO accepts this name in Lauraceae and lists *Cinnamomum glanduliferum* among its synonyms.
-6. **Pouzolzia sanguinea** — POWO recognizes the name in Urticaceae. The article narrative's reported use of *Pouzolzia viminea* remains a distinct textual discrepancy; no synonymy is assumed here.
+6. **Pouzolzia sanguinea / P. viminea** — POWO recognizes *P. sanguinea* in Urticaceae and lists *P. viminea* as a synonym of *P. sanguinea* var. *sanguinea*. This provides a nomenclatural crosswalk for the narrative/table name difference, but does not establish that the collected voucher was correctly identified or explain why the article uses different names.
 7. **Zanthoxylum rhetsa** — POWO accepts the published name in Rutaceae.
 8. **Drymaria diandra (Sw.) Blume** — POWO accepts *Drymaria diandra* Blume, while the article adds '(Sw.)' to the author citation. Record this as an authorship discrepancy, not a different confirmed species. POWO also notes an alternative treatment as *D. cordata* subsp. *diandra*.
 
