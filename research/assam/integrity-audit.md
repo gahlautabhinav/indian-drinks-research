@@ -49,7 +49,7 @@ The written coverage audit was refreshed again on 2026-10-23 to report 84 Assam 
 
 ## Duplicate-source reconciliation (2026-10-23)
 
-A source-register review found that `SRC-084` and `SRC-090` describe the same Borah (2026) Majuli Apong ethnobotany article: same title, author, year, journal and DOI. To avoid counting the same publication twice, `SRC-090` is now explicitly retained as a retired duplicate alias pointing to canonical `SRC-084`; the related research-gap citation was updated to `SRC-084`. The stable ID remains in the register for traceability, so the register now has 93 rows; both SRC-090 (alias of SRC-084) and SRC-081 (alias of SRC-066) are retired duplicate aliases, and row count is not a count of unique publications.
+A source-register review found that `SRC-084` and `SRC-090` describe the same Borah (2026) Majuli Apong ethnobotany article: same title, author, year, journal and DOI. To avoid counting the same publication twice, `SRC-090` is now explicitly retained as a retired duplicate alias pointing to canonical `SRC-084`; the related research-gap citation was updated to `SRC-084`. The stable ID remains in the register for traceability, so the register now has 93 rows; both SRC-090 (alias of SRC-084) and SRC-081 (alias of SRC-066) are retired duplicate aliases, and row count is not a count of unique publications. A second duplicate was found: `SRC-066` and `SRC-081` are the same 2025 Bodo beverage-methodology article with the same DOI. `SRC-081` is now a retired alias of `SRC-066`, and active CSV references were canonicalized to `SRC-066`.
 
 ## Remaining research-quality risks
 
