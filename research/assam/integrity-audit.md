@@ -6,7 +6,7 @@
 
 ## Executive result
 
-The core CSV archive is structurally consistent after one source-register repair. No broken source-ID or beverage-ID references were found in the CSV records checked. The written coverage audit had stale counts and has been updated. Assam remains **not complete**: data consistency does not establish exhaustive beverage discovery, current household practice, or village-level production coverage.
+The core CSV archive is structurally consistent after one source-register repair. No broken source-ID or beverage-ID references were found in the CSV records checked. The written coverage audit had stale counts and has been updated. Assam remains **not exhaustive**, but the state-baseline transition gate has passed: data consistency does not establish exhaustive beverage discovery, current household practice, or village-level production coverage.
 
 ## Current archive snapshot
 
