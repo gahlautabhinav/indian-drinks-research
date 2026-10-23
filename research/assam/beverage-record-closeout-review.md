@@ -63,7 +63,7 @@ Several research gaps intentionally cover multiple related beverage IDs. Therefo
 
 ## Data correction made during this review
 
-Six Assam beverage rows had a stray `;\\SRC-091` suffix appended to the end of the `Open_Questions` field. It was not a source citation in the `Source_IDs` column and did not belong to the question text. The suffix was removed from those six fields in commit `e992f1308f42b470bc384f7e34abb924c11d6918`. No source list or beverage claim was changed by that correction.
+Six Assam beverage rows had a stray `;SRC-091` suffix appended to the end of the `Open_Questions` field. It was not a source citation in the `Source_IDs` column and did not belong to the question text. The suffix was removed from those six fields in commit `e992f1308f42b470bc384f7e34abb924c11d6918`. No source list or beverage claim was changed by that correction.
 
 ## Close-out actions still required
 
