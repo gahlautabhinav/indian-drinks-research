@@ -13,7 +13,7 @@ The core CSV archive is structurally consistent after one source-register repair
 | File / measure | Current rows | Notes |
 |---|---:|---|
 | `data/beverages.csv` | 26 | 22 Assam, 3 Arunachal Pradesh, 1 Manipur; this is a working inventory, not a national census |
-| `data/places_coverage.csv` | 84 | 80 Assam rows; rows may be repeated across beverages/evidence types or represent district/regional leads rather than villages |
+| `data/places_coverage.csv` | 85 | 81 Assam rows; rows may be repeated across beverages/evidence types or represent district/regional leads rather than villages |
 | `data/communities.csv` | 17 | Community records across current project scope |
 | `data/production_methods.csv` | 44 | Source-specific method records |
 | `data/cultural_practices.csv` | 19 | Source-linked cultural-practice records |
@@ -21,7 +21,7 @@ The core CSV archive is structurally consistent after one source-register repair
 | `data/assam_district_coverage_matrix.csv` | 35 | One row per district in the administrative baseline; 14 have no relevant place row in the current archive |
 | `sources/source_register.csv` | 93 | Source-register rows across the project; SRC-090 is a retired duplicate alias of SRC-084 |
 
-The 80 Assam place rows contain 25 distinct raw district-field labels and 30 distinct semicolon-separated label tokens. Neither number is a count of verified administrative districts: combined, historical, cultural-region, study-scope and unresolved labels remain in the register by design and are documented in `district-crosswalk.md`.
+The 81 Assam place rows contain 26 distinct raw district-field labels and 31 distinct semicolon-separated label tokens. Neither number is a count of verified administrative districts: combined, historical, cultural-region, study-scope and unresolved labels remain in the register by design and are documented in `district-crosswalk.md`.
 
 ## Validation checks
 
@@ -45,7 +45,7 @@ The `SRC-079` row in `sources/source_register.csv` had only 10 fields instead of
 - **Claims supported:** the public BioSample metadata maps cohort labels TT/DMK/ZN/K1/HM to Haria/Judima/Zao/Hor Alank/Hmar Zu; the accession crosswalk is linked.
 - **Limitations:** the five public records do not resolve the 15 original field samples' relationship to the sequencing library or establish village origins; supplementary and experiment/run metadata review remains open.
 
-The written coverage audit was refreshed again on 2026-10-23 to report 80 Assam place rows, 25 raw district-field labels, 30 semicolon-separated district tokens, and 93 source-register rows. The gap register contains 48 Assam gaps, including three SRC-091 quantitative/taxonomic/voucher follow-up records. The 35-row district matrix is now tracked by CI. The cohort-to-accession provenance limits for Haria, Zao/Zou and Hmar Zu remain unchanged.
+The written coverage audit was refreshed again on 2026-10-23 to report 81 Assam place rows, 26 raw district-field labels, 31 semicolon-separated district tokens, and 93 source-register rows. The gap register contains 48 Assam gaps, including three SRC-091 quantitative/taxonomic/voucher follow-up records. The 35-row district matrix is now tracked by CI; 13 districts have no relevant place row after adding the West Karbi Anglong official cultural lead. The cohort-to-accession provenance limits for Haria, Zao/Zou and Hmar Zu remain unchanged.
 
 ## Duplicate-source reconciliation (2026-10-23)
 
