@@ -79,6 +79,8 @@ The repository includes **Fieldnotes**, a static research dashboard for browsing
 The dashboard requires no Node build step or backend. It uses browser-side CSV parsing and the Marked library CDN for Markdown dossier rendering. The first deployment runs after Pages is configured to use GitHub Actions; later pushes to `main` trigger deployment automatically.
 
 
+- [Assam cross-community study source-quality audit](research/assam/cross-community-2026-source-quality-audit.md) — claim-scope limits and internal numerical checks for SRC-091; preserves district-vs-village distinction and flags the FL interpretation and life-form-count discrepancy.
+
 ## Research datasets
 
 - [`data/lab_profiles.csv`](data/lab_profiles.csv) — sample-level laboratory measurements (alcohol, DPPH, ABTS and total phenolic content) transcribed from the 2019 Assam rice-beer study (`SRC-087`), with reported SEM and caveats.
