@@ -78,3 +78,5 @@
 - Flagged source-level taxonomic concerns in the 2023 table, including a family-label mismatch for *Xanthium strumarium* and uncertain source spellings. No silent taxonomic normalization made.
 - Reaffirmed that 2026 fieldwork covers Goalpara and Kamrup with 10 Rabha informants but does not name villages in the reviewed methods; no village-level records added.
 - Next: verify 2010 original table, inspect 2026 supplementary table for community-specific plant attribution, and continue the unresolved finished-drink name crosswalk.
+
+- **2026-10-23 primary-source check:** Deka & Sarma (2010) explicitly report ten starter-cake plant species and Table 1 contains ten entries. The secondary review list's extra *Sida rhombifolia* is absent from the original table and remains unverified for that study. The primary article also calls the finished drink “choko or jonga-mod” in the Goalpara Rabha context; this supports local alternate naming there, but not universal equivalence with Kecha-mod, Chokot/Chokoth, Matha Mod or Roshi Mod.
