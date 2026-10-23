@@ -1,12 +1,16 @@
 # Assam District Crosswalk
 
-Updated 2026-10-22. This is a working normalization note for the current archive, not an official gazetteer. Keep source-era district names and original locality spellings in the place register; a normalized label must not upgrade a regional lead into village-level production evidence.
+Updated 2026-10-23. This is a working normalization note for the current archive, not an official gazetteer. Keep source-era district names and original locality spellings in the place register; a normalized label must not upgrade a regional lead into village-level production evidence.
 
 ## Labels to retain
 
 The following single-district labels can remain as written for current analysis: Dima Hasao, Sivasagar, Dhemaji, Majuli, Lakhimpur, Tinsukia, Dibrugarh, Karbi Anglong, Goalpara, Jorhat, Golaghat, Kamrup, Kamrup Metropolitan, Kokrajhar, Baksa and Bongaigaon.
 
 Keep Kamrup and Kamrup Metropolitan distinct. Preserve historical locality wording such as Sadiya. A starter-culture sample does not prove that every finished beverage listed against that place is currently produced there.
+
+## Historical Karbi Anglong / current West Karbi Anglong
+
+- Teron and Borthakur (2014; SRC-038) studied Hill-Tiwa ethnobotany in the Hamren subdivision of the then Karbi Anglong district. The Assam government identifies West Karbi Anglong as the district formed from the former Karbi Anglong district's Hamren subdivision, with Hamren as headquarters. For study-area normalization, use **West Karbi Anglong (source-era district: Karbi Anglong)** while retaining the original historical label. This is a district-level normalization, not proof of beverage production in each named village. Official reference: https://westkarbianglong.assam.gov.in/portlets/district-profile-of-west-karbi-anglong (SRC-092 is the project's official Assam district-directory source; the district profile is an additional public reference).
 
 ## Labels needing review
 
@@ -19,7 +23,7 @@ Keep Kamrup and Kamrup Metropolitan distinct. Preserve historical locality wordi
 
 ## Register count reconciliation (2026-10-23)
 
-A fresh CSV-aware parse of `data/places_coverage.csv` finds 88 rows total, of which 84 are tagged Assam. Those Assam rows contain 29 distinct raw district-field strings and 34 tokens when semicolon-separated strings are split. These are raw-label counts only: they are not counts of official districts or unique localities. See [geography normalization audit](geography-normalization-audit.md) for the priority exception register and treatment rules.
+A fresh CSV-aware parse of `data/places_coverage.csv` finds 89 rows total, of which 85 are tagged Assam. Those Assam rows contain 29 distinct raw district-field strings and 34 tokens when semicolon-separated strings are split. These are raw-label counts only: they are not counts of official districts or unique localities. See [geography normalization audit](geography-normalization-audit.md) for the priority exception register and treatment rules.
 
 ## Interpretation rules
 
