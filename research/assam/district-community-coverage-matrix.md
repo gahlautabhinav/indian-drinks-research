@@ -26,15 +26,12 @@ This is a practical working crosswalk. If a later official reorganization change
 2. Biswanath
 3. Bajali
 4. Charaideo
-5. Chirang
-6. Darrang
-7. Dhubri
-8. Hojai
-9. Nalbari
-10. Sonitpur
-11. South Salmara-Mankachar
-12. Tamulpur
-13. Udalguri
+5. Darrang
+6. Dhubri
+7. Hojai
+8. Nalbari
+9. South Salmara-Mankachar
+10. Tamulpur
 
 These are **archive gaps**, not a finding that those districts lack traditional beverages. They are priority targets for systematic source searches. In particular, do not assign older undivided Karbi Anglong research to West Karbi Anglong without verifying the original field site against the current boundary.
 
