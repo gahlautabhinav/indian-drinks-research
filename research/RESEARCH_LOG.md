@@ -50,3 +50,12 @@
 - Cross-checked against Das's Plains-Tiwa survey of five named Morigaon villages and the 2023 multi-community survey. The 19-vs-20 starter-plant counts are retained as source-specific inventories pending taxonomic reconciliation.
 - Editorial decision: keep Hill-Tiwa Chu distinct as an unresolved comparison to Plains-Tiwa Zu/Chu; study villages do not prove current production in each village, and the distilled product is not assumed to be the same canonical beverage.
 - Next: reconcile the three starter-plant inventories and source metadata before changing canonical record counts.
+
+
+## 2026-10-23 — New 2025 Plains-Tiwa Zu locality lead
+- Located Deka & Dey's study, “Brewing Continuity in an Urban Tiwa Settlement: Production, Cost, Women's Work, and the Cultural Meaning of Zu in Betkuchi Lalung Gaon, Assam,” via the journal listing and DOI.
+- Abstract reports fieldwork around 25 January–10 February 2025, with survey, observation, interviews, case studies and group discussion in 25 of 37 recorded households.
+- Added Betkuchi Lalung Gaon, Kamrup Metropolitan, as a documented fieldwork locality for Plains-Tiwa Zu, without inferring that all households brew.
+- Recorded new evidence on women's work, family transmission, ritual/social use and changing urban-adjacent production conditions.
+- Flagged internal economic arithmetic: stated batch input cost (₹480) exceeds stated gross receipts (₹200–300); monthly earnings must not be labelled verified profit without full-text reconciliation.
+- Next: compare the full paper's process vocabulary and plant availability discussion with the older Morigaon/Nagaon studies; keep Hill-Tiwa Chu unmerged.
