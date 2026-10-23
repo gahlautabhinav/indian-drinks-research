@@ -105,3 +105,5 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [`data/epop_taxonomy_quality_audit.csv`](data/epop_taxonomy_quality_audit.csv) — source-table duplicate and cross-study taxonomy quality flags, including verified POWO family conflicts for *Hydrocotyle sibthorpioides*, *Vitex negundo* and *Scoparia dulcis*.
 - [`data/epop_cross_site_comparison.csv`](data/epop_cross_site_comparison.csv) — 48-row cross-site comparison of Majuli and Sivasagar plant names, family labels and uncertainty.
 - [`data/epop_plant_inventory_sivasagar_2023.csv`](data/epop_plant_inventory_sivasagar_2023.csv) — 31-row Sivasagar ÉPOP plant inventory transcribed from Mili & Sundriyal (2023).
+
+- [SRC-091 quantitative-metrics audit](research/assam/src-091-quantitative-metrics-audit.md) — documents the life-form count mismatch, FL formula/scale inconsistency, CKSI reproducibility limits, and specific author clarification questions; no source values are silently changed.
