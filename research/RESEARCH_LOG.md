@@ -112,3 +112,10 @@
 - Recorded the source-reported sample alcohol/pH values in a new audit memo and added source record SRC-105 plus place rows ASM-PL-089–ASM-PL-093. These are sample collection localities, not named production villages or proof of current brewing.
 - Key caveat: one sample code per named Assam beverage/locality; laboratory triplicates are not independent household samples. Values are historical sample-specific results, not universal product specifications. Did not adopt the article’s broad safety conclusion as evidence of general safety.
 - No new canonical beverage records were added. Next: seek exact sample village/producer information and trace whether the Apong sample can be linked to a specific Nogin/Po:ro subtype without inference.
+
+### 2026-10-23 — Assam starter-culture yeast literature crosswalk (SRC-106–SRC-107)
+- Added SRC-106: Nath, Parasar & Sarma (2021), an open-access review of yeast diversity and quorum-sensing literature in Northeast Indian fermented alcoholic beverages. It summarizes earlier work on Bodo emao/amao, Karbi thap, Ahom xajar pitha, Mising apong kusure/apop pitha, Rabha bakhor and Kachari modor pitha.
+- Added SRC-107: Nath et al. (2020), an experimental study of yeasts from starter materials of four Northeast Indian communities. The accessible institutional abstract reports growth experiments in glucose- and starch-based synthetic media but does not identify the four communities or enough field metadata to assign results to Assam beverages with confidence.
+- Created `research/assam/starter-culture-yeast-crosswalk-src-106-107.md` to separate secondary-review claims from experimental evidence and record limitations.
+- No canonical beverage records or village/place rows were added: microbial starter evidence alone does not prove a finished-beverage identity or production locality. No alcohol, safety or clinical-health claims were inferred from yeast findings.
+- Next: obtain the full Nath et al. (2020) text/sample table and compare SRC-106’s cited primary studies against the archive before expanding the source register.
