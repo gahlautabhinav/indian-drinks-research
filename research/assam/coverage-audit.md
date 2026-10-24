@@ -135,8 +135,12 @@ The 2026-10-23 count table above is now stale. Recounting the live repository CS
 | Distinct semicolon-separated district tokens | 36 | Not a clean administrative-district count; tokens preserve source-era and unresolved labels |
 | Administrative district baseline rows | 35 | Current working reference layer |
 | Assam research gaps | 50 | All 50 remain Open |
-| Source-register rows | 115 | Source rows, not necessarily unique publications |
+| Source-register rows | 116 | Source rows, not necessarily unique publications; SRC-116 added in the 2026-10-24 Bodo Jou GI cross-check |
 
 These figures are counts of the repository as it currently stands, not measures of how much of Assam's living beverage culture has been documented. The GI-document extraction gate remains open, and the Bodo Jou authorised-user identifier crosswalk has been added to the audit dossier. Do not use the older 23-beverage / 86-place-row / 47-gap figures as current totals.
 
 The refresh was calculated from `data/beverages.csv`, `data/places_coverage.csv`, `data/research_gaps.csv`, `sources/source_register.csv`, and `data/assam_district_coverage_matrix.csv` on 2026-10-24.
+
+
+### 2026-10-24 source-count correction
+The Bodo Jou GI retrieval pass added SRC-116, a searchable reproduction of the 10 March 2026 Lok Sabha GI-registration answer used only for portfolio-level status/category corroboration. The source-register row count is therefore **116**; other beverage/place/gap counts were not changed by this pass. The underlying Journal 191 and product-specific case documents remain unextracted.
