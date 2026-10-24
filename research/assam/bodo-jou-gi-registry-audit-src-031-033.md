@@ -116,3 +116,28 @@ An institutional report prepared by Dr Annamma Samuel under the Centre for Trade
 The current live IP India page for application 969 exposes three named rows with explicit AU identifiers (AU/48542/GI/969/1, AU/48564/GI/969/2, AU/48579/GI/969/3); the visible Status column is blank in the accessible page text. SRC-115's portfolio table is a **December 2024 snapshot** reporting zero registered authorised users. The most conservative reconciliation is temporal: the live page appears to contain AU-numbered records not reflected in that older snapshot, or the sources use different status conventions. The accessible display alone does not establish the effective date, formal registration status or current production activity for each person. Record the AU numbers as official-page-listed identifiers; do not call the people unregistered, and do not convert their addresses into verified production-site records without the underlying AU documents and corroboration.
 
 This source strengthens the governance and household-production context but does **not** close ASM-GAP-026: the actual product-specific Statements of Case, Journal 191 text, and original/amended maps and producer documents still need extraction. The current application 969 page's AU identifiers and blank status cells should be transcribed separately from the Dec 2024 report snapshot.
+
+### Current live-page AU identifiers: all three Bodo Jou entries (checked 2026-10-24)
+
+The accessible official detail pages expose AU-numbered rows for all three products. The Status cells are blank in the text view; therefore the identifiers are recorded as **listed AU identifiers**, not as a determination of each record's legal status or active production.
+
+| Application / GI | AU identifier | Name as displayed | Address as displayed (abridged) |
+|---|---|---|---|
+| 968 — Bodo Jou Gwran | AU/48543/GI/968/1 | Ranjila Mohilary | Deborbill; Amteka Bazar; Amguri |
+| 968 — Bodo Jou Gwran | AU/48561/GI/968/2 | Pulak Ch Basumatary | Ward 01; Palashbari / Polashbari |
+| 968 — Bodo Jou Gwran | AU/48563/GI/968/3 | Jwmwi Brahma | West Dangarkutti; Dotoma; Dotma |
+| 968 — Bodo Jou Gwran | AU/48580/GI/968/4 | Kansai Brahma | Batabari |
+| 969 — Bodo Jou Gishi | AU/48542/GI/969/1 | Ranjila Mohilary | Deborbill; Amteka Bazar; Amguri |
+| 969 — Bodo Jou Gishi | AU/48564/GI/969/2 | Jwmwi Brahma | West Dangarkutti; Dotoma; Dotma |
+| 969 — Bodo Jou Gishi | AU/48579/GI/969/3 | Kansai Brahma | Batabari |
+| 970 — Bodo Maibra Jou Bidwi | AU/48541/GI/970/1 | Ranjila Mohilary | Deborbill; Amteka Bazar; Amguri |
+| 970 — Bodo Maibra Jou Bidwi | AU/48562/GI/970/2 | Pulak Ch Basumatary | Ward 01; Palashbari / Polashbari |
+| 970 — Bodo Maibra Jou Bidwi | AU/48565/GI/970/3 | Jwmwi Brahma | West Dangarkutti; Dotoma; Dotma |
+| 970 — Bodo Maibra Jou Bidwi | AU/48578/GI/970/4 | Kansai Brahma | Batabari |
+
+Official pages:
+- https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968
+- https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969
+- https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+**Interpretation:** the AU-numbered rows are a stronger registry signal than unnumbered address leads, but the blank Status field and absence of the underlying AU documents in the accessible output still limit what can be concluded. Do not treat these addresses as verified active production sites, and do not infer that the same person produces all three products merely because names recur across lists. This live-page inventory is later than the December 2024 SRC-115 snapshot and should be retained as a dated separate observation.
