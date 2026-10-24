@@ -174,3 +174,10 @@
 - Updated ASM-GAP-045. It remains Open because accepted-name/synonym verification, voucher identifiers, the three unnamed Majuli village names and clarification of the duplicate *Zanthoxylum oxyphyllum* rows are outstanding.
 - This is a taxon-list crosswalk, not evidence of temporal change, universal Mising practice, or confirmed biological absence for unmatched taxa.
 - Sources: SRC-005 https://doi.org/10.1186/s42779-023-00214-2; SRC-084 https://doi.org/10.21474/IJAR01/23298.
+
+## 2026-10-24 — POWO taxonomic check for Acmella/Spilanthes crosswalk
+
+- Checked Kew Plants of the World Online entries for *Acmella paniculata* and *Spilanthes acmella*. POWO accepts *Acmella paniculata*; its *Spilanthes acmella* (L.) L. entry treats that name as a synonym of *Blainvillea acmella*, while the Sivasagar table reports “Spilanthes acmella Murr.” The different author citation and taxonomy mean these records must **not** be merged automatically.
+- Updated the 48-row crosswalk to mark this candidate unresolved and not counted as an overlap; updated the ASM-GAP-045 action text and audit memo.
+- The two *Zanthoxylum oxyphyllum* rows in SRC-084 remain separate source records pending clarification; they may reflect distinct vernacular/use reports or a table duplication.
+- Taxonomic references: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:914780-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:250748-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:3242129-4
