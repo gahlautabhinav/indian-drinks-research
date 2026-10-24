@@ -343,3 +343,10 @@
 - Flagged an important metadata inconsistency: the site calls certificate numbers 648–650 the GI/application numbers; official IP India application numbers are 968–970. Kept the official identifiers as authoritative.
 - Flagged the Jou Gwran page's unclear statement that repeated distillation lowers concentration and the unverified provenance of reported alcohol/pH values. No legal specification, universal recipe, clinical health claim or production locality was inferred.
 - Created `research/assam/bodo-jou-community-heritage-source-audit-src-119.md`; updated the GI audit and ASM-GAP-026. Gap remains Open pending primary GI document extraction.
+
+
+## 2026-10-24 — Official consolidated GI register identifier cross-check
+- Added SRC-120, the official IP India consolidated register PDF dated 15 May 2025.
+- Confirmed that the table separates list serial numbers 648–650 from application numbers 968–970 for Bodo Jou Gwran, Jou Gishi and Maibra Jou Bidwi. The live registry separately gives certificate numbers 648–650. The heritage-site labels likely conflate the list serial/certificate values with the application field.
+- Updated the Bodo Jou GI audit and linked SRC-120 to ASM-GAP-026. Canonical references continue to use application numbers 968–970; certificates remain 648–650.
+- The consolidated list confirms identity/class/state metadata only; Journal 191, Statements of Case, amended maps and producer-list extraction remain unresolved. No recipe or locality claims changed.
