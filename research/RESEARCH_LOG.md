@@ -188,3 +188,10 @@
 - Kew POWO confirms *Guilandina bonduc* and *Terminalia arjuna* as recorded taxon names, and accepts *Zanthoxylum oxyphyllum*. Raw SRC-084 spellings remain preserved; no source string was silently corrected.
 - Updated the crosswalk memo and ASM-GAP-045 to reference the new flag register.
 - References: https://powo.science.kew.org/taxon/114706-2 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:775920-1
+
+## 2026-10-24 — Follow-up taxonomy precision check
+
+- Refined the *Acmella paniculata* / *Spilanthes acmella* note after rechecking POWO: the verified synonyms found for *Acmella paniculata* include *Spilanthes paniculata* and *Spilanthes acmella* var. *paniculata*. That does **not** by itself establish that SRC-005's printed “Spilanthes acmella Murr.” is the same taxon. The crosswalk continues to mark it unresolved and not counted.
+- Corrected the interpretation of “Tinospora Miers”: POWO confirms this is a valid genus-level name, not a malformed author citation; however, it does not identify a species in the Majuli table.
+- Retained the “Aschasma loroglossum” / Scytosiphonaceae discrepancy as unresolved. A separate literature list contains a similar “Achasma loroglossum” spelling, but that is not enough to normalize the starter-culture record.
+- References: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:914780-1 ; https://powo.science.kew.org/taxon/167609-3 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:332020-2 ; https://www.isca.in/IJBS/Archive/v3/i1/15.ISCA-IRJBS-2013-225.pdf
