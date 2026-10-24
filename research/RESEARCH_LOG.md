@@ -272,3 +272,9 @@
 - Re-ran targeted public searches for the full GI Journal 191 PDF and applications 968–970. Search did not yield a readable journal payload; the official application pages list the Journal Copy (31-05-2024), but accessible page text exposes only generic PDF-icon links. Record this as an access limitation, not missing-document evidence.
 - Added SRC-116 for a searchable reproduction of the 10 March 2026 Lok Sabha answer to Unstarred Question 2920. It independently lists Bodo Jou Gwran (968), Bodo Jou Gishi (969), and Bodo Maibra Jou Bidwi (970) as Registered / Manufactured, filed 29-08-2022. It does not contain product specifications or geographic boundaries and is not treated as the authoritative hosted parliamentary PDF.
 - Updated the GI dossier with the retrieval outcome and next decision. ASM-GAP-026 remains Open; no product-process, alcohol-strength, or synonymy claim was promoted without the Statements of Case / Journal 191 text.
+
+
+## 2026-10-24 — SRC-108 starter-sample geography audit
+- Read the publisher's full article page and cross-checked the accessible full-text mirror for Saikia et al. (2024), “Isolation and Characterization of the Mycofloral Diversity in Traditional Assamese Alcoholic Fermentation from India” (SRC-108).
+- Confirmed an internal discrepancy: abstract lists seven districts (Jorhat, Sivasagar, Golaghat, Lakhimpur, Dhemaji, Majuli, Karbi Anglong), while the introduction says six districts and nine starter samples. Materials/methods names Xaaj pitha, Apong and Suzen/mod pitha but does not map each of the nine samples to a village, district and community in accessible text.
+- Created `research/assam/src-108-starter-sample-geography-audit.md`. Kept ASM-GAP-053 Open and did not create village records or infer that every starter type occurs in every named district. Documented study-bounded microbiology and the need for author/AAU clarification.
