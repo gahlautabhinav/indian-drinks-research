@@ -52,3 +52,26 @@ The three live registry pages expose these authorized-user address strings. They
 | Application 970 — Bodo Maibra Jou Bidwi | Deborbill / Amteka Bazar / Amguri; Ward No. 01, Palashbari; West Dangarkutti, Dotoma; Batabari | Similar address strings recur, but this is not independent evidence of current production prevalence. |
 
 The registry's authorized-user section is useful for directing follow-up and cross-checking whether the producer list differs by product. Because the archive does not yet contain the underlying producer-list PDFs, names and address spellings should be rechecked against those documents before normalisation. No new canonical production-place rows have been created from these addresses alone.
+
+
+## Product-claim cross-check against existing technical and heritage sources
+
+This pass compared official registry metadata with source-specific summaries already registered in SRC-029 (2014), SRC-030/SRC-066 (2025), and SRC-083 (Bodoland GI Heritage exhibit). The registry lists original Statements of Case and the 2024 GI Journal copy, but the underlying documents have not yet been transcribed. These are **published descriptions to reconcile**, not statements of the legal GI specifications.
+
+| Registered product | Existing published description(s) | Claim requiring official case-statement check | Current handling |
+|---|---|---|---|
+| Bodo Jou Gwran (application 968) | SRC-029 describes “gwran” as a distilled form in its three-kind Jou taxonomy. SRC-030/SRC-066 describe rice-derived and fruit-substrate Kanthal-/Kola-Jougwran variants, with distillation described for fruit variants. Public GI news summaries repeat an alcohol figure of about 16.11%, but the repository has not verified its sampling protocol or whether it belongs to the registered product definition. | Is the registered product defined by substrate, distillation step, measured alcohol content, or a narrower process? Does the Statement of Case specify any analytical result as a characteristic? | Keep the GI record distinct from all published “gwran” uses. Do not repeat 16.11% as a product specification until the underlying analytical source and GI case are checked. |
+| Bodo Jou Gishi (application 969) | SRC-083 heritage exhibit gives a household-style cooked-rice/Amao preparation; SRC-029 discusses Jou broadly and does not settle all current name boundaries. Secondary news descriptions identify Gishi as fermented rice-based but provide little process detail. | What exact ingredients, starter terminology, fermentation sequence and product identity are claimed in the official case? Is “Zou Gishi” only a source spelling or a community-confirmed variant? | Preserve Gishi as a separate registered product. Do not infer synonymy with generic Jou bishi or Maibra Jou Bidwi. |
+| Bodo Maibra Jou Bidwi (application 970) | SRC-030/SRC-066 discuss Joubidwi as a direct/fresh rice-fermented product and distinguish it from stored Joufinai. Public descriptions say Maibra rice (Mairong) is fermented with less water and Amao, but this is secondary and does not establish the legal product specification. | Does the official case tie “Maibra” to a particular rice variety, preparation stage, water ratio or cultural use? What scope does it assign to “Jou Bidwi”? | Keep the registered name separate from broader Joubidwi uses until the case statement and community terminology are checked. |
+
+### Registry-document inventory and retrieval route
+
+The official detail pages explicitly list a “Statement of Case” dated 29-08-2022, a “Map” dated 29-08-2022, a “GI - Producers List” dated 13-02-2023, and a “GI - Journal Copy” dated 31-05-2024 for each relevant application; annexure numbering and later amended-map documents vary. The limitation is obtaining readable PDF content, not uncertainty that these documents are listed. Prioritize Journal 191 as a retrieval route, then compare it with the original Statement of Case and amended-map documents; do not assume the journal text includes every amended detail.
+
+## Next extraction order
+
+1. Retrieve Journal 191 and search entries for applications 968–970.
+2. Extract the product narrative and defined terms verbatim with page numbers.
+3. Compare the journal version against each 2022 Statement of Case and the 2023 amended-application/map documents.
+4. Transcribe producer lists separately; preserve exact spellings and do not automatically geocode address-only entries.
+5. Only after those comparisons, update beverage canonical fields or close ASM-GAP-026.
