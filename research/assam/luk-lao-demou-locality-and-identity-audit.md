@@ -25,3 +25,12 @@ Keep Luk Lao as a **provisional separate archive record** so its named commercia
 ## Next checks
 
 Find primary reporting, licence/heritage-liquor records, producer documentation, or consent-based community testimony that describes Luk Lao's preparation and relationship, if any, to Xajpani/Sajpani/Laopani. Keep the distinction unresolved until evidence is explicit.
+
+
+## Regulatory follow-up (2026-10-24)
+
+A search located the Government of Assam's 6 May 2017 Gazette amendment, Part IX, **Heritage Alcoholic Beverages**, reproduced at India Code (SRC-118). The indexed official extract defines a “starter cake” as a microbial culture used to ferment a substrate, prepared from grain, leaves, flowers, seeds and other plant parts through traditional methods and processes. This supports the existence of a specific regulatory framework for commercial heritage alcoholic beverages, but it does **not** verify Luk Lao's licence, exact product specification, current operating status, or identity relationship to Xajpani/Sajpani/Laopani. The official PDF endpoint timed out during direct retrieval; the precise rules and any licence-specific records still need document-level confirmation.
+
+The same Open Magazine article separately discusses the Luk Lao and Xaj commercial brands. That editorial distinction establishes two reported commercial product names, not necessarily two distinct underlying traditional beverage categories. A 2007 Tai-Ahom ethnobotanical study describes Sajpani (Tai) and Laopani (Assamese), but does not mention Luk Lao. Therefore the archive continues to keep Luk Lao provisional and separate pending product-level comparison and community/producer confirmation.
+
+Sources: [SRC-117](https://openthemagazine.com/art-culture/brewing-heritage); [SRC-118](https://upload.indiacode.nic.in/showfile?actid=AC_AS_58_531_00001_00001_1544168097283&filename=no._164_ex.138-2015-32_dated_06-05-17_heritage_liquor.pdf&type=rule); Saikia, Tag & Das (2007), [Tai-Ahom beverage study](https://www.researchgate.net/publication/237772274_Ethnobotany_of_foods_and_beverages_among_the_rural_farmers_of_Tai_Ahom_of_North_Lakhimpur_district_Asom).
