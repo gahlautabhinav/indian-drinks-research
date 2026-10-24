@@ -214,3 +214,10 @@ The official IP India consolidated list, *Registration Details of Geographical I
 | 650 | 970 | Bodo Maibra Jou Bidwi | Manufactured | Assam |
 
 Source: SRC-120, https://ipindia.gov.in/writereaddata/Portal/Images/pdf/Total_Registered_GI_details_of_GI_Application_in_India_15_05_2025.pdf. The live application pages separately show certificate numbers 648–650. This explains the likely origin of the heritage website's “GI/application no. 648–650” labels: those numbers coincide with both the consolidated list serials and certificate numbers, but the official application IDs are 968–970. In canonical IDs, gap cross-references, and application links, use 968–970; store 648–650 only in the certificate field where appropriate. SRC-120 corroborates the registry identifiers and class/state fields, but it does not unlock the Journal 191 text or the underlying Statements of Case.
+
+
+## Official GI Journal archive route tested — 2026-10-24
+
+The official IP India GI Journal archive is available at https://search.ipindia.gov.in/IPOJournal/Journal/GIR and lists Journal 191 dated 31-05-2024. The archive is a distinct official retrieval route from the individual application pages. However, in the accessible text/link extraction, the Journal 191 download action resolves to the generic PDF icon image (https://search.ipindia.gov.in/IPOJournal/Images/file-pdf.png), not a readable journal file. The individual application page's document action similarly resolves to a generic icon image. This test therefore confirms the official archive entry and dates, but **does not** establish that Journal 191's content was downloaded or read.
+
+Source registered as SRC-121 for archive discovery/access evidence. Continue with browser-capable inspection of the actual download mechanism or request the journal/case PDFs from IP India or the applicant. Do not cite this access test as evidence for any product recipe, product definition or GI boundary. ASM-GAP-026 remains Open.
