@@ -201,3 +201,16 @@ Added `research/assam/bodo-jou-community-heritage-source-audit-src-119.md` based
 Important metadata correction: the heritage pages label certificate numbers 648–650 as GI/application numbers. Official IP India records instead list applications 968–970 and certificates 648–650. Keep the fields separate in this archive. The Jou Gwran page reports ~16.11% alcohol and says repeated distillation lowers concentration; that wording is unresolved and must not be restated as a verified scientific principle. Jou Gishi pH/alcohol figures and the starter ratio are not independently verified in this pass. No health claims were promoted to clinical facts and no locality rows were created.
 
 SRC-119 is now registered in `sources/source_register.csv`. ASM-GAP-026 remains Open pending readable official Statements of Case, Journal 191 text and amended maps/producer lists.
+
+
+## Consolidated official GI register cross-check — SRC-120 (2026-10-24)
+
+The official IP India consolidated list, *Registration Details of Geographical Indications of India — total registered GI details* (PDF dated 15 May 2025), displays separate columns for list serial number and application number. It lists:
+
+| List serial no. | Application no. | Product | Goods category | State |
+|---:|---:|---|---|---|
+| 648 | 968 | Bodo Jou Gwran | Manufactured | Assam |
+| 649 | 969 | Bodo Jou Gishi | Manufactured | Assam |
+| 650 | 970 | Bodo Maibra Jou Bidwi | Manufactured | Assam |
+
+Source: SRC-120, https://ipindia.gov.in/writereaddata/Portal/Images/pdf/Total_Registered_GI_details_of_GI_Application_in_India_15_05_2025.pdf. The live application pages separately show certificate numbers 648–650. This explains the likely origin of the heritage website's “GI/application no. 648–650” labels: those numbers coincide with both the consolidated list serials and certificate numbers, but the official application IDs are 968–970. In canonical IDs, gap cross-references, and application links, use 968–970; store 648–650 only in the certificate field where appropriate. SRC-120 corroborates the registry identifiers and class/state fields, but it does not unlock the Journal 191 text or the underlying Statements of Case.
