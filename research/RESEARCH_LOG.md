@@ -321,3 +321,10 @@
 - Registered SRC-118, the Government of Assam's 6 May 2017 Gazette amendment, Part IX on Heritage Alcoholic Beverages, using the official India Code-hosted document URL. The indexed extract defines starter cake as a microbial culture used for substrate fermentation and made from grain/plant parts by traditional methods.
 - Direct PDF retrieval timed out; this is a regulatory-framework lead only, not proof of Luk Lao's current licence or its process/identity. The 2007 Tai-Ahom study describes Sajpani (Tai) and Laopani (Assamese) but does not mention Luk Lao; the 2024 magazine feature names Luk Lao and Xaj as separate commercial brands, which does not settle whether the underlying traditional beverage categories are distinct.
 - Updated `research/assam/luk-lao-demou-locality-and-identity-audit.md` and ASM-GAP-054. Identity remains unresolved; no merge performed.
+
+
+## 2026-10-24 — Bodo Jou authorised-user snapshot reconciliation
+- Rechecked live IP India pages for applications 968–970. The current extracted authorised-user tables show 4 entries for Bodo Jou Gwran, 3 for Bodo Jou Gishi, and 4 for Bodo Maibra Jou Bidwi.
+- Compared this with SRC-115, whose December 2024 portfolio table reports no registered authorised users for these entries. Documented the difference as a time-bounded discrepancy, not as an error: the live entries may post-date the report or status cut-offs may differ; exact AU registration dates/status need primary-record confirmation.
+- Updated the Bodo GI registry audit, SRC-115 source caveat and ASM-GAP-026 next action. No new production-place rows or canonical beverage claims added because AU addresses do not establish production at those sites.
+- The Statement of Case, amended maps and downloadable producer lists remain unreadable through the accessible registry extraction. ASM-GAP-026 stays Open.
