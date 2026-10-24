@@ -237,3 +237,10 @@
 - Inventory includes Journal Copy (31-05-2024), original Statement of Case and Map (29-08-2022), Producers List (13-02-2023), and amended application/map materials dated 19-10-2023. Annexure numbering differs by application: 968 amended application + Annexure-9 map; 969 Annexure-1 amended application + Annexure-10 map; 970 Annexure-1 amended application + Annexure-8 map.
 - Audit dossier now prioritizes comparing the Journal 191 copy with amended application/map materials, not assuming the original map is final. No canonical beverage or place records changed.
 - Official pages: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+## 2026-10-24 — Assam GI beverage cross-check: Judima vs Bodo Jou entries
+- Added an official-registry comparator for Judima (application 643): Registered, Class 33 / Manufactured, Journal 131 available 2020-03-11, certificate 376 dated 2021-09-14, valid through 2029-01-15; applicant shown as DIMAJIK HOSOM, Dibarai, Haflong, Dima Hasao.
+- Confirmed the registry metadata class differs from the Bodo Jou entries (Judima Class 33; applications 968–970 Class 32). Recorded this as a metadata difference only; did not infer product chemistry, process or shared geographic scope from it.
+- Added a caution that the CII North-East GI booklet's Judima geography/context is secondary summary evidence and must not replace the official case statement or village-level production evidence.
+- Next: obtain readable official Journal 131/case statement for Judima as a document-extraction comparator, while continuing to seek Journal 191 and amended case/map PDFs for the three Bodo Jou entries.
+- Sources: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643 ; https://www.ciiipr.in/pdf/North-East-Booklet-%28without%20certificate%29.pdf
