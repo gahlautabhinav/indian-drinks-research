@@ -54,7 +54,10 @@ Keep Assam as the active research state until those repository-level checks are 
 
 ## 2026-10-24 snapshot refresh
 
-The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **30 Assam beverage records; 99 Assam place-register rows (103 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 50 Assam research gaps, all Open; and 116 source-register rows.** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
+The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **31 Assam beverage records; 101 Assam place-register rows (105 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 54 Assam research gaps, all Open; and 117 source-register rows.** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
 
 
-**2026-10-24 source-count correction:** SRC-116 was added during the Bodo Jou GI document-retrieval pass. The current source-register row count is 116; this does not change the number of beverage or place records and does not close ASM-GAP-026.
+**2026-10-24 source-count correction:** SRC-116 was added during the Bodo Jou GI document-retrieval pass. The current source-register row count is 117 after adding SRC-117 for Luk Lao locality reporting; this does not close ASM-GAP-026.
+
+
+**2026-10-24 Luk Lao update:** Added provisional beverage record ASM-031-LKL and named commercial-production locality lead ASM-PL-101 for Demou, Sivasagar, based on SRC-117 (Open Magazine, 2024). Relationship to Xajpani/Sajpani/Nam-Lau/Laopani remains unresolved; see `research/assam/luk-lao-demou-locality-and-identity-audit.md` and ASM-GAP-054. This is not proof of village-wide current production.
