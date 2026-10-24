@@ -315,3 +315,9 @@
 - Chatterjee's 12 July 2024 Open Magazine feature reports a commercial rice-brew production unit called Luk Lao in Demou village, Sivasagar district, with brand launch in 2022. The article says local Ahom and Kalita people were employed in preparation; its producer's first-licensee claim remains attributed and unverified.
 - Registered SRC-117 and created `research/assam/luk-lao-demou-locality-and-identity-audit.md`.
 - Added provisional beverage record `ASM-031-LKL`, named locality row `ASM-PL-101`, and open identity gap `ASM-GAP-054`. Luk Lao is not merged with Xajpani/Sajpani/Nam-Lau/Laopani; the source does not provide a full recipe or prove synonymy/distinction. Current licensing and production status require primary confirmation.
+
+
+## 2026-10-24 — Luk Lao regulatory-framework cross-check
+- Registered SRC-118, the Government of Assam's 6 May 2017 Gazette amendment, Part IX on Heritage Alcoholic Beverages, using the official India Code-hosted document URL. The indexed extract defines starter cake as a microbial culture used for substrate fermentation and made from grain/plant parts by traditional methods.
+- Direct PDF retrieval timed out; this is a regulatory-framework lead only, not proof of Luk Lao's current licence or its process/identity. The 2007 Tai-Ahom study describes Sajpani (Tai) and Laopani (Assamese) but does not mention Luk Lao; the 2024 magazine feature names Luk Lao and Xaj as separate commercial brands, which does not settle whether the underlying traditional beverage categories are distinct.
+- Updated `research/assam/luk-lao-demou-locality-and-identity-audit.md` and ASM-GAP-054. Identity remains unresolved; no merge performed.
