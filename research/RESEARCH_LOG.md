@@ -230,3 +230,10 @@
 - These are source-reconciliation questions, not confirmed legal GI specifications. No canonical beverage records or production-place rows were changed.
 - Official detail pages explicitly list Statement of Case (29-08-2022), Map (29-08-2022), Producers List (13-02-2023), and GI Journal Copy (31-05-2024) for the relevant entries. The obstacle is obtaining readable PDF content, not uncertainty that the documents are listed. Prioritize Journal 191, then compare with original and amended documents.
 - Official registry pages: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+
+## 2026-10-24 — GI document inventory and link test
+- Inspected the full document lists exposed by official detail pages for applications 968, 969 and 970, and followed the rendered PDF link exposed in the page text. The accessible link resolved to the generic PDF icon image rather than a document payload, so this is an access limitation; no PDF contents were transcribed in this pass.
+- Inventory includes Journal Copy (31-05-2024), original Statement of Case and Map (29-08-2022), Producers List (13-02-2023), and amended application/map materials dated 19-10-2023. Annexure numbering differs by application: 968 amended application + Annexure-9 map; 969 Annexure-1 amended application + Annexure-10 map; 970 Annexure-1 amended application + Annexure-8 map.
+- Audit dossier now prioritizes comparing the Journal 191 copy with amended application/map materials, not assuming the original map is final. No canonical beverage or place records changed.
+- Official pages: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
