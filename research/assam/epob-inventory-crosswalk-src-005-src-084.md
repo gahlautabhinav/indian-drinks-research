@@ -10,8 +10,8 @@
 
 ## Files and method
 
-- `data/epob_sivasagar_inventory.csv` transcribes the 31 SRC-005 Table 1 entries, preserving reported taxon strings, vernacular names, families, plant parts, habits and collection-period codes.
-- `data/epob_inventory_crosswalk.csv` compares all 48 SRC-084 rows against the complete SRC-005 table.
+- `data/epob_sivasagar_inventory.csv` transcribes the 31 SRC-005 Table 1 entries and preserves the table's reported names and data fields as transcribed; punctuation/spacing may be normalized for readability. It is a transcription for comparison, not a facsimile of the original table.
+- `data/epob_inventory_crosswalk.csv` compares all 48 SRC-084 rows against the complete SRC-005 table. Some botanical strings have been regularized for comparison, so flagged source spellings and author citations must be checked against the article itself before accepted-name normalization.
 - Exact scientific-name matches are candidate overlaps; synonym-like names remain unverified. A no-exact-match result is not proof of biological absence or local uniqueness.
 
 ## Current findings
@@ -29,7 +29,7 @@ The remaining Majuli entries have no exact scientific-name match in the transcri
 
 ## Taxonomic and data-quality flags
 
-1. SRC-084 includes apparent spelling/taxonomy issues, including “Aschasma loroglossum” paired with Scytosiphonaceae, “Guilandian bonduc,” and “Termalia arjuna.” “Tinospora Miers” is a valid genus-level name (POWO accepts *Tinospora* Miers), but it does not identify a species. Raw strings must remain preserved; do not silently correct them.
+1. SRC-084 includes apparent spelling/taxonomy issues, including “Aschasma loroglossum” paired with Scytosiphonaceae, “Guilandian bonduc,” and “Termalia arjuna.” “Tinospora Miers” is a valid genus-level name (POWO accepts *Tinospora* Miers), but it does not identify a species. Source strings and comparison labels should not be conflated; where the crosswalk uses a regularized comparison form, consult `data/epob_taxonomy_flags.csv` and the original article before changing or deduplicating a name.
 2. SRC-084 reports *Zanthoxylum oxyphyllum* twice with different vernacular names and RFC/UV values. Preserve both entries: they may represent different vernacular/use reports for one taxon or a table duplication; the accessible evidence does not resolve which.
 3. SRC-005 itself uses source-specific spellings/taxonomic conventions, including “Melia azadirach,” “Albizzia lucida” and “Spilanthes acmella.” Keep accepted names in separate fields only after verification.
 4. The two studies differ in field design, taxonomic methods and indices. Counts of 31 and 48 are not evidence of temporal increase/decrease. RFC and UV are not directly comparable across studies without aligned denominators and methods.
