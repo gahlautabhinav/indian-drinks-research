@@ -216,3 +216,10 @@
 - Each registry page lists a Statement of Case, map and producer-list document. The page search results expose document titles and dates but did not yield a usable PDF payload in this pass, so no product-specific definition, production boundary, process requirement or full producer list is claimed as extracted.
 - Updated ASM-GAP-026 with the verified registry metadata and the remaining document-level extraction task. State-transition gate remains open until the official case statements/maps are read and the process/name claim audit is complete.
 - Official pages: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+
+## 2026-10-24 — Bodo Jou GI authorized-user locality cross-check
+- Rechecked the live official registry pages for applications 968, 969 and 970. Their authorized-user tables expose locality/address strings including Deborbill/Amteka Bazar/Amguri, Palashbari, West Dangarkutti/Dotoma and Batabari; the displayed lists differ slightly between product entries.
+- Added these strings to the GI audit as registry-listed address leads only. The pages do not establish that every listed address is a production locality, and they are not a substitute for the underlying producer-list PDFs or GI map.
+- Did not create canonical place-coverage rows from these addresses, to avoid converting an authorized-user address into unsupported production evidence. ASM-GAP-026 remains open pending Statement of Case/map/producer-list extraction and the process/name audit.
+- Official records: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
