@@ -133,3 +133,6 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [Luk Lao locality and identity audit](research/assam/luk-lao-demou-locality-and-identity-audit.md) — records the reported Demou commercial-production lead while keeping its relationship to Xajpani/Sajpani/Laopani unresolved. The provisional beverage record is `ASM-031-LKL`, locality lead `ASM-PL-101`, and open question `ASM-GAP-054`.
 
 - [Bodo Jou community-heritage source audit (SRC-119)](research/assam/bodo-jou-community-heritage-source-audit-src-119.md) — records the heritage site's process leads, distinguishes official application numbers 968–970 from certificate numbers 648–650, and flags unverified analytical/process claims.
+
+- [Bodo Jou community-heritage source audit (SRC-119)](research/assam/bodo-jou-community-heritage-source-audit-src-119.md) — records process leads and source limitations.
+- [Bodo Jou GI registry audit](research/assam/bodo-jou-gi-registry-audit-src-031-033.md) — includes the official consolidated-register cross-check (SRC-120) distinguishing serial numbers, application IDs and certificate numbers.
