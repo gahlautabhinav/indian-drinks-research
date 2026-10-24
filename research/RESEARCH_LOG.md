@@ -357,3 +357,11 @@
 - Tested the archive's visible Journal 191 link and the application-page PDF action through accessible link extraction. Both resolved to generic PDF-icon images rather than a readable document payload.
 - Registered the official journal archive as SRC-121 to preserve this retrieval route and its limitation. This is evidence of archive listing/access behaviour only; no Journal 191 text was extracted and no product specification was inferred.
 - Next technical step: use a browser-capable workflow to inspect the underlying download mechanism or request official PDFs from IP India/applicant. ASM-GAP-026 remains Open.
+
+
+## 2026-10-24 — New technical evidence for Jou Bidwi (SRC-122)
+- Added Das, Medhi and Tamang (2026), an open-access AMB Express multi-omics study of Jou Bidwi, Sai Mod, Black Rohi Modh and Rohi Modh.
+- Recorded the Jou Bidwi sampling locality as Kaljar, Baksa district, but only as the collection location for one household batch. The authors state that the twelve samples represent single authentic household batches and that triplicates are technical, not independent biological replicates.
+- Preserved the reported ~5.5% v/v ethanol for the sampled Jou Bidwi and pH range across the four study beverages as sample-specific observations, not universal specifications. Clarified that retinol-pathway annotation is metabolic potential, not proof of vitamin A delivery or clinical benefit.
+- Added SRC-122 to ASM-GAP-026's source list as contextual technical evidence; it does not substitute for GI case statements/maps/producer lists. Gap remains Open.
+- Current source-register count: 122 rows (header excluded); Assam beverage count and place rows not changed in this pass.
