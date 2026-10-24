@@ -195,3 +195,10 @@
 - Corrected the interpretation of “Tinospora Miers”: POWO confirms this is a valid genus-level name, not a malformed author citation; however, it does not identify a species in the Majuli table.
 - Retained the “Aschasma loroglossum” / Scytosiphonaceae discrepancy as unresolved. A separate literature list contains a similar “Achasma loroglossum” spelling, but that is not enough to normalize the starter-culture record.
 - References: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:914780-1 ; https://powo.science.kew.org/taxon/167609-3 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:332020-2 ; https://www.isca.in/IJBS/Archive/v3/i1/15.ISCA-IRJBS-2013-225.pdf
+
+## 2026-10-24 — Source-string versus comparison-name separation
+
+- Expanded `data/epob_inventory_crosswalk.csv` with a separate `Source_Taxon_String_As_Reported` column alongside `Taxon_Name_Used_For_Comparison` for all 48 Majuli rows. This prevents comparison normalization from being mistaken for the paper's exact spelling.
+- Some author citations are obscured in the accessible text/OCR and are labelled as uncertain rather than reconstructed as fact. The typeset source table or voucher data is still needed to resolve them.
+- Refined the taxonomy flag for `Tinospora Miers`: POWO accepts *Tinospora* Miers as a genus, but the source row does not identify a species.
+- Updated the crosswalk memo to describe the source-string limitations explicitly.
