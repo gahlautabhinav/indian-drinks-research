@@ -252,3 +252,11 @@
 - Date-qualified AU reconciliation: the current live application 969 page exposes AU-numbered rows (AU/48542/GI/969/1, AU/48564/GI/969/2, AU/48579/GI/969/3), while SRC-115 is a Dec 2024 snapshot reporting zero registered authorised users. The live page's accessible Status cells are blank. Treat this as a date/status-convention discrepancy; do not call these people unregistered, and do not infer current production from addresses. Underlying AU records and effective dates remain to be checked.
 - ASM-GAP-026 remains open; SRC-115 adds governance context but does not provide the three product Statements of Case, detailed maps or production standards.
 - Source: https://ctil.org.in/docs/WCP_Study/_%20A%20STUDY%20ON%20THE%20APPLICATION%20AND%20COVERAGE%20OF%20GEOGRAPHICAL%20INDICATIONS%20FOR%20INDUSTRIALMANUFACTURED%20GOODS%20UNDER%20INDIA%E2%80%99S%20FREE%20TRADE%20AGREEMENTS%20(FTAs).pdf
+
+
+## 2026-10-24 — Live AU identifier crosswalk for Bodo Jou GIs
+- Compared the current live IP India authorised-user tables for applications 968, 969 and 970, rather than relying only on the earlier address summary.
+- Captured 4 AU-numbered rows for application 968, 3 for 969, and 4 for 970 (11 product-specific rows total); the accessible page text has blank Status cells.
+- AU identifiers differ by product even when the displayed name recurs. Kept the rows product-specific; did not create place/production records from addresses.
+- This is a current live-page snapshot and is later than SRC-115's December 2024 portfolio snapshot. The date difference may explain the apparent conflict, but the legal effect/status and effective dates of the AU entries remain unverified without the underlying documents.
+- Official sources: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
