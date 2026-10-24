@@ -350,3 +350,10 @@
 - Confirmed that the table separates list serial numbers 648–650 from application numbers 968–970 for Bodo Jou Gwran, Jou Gishi and Maibra Jou Bidwi. The live registry separately gives certificate numbers 648–650. The heritage-site labels likely conflate the list serial/certificate values with the application field.
 - Updated the Bodo Jou GI audit and linked SRC-120 to ASM-GAP-026. Canonical references continue to use application numbers 968–970; certificates remain 648–650.
 - The consolidated list confirms identity/class/state metadata only; Journal 191, Statements of Case, amended maps and producer-list extraction remain unresolved. No recipe or locality claims changed.
+
+
+## 2026-10-24 — Official GI Journal archive access test
+- Located the official IP India GI Journal archive at https://search.ipindia.gov.in/IPOJournal/Journal/GIR; it lists Journal 191 with publication/availability date 31-05-2024.
+- Tested the archive's visible Journal 191 link and the application-page PDF action through accessible link extraction. Both resolved to generic PDF-icon images rather than a readable document payload.
+- Registered the official journal archive as SRC-121 to preserve this retrieval route and its limitation. This is evidence of archive listing/access behaviour only; no Journal 191 text was extracted and no product specification was inferred.
+- Next technical step: use a browser-capable workflow to inspect the underlying download mechanism or request official PDFs from IP India/applicant. ASM-GAP-026 remains Open.
