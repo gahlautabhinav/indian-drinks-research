@@ -128,3 +128,6 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 
 - [SRC-061 locality and claim-level audit](research/assam/src-061-locality-and-claim-audit.md) — records the six named study districts, the 32-village/202-respondent scope, and strict limits on district-by-beverage and village-level inference.
 - [SRC-095 systematic-review screening note](research/assam/src-095-systematic-review-screen.md) — records what the 2026 review abstract supports and what remains unverified pending full-text review.
+
+
+- [Luk Lao locality and identity audit](research/assam/luk-lao-demou-locality-and-identity-audit.md) — records the reported Demou commercial-production lead while keeping its relationship to Xajpani/Sajpani/Laopani unresolved. The provisional beverage record is `ASM-031-LKL`, locality lead `ASM-PL-101`, and open question `ASM-GAP-054`.
