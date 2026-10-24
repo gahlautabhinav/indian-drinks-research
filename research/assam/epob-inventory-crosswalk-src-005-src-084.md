@@ -35,6 +35,10 @@ The remaining Majuli entries have no exact scientific-name match in the transcri
 4. The two studies differ in field design, taxonomic methods and indices. Counts of 31 and 48 are not evidence of temporal increase/decrease. RFC and UV are not directly comparable across studies without aligned denominators and methods.
 5. SRC-005 reports taxonomic support from Botanical Survey of India specialists and comparison with regional herbaria; the accessible SRC-084 table contains apparent inconsistencies. Neither source should be treated as error-free.
 
+## Separate taxonomic-flag register
+
+The companion file `data/epob_taxonomy_flags.csv` records six explicit review flags: the Acmella/Spilanthes author-citation conflict; apparent spellings “Guilandian bonduc” and “Termalia arjuna”; incomplete “Tinospora Miers” identification; the apparent *Aschasma loroglossum* / Scytosiphonaceae family mismatch; and the two *Zanthoxylum oxyphyllum* records. Raw strings are preserved and normalized names are provisional only.
+
 ## Remaining actions to close ASM-GAP-045
 
 - Verify source-reported names against an authoritative taxonomic database and record accepted name plus confidence in separate fields.
