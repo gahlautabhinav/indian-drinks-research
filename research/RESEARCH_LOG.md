@@ -161,7 +161,7 @@
 - No new beverage or locality records were added. Memo: research/assam/src-114-epob-hrlcms-audit.md. Next: inspect the full article before incorporating compound names or quantitative findings; chemical profiling alone does not establish clinical benefits or finished-drink composition.
 - Follow-up source audit: indexed PDF text reports one E'pob sample collected in Lakhimpur district on 2023-08-15; 25 g was extracted using three solvents and tables list 34 HRLC-MS annotations. Several annotations are names of pharmaceutical substances; without standards/raw spectra/controls, retain as tentative annotations and do not infer verified ingredients, contamination or therapeutic effects. Memo and source-register caveats updated. No village row added.
 
-## 2026-10-24 — SRC-115 Mising ÉPOP field study
-- Registered Mili & Sundriyal (2023), “ÉPOP (traditional starter culture): a complex composition of plant resources prepared by the Misings of Assam, Northeast India,” DOI 10.1186/s42779-023-00214-2.
-- Primary fieldwork covers 15 randomly selected Sivasagar villages, with Majorbari and Ligiribari as in-depth sites. It reports 31 starter-plant species across 22 families and directly documents plant collection and ÉPOP preparation. Existing place records ASM-PL-004 and ASM-PL-005 already cover the two named villages, so no duplicate place or beverage rows are required.
-- Updated the SRC-115 dossier and source register. Continue the existing ASM-GAP-045 taxon-by-taxon comparison with the Majuli inventory; don't interpret cross-study species counts as a time trend or generalize medicinal claims as clinical evidence.
+## 2026-10-24 — SRC-005 Mising ÉPOP full-text reconciliation
+- Re-audited the already registered Mili & Sundriyal (2023) study using the publisher's full text; no new source ID was warranted.
+- Confirmed 15 villages surveyed in Sivasagar, with Majorbari and Ligiribari selected for in-depth documentation; existing place rows ASM-PL-004 and ASM-PL-005 already cover those sites.
+- Refined SRC-005's source-register entry and added research/assam/src-005-sivasagar-epop-fulltext-reconciliation.md. Existing ASM-GAP-045 remains open for the taxon-by-taxon comparison against the Majuli inventory. No duplicate beverage, place, or source record retained.
