@@ -51,3 +51,7 @@ Keep Assam as the active research state until those repository-level checks are 
 - [ ] Extract and compare the primary GI specifications for Jou Gwran, Jou Gishi and Maibra Jou Bidwi.
 - [ ] Complete the targeted process/name claim audit identified in the close-out review.
 - [x] Latest GitHub Pages deployment succeeds for the final documentation commit (run [39927405518](https://github.com/gahlautabhinav/indian-drinks-research/actions/runs/39927405518)).
+
+## 2026-10-24 snapshot refresh
+
+The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **30 Assam beverage records; 99 Assam place-register rows (103 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 50 Assam research gaps, all Open; and 115 source-register rows.** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
