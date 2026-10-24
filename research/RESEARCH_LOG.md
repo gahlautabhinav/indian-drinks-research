@@ -208,3 +208,11 @@
 - Added `Family_As_Reported` to all 48 rows in `data/epob_inventory_crosswalk.csv`, retaining the family names printed in SRC-084 separately from comparison taxon names. Also verified that the Hydrocotyle row preserves the article's family label, Araliaceae.
 - Updated the crosswalk memo to state that source-reported family labels are preserved and not silently modernized. Apparent mismatches remain subject to original-table/voucher review.
 - This addition improves traceability; it does not resolve any taxonomic flags or close ASM-GAP-045.
+
+
+## 2026-10-24 — Bodo Jou GI registry metadata audit
+- Revisited the primary Intellectual Property India pages for applications 968, 969 and 970. All three pages show registered status, Class 32 / Manufactured Goods, geographical area listed as Assam, filing on 2022-08-29, Journal 191 available 2024-05-31, and registration certificates dated 2024-10-01, valid through 2028-08-28? (Registry display states 28-08-2032; preserve that literal date in the source note).
+- Application-to-product mapping: 968 = Bodo Jou Gwran (certificate 648); 969 = Bodo Jou Gishi (certificate 649); 970 = Bodo Maibra Jou Bidwi (certificate 650).
+- Each registry page lists a Statement of Case, map and producer-list document. The page search results expose document titles and dates but did not yield a usable PDF payload in this pass, so no product-specific definition, production boundary, process requirement or full producer list is claimed as extracted.
+- Updated ASM-GAP-026 with the verified registry metadata and the remaining document-level extraction task. State-transition gate remains open until the official case statements/maps are read and the process/name claim audit is complete.
+- Official pages: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
