@@ -244,3 +244,11 @@
 - Added a caution that the CII North-East GI booklet's Judima geography/context is secondary summary evidence and must not replace the official case statement or village-level production evidence.
 - Next: obtain readable official Journal 131/case statement for Judima as a document-extraction comparator, while continuing to seek Journal 191 and amended case/map PDFs for the three Bodo Jou entries.
 - Sources: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643 ; https://www.ciiipr.in/pdf/North-East-Booklet-%28without%20certificate%29.pdf
+
+## 2026-10-24 — CTIL/IIFT institutional cross-check for Assam GI beverages (SRC-115)
+- Added Samuel’s CTIL/IIFT report as SRC-115 after reviewing the full 142-page PDF and relevant sections (pp. 49–52, 70–71).
+- Confirmed the report classifies Bodo Jou Gwran, Bodo Jou Gishi and Bodo Maibra Jou Bidwi in Class 32 (beer/alcoholic beverages) and Judima in Class 33 (alcoholic beverages except beers). This is a goods-classification distinction, not a substitute for chemical or process specifications.
+- The report lists Bodo Traditional Brewer’s Association as proprietor for all three Bodo Jou GIs and records zero registered authorised users in its December 2024 table. Its qualitative stakeholder summary says brewing is mainly by women in household settings, with constraints around research/infrastructure, AU registration and regulation.
+- Reconciliation flag: live IP India detail pages expose address strings in an authorised-user-related table, while SRC-115’s Dec 2024 snapshot says no registered authorised users. Do not equate those displayed addresses with formal registered AU status or verified production sites until official AU status/history is reconciled.
+- ASM-GAP-026 remains open; SRC-115 adds governance context but does not provide the three product Statements of Case, detailed maps or production standards.
+- Source: https://ctil.org.in/docs/WCP_Study/_%20A%20STUDY%20ON%20THE%20APPLICATION%20AND%20COVERAGE%20OF%20GEOGRAPHICAL%20INDICATIONS%20FOR%20INDUSTRIALMANUFACTURED%20GOODS%20UNDER%20INDIA%E2%80%99S%20FREE%20TRADE%20AGREEMENTS%20(FTAs).pdf
