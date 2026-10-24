@@ -19,7 +19,9 @@
 This pass finds **14 exact-name candidate overlaps**:
 Hydrocotyle sibthorpioides, Alstonia scholaris, Ageratum conyzoides, Mikania scandens, Leucas aspera, Cinnamomum tamala, Litsea salicifolia, Artocarpus heterophyllus, Psidium guajava, Piper longum, Saccharum officinarum, Scoparia dulcis, Vitex negundo and Dryopteris filix-mas.
 
-One additional possible synonym-level overlap requires verification: Majuli's *Acmella paniculata* versus Sivasagar's *Spilanthes acmella*. Do not count it as confirmed until an authoritative taxonomic source establishes the accepted name/synonym relationship.
+One apparent cross-name candidate is now explicitly **unresolved, not counted as an overlap**: Majuli's *Acmella paniculata* versus Sivasagar's *Spilanthes acmella* (reported with author citation “Murr.”). POWO accepts *Acmella paniculata* and lists *Spilanthes acmella* (L.) L. as a synonym of *Blainvillea acmella*, not *Acmella paniculata*. Because the Sivasagar paper gives a different author citation and taxonomic usage, the names cannot safely be merged without checking the original paper's botanical reference/specimen.
+
+Taxonomy references: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:914780-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:250748-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:3242129-4
 
 **Plant-part differences matter.** For example, Majuli reports fruit for *Piper longum* while Sivasagar Table 1 reports leaf; Majuli reports stem for *Saccharum officinarum* while Sivasagar Table 1 reports leaf; and Majuli reports leaves for *Scoparia dulcis* while Sivasagar reports the whole plant. All original part values remain in the CSV.
 
@@ -28,7 +30,7 @@ The remaining Majuli entries have no exact scientific-name match in the transcri
 ## Taxonomic and data-quality flags
 
 1. SRC-084 includes apparent spelling/taxonomy issues, including “Tinospora Miers,” “Aschasma loroglossum” paired with Scytosiphonaceae, “Guilandian bonduc,” and “Termalia arjuna.” Raw strings must remain preserved; do not silently correct them.
-2. SRC-084 reports *Zanthoxylum oxyphyllum* twice with different vernacular names and RFC/UV values. Preserve both entries pending author clarification.
+2. SRC-084 reports *Zanthoxylum oxyphyllum* twice with different vernacular names and RFC/UV values. Preserve both entries: they may represent different vernacular/use reports for one taxon or a table duplication; the accessible evidence does not resolve which.
 3. SRC-005 itself uses source-specific spellings/taxonomic conventions, including “Melia azadirach,” “Albizzia lucida” and “Spilanthes acmella.” Keep accepted names in separate fields only after verification.
 4. The two studies differ in field design, taxonomic methods and indices. Counts of 31 and 48 are not evidence of temporal increase/decrease. RFC and UV are not directly comparable across studies without aligned denominators and methods.
 5. SRC-005 reports taxonomic support from Botanical Survey of India specialists and comparison with regional herbaria; the accessible SRC-084 table contains apparent inconsistencies. Neither source should be treated as error-free.
