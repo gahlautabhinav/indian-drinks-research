@@ -152,3 +152,18 @@ A separate 10 March 2026 Lok Sabha answer to Unstarred Question No. 2920, reprod
 ### Retrieval decision
 
 Do not keep repeating broad search queries for Journal 191 without a new technical lead. The next productive path is to test the registry's document-link mechanism in a browser-capable workflow or request the underlying PDFs from the Registry/applicant; in parallel, continue the separate process/name audit using sources already archived. Until the PDFs are obtained, product-specific legal specifications, the 16.11% alcohol claim, distillation scope for Jou Gwran, and equivalence claims for Jou bishi/Joubidwi/Joufinai remain unresolved. ASM-GAP-026 stays Open.
+
+
+## Authorised-user snapshot reconciliation — 2026-10-24
+
+A current read of the live registry's authorised-user tables shows a different picture from the December 2024 portfolio snapshot summarized in SRC-115:
+
+| GI application | Live registry page lists | SRC-115 Dec 2024 snapshot |
+|---|---:|---|
+| 968 — Bodo Jou Gwran | 4 authorised-user entries | No registered authorised users shown |
+| 969 — Bodo Jou Gishi | 3 authorised-user entries | No registered authorised users shown |
+| 970 — Bodo Maibra Jou Bidwi | 4 authorised-user entries | No registered authorised users shown |
+
+The live pages were checked on 2026-10-24: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968, https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969, and https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970. The institutional report's table is explicitly a December 2024 snapshot, while the current registry page lists entries with AU numbers. This is a time-bounded registry discrepancy, not grounds to label SRC-115 wrong: authorised-user entries may have been added after its snapshot, or the report and live registry may use different status cut-offs. The exact registration/approval dates and current status of each AU entry were not exposed in the extracted page text and remain to be checked against the downloadable records.
+
+The current registry address strings overlap across the three products, but authorised-user status does not prove that the person currently produces every registered product at the listed address. Do not create production-place rows or infer production prevalence from these tables. Update the source-level caveat and keep ASM-GAP-026 open until primary GI case statements, maps and producer documents are readable.
