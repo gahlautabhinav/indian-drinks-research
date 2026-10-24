@@ -54,10 +54,13 @@ Keep Assam as the active research state until those repository-level checks are 
 
 ## 2026-10-24 snapshot refresh
 
-The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **31 Assam beverage records; 100 Assam place-register rows (104 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 51 Assam-assigned research gaps (56 total project gaps, all Open); and 117 source-register rows.** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
+The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **31 Assam beverage records; 100 Assam place-register rows (104 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 51 Assam-assigned research gaps (56 total project gaps, all Open); and 118 source-register rows.** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
 
 
 **2026-10-24 source-count correction:** SRC-116 was added during the Bodo Jou GI document-retrieval pass. The current source-register row count is 117 after adding SRC-117 for Luk Lao locality reporting; this does not close ASM-GAP-026.
 
 
 **2026-10-24 Luk Lao update:** Added provisional beverage record ASM-031-LKL and named commercial-production locality lead ASM-PL-101 for Demou, Sivasagar, based on SRC-117 (Open Magazine, 2024). Relationship to Xajpani/Sajpani/Nam-Lau/Laopani remains unresolved; see `research/assam/luk-lao-demou-locality-and-identity-audit.md` and ASM-GAP-054. This is not proof of village-wide current production.
+
+
+**2026-10-24 regulatory source addition:** SRC-118 records the Government of Assam's 6 May 2017 Gazette amendment on Heritage Alcoholic Beverages. Its indexed extract establishes the regulatory framework and a definition of starter cake, not a Luk Lao-specific licence or recipe. The PDF timed out during direct retrieval; ASM-GAP-054 remains open.
