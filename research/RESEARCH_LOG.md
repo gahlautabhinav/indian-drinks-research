@@ -303,3 +303,9 @@
 - Audited the 14 exact-name candidate overlaps between SRC-005 (Sivasagar) and SRC-084 (Majuli) against the crosswalk's reported plant-part fields.
 - Current transcription indicates 7 broad plant-part matches and 7 differences/partial differences. Examples: *Piper longum* fruit vs leaf; *Saccharum officinarum* stem vs leaf; *Scoparia dulcis* leaves vs whole plant. Matching names do not establish recipe identity or interchangeable use.
 - Created `research/assam/epob-inventory-plant-part-comparison-audit.md`. No raw inventory rows or canonical records changed; source table/voucher verification and SRC-084 locality clarification remain open. ASM-GAP-045 remains Open.
+
+
+## 2026-10-24 — SRC-084 field-method metadata audit
+- Rechecked the full-text copy of Borah (2026): field survey took place in three randomly selected Majuli villages from April–October 2024; 28 informants aged 40–70 were interviewed, with emphasis on older women involved in Apong preparation. The accessible paper does not name the villages, so no village-level records were inferred.
+- The paper documents plants for E’pob starter cake and discusses both Po:ro and Nogin Apong. The source-table spellings “Guilandian bonduc” and “Termalia arjuna” appear to be errors: Kew accepts *Guilandina bonduc* and *Terminalia arjuna*, and the reported family fields (Fabaceae and Combretaceae) are consistent with those candidate names. Preserve the source strings until author/voucher confirmation.
+- Added `research/assam/epob-src084-field-method-metadata-audit.md`. ASM-GAP-045 remains open; missing village names and voucher/accession information remain unresolved.
