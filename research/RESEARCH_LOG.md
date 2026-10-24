@@ -154,3 +154,8 @@
 - Registered Arkotong Longkumer (2016), “Rice-Beer, Purification and Debates over Religion and Culture in Northeast India,” DOI 10.1080/00856401.2016.1154645.
 - This ethnographic source uses Zao and discusses Herazao, Tekuizao/Zao kesang and Klezao in a specific North Cachar Hills context. The focal village name is pseudonymous, so no place row was added.
 - Crosswalk memo: research/assam/src-113-longkumer-zao-ethnography.md. Similar spellings across Longkumer (2016), Atungbou (2020), and Yumnam et al. (2024) remain unmerged pending community/author confirmation.
+
+## 2026-10-24 — SRC-114 E'pob HRLC-MS audit
+- Registered Borah, Chavan, Shekade and Dhabe (2024), “HRLC-MS analysis of Apong starter culture (E'pob),” DOI 10.22271/phyto.2024.v13.i2f.14928.
+- The paper analyses the Mising Apong starter cake itself. The publisher abstract and citation were accessible, but the linked PDF returned an access-verification page, so no compound-level results were copied or asserted.
+- No new beverage or locality records were added. Memo: research/assam/src-114-epob-hrlcms-audit.md. Next: inspect the full article before incorporating compound names or quantitative findings; chemical profiling alone does not establish clinical benefits or finished-drink composition.
