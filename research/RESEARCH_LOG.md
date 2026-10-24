@@ -181,3 +181,10 @@
 - Updated the 48-row crosswalk to mark this candidate unresolved and not counted as an overlap; updated the ASM-GAP-045 action text and audit memo.
 - The two *Zanthoxylum oxyphyllum* rows in SRC-084 remain separate source records pending clarification; they may reflect distinct vernacular/use reports or a table duplication.
 - Taxonomic references: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:914780-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:250748-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:3242129-4
+
+## 2026-10-24 — Dedicated plant-taxonomy flag register
+
+- Added `data/epob_taxonomy_flags.csv` with six review flags: the Acmella/Spilanthes author-citation conflict, apparent spellings “Guilandian bonduc” and “Termalia arjuna,” incomplete “Tinospora Miers” identification, the apparent *Aschasma loroglossum* / Scytosiphonaceae family mismatch, and duplicate-looking *Zanthoxylum oxyphyllum* records.
+- Kew POWO confirms *Guilandina bonduc* and *Terminalia arjuna* as recorded taxon names, and accepts *Zanthoxylum oxyphyllum*. Raw SRC-084 spellings remain preserved; no source string was silently corrected.
+- Updated the crosswalk memo and ASM-GAP-045 to reference the new flag register.
+- References: https://powo.science.kew.org/taxon/114706-2 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1 ; https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:775920-1
