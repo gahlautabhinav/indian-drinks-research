@@ -134,5 +134,6 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 
 - [Bodo Jou community-heritage source audit (SRC-119)](research/assam/bodo-jou-community-heritage-source-audit-src-119.md) — records the heritage site's process leads, distinguishes official application numbers 968–970 from certificate numbers 648–650, and flags unverified analytical/process claims.
 
-- [Bodo Jou community-heritage source audit (SRC-119)](research/assam/bodo-jou-community-heritage-source-audit-src-119.md) — records process leads and source limitations.
 - [Bodo Jou GI registry audit](research/assam/bodo-jou-gi-registry-audit-src-031-033.md) — includes the official consolidated-register cross-check (SRC-120) distinguishing serial numbers, application IDs and certificate numbers.
+
+- [Bodo Jou official register number cross-check (SRC-120)](research/assam/bodo-jou-official-register-number-crosscheck-src-120.md) — distinguishes consolidated-list serials 648–650 from application numbers 968–970 and certificate numbers 648–650.
