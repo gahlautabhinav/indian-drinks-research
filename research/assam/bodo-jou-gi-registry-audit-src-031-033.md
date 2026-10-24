@@ -93,3 +93,11 @@ A fresh line-by-line check of the official application-detail pages confirms tha
 - Application 968: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968
 - Application 969: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969
 - Application 970: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+## Cross-check against Assam's other registered traditional beverage: Judima
+
+A separate live GI Registry entry, application 643, records **Judima** as Registered, Class 33 / Manufactured, geographical area Assam, filed 16-01-2019, Journal 131 available 11-03-2020, certificate 376 dated 14-09-2021, valid through 15-01-2029. The registry lists applicant “DIMAJIK HOSOM” at Dibarai, Haflong, Dima Hasao. Official page: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643.
+
+This is a useful registry-level comparator, but it does not establish that Judima and the three Bodo Jou products share a specification or production geography. In the registry metadata, Judima is Class 33 while the three Bodo Jou entries are Class 32. Treat that as a registry classification difference, not as enough evidence to infer ingredients, alcohol strength, process or legal category beyond the displayed fields. A CII North-East GI booklet independently describes Judima as a rice wine made by Dimasa people and gives Dima Hasao/Karbi Anglong as a contextual location statement, but this is secondary summary material, not a substitute for the GI Statement of Case: https://www.ciiipr.in/pdf/North-East-Booklet-%28without%20certificate%29.pdf.
+
+**Next research move:** keep the Bodo Jou product specifications unresolved until the primary PDFs are readable; separately use Judima's official Journal 131/case statement as a template for what evidence fields to extract (product definition, raw materials, process, geographic boundary, producer/association details). Do not merge the two GI scopes or promote secondary booklet geography into village-level production rows.
