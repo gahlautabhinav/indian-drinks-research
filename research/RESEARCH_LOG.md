@@ -149,3 +149,8 @@
 - Important unresolved identity question: Atungbou’s Nduizou and starter “nduihi” resemble Chakrabarty (2017; SRC-109) Nduijao/Nduiyi and Yumnam et al. (2024; SRC-110) Zao/Ndhuihi, but none of these sources explicitly establishes synonymy. Keep records separate pending community or author clarification.
 - No new place rows were added because the article does not give a named village for each form. Traditional health framing was not treated as clinical evidence.
 - Next: seek community-led clarification of these names and verify whether the SRC-110 sample corresponds to one of Atungbou’s named Zou forms.
+
+## 2026-10-24 — SRC-113 Zeme Zao ethnography
+- Registered Arkotong Longkumer (2016), “Rice-Beer, Purification and Debates over Religion and Culture in Northeast India,” DOI 10.1080/00856401.2016.1154645.
+- This ethnographic source uses Zao and discusses Herazao, Tekuizao/Zao kesang and Klezao in a specific North Cachar Hills context. The focal village name is pseudonymous, so no place row was added.
+- Crosswalk memo: research/assam/src-113-longkumer-zao-ethnography.md. Similar spellings across Longkumer (2016), Atungbou (2020), and Yumnam et al. (2024) remain unmerged pending community/author confirmation.
