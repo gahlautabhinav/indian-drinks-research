@@ -141,3 +141,14 @@ Official pages:
 - https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
 
 **Interpretation:** the AU-numbered rows are a stronger registry signal than unnumbered address leads, but the blank Status field and absence of the underlying AU documents in the accessible output still limit what can be concluded. Do not treat these addresses as verified active production sites, and do not infer that the same person produces all three products merely because names recur across lists. This live-page inventory is later than the December 2024 SRC-115 snapshot and should be retained as a dated separate observation.
+
+
+## Secondary official-record cross-check and Journal 191 retrieval outcome — 2026-10-24
+
+A broader public-web search for the complete GI Journal 191 PDF and the three Bodo Jou entries did not surface a readable journal payload. The live registry pages remain the best primary route: they explicitly list the Journal Copy dated 31-05-2024, but the accessible page text renders document links as generic PDF-icon references and does not expose a usable document URL/payload. This is a documented access limitation, not evidence that the documents are absent.
+
+A separate 10 March 2026 Lok Sabha answer to Unstarred Question No. 2920, reproduced in a searchable parliamentary-answer archive, independently lists applications 968 (Bodo Jou Gwran), 969 (Bodo Jou Gishi) and 970 (Bodo Maibra Jou Bidwi) as Registered, with filing dates 29-08-2022 and goods category “Manufactured.” This is a portfolio-level status cross-check only; it provides no recipe, process, analytical specification, or village boundary. Source record SRC-116 is explicitly marked as a searchable reproduction, not the authoritative hosted parliamentary PDF.
+
+### Retrieval decision
+
+Do not keep repeating broad search queries for Journal 191 without a new technical lead. The next productive path is to test the registry's document-link mechanism in a browser-capable workflow or request the underlying PDFs from the Registry/applicant; in parallel, continue the separate process/name audit using sources already archived. Until the PDFs are obtained, product-specific legal specifications, the 16.11% alcohol claim, distillation scope for Jou Gwran, and equivalence claims for Jou bishi/Joubidwi/Joufinai remain unresolved. ASM-GAP-026 stays Open.
