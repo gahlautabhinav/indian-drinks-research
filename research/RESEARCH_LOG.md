@@ -266,3 +266,9 @@
 - Current counts: 30 Assam beverage records; 99 Assam place-register rows; 103 place rows project-wide; 32 distinct raw district-field strings; 36 semicolon-separated district tokens; 35 district-baseline rows; 50 Assam research gaps (all Open); 115 source-register rows.
 - Marked the 2026-10-23 coverage-audit and release-note counts as superseded by adding explicit refresh sections. These counts describe archive coverage, not an exhaustive census or percentage of Assam traditions documented.
 - State transition remains pending: Bodo Jou GI Journal 191 / Statement of Case / amended map extraction is still incomplete.
+
+
+## 2026-10-24 — Bodo Jou GI document-retrieval pass
+- Re-ran targeted public searches for the full GI Journal 191 PDF and applications 968–970. Search did not yield a readable journal payload; the official application pages list the Journal Copy (31-05-2024), but accessible page text exposes only generic PDF-icon links. Record this as an access limitation, not missing-document evidence.
+- Added SRC-116 for a searchable reproduction of the 10 March 2026 Lok Sabha answer to Unstarred Question 2920. It independently lists Bodo Jou Gwran (968), Bodo Jou Gishi (969), and Bodo Maibra Jou Bidwi (970) as Registered / Manufactured, filed 29-08-2022. It does not contain product specifications or geographic boundaries and is not treated as the authoritative hosted parliamentary PDF.
+- Updated the GI dossier with the retrieval outcome and next decision. ASM-GAP-026 remains Open; no product-process, alcohol-strength, or synonymy claim was promoted without the Statements of Case / Journal 191 text.
