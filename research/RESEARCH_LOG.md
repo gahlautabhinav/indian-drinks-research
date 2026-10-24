@@ -328,3 +328,10 @@
 - Compared this with SRC-115, whose December 2024 portfolio table reports no registered authorised users for these entries. Documented the difference as a time-bounded discrepancy, not as an error: the live entries may post-date the report or status cut-offs may differ; exact AU registration dates/status need primary-record confirmation.
 - Updated the Bodo GI registry audit, SRC-115 source caveat and ASM-GAP-026 next action. No new production-place rows or canonical beverage claims added because AU addresses do not establish production at those sites.
 - The Statement of Case, amended maps and downloadable producer lists remain unreadable through the accessible registry extraction. ASM-GAP-026 stays Open.
+
+
+## 2026-10-24 — Bodo Jou product-specific authorised-user crosswalk
+- Transcribed the live registry authorised-user entries for applications 968–970 with product-specific AU numbers, names and address strings into the existing Bodo GI audit.
+- Cross-product overlap: Ranjila Mohilary, Jwmwi Brahma and Kansai Brahma are listed for all three; Pulak Ch Basumatary appears for 968 and 970 but not 969. The extracted Status cells are blank, and the registry AU numbers are distinct by application.
+- Interpretation: this is an administrative crosswalk only. It does not establish active production, production site, recipe similarity, or synonymy. No beverage/place records added.
+- Updated ASM-GAP-026 to reflect the detailed crosswalk; kept the gap Open pending readable case statements, amended maps and producer documents.
