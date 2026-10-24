@@ -291,3 +291,9 @@
 - Investigated the candidate overlap between SRC-084's *Acmella paniculata* and SRC-005's source string *Spilanthes acmella* Murr. using Kew POWO and an Indian botanical paper on historically misapplied *Spilanthes* names.
 - POWO accepts *Acmella paniculata* and lists *Spilanthes paniculata* and *Spilanthes acmella* var. *paniculata* as synonyms, while treating *Spilanthes acmella* (L.) L. as a synonym of *Blainvillea acmella*. The Indian paper cautions that material historically labelled “*Spilanthes acmella* Murr.” may represent mixed species and discusses *S. paniculata* as the correct name for material often mislabelled this way.
 - Decision: do not merge the SRC-005 and SRC-084 entries based on name similarity. Updated EP-TAX-001 with the additional evidence and created `research/assam/epob-acmella-spilanthes-taxonomy-followup.md`. The candidate remains excluded from the 14 exact-name overlap count; no beverage/place records changed. ASM-GAP-045 remains Open pending original authority/voucher or author clarification.
+
+
+## 2026-10-24 — E’pob Zanthoxylum duplicate-entry audit
+- Investigated two SRC-084 rows for *Zanthoxylum oxyphyllum* Edgew.: Prothoma (RFC 0.7, UV 0.6) and Mejenga (RFC 0.9, UV 1.1), both reporting leaves and Rutaceae.
+- Kew POWO accepts *Z. oxyphyllum* and includes Assam in its native distribution; India Flora Online lists Mejenga/Mezenga as Assamese names, and a 2021 Mising ethnobotany paper reports Onger with voucher GP-97. These sources do not establish Prothoma as a synonym, separate taxon or typo.
+- Decision: no deduplication or arithmetic merge. Created `research/assam/epob-zanthoxylum-duplicate-entry-audit.md` and updated EP-TAX-006 to distinguish the taxonomic identity (same reported scientific name) from the unresolved row-level/vernacular ambiguity. No new beverage/place records; ASM-GAP-045 remains Open. The crosswalk rows themselves remain unchanged pending a safe, targeted edit.
