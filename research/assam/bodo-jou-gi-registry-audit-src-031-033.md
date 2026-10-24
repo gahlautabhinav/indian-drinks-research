@@ -40,3 +40,15 @@ Authorised-user addresses displayed on the registry pages are leads for further 
 ## Source basis and limitation
 
 This memo is based on the three live Intellectual Property India application-detail pages linked above. It is a registry-metadata audit, **not** a transcription of the underlying Statements of Case.
+
+## Authorized-user locality cross-check (registry display)
+
+The three live registry pages expose these authorized-user address strings. They are recorded here as **registry-listed address leads only**, not proof that the named product is produced at each address:
+
+| Registry entry | Locality strings shown in authorized-user table | Interpretation limit |
+|---|---|---|
+| Application 968 — Bodo Jou Gwran | Deborbill / Amteka Bazar / Amguri; Ward No. 01, Palashbari; West Dangarkutti, Dotoma; Batabari | The page does not link each address to a documented production site or define the GI boundary through these entries. |
+| Application 969 — Bodo Jou Gishi | Deborbill / Amteka Bazar / Amguri; West Dangarkutti, Dotoma; Batabari | The list is not identical to the 968 or 970 lists; do not assume the same producers or distribution. |
+| Application 970 — Bodo Maibra Jou Bidwi | Deborbill / Amteka Bazar / Amguri; Ward No. 01, Palashbari; West Dangarkutti, Dotoma; Batabari | Similar address strings recur, but this is not independent evidence of current production prevalence. |
+
+The registry's authorized-user section is useful for directing follow-up and cross-checking whether the producer list differs by product. Because the archive does not yet contain the underlying producer-list PDFs, names and address spellings should be rechecked against those documents before normalisation. No new canonical production-place rows have been created from these addresses alone.
