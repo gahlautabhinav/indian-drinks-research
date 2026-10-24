@@ -75,3 +75,21 @@ The official detail pages explicitly list a “Statement of Case” dated 29-08-
 3. Compare the journal version against each 2022 Statement of Case and the 2023 amended-application/map documents.
 4. Transcribe producer lists separately; preserve exact spellings and do not automatically geocode address-only entries.
 5. Only after those comparisons, update beverage canonical fields or close ASM-GAP-026.
+
+
+## Official document inventory and access test — 2026-10-24
+
+A fresh line-by-line check of the official application-detail pages confirms that the document lists are more extensive than the four headline documents. The page lists all PDF items through the same generic “Image: PDF file that opens in new window” link; following that link through the accessible page text resolves only to the PDF icon image, not the document payload. Thus, this pass **verified the inventory and access limitation, but did not extract the documents themselves**.
+
+| Application / product | Journal copy | Original Statement of Case | Original map | Amended filing / map | Producer list | Other useful listed item |
+|---|---|---|---|---|---|---|
+| 968 — Bodo Jou Gwran | 31-05-2024 | 29-08-2022 | 29-08-2022 | Amended Application (19-10-2023); Annexure-9 Map (19-10-2023) | 13-02-2023 | Annexure-8 Supporting Documents (19-10-2023); Examination Report (17-08-2023) |
+| 969 — Bodo Jou Gishi | 31-05-2024 | 29-08-2022 | 29-08-2022 | Annexure-1 Amended Application (19-10-2023); Annexure-10 Map (19-10-2023) | 13-02-2023 | Annexure-8 Historical and Supporting Documents (19-10-2023); Examination Report (17-08-2023) |
+| 970 — Bodo Maibra Jou Bidwi | 31-05-2024 | 29-08-2022 | 29-08-2022 | Annexure-1 Amended Application (19-10-2023); Annexure-8 Map (19-10-2023) | 13-02-2023 | Examination Report (17-08-2023); Annexure-6 Deed of Trust (19-10-2023) |
+
+**Research consequence:** don't treat the original 2022 map as the final boundary by default. Retrieve the amended application/map documents and compare them with the Journal 191 publication. Likewise, the authorized-user list visible on the detail page is not the same as the downloadable producer list, and neither by itself proves current production in every listed locality.
+
+### Direct official entry pages
+- Application 968: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968
+- Application 969: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969
+- Application 970: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
