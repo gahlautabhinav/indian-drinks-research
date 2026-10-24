@@ -335,3 +335,11 @@
 - Cross-product overlap: Ranjila Mohilary, Jwmwi Brahma and Kansai Brahma are listed for all three; Pulak Ch Basumatary appears for 968 and 970 but not 969. The extracted Status cells are blank, and the registry AU numbers are distinct by application.
 - Interpretation: this is an administrative crosswalk only. It does not establish active production, production site, recipe similarity, or synonymy. No beverage/place records added.
 - Updated ASM-GAP-026 to reflect the detailed crosswalk; kept the gap Open pending readable case statements, amended maps and producer documents.
+
+
+## 2026-10-24 — Bodo Jou heritage-site process and registry-number audit
+- Added SRC-119 for Bodoland GI Heritage, a community-heritage website with separate Jou Gwran and Jou Gishi pages and a museum summary for Maibra Jou Bidwi.
+- Extracted source-reported process leads: Jou Gishi cooked-rice/Amao sequence, banana-leaf cooling, Maldang/Janta vessel terms and reported pH/alcohol; Jou Gwran jumai/Afri/Afri Katla terms and reported distillation timings; Maibra rice and ritual/welcome-drink context.
+- Flagged an important metadata inconsistency: the site calls certificate numbers 648–650 the GI/application numbers; official IP India application numbers are 968–970. Kept the official identifiers as authoritative.
+- Flagged the Jou Gwran page's unclear statement that repeated distillation lowers concentration and the unverified provenance of reported alcohol/pH values. No legal specification, universal recipe, clinical health claim or production locality was inferred.
+- Created `research/assam/bodo-jou-community-heritage-source-audit-src-119.md`; updated the GI audit and ASM-GAP-026. Gap remains Open pending primary GI document extraction.
