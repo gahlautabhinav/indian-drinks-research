@@ -223,3 +223,10 @@
 - Added these strings to the GI audit as registry-listed address leads only. The pages do not establish that every listed address is a production locality, and they are not a substitute for the underlying producer-list PDFs or GI map.
 - Did not create canonical place-coverage rows from these addresses, to avoid converting an authorized-user address into unsupported production evidence. ASM-GAP-026 remains open pending Statement of Case/map/producer-list extraction and the process/name audit.
 - Official records: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
+
+
+## 2026-10-24 — Bodo Jou product-claim cross-check
+- Cross-checked official GI metadata against existing SRC-029 (2014), SRC-030/SRC-066 (2025) and SRC-083 (community heritage exhibit) summaries. Added a product-by-product conflict table covering Gwran's rice/fruit substrates and unverified 16.11% claim, limited technical detail for Gishi, and the scope of Maibra Jou Bidwi versus broader Joubidwi uses.
+- These are source-reconciliation questions, not confirmed legal GI specifications. No canonical beverage records or production-place rows were changed.
+- Official detail pages explicitly list Statement of Case (29-08-2022), Map (29-08-2022), Producers List (13-02-2023), and GI Journal Copy (31-05-2024) for the relevant entries. The obstacle is obtaining readable PDF content, not uncertainty that the documents are listed. Prioritize Journal 191, then compare with original and amended documents.
+- Official registry pages: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969 ; https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970
