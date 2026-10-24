@@ -165,3 +165,12 @@
 - Re-audited the already registered Mili & Sundriyal (2023) study using the publisher's full text; no new source ID was warranted.
 - Confirmed 15 villages surveyed in Sivasagar, with Majorbari and Ligiribari selected for in-depth documentation; existing place rows ASM-PL-004 and ASM-PL-005 already cover those sites.
 - Refined SRC-005's source-register entry and added research/assam/src-005-sivasagar-epop-fulltext-reconciliation.md. Existing ASM-GAP-045 remains open for the taxon-by-taxon comparison against the Majuli inventory. No duplicate beverage, place, or source record retained.
+
+## 2026-10-24 — SRC-005/SRC-084 full-table ÉPOP/E’pob plant crosswalk
+
+- Transcribed all 31 plant entries from Mili & Sundriyal (2023) Table 1 into `data/epob_sivasagar_inventory.csv`, retaining reported vernacular names, family labels, plant parts, habits and collection-period codes.
+- Updated `data/epob_inventory_crosswalk.csv` to compare all 48 Majuli entries reported by Borah (2026) against the full Sivasagar table rather than only the narrative examples.
+- Current first-pass result: 14 exact-name candidate overlaps; one possible synonym-level overlap (*Acmella paniculata* vs *Spilanthes acmella*) remains unverified. Plant-part differences are retained and documented.
+- Updated ASM-GAP-045. It remains Open because accepted-name/synonym verification, voucher identifiers, the three unnamed Majuli village names and clarification of the duplicate *Zanthoxylum oxyphyllum* rows are outstanding.
+- This is a taxon-list crosswalk, not evidence of temporal change, universal Mising practice, or confirmed biological absence for unmatched taxa.
+- Sources: SRC-005 https://doi.org/10.1186/s42779-023-00214-2; SRC-084 https://doi.org/10.21474/IJAR01/23298.
