@@ -309,3 +309,9 @@
 - Rechecked the full-text copy of Borah (2026): field survey took place in three randomly selected Majuli villages from April–October 2024; 28 informants aged 40–70 were interviewed, with emphasis on older women involved in Apong preparation. The accessible paper does not name the villages, so no village-level records were inferred.
 - The paper documents plants for E’pob starter cake and discusses both Po:ro and Nogin Apong. The source-table spellings “Guilandian bonduc” and “Termalia arjuna” appear to be errors: Kew accepts *Guilandina bonduc* and *Terminalia arjuna*, and the reported family fields (Fabaceae and Combretaceae) are consistent with those candidate names. Preserve the source strings until author/voucher confirmation.
 - Added `research/assam/epob-src084-field-method-metadata-audit.md`. ASM-GAP-045 remains open; missing village names and voucher/accession information remain unresolved.
+
+
+## 2026-10-24 — Luk Lao named-locality evidence and provisional record
+- Chatterjee's 12 July 2024 Open Magazine feature reports a commercial rice-brew production unit called Luk Lao in Demou village, Sivasagar district, with brand launch in 2022. The article says local Ahom and Kalita people were employed in preparation; its producer's first-licensee claim remains attributed and unverified.
+- Registered SRC-117 and created `research/assam/luk-lao-demou-locality-and-identity-audit.md`.
+- Added provisional beverage record `ASM-031-LKL`, named locality row `ASM-PL-101`, and open identity gap `ASM-GAP-054`. Luk Lao is not merged with Xajpani/Sajpani/Nam-Lau/Laopani; the source does not provide a full recipe or prove synonymy/distinction. Current licensing and production status require primary confirmation.
