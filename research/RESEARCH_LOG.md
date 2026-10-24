@@ -297,3 +297,9 @@
 - Investigated two SRC-084 rows for *Zanthoxylum oxyphyllum* Edgew.: Prothoma (RFC 0.7, UV 0.6) and Mejenga (RFC 0.9, UV 1.1), both reporting leaves and Rutaceae.
 - Kew POWO accepts *Z. oxyphyllum* and includes Assam in its native distribution; India Flora Online lists Mejenga/Mezenga as Assamese names, and a 2021 Mising ethnobotany paper reports Onger with voucher GP-97. These sources do not establish Prothoma as a synonym, separate taxon or typo.
 - Decision: no deduplication or arithmetic merge. Created `research/assam/epob-zanthoxylum-duplicate-entry-audit.md` and updated EP-TAX-006 to distinguish the taxonomic identity (same reported scientific name) from the unresolved row-level/vernacular ambiguity. No new beverage/place records; ASM-GAP-045 remains Open. The crosswalk rows themselves remain unchanged pending a safe, targeted edit.
+
+
+## 2026-10-24 — E’pob inventory plant-part comparison
+- Audited the 14 exact-name candidate overlaps between SRC-005 (Sivasagar) and SRC-084 (Majuli) against the crosswalk's reported plant-part fields.
+- Current transcription indicates 7 broad plant-part matches and 7 differences/partial differences. Examples: *Piper longum* fruit vs leaf; *Saccharum officinarum* stem vs leaf; *Scoparia dulcis* leaves vs whole plant. Matching names do not establish recipe identity or interchangeable use.
+- Created `research/assam/epob-inventory-plant-part-comparison-audit.md`. No raw inventory rows or canonical records changed; source table/voucher verification and SRC-084 locality clarification remain open. ASM-GAP-045 remains Open.
