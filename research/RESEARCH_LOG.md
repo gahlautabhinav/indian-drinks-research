@@ -202,3 +202,9 @@
 - Some author citations are obscured in the accessible text/OCR and are labelled as uncertain rather than reconstructed as fact. The typeset source table or voucher data is still needed to resolve them.
 - Refined the taxonomy flag for `Tinospora Miers`: POWO accepts *Tinospora* Miers as a genus, but the source row does not identify a species.
 - Updated the crosswalk memo to describe the source-string limitations explicitly.
+
+## 2026-10-24 — Preserve Majuli source-reported family labels
+
+- Added `Family_As_Reported` to all 48 rows in `data/epob_inventory_crosswalk.csv`, retaining the family names printed in SRC-084 separately from comparison taxon names. Also verified that the Hydrocotyle row preserves the article's family label, Araliaceae.
+- Updated the crosswalk memo to state that source-reported family labels are preserved and not silently modernized. Apparent mismatches remain subject to original-table/voucher review.
+- This addition improves traceability; it does not resolve any taxonomic flags or close ASM-GAP-045.
