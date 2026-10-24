@@ -11,7 +11,7 @@
 ## Files and method
 
 - `data/epob_sivasagar_inventory.csv` transcribes the 31 SRC-005 Table 1 entries and preserves the table's reported names and data fields as transcribed; punctuation/spacing may be normalized for readability. It is a transcription for comparison, not a facsimile of the original table.
-- `data/epob_inventory_crosswalk.csv` compares all 48 SRC-084 rows against the complete SRC-005 table. It now separates `Taxon_Name_Used_For_Comparison` from `Source_Taxon_String_As_Reported`, so normalization is not mistaken for the original spelling. Where the accessible PDF text/OCR obscures an author citation, the source-string field says so explicitly; inspect the typeset PDF or author voucher before final taxonomic resolution.
+- `data/epob_inventory_crosswalk.csv` compares all 48 SRC-084 rows against the complete SRC-005 table. It now separates `Taxon_Name_Used_For_Comparison` from `Source_Taxon_String_As_Reported` and preserves the Majuli paper's `Family_As_Reported`, plant part, RFC and UV fields, so normalization is not mistaken for the original table. Where the accessible PDF text/OCR obscures an author citation, the source-string field says so explicitly; inspect the typeset PDF or author voucher before final taxonomic resolution.
 - Exact scientific-name matches are candidate overlaps; synonym-like names remain unverified. A no-exact-match result is not proof of biological absence or local uniqueness.
 
 ## Current findings
