@@ -192,3 +192,12 @@ Source pages: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/
 ### Cross-product observation
 
 Ranjila Mohilary, Jwmwi Brahma and Kansai Brahma are listed on all three application pages; Pulak Ch Basumatary is listed on applications 968 and 970, but not 969. This is a registry-list overlap only. It does not establish shared recipes, product equivalence, or active production at the listed addresses. The discrepancy with SRC-115's December 2024 snapshot remains time-bounded and unresolved.
+
+
+## SRC-119 heritage-site process comparison — 2026-10-24
+
+Added `research/assam/bodo-jou-community-heritage-source-audit-src-119.md` based on the Bodoland GI Heritage pages for Jou Gwran and Jou Gishi and its museum summary for Maibra Jou Bidwi. These pages give useful process leads (including Amao, jumai, Afri, Afri Katla, Maldang/Janta and source-reported timings), but are a community-heritage/promotion resource rather than the official GI specification or a peer-reviewed analytical source.
+
+Important metadata correction: the heritage pages label certificate numbers 648–650 as GI/application numbers. Official IP India records instead list applications 968–970 and certificates 648–650. Keep the fields separate in this archive. The Jou Gwran page reports ~16.11% alcohol and says repeated distillation lowers concentration; that wording is unresolved and must not be restated as a verified scientific principle. Jou Gishi pH/alcohol figures and the starter ratio are not independently verified in this pass. No health claims were promoted to clinical facts and no locality rows were created.
+
+SRC-119 is now registered in `sources/source_register.csv`. ASM-GAP-026 remains Open pending readable official Statements of Case, Journal 191 text and amended maps/producer lists.
