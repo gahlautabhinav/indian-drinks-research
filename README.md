@@ -139,3 +139,5 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [Bodo Jou official register number cross-check (SRC-120)](research/assam/bodo-jou-official-register-number-crosscheck-src-120.md) — distinguishes consolidated-list serials 648–650 from application numbers 968–970 and certificate numbers 648–650.
 
 - [Jou Bidwi multi-omics study audit (SRC-122)](research/assam/jou-bidwi-2026-multiomics-study-audit-src-122.md) — extracts the 2026 open-access study's Kaljar, Baksa sample locality and sample-level measurements, with explicit limits on generalisation and GI equivalence.
+
+- [Bodo beverage field-methodology audit (SRC-123)](research/assam/bodo-beverage-field-methodology-audit-src-123.md) — separates stored Joufinai and fruit-based Kanthal/Kola-Jougwran process reports from the GI product specification and limits village-level inference.
