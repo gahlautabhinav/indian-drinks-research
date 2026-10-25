@@ -373,3 +373,11 @@
 - Distinguished stored rice-based Joufinai from direct-fermented Joubidwi and documented the paper's separate fruit-based Kanthal-Jougwran and Kola-Jougwran process descriptions.
 - Flagged the unresolved question whether the GI-registered Bodo Jou Gwran specification covers the fruit-based variants; the article cannot substitute for the official Statement of Case.
 - Added SRC-123 to ASM-GAP-026 source cross-references. Gap remains Open. Source-register row count is now 123.
+
+
+## 2026-10-25 — Cultural ecology comparative study audit (SRC-124)
+- Added Talukdar et al. (2026), Discover Food, a comparative ethnobotanical/ethnographic study of Bodo, Rabha and Ahom beverage traditions across six districts.
+- Recorded the 30-informant design, 41 pooled plant species across 29 families, and 85% wild-sourced claim with limits: not a census, and not a Bodo-only plant list.
+- Flagged terminology variance within the article (angkur/Bakhar) versus the Bodo-specific Amao usage in SRC-123; no synonyms were merged.
+- Flagged that the article defines FL as a percentage but reports values such as 3.78; do not reuse these values quantitatively pending clarification.
+- Added SRC-124 to ASM-GAP-026 references. GI case statements, amended maps and producer list remain unextracted; gap remains Open. Source register count now 124.
