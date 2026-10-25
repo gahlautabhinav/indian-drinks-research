@@ -29,3 +29,8 @@ This article explicitly distinguishes cereal-based and fruit-based preparations,
 ## Source limitations
 
 The article is a peer-reviewed ethnographic/methodological report, not the legal GI specification. It reports customary beliefs about medicinal plants; those beliefs should not be repeated as demonstrated clinical effects. Its named survey villages are not by themselves evidence that every product described is currently made in every village.
+
+
+## Comparative context from SRC-124 (2026)
+
+Talukdar et al. (2026) describe Jou and a multi-community plant-resource/ritual survey across Bodo sites in Kokrajhar and Baksa, but use “angkur” in a general process description and “Bakhar” for a herbal cake among Bodo and Rabha. This does not establish equivalence with Amao in the Bodo-specific process account above. Preserve the terms with their source contexts pending locality-specific confirmation. The 2026 study's pooled 41-species list should not be treated as a Bodo-only inventory; its FL percentage values also need a calculation/scale check. See [SRC-124 audit](cultural-ecology-conservation-study-audit-src-124.md).
