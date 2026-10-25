@@ -214,3 +214,10 @@ Sources:
 - Deka, A. K., Basumatary, S., & Deka, D. C. (2025). [Methodology of ethnic cereal-based and fruit-based beverages of Bodo community of Assam](https://doi.org/10.1186/s42779-025-00286-2) (SRC-066).
 - Deka, A. K., Handique, P., & Deka, D. C. (2021). [Ethnic food beverages with heavy metal contents: Parameters for associated risk to human health, North-East India](https://doi.org/10.1016/j.toxrep.2021.06.013). This study is used only for the fermented/preserved/distilled Jou classification, not as corroboration for the two fruit-based names.
 
+
+
+## Additional field-methodology evidence — SRC-123 (2025)
+
+Deka, Basumatary and Deka (2025) report interviews with 50 people in rural survey areas around Kokrajhar and describe Amao preparation, stored rice-based Joufinai, and fruit-based distilled Kanthal-Jougwran and Kola-Jougwran. The survey-method section names Amlaiguri, Gendrabili, Jalpaiguri and Banshigaon, but does not attribute each beverage process to every village. These should remain fieldwork-context locations, not product-specific production claims.
+
+**Identity caution:** the paper's fruit-based Jougwran process cannot yet be assigned to GI-registered Bodo Jou Gwran (application 968). The official Statement of Case and amendments are still needed to determine the registered product's substrate and process scope. See [field-methodology audit](bodo-beverage-field-methodology-audit-src-123.md).
