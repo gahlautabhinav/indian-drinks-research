@@ -141,3 +141,5 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [Jou Bidwi multi-omics study audit (SRC-122)](research/assam/jou-bidwi-2026-multiomics-study-audit-src-122.md) — extracts the 2026 open-access study's Kaljar, Baksa sample locality and sample-level measurements, with explicit limits on generalisation and GI equivalence.
 
 - [Bodo beverage field-methodology audit (SRC-123)](research/assam/bodo-beverage-field-methodology-audit-src-123.md) — separates stored Joufinai and fruit-based Kanthal/Kola-Jougwran process reports from the GI product specification and limits village-level inference.
+
+- [Cultural ecology study audit (SRC-124)](research/assam/cultural-ecology-conservation-study-audit-src-124.md) — records the 2026 Bodo/Rabha/Ahom ethnobotanical study, keeps starter-culture terminology source-specific, and flags an FL-index scale inconsistency.
