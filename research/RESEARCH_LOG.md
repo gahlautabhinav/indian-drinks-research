@@ -365,3 +365,11 @@
 - Preserved the reported ~5.5% v/v ethanol for the sampled Jou Bidwi and pH range across the four study beverages as sample-specific observations, not universal specifications. Clarified that retinol-pathway annotation is metabolic potential, not proof of vitamin A delivery or clinical benefit.
 - Added SRC-122 to ASM-GAP-026's source list as contextual technical evidence; it does not substitute for GI case statements/maps/producer lists. Gap remains Open.
 - Current source-register count: 122 rows (header excluded); Assam beverage count and place rows not changed in this pass.
+
+
+## 2026-10-25 — Bodo beverage field-methodology audit (SRC-123)
+- Added Deka, Basumatary and Deka (2025), *Journal of Ethnic Foods*, a peer-reviewed field/methodology article on Bodo cereal- and fruit-based beverages.
+- Extracted reported 50-person fieldwork (2022 and 2023) and the four survey-village names Amlaiguri, Gendrabili, Jalpaiguri and Banshigaon. Did not turn them into beverage-specific production-place rows because the article does not allocate every beverage to every village.
+- Distinguished stored rice-based Joufinai from direct-fermented Joubidwi and documented the paper's separate fruit-based Kanthal-Jougwran and Kola-Jougwran process descriptions.
+- Flagged the unresolved question whether the GI-registered Bodo Jou Gwran specification covers the fruit-based variants; the article cannot substitute for the official Statement of Case.
+- Added SRC-123 to ASM-GAP-026 source cross-references. Gap remains Open. Source-register row count is now 123.
