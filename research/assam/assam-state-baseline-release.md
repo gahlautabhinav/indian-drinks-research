@@ -70,3 +70,6 @@ The 2026-10-23 release-candidate counts are superseded by the current CSV snapsh
 
 
 **2026-10-24 SRC-120 update:** Added the official IP India consolidated GI register to disambiguate Bodo Jou list serial numbers (648–650), application numbers (968–970) and certificate numbers (648–650). The application IDs in this archive remain 968–970. This corroboration does not close the primary-specification gate.
+
+
+**2026-10-28 SRC-124 plant attribution update:** Added `research/assam/src-124-bodo-plant-attribution-crosswalk.md`, extracting the 20 Table 1 entries whose community field explicitly includes Bodo and comparing cautious taxon-level leads against SRC-123. Because SRC-124 does not map plants to individual beverages, no canonical Amao ingredient or production-place records were added. ASM-GAP-041 and ASM-GAP-046 remain Open; the state-transition gate is still unmet.
