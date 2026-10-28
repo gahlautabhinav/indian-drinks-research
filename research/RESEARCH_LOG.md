@@ -435,3 +435,8 @@
 - Recounted `sources/source_register.csv` directly: 126 populated data rows (127 non-empty CSV lines including the header); SRC-126 is present and SRC-080 remains absent. The highest source ID is not the row count.
 - Updated the current snapshot and source-register row-count table in `research/assam/assam-state-baseline-release.md`; earlier 124-row statements are explicitly retained as historical snapshots, not current counts.
 - This is bookkeeping only: it does not resolve the Bodo Jou GI primary-document gap (ASM-GAP-026) or pass the Assam transition gate.
+
+## 2026-10-29 — Bodo Jou GI authorized-user table cross-check
+- Reopened the official IP India pages for applications 968–970 and checked the visible Authorized User Details tables separately from the linked dated producer-list documents.
+- The page extraction shows 4, 3 and 4 authorized-user rows respectively; some names recur across indications and the extracted status cells appear blank. These entries are not treated as producer-list contents, production sites, or proof of identical recipes/processes.
+- Updated `research/assam/bodo-jou-gi-primary-document-retrieval-audit.md` and ASM-GAP-026 with the distinction and caveats. Primary Statements of Case and maps remain inaccessible through the extracted download controls; the gap stays Open.
