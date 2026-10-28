@@ -419,4 +419,7 @@
 - Found the Government of Assam ARTPS service catalogue listing heritage alcoholic beverage manufactory/micro-brewery, wholesale, retail and renewal licence services, plus the Assam State Excise Revenue Management System's licence-verification form.
 - Registered the service catalogue as SRC-126 and updated the Luk Lao identity audit and ASM-GAP-054 with the official routes.
 - This is a verification pathway, not evidence of a Luk Lao licence. The portal asks for a file reference/licence number, and no source currently identifies one for the Demou unit. The gap remains Open; no licence status, recipe, current operation or synonymy was inferred.
-
+## 2026-10-28 — Bodo Jou GI document inventory recheck
+- Re-opened the live IP India application pages for 968 (Bodo Jou Gwran), 969 (Bodo Jou Gishi) and 970 (Bodo Maibra Jou Bidwi). The visible inventories list Statements of Case and original maps dated 29-08-2022, producer lists dated 13-02-2023, and amended application/map materials dated 19-10-2023.
+- Counted 31 listed document entries for 968, 31 for 969 and 29 for 970. These are page inventory counts only; the click-through PDF control resolves to a generic file-pdf.png image in the accessible browser extraction, not to document contents.
+- Updated research/assam/bodo-jou-gi-primary-document-retrieval-audit.md and ASM-GAP-026 with exact document labels/dates and a request list that includes both original and amended maps. No GI specification, production boundary, recipe or producer data was inferred. The gap and Assam transition gate remain open.
