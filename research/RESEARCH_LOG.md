@@ -389,3 +389,10 @@
 - Explicitly preserved the distinction between *Musa paradisiaca* in SRC-124 and *Musa balbisiana* in SRC-123; no canonical Amao ingredients or locality records were added.
 - Reconfirmed source-quality flags: 41 species versus life-form counts summing to 47; FL is defined as a percentage but reported values include 3.78; voucher ST/EES/2024/015 is printed for two taxa.
 - Updated ASM-GAP-041 and ASM-GAP-046 notes. Both remain Open; Assam state-transition gate remains unmet.
+
+
+## 2026-10-28 — Jou heavy-metal analytical study audit (SRC-125)
+- Added Deka, Handique & Deka (2021), an ICP-OES study of six Jou samples from Kokrajhar: two each of Joubidwi, Joufinai and Jougwran.
+- Clarified that triplicate analyses are technical replicates, not independent household batches; no sample villages/producers are named in the accessible methods.
+- Flagged published mean ± SD entries and narrative/limit comparisons for source-level clarification; the THQ/TTHQ findings depend on model assumptions and do not certify current safety.
+- Added `research/assam/jou-heavy-metal-study-audit-src-125.md`, registered SRC-125 and opened ASM-GAP-055. The GI specification gap ASM-GAP-026 remains Open.
