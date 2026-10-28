@@ -423,3 +423,10 @@
 - Re-opened the live IP India application pages for 968 (Bodo Jou Gwran), 969 (Bodo Jou Gishi) and 970 (Bodo Maibra Jou Bidwi). The visible inventories list Statements of Case and original maps dated 29-08-2022, producer lists dated 13-02-2023, and amended application/map materials dated 19-10-2023.
 - Counted 31 listed document entries for 968, 31 for 969 and 29 for 970. These are page inventory counts only; the click-through PDF control resolves to a generic file-pdf.png image in the accessible browser extraction, not to document contents.
 - Updated research/assam/bodo-jou-gi-primary-document-retrieval-audit.md and ASM-GAP-026 with exact document labels/dates and a request list that includes both original and amended maps. No GI specification, production boundary, recipe or producer data was inferred. The gap and Assam transition gate remain open.
+
+## 2026-10-28 — SRC-118 Gazette Rule 619 detail follow-up
+- Revisited the official India Code-hosted Assam Gazette amendment after the indexed document text became searchable, despite earlier direct-PDF timeout.
+- Captured Rule 619's application-information checklist: manufacturing method, raw materials/yield, starter source/proportion/stages, fermentation duration, bottling/sealing/labelling, traditional community/tribal brand origin, site/manufactory details, and registered eligible starter-producer group agreement covering at least 25% of starter cake/ingredients.
+- Updated the existing SRC-118 source-register caveat, Luk Lao identity audit and ASM-GAP-054. No duplicate source ID was created because the Gazette was already registered.
+- Research implication: the rule identifies specific documents and fields to request for Luk Lao, but does not prove the unit's licence, recipe, starter supply arrangement, current status, or identity relationship to Xajpani/Sajpani/Laopani. ASM-GAP-054 remains Open.
+
