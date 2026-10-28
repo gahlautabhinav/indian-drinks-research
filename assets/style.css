@@ -53,3 +53,44 @@ button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{ou
 @media(max-width:900px){.topbar-right{gap:17px}.status-label{display:none}.intro{gap:28px;padding-top:42px}.workspace{grid-template-columns:235px minmax(0,1fr)}.sidebar{padding:12px}.detail-panel{padding:22px}.content-tabs{gap:13px}.methodology{gap:35px}}
 @media(max-width:650px){.topbar{height:57px;padding:0 14px}.brand{gap:8px}.brand-mark{width:27px;height:27px}.brand-copy strong{font-size:10px}.brand-copy small{font-size:8px}.topbar nav{gap:12px}.topbar nav a{font-size:9px}.topbar nav a:nth-child(2){display:none}.intro{grid-template-columns:1fr;gap:24px;padding:34px 18px 27px}.intro h1{font-size:37px;margin-top:15px}.intro-description{font-size:11px}.intro-side{border-left:0;border-top:1px solid var(--line);padding:13px 0 0}.intro-side p{display:inline-block;margin:4px 13px 0 0}.scope-rule{margin:10px 0}.stats{padding:0 18px;grid-template-columns:repeat(2,minmax(0,1fr))}.stats>div{padding:12px 10px;border-bottom:1px solid var(--line-soft)}.stats>div:first-child{padding-left:0}.stats>div:nth-child(odd){border-left:0;padding-left:0}.stats>div:nth-child(even){border-right:0}.stats>div:nth-child(n+3){border-bottom:0}.stats strong{font-size:20px}.archive-section{padding:33px 10px 42px}.section-heading{align-items:start;flex-direction:column;gap:8px}.section-heading h2{font-size:21px}.workspace{grid-template-columns:1fr}.sidebar{border-right:0;border-bottom:1px solid var(--line);padding:11px}.filter-row{display:grid;grid-template-columns:105px minmax(0,1fr);align-items:center;margin-top:9px}.beverage-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));max-height:260px;overflow:auto;margin-top:2px}.beverage-item{padding:9px 7px}.beverage-item.active{padding-left:6px}.beverage-item strong{font-size:10px}.beverage-item small{font-size:8px}.sidebar-foot{display:none}.detail-panel{padding:20px 14px}.empty-state{min-height:280px;padding:20px 6px}.detail-header h2{font-size:30px}.detail-actions>*{font-size:9px}.content-tabs{gap:14px;margin:18px 0}.content-tabs button{font-size:8px}.field-grid{grid-template-columns:1fr}.field-card.full{grid-column:auto}.methodology{grid-template-columns:1fr;gap:23px;padding:32px 18px}.methodology h2{font-size:23px}.principles>div{grid-template-columns:26px minmax(0,1fr);gap:8px}footer{flex-wrap:wrap;padding:17px 14px;gap:12px}footer p{order:3;width:100%;margin:0}.footer-note{font-size:8px}}
 @media(max-width:370px){.topbar nav{gap:8px}.brand-copy small{font-size:7px}.intro h1{font-size:32px}.beverage-list{grid-template-columns:1fr}.stats{padding:0 12px}.stats>div{padding-right:6px}.mini-tag{font-size:7px}}
+
+
+/* Research intelligence dashboard */
+.insights-section{padding:46px clamp(18px,4vw,58px) 52px;border-bottom:1px solid var(--line);background:#131517}
+.insights-section .section-heading{margin-bottom:22px}
+.insights-section .section-heading h2{font-size:26px}
+.insight-controls{display:flex;align-items:center;gap:12px;margin:0 0 18px;padding:11px 13px;border:1px solid var(--line);background:var(--panel-alt)}
+.insight-controls label,.insight-note,.panel-unit{font:9px var(--mono);color:var(--muted)}
+.insight-controls select{min-width:180px;padding:8px 10px;border:1px solid var(--line);background:var(--panel-raised);color:var(--text);border-radius:0}
+.insight-note{margin-left:auto;line-height:1.5}
+.insights-summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-bottom:12px}
+.insight-kpi{min-width:0;padding:16px 17px;border:1px solid var(--line);background:var(--panel)}
+.insight-kpi span,.insight-kpi small{display:block;color:var(--muted);font-size:9px}
+.insight-kpi strong{display:block;margin:8px 0 5px;font:500 27px/1.15 var(--mono);color:var(--text);letter-spacing:-.06em}
+.insight-kpi small{font-size:9px;line-height:1.5}
+.insights-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.insight-panel{min-width:0;padding:18px;border:1px solid var(--line);background:var(--panel)}
+.insight-panel-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:17px}
+.insight-panel-head h3{margin:5px 0 0;font-size:15px;font-weight:550;letter-spacing:-.02em}
+.insight-panel-head .eyebrow{font-size:8px}
+.panel-unit{font-size:8px;text-align:right;max-width:90px}
+.rank-list{display:grid;gap:13px}
+.rank-meta{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:5px}
+.rank-meta span{font-size:10px;color:#c8cbc7;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rank-meta strong{font:10px var(--mono);color:var(--accent);flex:0 0 auto}
+.rank-track{height:3px;background:#2a2e30;overflow:hidden}
+.rank-track span{display:block;height:100%;background:var(--accent)}
+.insight-footnote{margin:15px 0 0;padding-top:11px;border-top:1px solid var(--line-soft);font-size:9px;line-height:1.7;color:var(--faint)}
+.insight-empty{color:var(--muted);font-size:10px}
+.insight-bottom{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
+.coverage-list{display:grid;gap:0}
+.coverage-row{display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid var(--line-soft);font-size:10px}
+.coverage-row:last-child{border-bottom:0}
+.coverage-row span{color:#c8cbc7}
+.coverage-row strong{font:10px var(--mono);color:var(--accent)}
+.recommendation-list{display:grid;gap:13px}
+.recommendation-item{padding-left:12px;border-left:2px solid #62513d}
+.recommendation-item strong{font-size:10px;font-weight:600}
+.recommendation-item p{margin:4px 0 0;color:var(--muted);font-size:9px;line-height:1.7}
+@media(max-width:1050px){.insights-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.insight-note{max-width:45%}}
+@media(max-width:650px){.insights-section{padding:32px 14px 35px}.insights-section .section-heading h2{font-size:22px}.insights-summary{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.insight-kpi{padding:12px}.insight-kpi strong{font-size:23px}.insights-grid,.insight-bottom{grid-template-columns:1fr;gap:9px}.insight-panel{padding:15px}.insight-controls{flex-wrap:wrap;gap:8px}.insight-controls select{flex:1;min-width:150px}.insight-note{max-width:none;width:100%;margin-left:0}.panel-unit{font-size:7px}}
