@@ -49,3 +49,21 @@ The Government of Assam's Administrative Reforms and Training Department lists n
 
 **Next evidence request:** ask the producer or Assam Excise Department for the exact licence/file reference and a copy of the relevant manufactory, micro-brewery, brand/label or sales authorisation. Verify the reference through the official portal where supported. Independently obtain a product/process description and consent-based Tai-Ahom/community evidence before deciding whether Luk Lao is distinct from or related to Xajpani/Sajpani/Laopani. ASM-GAP-054 remains Open.
 
+## 2026-10-28 — Gazette Rule 619 manufacturing-application fields surfaced (SRC-118)
+
+The official India Code-hosted Assam Gazette amendment (6 May 2017) is now searchable at document level. The indexed text of Rule 619 states that an applicant for a heritage alcoholic-beverage manufactory licence must provide information including:
+
+- manufacturing method and raw materials, with proportions/yield;
+- starter cake to be procured/added, its proportion relative to other raw materials, and manufacturing stages;
+- fermentation duration and process;
+- bottling, sealing and labelling;
+- the brand name and its origin in communities/tribes traditionally involved in making that brand;
+- manufactory and establishment-site details; and
+- a registered agreement with eligible ethnic self-help groups, registered societies or Joint Liability Groups that manufacture starter cake, covering at least 25% of the required starter cakes or ingredients.
+
+Official Gazette source: [Notification No. EX-138-2015-32, 6 May 2017](https://upload.indiacode.nic.in/showfile?actid=AC_AS_58_531_00001_00001_1544168097283&filename=no._164_ex.138-2015-32_dated_06-05-17_heritage_liquor.pdf&type=rule). The official search result exposes this text even though our earlier direct PDF retrieval timed out. SRC-118 has been updated to reflect this stronger access result.
+
+**Research use:** these fields define a concrete checklist for any obtainable Luk Lao application/technical dossier and for comparing the stated product method with community descriptions of Xajpani/Sajpani/Laopani. They do not themselves establish that Luk Lao applied, was licensed, supplied any particular starter group, or follows any particular recipe.
+
+**Next action:** seek the specific application/licence number and application annexures or technical specification from the producer/Excise Department. If obtained, compare product name, community attribution, starter source, recipe proportions, fermentation schedule, site and bottling/label information against independent sources. Do not infer those details from the rule itself. ASM-GAP-054 remains Open.
+
