@@ -82,3 +82,16 @@ Official pages:
 **Research implication:** we now have a more precise inventory of which document names/dates are listed and confirmed that the visible link extraction is not returning the files. We still do not have the actual product definitions, origin-boundary geometry, process specifications or producer-list contents. The original and amended map labels should both be requested so the scope change can be checked rather than assuming the amended map supersedes the earlier one without review.
 
 Next retrieval route: request the specific documents from the GI Registry/IP India or the Bodo GI Board, naming the application IDs 968, 969 and 970 and requesting (a) Statement of Case, (b) original and 19-10-2023 amended map, (c) 13-02-2023 producer list, (d) 31-05-2024 Journal 191 copy, and (e) registration certificate. ASM-GAP-026 remains Open.
+
+
+## 2026-10-29 — Authorized-user table cross-check
+
+The live registry pages also expose an **Authorized User Details** table, separate from the dated “GI - Producers List” document link. The current page extraction shows 4 authorized-user rows for application 968, 3 for 969, and 4 for 970. Several names recur across the three tables; the visible rows include address fragments such as Deborbill/Amteka Bazar, West Dangarkutti/Dotoma, Batabari, and Palashbari. The table's status column appears blank in the extracted view.
+
+Interpretation limits:
+- These are registry-listed authorized-user records, not the contents of the dated producer-list PDFs and not a census of all producers.
+- Repeated names across indications do not prove identical production methods, raw materials, or eligibility criteria for each beverage.
+- Address fragments are not proof of production sites, and blank status cells should not be interpreted as approval/rejection without clarification.
+- This adds a verification lead, not specification evidence; the three Statements of Case and original/amended maps remain unread.
+
+Official table sources: application 968, 969 and 970 pages linked above. ASM-GAP-026 remains Open.
