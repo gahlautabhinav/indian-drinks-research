@@ -400,3 +400,10 @@
 - Count reconciliation: the current source register has 124 populated source rows, with SRC-125 the highest assigned ID; SRC-080 is absent. The Assam baseline was corrected to report the actual populated-row count rather than the maximum source ID.
 
 - 2026-10-28 SRC-125 follow-up: transcribed the accessible Table 1/TTHQ discussion into the audit. The detailed results report Fe/Ni above cited comparison values across samples, Mn above the cited value for Joubidwi/Joufinai, and TTHQ >1 for both Joufinai samples, while the abstract/highlights are broadly reassuring. Recorded the mixed OIV/WHO comparison basis, 250 mL/day/60 kg model assumption and unusually large table-rendered SDs; do not silently repair values or generalise to all products.
+
+
+## 2026-10-28 — Bodo Jou GI primary-document retrieval audit
+- Rechecked the live IP India registry pages for applications 968, 969 and 970 and recorded registered names, filing/certificate dates, Journal 191 availability, applicant metadata and validity dates.
+- Clarified the numbering: 968–970 are application IDs; 648–650 are certificate numbers (and consolidated-register serials), not application IDs.
+- Added `research/assam/bodo-jou-gi-primary-document-retrieval-audit.md`. The extracted registry view still does not expose the Statement of Case/map PDF contents or stable direct document URLs, so this is a retrieval-status audit, not a transcription of the specifications.
+- Updated ASM-GAP-026 with the exact blocker and next retrieval path. No recipe, production locality, or GI criteria were inferred from applicant address, broad Assam geography, or community summaries. Gap remains Open; Assam state-transition gate remains unmet.
