@@ -62,3 +62,23 @@ Then create a field-by-field crosswalk: official name; product type; raw materia
 ## Decision
 
 **ASM-GAP-026 stays Open.** The current step improves the traceable inventory of official documents and confirms the registration metadata, but does not satisfy the primary-specification gate. No canonical beverage ingredients, village-level production records, or technical specifications are added on the strength of registry metadata alone.
+## 2026-10-28 — Rechecked official document inventory and PDF link behaviour
+
+A fresh page-level pass on the three live IP India application records confirmed these metadata differences:
+
+| Application | Registered GI name | Statement of Case listed | Original map listed | Producer list listed | Amended map / application material listed |
+|---|---|---|---|---|---|
+| 968 | Bodo Jou Gwran | 29-08-2022 | 29-08-2022 | 13-02-2023 | Amended application and Map Annexure-9 dated 19-10-2023 |
+| 969 | Bodo Jou Gishi | 29-08-2022 | 29-08-2022 | 13-02-2023 | Amended application and Map Annexure-10 dated 19-10-2023 |
+| 970 | Bodo Maibra Jou Bidwi | 29-08-2022 | 29-08-2022 | 13-02-2023 | Amended application and Map Annexure-8 dated 19-10-2023 |
+
+The extracted page lists 31 document entries for application 968, 31 for 969 and 29 for 970. These are registry inventory counts, not counts of unique substantive specifications. Each page labels the Statement of Case, original map, producer list and amended materials, but clicking the visible document control in the browser extraction resolves to the generic `file-pdf.png` image rather than a document URL or PDF content.
+
+Official pages:
+- [Application 968 — Bodo Jou Gwran](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968)
+- [Application 969 — Bodo Jou Gishi](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969)
+- [Application 970 — Bodo Maibra Jou Bidwi](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970)
+
+**Research implication:** we now have a more precise inventory of which document names/dates are listed and confirmed that the visible link extraction is not returning the files. We still do not have the actual product definitions, origin-boundary geometry, process specifications or producer-list contents. The original and amended map labels should both be requested so the scope change can be checked rather than assuming the amended map supersedes the earlier one without review.
+
+Next retrieval route: request the specific documents from the GI Registry/IP India or the Bodo GI Board, naming the application IDs 968, 969 and 970 and requesting (a) Statement of Case, (b) original and 19-10-2023 amended map, (c) 13-02-2023 producer list, (d) 31-05-2024 Journal 191 copy, and (e) registration certificate. ASM-GAP-026 remains Open.
