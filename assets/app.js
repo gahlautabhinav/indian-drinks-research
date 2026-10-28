@@ -64,9 +64,9 @@
     if(id&&state.beverages.some(b=>b.Beverage_ID===id))selectBeverage(id,false);
   }
   const ingredientSignals = [
-    ["Rice", /\\brice\\b/i], ["Millet", /\\bmillet\\b/i], ["Maize / corn", /\\b(maize|corn)\\b/i],
-    ["Banana", /\\bbanana(s)?\\b/i], ["Bamboo", /\\bbamboo\\b/i], ["Sugarcane", /\\bsugarcane\\b/i],
-    ["Fruit", /\\bfruit(s)?\\b/i], ["Herbs / plant materials", /\\b(plant|herb|leaf|leaves|root|bark|flower|stem)\\b/i]
+    ["Rice", /\brice\b/i], ["Millet", /\bmillet\b/i], ["Maize / corn", /\b(maize|corn)\b/i],
+    ["Banana", /\bbanana(s)?\b/i], ["Bamboo", /\bbamboo\b/i], ["Sugarcane", /\bsugarcane\b/i],
+    ["Fruit", /\bfruit(s)?\b/i], ["Herbs / plant materials", /\b(plant|herb|leaf|leaves|root|bark|flower|stem)\b/i]
   ];
   function initInsights(){
     const select=$("#insight-state");if(!select)return;
