@@ -151,3 +151,5 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [SRC-125 Jou heavy-metal study audit](research/assam/jou-heavy-metal-study-audit-src-125.md) — six-sample Kokrajhar analytical study; records sample-size, reported uncertainty and risk-model limitations.
 
 - [Bodo Jou GI primary-document retrieval audit](research/assam/bodo-jou-gi-primary-document-retrieval-audit.md) — confirms official registry metadata for applications 968–970 and records that the Statements of Case/maps remain unextracted; ASM-GAP-026 stays open.
+
+- [SRC-045 Rohi/Sepa full-text retrieval audit](research/assam/rohi-sepa-src-045-fulltext-retrieval-audit.md) — records the official CSIR-NIScPR PDF route and the remaining full-text extraction blocker for the Rohi/Sepa methods and analytical tables.
