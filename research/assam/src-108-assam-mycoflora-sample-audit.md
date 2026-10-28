@@ -28,3 +28,14 @@ Retrieve the sample/table metadata, reconcile the six-versus-seven-district disc
 The publisher-hosted PDF was inspected. The abstract names seven districts (Jorhat, Sivasagar, Golaghat, Lakhimpur, Dhemaji, Majuli and Karbi Anglong), while the introduction says six districts. The article names three starter types but does not provide a sample-by-sample mapping to district, community or village. The organism tables report taxa and isolate groups, not field localities. This discrepancy cannot be resolved from the published article alone; the original sample register or author clarification is needed.
 
 Next: retain the discrepancy as unresolved. Do not infer which district supplied which starter or add village rows. Cross-check taxa with SRC-106/SRC-107 and other Assam starter-culture sources.
+
+
+## 2026-10-29 — Publisher abstract re-check and evidence boundary
+
+The publisher landing page was rechecked directly (IndianJournals.com, online publication date 04-07-2024; DOI 10.18805/ajdfr.DR-1829). Its accessible abstract independently confirms the reported 2019–2020 survey, the seven-district list (Jorhat, Sivasagar, Golaghat, Lakhimpur, Dhemaji, Majuli and Karbi Anglong), and 16 yeast isolates plus two filamentous fungi. The abstract does not provide a sample-level register or resolve the district-count discrepancy. The accessible landing page therefore strengthens traceability of the discrepancy but does not resolve it.
+
+**Evidence boundary:** the five named organisms in the abstract are reported isolate identifications; this does not establish their abundance in every starter, presence in every finished beverage, or safety/benefit to consumers. Do not use the abstract's district list to allocate the nine samples geographically. The original collection sheet, supplementary sample metadata, or author clarification remains necessary.
+
+Publisher record: https://indianjournals.com/article/jdfhs-43-1-017
+DOI: https://doi.org/10.18805/ajdfr.DR-1829
+ASM-GAP-053 remains Open.
