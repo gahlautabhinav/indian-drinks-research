@@ -19,7 +19,7 @@
     </a>
     <div class="topbar-right">
       <span class="status-label"><span class="status-dot"></span> Archive in progress</span>
-      <nav aria-label="Main navigation"><a href="#archive">Records</a><a href="#methodology">Method</a><a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">Repository ↗</a></nav>
+      <nav aria-label="Main navigation"><a href="#insights">Insights</a><a href="#archive">Records</a><a href="#methodology">Method</a><a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">Repository ↗</a></nav>
     </div>
   </header>
 
@@ -46,9 +46,30 @@
       <div><span class="metric-label">Registered sources</span><strong id="stat-sources">—</strong></div>
     </section>
 
+    <section id="insights" class="insights-section">
+      <div class="section-heading">
+        <div><div class="eyebrow">01 / RESEARCH INTELLIGENCE</div><h2>Patterns across the archive</h2></div>
+        <p>Computed from current records. Counts show what is documented—not necessarily what is most common in real-world practice.</p>
+      </div>
+      <div class="insight-controls"><label for="insight-state">Scope</label><select id="insight-state"><option value="">All states / territories</option></select><span class="insight-note">Change the scope to compare patterns by state.</span></div>
+      <div id="insights-summary" class="insights-summary" aria-live="polite"></div>
+      <div class="insights-grid">
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">01 / RECORDED CATEGORIES</span><h3>Beverage types</h3></div><span class="panel-unit">records</span></div><div id="insight-types" class="rank-list"></div></article>
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">02 / INGREDIENT SIGNALS</span><h3>Ingredient mentions</h3></div><span class="panel-unit">records mentioning</span></div><div id="insight-ingredients" class="rank-list"></div><p class="insight-footnote">Keyword scan of recorded ingredient fields; not a verified recipe-level ingredient frequency.</p></article>
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">03 / STARTER CULTURES</span><h3>Starter documentation</h3></div><span class="panel-unit">exact labels</span></div><div id="insight-starters" class="rank-list"></div><p class="insight-footnote">Labels are shown as recorded. Similar spellings and local terms are not merged.</p></article>
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">04 / PROCESS</span><h3>Documented method stages</h3></div><span class="panel-unit">method rows</span></div><div id="insight-stages" class="rank-list"></div></article>
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">05 / EVIDENCE COVERAGE</span><h3>Evidence levels</h3></div><span class="panel-unit">beverage records</span></div><div id="insight-evidence" class="rank-list"></div></article>
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">06 / RESEARCH DEBT</span><h3>Open questions by priority</h3></div><span class="panel-unit">open gaps</span></div><div id="insight-gaps" class="rank-list"></div></article>
+      </div>
+      <div class="insight-bottom">
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">07 / GEOGRAPHIC COVERAGE</span><h3>Locality evidence</h3></div></div><div id="insight-places" class="coverage-list"></div></article>
+        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">08 / NEXT BEST RESEARCH</span><h3>Where to focus next</h3></div></div><div id="insight-recommendations" class="recommendation-list"></div></article>
+      </div>
+    </section>
+
     <section id="archive" class="archive-section">
       <div class="section-heading">
-        <div><div class="eyebrow">01 / RECORDS</div><h2>Research index</h2></div>
+        <div><div class="eyebrow">02 / RECORDS</div><h2>Research index</h2></div>
         <p>Search the catalogue, then inspect a record and its evidence trail.</p>
       </div>
       <div class="workspace">
