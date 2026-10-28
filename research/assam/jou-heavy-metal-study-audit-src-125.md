@@ -43,3 +43,12 @@ The authors report six beverage samples collected in Kokrajhar district: two sam
 
 - Full text (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC8233220/
 - DOI: https://doi.org/10.1016/j.toxrep.2021.06.013
+
+
+## Table-level reconciliation (2026-10-28)
+
+The accessible full-text table and discussion do not support a simple blanket summary. The authors report Fe and Ni above the cited comparison values in all six samples and Mn above the cited value in Joubidwi/Joufinai; Table 5 reports TTHQ above 1 for both Joufinai samples. These are source-reported comparisons under the paper's model assumptions, not a beverage-specific regulatory determination or a diagnosis.
+
+Table 1's accessible HTML renders unusually large SDs relative to several means, including JB1 Co 0.008 ± 1.01 mg/L, JB1 Cr 0.019 ± 0.40 mg/L, JF1 Cu 0.278 ± 2.11 mg/L and JG1 Cd 0.001 ± 1.10 mg/L. This may reflect reporting, typesetting or extraction problems; the HTML alone does not identify which. Do not silently repair values or treat these SDs as validated. The paper's abstract/highlights are broadly reassuring, while the detailed results include the comparison-limit exceedances and Joufinai TTHQ flags; preserve both and request source-data clarification before quantitative reuse.
+
+The EDI/THQ calculation assumes 250 mL/day for a 60 kg adult. This is a model input, not a measured daily intake for each sampled source. The cited comparison values mix OIV wine-related and WHO drinking-water sources and should not be presented as a definitive Assam beverage-specific legal limit. Lower metal concentrations in the two Jougwran samples are a finding for those samples only, not proof that distillation universally removes contaminants or guarantees safety.
