@@ -396,3 +396,5 @@
 - Clarified that triplicate analyses are technical replicates, not independent household batches; no sample villages/producers are named in the accessible methods.
 - Flagged published mean ± SD entries and narrative/limit comparisons for source-level clarification; the THQ/TTHQ findings depend on model assumptions and do not certify current safety.
 - Added `research/assam/jou-heavy-metal-study-audit-src-125.md`, registered SRC-125 and opened ASM-GAP-055. The GI specification gap ASM-GAP-026 remains Open.
+
+- Count reconciliation: the current source register has 124 populated source rows, with SRC-125 the highest assigned ID; SRC-080 is absent. The Assam baseline was corrected to report the actual populated-row count rather than the maximum source ID.
