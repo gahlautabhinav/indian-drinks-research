@@ -407,3 +407,10 @@
 - Clarified the numbering: 968–970 are application IDs; 648–650 are certificate numbers (and consolidated-register serials), not application IDs.
 - Added `research/assam/bodo-jou-gi-primary-document-retrieval-audit.md`. The extracted registry view still does not expose the Statement of Case/map PDF contents or stable direct document URLs, so this is a retrieval-status audit, not a transcription of the specifications.
 - Updated ASM-GAP-026 with the exact blocker and next retrieval path. No recipe, production locality, or GI criteria were inferred from applicant address, broad Assam geography, or community summaries. Gap remains Open; Assam state-transition gate remains unmet.
+
+
+## 2026-10-28 — SRC-045 Rohi/Sepa full-text retrieval follow-up
+- Located the official CSIR-NIScPR full-item repository record for Bhattacharya & Chandra Deka (2026), including English and Hindi PDF files, after the repository abstract had been the only source text reviewed.
+- The official record metadata/abstract is accessible, but opening the English PDF through the available browser route timed out and a direct download attempt failed. No full-text tables or methods were transcribed.
+- Added `research/assam/rohi-sepa-src-045-fulltext-retrieval-audit.md` and updated ASM-GAP-036 with the concrete retrieval result and next steps. The abstract supports that Rohi and Sepa are separately named and both use Mod Pitha; it does not prove identical recipes, and it does not support locality-specific production claims or numeric measurements.
+- Gap remains Open; no plant list, village record, numeric result, or health-benefit claim was added. Assam state-transition gate remains unmet.
