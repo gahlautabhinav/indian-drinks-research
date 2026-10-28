@@ -143,3 +143,7 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [Bodo beverage field-methodology audit (SRC-123)](research/assam/bodo-beverage-field-methodology-audit-src-123.md) — separates stored Joufinai and fruit-based Kanthal/Kola-Jougwran process reports from the GI product specification and limits village-level inference.
 
 - [Cultural ecology study audit (SRC-124)](research/assam/cultural-ecology-conservation-study-audit-src-124.md) — records the 2026 Bodo/Rabha/Ahom ethnobotanical study, keeps starter-culture terminology source-specific, and flags an FL-index scale inconsistency.
+
+
+### Latest Assam audit
+- [SRC-124 Bodo plant-attribution crosswalk](research/assam/src-124-bodo-plant-attribution-crosswalk.md) — extracts the paper's Bodo-labelled plant rows and records why they are not yet safe to treat as an Amao-specific ingredient list.
