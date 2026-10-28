@@ -398,3 +398,5 @@
 - Added `research/assam/jou-heavy-metal-study-audit-src-125.md`, registered SRC-125 and opened ASM-GAP-055. The GI specification gap ASM-GAP-026 remains Open.
 
 - Count reconciliation: the current source register has 124 populated source rows, with SRC-125 the highest assigned ID; SRC-080 is absent. The Assam baseline was corrected to report the actual populated-row count rather than the maximum source ID.
+
+- 2026-10-28 SRC-125 follow-up: transcribed the accessible Table 1/TTHQ discussion into the audit. The detailed results report Fe/Ni above cited comparison values across samples, Mn above the cited value for Joubidwi/Joufinai, and TTHQ >1 for both Joufinai samples, while the abstract/highlights are broadly reassuring. Recorded the mixed OIV/WHO comparison basis, 250 mL/day/60 kg model assumption and unusually large table-rendered SDs; do not silently repair values or generalise to all products.
