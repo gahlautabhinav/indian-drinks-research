@@ -59,9 +59,73 @@
     $("#stat-places").textContent=state.places.length;
     $("#stat-communities").textContent=state.communities.length;
     $("#stat-sources").textContent=state.sources.length;
-    populateFilters(); renderList();
+    populateFilters(); renderList(); initInsights(); renderInsights();
     const params=new URLSearchParams(location.search); const id=params.get("id");
     if(id&&state.beverages.some(b=>b.Beverage_ID===id))selectBeverage(id,false);
+  }
+  const ingredientSignals = [
+    ["Rice", /\\brice\\b/i], ["Millet", /\\bmillet\\b/i], ["Maize / corn", /\\b(maize|corn)\\b/i],
+    ["Banana", /\\bbanana(s)?\\b/i], ["Bamboo", /\\bbamboo\\b/i], ["Sugarcane", /\\bsugarcane\\b/i],
+    ["Fruit", /\\bfruit(s)?\\b/i], ["Herbs / plant materials", /\\b(plant|herb|leaf|leaves|root|bark|flower|stem)\\b/i]
+  ];
+  function initInsights(){
+    const select=$("#insight-state");if(!select)return;
+    const states=[...new Set(state.beverages.map(b=>b.State).filter(Boolean))].sort();
+    select.innerHTML='<option value="">All states / territories</option>'+states.map(v=>'<option value="'+esc(v)+'">'+esc(v)+'</option>').join("");
+    select.addEventListener("change",renderInsights);
+  }
+  function countBy(rows,key){
+    const counts={};rows.forEach(r=>{const label=String(r[key]||"").trim();if(label)counts[label]=(counts[label]||0)+1;});
+    return Object.entries(counts).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0]));
+  }
+  function renderRankList(target,entries,total){
+    const el=$(target);if(!el)return;
+    if(!entries.length){el.innerHTML='<p class="insight-empty">No records in this scope yet.</p>';return;}
+    const max=Math.max(1,...entries.map(x=>x[1]));
+    el.innerHTML=entries.slice(0,7).map(([label,value])=>'<div class="rank-row"><div class="rank-meta"><span title="'+esc(label)+'">'+esc(label)+'</span><strong>'+value+'</strong></div><div class="rank-track"><span style="width:'+Math.max(3,Math.round(value/max*100))+'%"></span></div></div>').join("");
+  }
+  function renderInsights(){
+    if(!$("#insights-summary"))return;
+    const scope=$("#insight-state")?.value||"";
+    const beverages=state.beverages.filter(b=>!scope||b.State===scope);
+    const ids=new Set(beverages.map(b=>b.Beverage_ID));
+    const places=state.places.filter(p=>!scope||p.State===scope);
+    const communities=state.communities.filter(c=>!scope||c.State===scope);
+    const methods=state.methods.filter(m=>ids.has(m.Beverage_ID));
+    const gaps=state.gaps.filter(g=>(!scope||g.State===scope)&&(!splitIDs(g.Beverage_ID).length||splitIDs(g.Beverage_ID).some(id=>ids.has(id))));
+    const sources=state.sources;
+    const openGaps=gaps.filter(g=>String(g.Status||"").toLowerCase()==="open");
+    const localityNeeds=places.filter(p=>/lead identified|not established|partial|needs verification|unverified/i.test(p.Coverage_Status||""));
+    const sourceLinked=beverages.filter(b=>splitIDs(b.Source_IDs).length>0).length;
+    const starters=countBy(beverages.filter(b=>b.Starter_Culture&& !/^(not established|unknown|not specified|n\/a)$/i.test(b.Starter_Culture.trim())).map(b=>({label:b.Starter_Culture.trim()})),"label");
+    const typeCounts=countBy(beverages,"Beverage_Type").map(([k,v])=>[k,v]);
+    const stageCounts=countBy(methods,"Stage");
+    const evidenceCounts=countBy(beverages,"Evidence_Level");
+    const gapPriority=countBy(openGaps,"Priority");
+    const ingredientCounts=ingredientSignals.map(([label,re])=>[label,beverages.filter(b=>re.test([b.Primary_Ingredients,b.Traditional_Process_Summary].join(" "))).length]).filter(x=>x[1]>0).sort((a,b)=>b[1]-a[1]);
+    $("#insights-summary").innerHTML=[
+      ['Beverage records',beverages.length,'catalogue entries in scope'],
+      ['Source-linked',sourceLinked,beverages.length?Math.round(sourceLinked/beverages.length*100)+'% have source IDs':'no beverage records'],
+      ['Method rows',methods.length,'recorded production stages'],
+      ['Open research gaps',openGaps.length,'unresolved questions in scope']
+    ].map(([label,value,note])=>'<div class="insight-kpi"><span>'+esc(label)+'</span><strong>'+value+'</strong><small>'+esc(note)+'</small></div>').join("");
+    renderRankList("#insight-types",typeCounts,beverages.length);
+    renderRankList("#insight-ingredients",ingredientCounts,beverages.length);
+    renderRankList("#insight-starters",starters,beverages.length);
+    renderRankList("#insight-stages",stageCounts,methods.length);
+    renderRankList("#insight-evidence",evidenceCounts,beverages.length);
+    renderRankList("#insight-gaps",gapPriority,openGaps.length);
+    const coverage=countBy(places,"Coverage_Status");
+    $("#insight-places").innerHTML=coverage.length?coverage.slice(0,8).map(([label,value])=>'<div class="coverage-row"><span>'+esc(label)+'</span><strong>'+value+'</strong></div>').join(""):'<p class="insight-empty">No place records in this scope yet.</p>';
+    const high=openGaps.filter(g=>String(g.Priority||"").toLowerCase()==="high").length;
+    const uncoded=beverages.filter(b=>!b.Evidence_Level||/not assessed|unknown|not specified/i.test(b.Evidence_Level)).length;
+    const recs=[
+      [high+" high-priority open gaps","Prioritise primary-source retrieval and close the highest-risk evidence gaps."],
+      [localityNeeds.length+" locality records need follow-up","Verify whether each locality indicates production, consumption, a field-study site or only an applicant address."],
+      [uncoded+" records with unclear evidence level","Apply a consistent evidence rubric and keep confidence separate from source count."]
+    ];
+    $("#insight-recommendations").innerHTML=recs.map(([title,desc])=>'<div class="recommendation-item"><strong>'+esc(title)+'</strong><p>'+esc(desc)+'</p></div>').join("");
+    const note=document.querySelector(".insight-note");if(note)note.textContent=scope?"Filtered to "+scope+". Counts describe archive documentation, not population prevalence.":"All states / territories. Counts describe archive documentation, not population prevalence.";
   }
   function populateFilters(){
     const states=[...new Set(state.beverages.map(b=>b.State).filter(Boolean))].sort();
