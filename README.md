@@ -149,3 +149,5 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [SRC-124 Bodo plant-attribution crosswalk](research/assam/src-124-bodo-plant-attribution-crosswalk.md) — extracts the paper's Bodo-labelled plant rows and records why they are not yet safe to treat as an Amao-specific ingredient list.
 
 - [SRC-125 Jou heavy-metal study audit](research/assam/jou-heavy-metal-study-audit-src-125.md) — six-sample Kokrajhar analytical study; records sample-size, reported uncertainty and risk-model limitations.
+
+- [Bodo Jou GI primary-document retrieval audit](research/assam/bodo-jou-gi-primary-document-retrieval-audit.md) — confirms official registry metadata for applications 968–970 and records that the Statements of Case/maps remain unextracted; ASM-GAP-026 stays open.
