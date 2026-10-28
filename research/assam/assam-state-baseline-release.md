@@ -17,8 +17,8 @@
 | Semicolon-separated district tokens | 36 | Not an official district count |
 | District baseline rows | 35 | One row for each district name in the working administrative reference layer |
 | Districts with no place row at all | 9 | Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. Biswanath has a study-area lead only; product/community attribution remains unresolved. |
-| Assam research gaps | 47 | All remain open; each has a next action |
-| Source-register rows | 99 | Includes retired duplicate aliases; row count is not a unique-publication count |
+| Assam research gaps | 55 | All remain open; each has a next action |
+| Source-register rows | 124 | Includes retired duplicate aliases; row count is not a unique-publication count. SRC-080 is absent, so the highest ID (SRC-125) is not the row count. |
 
 ## What this baseline includes
 
@@ -40,7 +40,7 @@
 
 ## Transition decision
 
-**Assam is not yet ready for the next-state transition.** The repository baseline and geography matrix are useful, but the close-out review still requires a primary-source GI specification pass for the Bodo Jou products and a targeted process/name claim audit. The Hill-Tiwa Chu record has been added and reviewed, but this does not close those remaining checks. “Complete” here means the scope, evidence classes, known gaps and next actions are published and reproducible. It does not mean every beverage has been discovered, all 47 research gaps are closed, or every listed tradition is currently practiced.
+**Assam is not yet ready for the next-state transition.** The repository baseline and geography matrix are useful, but the close-out review still requires a primary-source GI specification pass for the Bodo Jou products and a targeted process/name claim audit. The Hill-Tiwa Chu record has been added and reviewed, but this does not close those remaining checks. “Complete” here means the scope, evidence classes, known gaps and next actions are published and reproducible. It does not mean every beverage has been discovered, all current research gaps are closed, or every listed tradition is currently practiced.
 
 Keep Assam as the active research state until those repository-level checks are completed and you choose to move on. Long-term fieldwork and community-confirmation gaps may remain open, but the primary-source and process/name close-out tasks should be completed first. Do not mark unresolved claims as verified to achieve closure.
 
@@ -54,10 +54,10 @@ Keep Assam as the active research state until those repository-level checks are 
 
 ## 2026-10-24 snapshot refresh
 
-The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **31 Assam beverage records; 100 Assam place-register rows (104 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 51 Assam-assigned research gaps (56 total project gaps, all Open); and 124 source-register rows.** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
+The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **31 Assam beverage records; 100 Assam place-register rows (104 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 55 Assam-assigned research gaps (57 total project gaps, all Open); and 124 populated source-register rows (highest ID SRC-125; SRC-080 absent).** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
 
 
-**2026-10-24 source-count correction:** SRC-116 was added during the Bodo Jou GI document-retrieval pass. The current source-register row count is 124 after adding SRC-117 for Luk Lao locality reporting; this does not close ASM-GAP-026.
+**2026-10-28 source-count reconciliation:** Earlier historical notes overstated the source-row count by treating the highest SRC ID as the number of populated rows. The current register contains 124 populated rows; SRC-080 is absent and has not been silently recreated or renumbered. This does not close ASM-GAP-026.
 
 
 **2026-10-24 Luk Lao update:** Added provisional beverage record ASM-031-LKL and named commercial-production locality lead ASM-PL-101 for Demou, Sivasagar, based on SRC-117 (Open Magazine, 2024). Relationship to Xajpani/Sajpani/Nam-Lau/Laopani remains unresolved; see `research/assam/luk-lao-demou-locality-and-identity-audit.md` and ASM-GAP-054. This is not proof of village-wide current production.
