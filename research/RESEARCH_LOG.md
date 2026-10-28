@@ -414,3 +414,9 @@
 - The official record metadata/abstract is accessible, but opening the English PDF through the available browser route timed out and a direct download attempt failed. No full-text tables or methods were transcribed.
 - Added `research/assam/rohi-sepa-src-045-fulltext-retrieval-audit.md` and updated ASM-GAP-036 with the concrete retrieval result and next steps. The abstract supports that Rohi and Sepa are separately named and both use Mod Pitha; it does not prove identical recipes, and it does not support locality-specific production claims or numeric measurements.
 - Gap remains Open; no plant list, village record, numeric result, or health-benefit claim was added. Assam state-transition gate remains unmet.
+
+## 2026-10-28 — Luk Lao official licensing-route follow-up (SRC-126)
+- Found the Government of Assam ARTPS service catalogue listing heritage alcoholic beverage manufactory/micro-brewery, wholesale, retail and renewal licence services, plus the Assam State Excise Revenue Management System's licence-verification form.
+- Registered the service catalogue as SRC-126 and updated the Luk Lao identity audit and ASM-GAP-054 with the official routes.
+- This is a verification pathway, not evidence of a Luk Lao licence. The portal asks for a file reference/licence number, and no source currently identifies one for the Demou unit. The gap remains Open; no licence status, recipe, current operation or synonymy was inferred.
+
