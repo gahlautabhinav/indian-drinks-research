@@ -147,3 +147,5 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 
 ### Latest Assam audit
 - [SRC-124 Bodo plant-attribution crosswalk](research/assam/src-124-bodo-plant-attribution-crosswalk.md) — extracts the paper's Bodo-labelled plant rows and records why they are not yet safe to treat as an Amao-specific ingredient list.
+
+- [SRC-125 Jou heavy-metal study audit](research/assam/jou-heavy-metal-study-audit-src-125.md) — six-sample Kokrajhar analytical study; records sample-size, reported uncertainty and risk-model limitations.
