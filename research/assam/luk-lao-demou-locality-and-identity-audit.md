@@ -34,3 +34,18 @@ A search located the Government of Assam's 6 May 2017 Gazette amendment, Part IX
 The same Open Magazine article separately discusses the Luk Lao and Xaj commercial brands. That editorial distinction establishes two reported commercial product names, not necessarily two distinct underlying traditional beverage categories. A 2007 Tai-Ahom ethnobotanical study describes Sajpani (Tai) and Laopani (Assamese), but does not mention Luk Lao. Therefore the archive continues to keep Luk Lao provisional and separate pending product-level comparison and community/producer confirmation.
 
 Sources: [SRC-117](https://openthemagazine.com/art-culture/brewing-heritage); [SRC-118](https://upload.indiacode.nic.in/showfile?actid=AC_AS_58_531_00001_00001_1544168097283&filename=no._164_ex.138-2015-32_dated_06-05-17_heritage_liquor.pdf&type=rule); Saikia, Tag & Das (2007), [Tai-Ahom beverage study](https://www.researchgate.net/publication/237772274_Ethnobotany_of_foods_and_beverages_among_the_rural_farmers_of_Tai_Ahom_of_North_Lakhimpur_district_Asom).
+
+## 2026-10-28 — Official licensing-route check (SRC-126)
+
+The Government of Assam's Administrative Reforms and Training Department lists notified public services for heritage alcoholic beverages, including grant of a Heritage Alcoholic Beverages Micro-Brewery License, wholesale/retail licence services and renewals. The Assam State Excise Revenue Management System also exposes a licence-verification form that requests a file reference or licence number.
+
+- Service catalogue: https://art.assam.gov.in/portlet-innerpage/artps-list-of-notified-public-services
+- Licence verification portal: https://www.stateexcise.assam.gov.in/index.php/Paycollection/verifylicense
+- SRC-126 records the service catalogue as an official administrative lead.
+
+**What this establishes:** there is an official service/verification route relevant to investigating commercial heritage-beverage licensing.
+
+**What it does not establish:** neither page names Luk Lao, Demou, the producer or a licence number; neither proves that a licence was granted, is current, or covers the reported product/site. Do not infer licence status from the existence of a licensing service or from the producer's statement in SRC-117.
+
+**Next evidence request:** ask the producer or Assam Excise Department for the exact licence/file reference and a copy of the relevant manufactory, micro-brewery, brand/label or sales authorisation. Verify the reference through the official portal where supported. Independently obtain a product/process description and consent-based Tai-Ahom/community evidence before deciding whether Luk Lao is distinct from or related to Xajpani/Sajpani/Laopani. ASM-GAP-054 remains Open.
+
