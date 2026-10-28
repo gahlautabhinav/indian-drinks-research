@@ -440,3 +440,8 @@
 - Reopened the official IP India pages for applications 968–970 and checked the visible Authorized User Details tables separately from the linked dated producer-list documents.
 - The page extraction shows 4, 3 and 4 authorized-user rows respectively; some names recur across indications and the extracted status cells appear blank. These entries are not treated as producer-list contents, production sites, or proof of identical recipes/processes.
 - Updated `research/assam/bodo-jou-gi-primary-document-retrieval-audit.md` and ASM-GAP-026 with the distinction and caveats. Primary Statements of Case and maps remain inaccessible through the extracted download controls; the gap stays Open.
+
+## 2026-10-29 — SRC-108 publisher abstract re-check
+- Rechecked the IndianJournals.com publisher landing page for Saikia et al. (2024), DOI 10.18805/ajdfr.DR-1829. The abstract confirms the seven-district list and 16 yeast isolates plus two filamentous fungi but does not expose sample-by-sample locality metadata or reconcile the district-count discrepancy against the introduction.
+- Updated `research/assam/src-108-assam-mycoflora-sample-audit.md` and ASM-GAP-053. Explicitly bounded isolate findings: they do not establish universal presence in finished beverages or consumer safety.
+- Gap remains Open; no sample-to-village assignment or new production locality was added.
