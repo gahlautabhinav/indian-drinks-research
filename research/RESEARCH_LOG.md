@@ -430,3 +430,8 @@
 - Updated the existing SRC-118 source-register caveat, Luk Lao identity audit and ASM-GAP-054. No duplicate source ID was created because the Gazette was already registered.
 - Research implication: the rule identifies specific documents and fields to request for Luk Lao, but does not prove the unit's licence, recipe, starter supply arrangement, current status, or identity relationship to Xajpani/Sajpani/Laopani. ASM-GAP-054 remains Open.
 
+
+## 2026-10-28 — Assam source-count reconciliation after SRC-126
+- Recounted `sources/source_register.csv` directly: 126 populated data rows (127 non-empty CSV lines including the header); SRC-126 is present and SRC-080 remains absent. The highest source ID is not the row count.
+- Updated the current snapshot and source-register row-count table in `research/assam/assam-state-baseline-release.md`; earlier 124-row statements are explicitly retained as historical snapshots, not current counts.
+- This is bookkeeping only: it does not resolve the Bodo Jou GI primary-document gap (ASM-GAP-026) or pass the Assam transition gate.
