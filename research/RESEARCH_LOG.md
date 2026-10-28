@@ -381,3 +381,11 @@
 - Flagged terminology variance within the article (angkur/Bakhar) versus the Bodo-specific Amao usage in SRC-123; no synonyms were merged.
 - Flagged that the article defines FL as a percentage but reports values such as 3.78; do not reuse these values quantitatively pending clarification.
 - Added SRC-124 to ASM-GAP-026 references. GI case statements, amended maps and producer list remain unextracted; gap remains Open. Source register count now 124.
+
+
+## 2026-10-28 — SRC-124 Bodo plant-attribution crosswalk
+- Extracted the 20 Table 1 rows whose community field explicitly includes Bodo into `research/assam/src-124-bodo-plant-attribution-crosswalk.md`.
+- Compared potential taxon-level leads against SRC-123's Bodo-specific Amao descriptions, including *Ananas comosus*, *Scoparia dulcis* and *Artocarpus heterophyllus*; kept these as leads only because SRC-124 has no beverage-specific column.
+- Explicitly preserved the distinction between *Musa paradisiaca* in SRC-124 and *Musa balbisiana* in SRC-123; no canonical Amao ingredients or locality records were added.
+- Reconfirmed source-quality flags: 41 species versus life-form counts summing to 47; FL is defined as a percentage but reported values include 3.78; voucher ST/EES/2024/015 is printed for two taxa.
+- Updated ASM-GAP-041 and ASM-GAP-046 notes. Both remain Open; Assam state-transition gate remains unmet.
