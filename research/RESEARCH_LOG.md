@@ -455,3 +455,9 @@
 - Added Sarma, Islam & Sharma (2026), “Various Fermented Foods of Northeastern Region and Their Functional Roles and Impact on Gut Microbiota: A Review,” DOI 10.18805/ajdfr.DR-2498, as SRC-127 after checking the publisher's article page and its Assam/rice-beverage discussion.
 - Created `research/assam/src-127-northeast-fermented-foods-review-audit.md`. The audit treats this as secondary bibliography only: no new locality, recipe, ingredient association or clinical claim was added. General starter/microbiota statements require primary-source checking.
 - Updated `research/assam/assam-state-baseline-release.md`: current source register count is 127 populated rows, SRC-127 highest ID, SRC-080 still absent. Assam transition gate remains open.
+
+## 2026-10-29 — SRC-127 Assam citation cross-check
+- Reviewed the publisher HTML for the regional fermented-foods review and cross-checked its Assam beverage references against the existing register.
+- Confirmed Borah et al. (2021) is already SRC-061 and Narzary et al. (2016) is already SRC-075; no duplicate sources were created.
+- Logged two specific limits in the SRC-127 audit and source-register caveat: accessible HTML does not expose the Assam table rows and has an incomplete-looking reference numbering sequence; Apong is described as Assam in one section but listed under Arunachal Pradesh later without clarification. Treat these as unresolved consistency flags, not confirmed author errors.
+- No new beverage, ingredient or locality records were added. Next: inspect typeset PDF and trace each Assam table entry to its cited primary source.
