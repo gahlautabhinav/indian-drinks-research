@@ -450,3 +450,8 @@
 - Reopened the official CSIR-NIScPR repository record for Bhattacharya & Chandra Deka (2026), *Rohi and Sepa*, and followed its English PDF link. The record confirms the English and Hindi file listings, but the English bitstream fetch timed out again.
 - Updated `research/assam/rohi-sepa-src-045-fulltext-retrieval-audit.md` and ASM-GAP-036 with the new attempt and a stricter evidence boundary: no separate recipes, sample locality, plant-by-batch mapping, assay values/units or replicate details were extracted from the abstract.
 - Next retrieval route is an author manuscript/copy, legitimate institutional access or repository support. No full-text claims or new locality rows were added; ASM-GAP-036 remains Open.
+
+## 2026-10-29 — SRC-127 regional fermented foods review
+- Added Sarma, Islam & Sharma (2026), “Various Fermented Foods of Northeastern Region and Their Functional Roles and Impact on Gut Microbiota: A Review,” DOI 10.18805/ajdfr.DR-2498, as SRC-127 after checking the publisher's article page and its Assam/rice-beverage discussion.
+- Created `research/assam/src-127-northeast-fermented-foods-review-audit.md`. The audit treats this as secondary bibliography only: no new locality, recipe, ingredient association or clinical claim was added. General starter/microbiota statements require primary-source checking.
+- Updated `research/assam/assam-state-baseline-release.md`: current source register count is 127 populated rows, SRC-127 highest ID, SRC-080 still absent. Assam transition gate remains open.
