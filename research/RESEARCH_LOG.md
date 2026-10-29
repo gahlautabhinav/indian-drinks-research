@@ -461,3 +461,11 @@
 - Confirmed Borah et al. (2021) is already SRC-061 and Narzary et al. (2016) is already SRC-075; no duplicate sources were created.
 - Logged two specific limits in the SRC-127 audit and source-register caveat: accessible HTML does not expose the Assam table rows and has an incomplete-looking reference numbering sequence; Apong is described as Assam in one section but listed under Arunachal Pradesh later without clarification. Treat these as unresolved consistency flags, not confirmed author errors.
 - No new beverage, ingredient or locality records were added. Next: inspect typeset PDF and trace each Assam table entry to its cited primary source.
+
+
+## 2026-10-29 — SRC-127 citation-identity check
+- Reopened the full publisher HTML and traced the review's claim that “recent metagenomic analyses” of Assamese rice-beer starters are reported by Borah et al. (2021).
+- Flagged a material mismatch against the existing register: SRC-061 / DOI 10.13057/biodiv/d220451 is an ethnobotanical plant-use compendium, not a metagenomic analysis. The intended citation remains unresolved; do not cite SRC-061 for metagenomics.
+- Confirmed the HTML bibliography as exposed starts at item 4, then continues 5–8 and 13 onward; this may be a rendering/extraction issue, so it is not treated as proof that the formatted article omits references.
+- The page exposes a “Download Article” label but no usable PDF URL in the inspected text view. Assam table rows remain inaccessible in the HTML extraction. SRC-061 and SRC-075 are already registered; no duplicate source records or canonical rows were added.
+- Next retrieval target: typeset PDF or author-supplied copy, especially to resolve the misattributed/mismatched metagenomics citation and recover Assam table entries. Assam remains active.
