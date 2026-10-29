@@ -46,3 +46,14 @@ These abstract-level claims do not establish that Rohi and Sepa have identical r
 ## Decision and next step
 
 The official repository provides a stable primary-document route, but the PDF payload was not extractable in this retrieval session. **ASM-GAP-036 remains Open.** Next step: retrieve the English PDF via a working browser/download route or obtain an author copy, then complete the field-by-field extraction checklist above. No canonical recipe, locality, ingredient or numeric analytical result is added by this audit.
+
+
+## 2026-10-29 — Official repository link-level retry
+
+A new retrieval pass opened the official CSIR-NIScPR repository record directly and followed its English PDF link. The item record is readable and confirms: *Indian Journal of Traditional Knowledge* 25(9), September 2026, pages 914–921, DOI 10.56042/ijtk.v25i9.23169; it exposes an English PDF (1.28 MB) and a Hindi PDF (617.2 kB). Following the English PDF link again failed with a fetch timeout at the official bitstream URL. This is a second documented failure of the PDF payload path, not evidence that the file is missing or that its contents have been reviewed.
+
+The accessible repository abstract supports only the following: Rohi and Sepa are separately named Sonowal Kachari rice-based alcoholic beverages; Mod Pitha is named as the starter for the tradition; the article says the starter uses rice and multiple plants; and the study evaluates physicochemical parameters and antioxidant properties. The abstract does **not** identify which plant species are used in which starter batch, show separate recipes, identify a sample village, or expose assay values, units, controls, sample counts or replicates. No quantitative or clinical health claim is added from the abstract.
+
+Source record: https://nopr.niscpr.res.in/handle/123456789/68641
+English bitstream attempted: https://nopr.niscpr.res.in/bitstream/123456789/68641/1/IJTK%20Vol.25%289%29%20914-921.pdf
+Next retrieval routes: request an author manuscript/corresponding-author copy, inspect a legitimate institutional subscription copy, or ask CSIR-NIScPR support for a working full-text route. Keep ASM-GAP-036 Open until the methods/results and product-specific terminology can be checked.
