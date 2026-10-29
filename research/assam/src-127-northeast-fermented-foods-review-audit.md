@@ -31,13 +31,21 @@ The publisher's full HTML text was reviewed for Assam beverage references and co
 - **Narzary et al. (2016)**, “A study on indigenous fermented foods and beverages of Kokrajhar, Assam, India,” is already registered as **SRC-075**. It is a district-scoped study, not evidence for all Assam. Use its original scope and sampling design rather than generalizing the review's summary.
 - The review's displayed references have a numbering jump in the accessible HTML (items 1–7 then 13 onward, with further missing ranges). This may be a publication or HTML-extraction issue; do not label it a confirmed authoring error without checking the formatted PDF. It does, however, make the HTML reference list insufficient for a complete reproducible bibliography on its own.
 
+### Internal consistency and citation-trace flags — 2026-10-29 follow-up
+
+A deeper read of the publisher's rendered HTML confirmed that the bibliography visible on the page starts at reference 4, continues through reference 8, then resumes at 13 and runs onward. The first three entries and entries 9–12 are not visible in the rendered reference list. This may be a publisher rendering/extraction defect; it is not proof that the typeset article itself omits them.
+
+A material citation mismatch needs resolution: the review states that “recent metagenomic analyses” of Assamese rice-beer starters are reported by **Borah et al. (2021)**. The existing SRC-061 record for Borah et al. (2021), DOI 10.13057/biodiv/d220451, is an ethnobotanical compendium of plants used in traditional alcoholic-beverage preparation, not a metagenomic analysis. Do not treat SRC-061 as evidence for metagenomic findings. The review may have intended a different Borah paper or the citation may be mismatched; resolve against the formatted PDF and the intended primary paper before accepting the claim.
+
+The accessible publisher page includes a “Download Article” label but exposes no usable PDF link in the text view inspected during this pass. The table headings are present, but table rows remain unavailable in extracted text. The primary sources SRC-061 and SRC-075 are already registered; the latter is an original Kokrajhar field survey of fermented foods/beverages, not a metagenomic paper.
+
 ### Internal consistency and overgeneralization flags
 
 1. The narrative calls **Apong** an Assam beverage in the cereal-beverage section, but later places Apong among Arunachal Pradesh foods. These may reflect distinct traditions/name usage, but the review does not explain the distinction. Keep Assam and Arunachal Pradesh records separate unless the cited primary sources support a specific equivalence.
 2. The review lists Apong, Xaj/Xaj-pani, Jou, Chubitchi and Zutho together with generalized starter organisms (molds, yeasts and LAB). This is regional framing, not proof that every named beverage has all listed organisms or a shared starter recipe.
 3. The publisher HTML contains headings such as “Table 1. Fermented foods of Assam” but the accessible text extraction does not expose the actual table rows. Consequently, the claimed Assam table could not be independently audited row by row from this view.
-4. Health and gut-microbiota passages repeatedly acknowledge that human clinical evidence is limited or still needed. Statements about probiotic potential, antioxidant activity or functional benefits must remain hypotheses or study-specific findings unless supported by direct beverage-specific human evidence.
+5. Health and gut-microbiota passages repeatedly acknowledge that human clinical evidence is limited or still needed. Statements about probiotic potential, antioxidant activity or functional benefits must remain hypotheses or study-specific findings unless supported by direct beverage-specific human evidence.
 
 ### Decision
 
-No new beverage or locality rows were added. SRC-127 remains a secondary review and citation-discovery aid. Next: inspect the typeset PDF for the full tables and complete reference list, then trace each Assam beverage row to its cited primary source and reconcile any name/community/geography conflicts. The review does not close any existing Assam gap or pass the state-transition gate.
+No new beverage or locality rows were added. SRC-127 remains a secondary review and citation-discovery aid. Next: obtain the typeset PDF or author-supplied copy; identify the intended primary citation behind the metagenomics sentence; recover the Assam table rows and trace each row to its cited primary source. Reconcile name/community/geography conflicts before any canonical data changes. The review does not close any existing Assam gap or pass the state-transition gate.
