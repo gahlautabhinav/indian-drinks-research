@@ -19,3 +19,25 @@ The rice/millet beverage discussion names Apong and Xaj-pani and cites earlier s
 
 ## Decision
 SRC-127 is a secondary bibliographic lead only. No new canonical beverage rows, ingredient links or locality records are warranted from this review alone. It does not close a named Assam research gap or change the state-transition decision; Assam remains in progress.
+
+
+## 2026-10-29 — Assam citation and internal-consistency cross-check
+
+The publisher's full HTML text was reviewed for Assam beverage references and compared against already-registered sources. This pass identified useful leads but also several reasons not to treat the review's summary tables or organism lists as verified archive facts.
+
+### Citation traceability
+
+- **Borah et al. (2021)**, “Compendium of plants used for preparation of traditional alcoholic beverages by four major ethnic communities of Assam, northeast India,” is already registered as **SRC-061**. The review cites it for complex starter communities and functional potential, but the compendium's plant-use documentation should not be converted into a universal recipe or a beverage-specific ingredient link without checking its community/beverage-level entries.
+- **Narzary et al. (2016)**, “A study on indigenous fermented foods and beverages of Kokrajhar, Assam, India,” is already registered as **SRC-075**. It is a district-scoped study, not evidence for all Assam. Use its original scope and sampling design rather than generalizing the review's summary.
+- The review's displayed references have a numbering jump in the accessible HTML (items 1–7 then 13 onward, with further missing ranges). This may be a publication or HTML-extraction issue; do not label it a confirmed authoring error without checking the formatted PDF. It does, however, make the HTML reference list insufficient for a complete reproducible bibliography on its own.
+
+### Internal consistency and overgeneralization flags
+
+1. The narrative calls **Apong** an Assam beverage in the cereal-beverage section, but later places Apong among Arunachal Pradesh foods. These may reflect distinct traditions/name usage, but the review does not explain the distinction. Keep Assam and Arunachal Pradesh records separate unless the cited primary sources support a specific equivalence.
+2. The review lists Apong, Xaj/Xaj-pani, Jou, Chubitchi and Zutho together with generalized starter organisms (molds, yeasts and LAB). This is regional framing, not proof that every named beverage has all listed organisms or a shared starter recipe.
+3. The publisher HTML contains headings such as “Table 1. Fermented foods of Assam” but the accessible text extraction does not expose the actual table rows. Consequently, the claimed Assam table could not be independently audited row by row from this view.
+4. Health and gut-microbiota passages repeatedly acknowledge that human clinical evidence is limited or still needed. Statements about probiotic potential, antioxidant activity or functional benefits must remain hypotheses or study-specific findings unless supported by direct beverage-specific human evidence.
+
+### Decision
+
+No new beverage or locality rows were added. SRC-127 remains a secondary review and citation-discovery aid. Next: inspect the typeset PDF for the full tables and complete reference list, then trace each Assam beverage row to its cited primary source and reconcile any name/community/geography conflicts. The review does not close any existing Assam gap or pass the state-transition gate.
