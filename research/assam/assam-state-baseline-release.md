@@ -18,7 +18,7 @@
 | District baseline rows | 35 | One row for each district name in the working administrative reference layer |
 | Districts with no place row at all | 9 | Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. Biswanath has a study-area lead only; product/community attribution remains unresolved. |
 | Assam research gaps | 55 | All remain open; each has a next action |
-| Source-register rows | 126 | Includes retired duplicate aliases; row count is not a unique-publication count. SRC-080 is absent, so the highest ID (SRC-126) is not the row count. |
+| Source-register rows | 127 | Includes retired duplicate aliases; row count is not a unique-publication count. SRC-080 is absent, so the highest ID (SRC-127) is not the row count. |
 
 ## What this baseline includes
 
@@ -54,7 +54,7 @@ Keep Assam as the active research state until those repository-level checks are 
 
 ## 2026-10-24 snapshot refresh
 
-The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **31 Assam beverage records; 100 Assam place-register rows (104 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 55 Assam-assigned research gaps (57 total project gaps, all Open); and 126 populated source-register rows (highest ID SRC-126; SRC-080 absent).** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
+The 2026-10-23 release-candidate counts are superseded by the current CSV snapshot: **31 Assam beverage records; 100 Assam place-register rows (104 place rows project-wide); 32 distinct raw district-field strings / 36 semicolon-separated district tokens; 35 district baseline rows; 55 Assam-assigned research gaps (57 total project gaps, all Open); and 127 populated source-register rows (highest ID SRC-127; SRC-080 absent).** These are archive counts, not completeness measures or unique-village counts. The state-transition gate remains pending, particularly because the three Bodo Jou GI case statements, Journal 191 text and amended maps have not yet been extracted into the archive. See [coverage audit](coverage-audit.md) and [Bodo Jou GI audit](bodo-jou-gi-registry-audit-src-031-033.md).
 
 
 **2026-10-28 source-count reconciliation (superseded by SRC-126):** Earlier historical notes overstated the source-row count by treating the highest SRC ID as the number of populated rows. The register snapshot at that point contained 124 populated rows; SRC-080 was absent and was not silently recreated or renumbered. After SRC-126 was added, the current register contains 126 populated rows; SRC-080 remains absent. This does not close ASM-GAP-026.
@@ -76,3 +76,6 @@ The 2026-10-23 release-candidate counts are superseded by the current CSV snapsh
 
 
 **2026-10-28 SRC-125 update:** Added a source audit of the 2021 Jou heavy-metal study at `research/assam/jou-heavy-metal-study-audit-src-125.md`. It covers six Kokrajhar samples (two per beverage type) and flags analytical-uncertainty and risk-model interpretation limits. SRC-125 is now registered; ASM-GAP-055 remains Open and no production-place or safety claim was added. At that log entry, the source register contained 124 populated rows, with SRC-125 as the highest assigned ID; SRC-080 was absent and remains a numbering audit item. The later SRC-126 addition brings the current populated row count to 126.
+
+
+**2026-10-29 source-count update after SRC-127:** The current source register now contains 127 populated data rows; SRC-127 is a new secondary review record, and SRC-080 remains absent. The earlier 126-row snapshot is historical. This source-count update does not close any research gap or pass the Assam transition gate.
