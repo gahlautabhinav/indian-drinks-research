@@ -445,3 +445,8 @@
 - Rechecked the IndianJournals.com publisher landing page for Saikia et al. (2024), DOI 10.18805/ajdfr.DR-1829. The abstract confirms the seven-district list and 16 yeast isolates plus two filamentous fungi but does not expose sample-by-sample locality metadata or reconcile the district-count discrepancy against the introduction.
 - Updated `research/assam/src-108-assam-mycoflora-sample-audit.md` and ASM-GAP-053. Explicitly bounded isolate findings: they do not establish universal presence in finished beverages or consumer safety.
 - Gap remains Open; no sample-to-village assignment or new production locality was added.
+
+## 2026-10-29 — SRC-045 official PDF link retry
+- Reopened the official CSIR-NIScPR repository record for Bhattacharya & Chandra Deka (2026), *Rohi and Sepa*, and followed its English PDF link. The record confirms the English and Hindi file listings, but the English bitstream fetch timed out again.
+- Updated `research/assam/rohi-sepa-src-045-fulltext-retrieval-audit.md` and ASM-GAP-036 with the new attempt and a stricter evidence boundary: no separate recipes, sample locality, plant-by-batch mapping, assay values/units or replicate details were extracted from the abstract.
+- Next retrieval route is an author manuscript/copy, legitimate institutional access or repository support. No full-text claims or new locality rows were added; ASM-GAP-036 remains Open.
