@@ -95,3 +95,22 @@ Interpretation limits:
 - This adds a verification lead, not specification evidence; the three Statements of Case and original/amended maps remain unread.
 
 Official table sources: application 968, 969 and 970 pages linked above. ASM-GAP-026 remains Open.
+
+
+## 2026-10-30 — GI cross-application and external process-source audit
+
+Rechecked all three live IP India application pages and cross-compared the non-registry Bodoland GI Heritage pages and the RIPA-hosted Assam GI compilation. Official registry confirms:
+
+| GI product | Application | Certificate | Registration date | Valid through |
+|---|---:|---:|---|---|
+| Bodo Jou Gwran | 968 | 648 | 01-10-2024 | 28-08-2032 |
+| Bodo Jou Gishi | 969 | 649 | 01-10-2024 | 28-08-2032 |
+| Bodo Maibra Jou Bidwi | 970 | 650 | 01-10-2024 | 28-08-2032 |
+
+All three pages identify Bodo Geographical Indication (G.I) Board as applicant, with the same Ward No. 5, Tengapara, Kokrajhar address; class 32; manufactured goods; broad geographical-area field “Assam”; filing 29-08-2022; Journal 191 available 31-05-2024. These registry facts are strong evidence of registration identity/status, but the applicant address and broad state field are not evidence of a producer's village or the exact mapped production boundary. Preserve the distinction between application numbers 968–970 and certificate numbers 648–650.
+
+The Bodoland GI Heritage page gives process summaries for Jou Gwran and Jou Gishi, including Amao, rice preparation, fermentation durations and named vessels/implements. These remain secondary explanatory pages, not the official Statements of Case. Its Jou Gwran account says repeated distillation two to four times while also saying more distillation lowers concentration; this is an unresolved process/measurement ambiguity, not a specification to normalize. Its medicinal/health language is not clinical evidence. The page's displayed applicant/holder wording also differs from the live registry applicant field; use IP India for legal registration metadata.
+
+The RIPA-hosted compilation for Maibra Jou Bidwi reports special Maibra rice, Amao, 7–8% alcohol, a list of plant materials, a generic process and Bodoland/Assam origin. It is not an IP India Statement of Case or verified producer list. Its class field says 33 whereas IP India says class 32; treat this as a metadata discrepancy and do not import the recipe, alcohol figure, plant list or geography into canonical GI data without primary confirmation.
+
+No new village or producer locality rows are warranted. The primary Statements of Case, dated producer lists and original/amended maps remain the decisive missing records. ASM-GAP-026 remains Open.
