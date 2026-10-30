@@ -49,3 +49,14 @@ The accessible publisher page includes a “Download Article” label but expose
 ### Decision
 
 No new beverage or locality rows were added. SRC-127 remains a secondary review and citation-discovery aid. Next: obtain the typeset PDF or author-supplied copy; identify the intended primary citation behind the metagenomics sentence; recover the Assam table rows and trace each row to its cited primary source. Reconcile name/community/geography conflicts before any canonical data changes. The review does not close any existing Assam gap or pass the state-transition gate.
+
+
+### 2026-10-30 — Direct in-text citation and reference-list verification
+
+The publisher's rendered article now allows a decisive check of the metagenomics citation. In the rice/millet beverage section, the sentence on “Recent metagenomic analyses of Assamese rice beer starters” links citation [60] to reference-list item 3: **Borah, D. et al. (2021), “Compendium of plants used for preparation of traditional alcoholic beverages…”**, DOI 10.13057/biodiv/d220451. That is SRC-061, an ethnobotanical plant-use compendium, not a metagenomics paper. This is not merely an uncertain author–year shorthand: the review's own linked reference is mismatched to the claim.
+
+The relevant Assam starter metagenomics papers are already in the archive: **SRC-023** (Bora et al., 2016, Xaj-pitha) and **SRC-027** (Narzary et al., 2021, Emao). The latter includes Ashis Borah as a co-author but is correctly cited under first author Narzary. The 2026 Wiley southern Assam paper's bibliography also separately lists Bora et al. (2016), Keot et al. (2020), Yumnam et al. (2024), and Boro & Narzary (2022), reinforcing that these are distinct sources rather than one “Borah et al. (2021)” study.
+
+The publisher HTML still does not expose the actual rows of “Table 1. Fermented foods of Assam”; only the heading and surrounding narrative are visible. The review also identifies Apong as Assam in the beverage section but later includes “apong, poka and jaan” in its Arunachal Pradesh discussion. This remains an unresolved geographic/name conflation risk; do not merge the Assam and Arunachal traditions without primary evidence.
+
+Decision: treat SRC-127's [60] citation as demonstrably mislinked/misattributed; do not use it as support for metagenomics. No new source ID or canonical beverage/locality row is needed. Keep Assam open pending the table/PDF and primary-source trace.
