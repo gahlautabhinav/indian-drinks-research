@@ -517,3 +517,11 @@
 - Checked live IP India application 970 independently. It lists Association Details/authorisation (03-11-2023), amended application Annexure-1, Annexure-7 Association, Annexure-9 Affidavit, Annexure-8 Map (19-10-2023), producer list (13-02-2023), Statement of Case and original Map (29-08-2022), plus supporting documents.
 - Authorized-user table has four rows: Ranjila Mohilary (Deborbill/Amteka Bazar), Pulak Ch Basumatary (Palashbari), Jwmwi Brahma (West Dangarkutti/Dotoma), Kansai Brahma (Batabari). These are not the dated producer-list contents and do not prove production sites.
 - Download controls resolve to file-pdf.png; content remains unavailable. Together with 968/969 inventories, the request can now name the exact missing document titles for all three products.
+
+
+## 2026-10-30 — Complete IP India document inventories for applications 968 and 969
+- Opened official rendered IP India detail pages for 968 and 969 and transcribed all 31 document titles/dates on each page.
+- Both inventories include certificate, Journal Copy, affidavit, association details, authorisation, reply to examination report, amended application, Annexures 2–7, product-specific annexures, examination report, producer list, FCR reply, initial affidavits/authorisation, formality check report, GI-1, Statement of Case, Additional Representation, GI affidavit copy, original map, GI-10B copy, assurance letter, GI analysis and supporting documents.
+- Exact product difference: 968 (Jou Gwran) lists Annexure-8 Supporting Documents, Annexure-9 Map, Annexure-10 Affidavit; 969 (Jou Gishi) lists Annexure-8 Historical and Supporting Documents, Annexure-9 Affidavit, Annexure-10 Map. The original map is separately listed for both.
+- All 31 entries are visible as metadata only; PDF payloads remain inaccessible through this text extraction. Do not claim to have read them. Four authorized-user rows are listed for 968 and three for 969, distinct from the producer-list PDFs.
+- Updated audit with complete inventories and a prioritized full-file request list. No locality or recipe claims added; ASM-GAP-026 remains Open.
