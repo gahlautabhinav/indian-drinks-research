@@ -195,3 +195,15 @@ A broad web-discovery pass combined the nine current district names with Assam t
 | Yumnam et al. (2024) and Yumnam et al. (2026), southern Assam beverage studies | Their stated district frames are Cachar, Hailakandi and Sribhumi/Karimganj, not Hojai. | Do not transfer southern Assam evidence. |
 
 **Close-out status:** Hojai remains a zero-place-row district in the archive. Historical Nagaon district labels need village-level crosswalks before any record can be assigned to present-day Hojai. This is a search-status statement, not evidence of absence.
+
+
+## Targeted district audit — Nalbari (2026-10-31)
+
+| Candidate source | Finding | Decision |
+|---|---|---|
+| Basumatary and Barmahalia (2025), The Use of Rice-Beer in the Bodo Society | Gauhati University record confirms title/authors and Nalbari Commerce College as publisher, but accessible record provides no field site, district or village. | Retrieval lead only. Publisher location is not research locality; no place row. |
+| Saikia and Bori (2020), statewide traditional alcoholic drinks study | Discusses Bodo and Rabha beverage traditions but no Nalbari district/locality allocation in accessible abstract. | State-level context only. |
+| Sarma (2017), Rice Beer and Local Communities of Assam | Methods list several field districts, but Nalbari is not among the named field sites. | No Nalbari locality evidence. |
+| Rabha Jonga mod literature (2010, 2013) | Relevant field evidence is from Dhupdhora/Goalpara; no Nalbari locality established. | Do not transfer Goalpara evidence. |
+
+**Close-out status:** Nalbari remains a zero-place-row district. The 2025 Bodo society article should be retrieved and checked for actual fieldwork geography before the district is reconsidered. This is a search-status statement, not evidence of absence.
