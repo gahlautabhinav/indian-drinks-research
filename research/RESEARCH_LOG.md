@@ -511,3 +511,9 @@
 - Trust was established 25-03-2025, after applications (2022) and registrations (2024); treat it as intermediary, not original applicant/holder.
 - IP India application 968 page lists association details (03-11-2023), amended application, Annexure-7 Association, Annexure-8 Supporting Documents, Annexure-9 Map, producer list (13-02-2023), Statement of Case and original Map (29-08-2022), and GI Analysis. Application 969 lists association details, amended application, Annexure-7 Association, Annexure-8 historical/supporting docs, Annexure-10 Map, producer list, Statement of Case and original Map. A visible download control resolves to generic file-pdf.png, so document contents remain unavailable. Application 970 needs a separate exact inventory check.
 - Recommended request: Bodo Traditional Brewer's Association (via Trust if needed), with BCHPB/Registry referral; request Statement of Case, association details, producer lists, original/amended maps and GI Analysis. No locality records added; ASM-GAP-026 remains Open.
+
+
+## 2026-10-30 — Application 970 exact GI document inventory
+- Checked live IP India application 970 independently. It lists Association Details/authorisation (03-11-2023), amended application Annexure-1, Annexure-7 Association, Annexure-9 Affidavit, Annexure-8 Map (19-10-2023), producer list (13-02-2023), Statement of Case and original Map (29-08-2022), plus supporting documents.
+- Authorized-user table has four rows: Ranjila Mohilary (Deborbill/Amteka Bazar), Pulak Ch Basumatary (Palashbari), Jwmwi Brahma (West Dangarkutti/Dotoma), Kansai Brahma (Batabari). These are not the dated producer-list contents and do not prove production sites.
+- Download controls resolve to file-pdf.png; content remains unavailable. Together with 968/969 inventories, the request can now name the exact missing document titles for all three products.
