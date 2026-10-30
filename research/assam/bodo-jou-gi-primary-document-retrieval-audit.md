@@ -119,3 +119,14 @@ No new village or producer locality rows are warranted. The primary Statements o
 ## 2026-10-30 — GI Journal 191 retrieval attempt
 
 Rechecked the official IP India GI Journal index. It lists Journal 191 as published and available on 31-05-2024. However, the visible “Download” link resolves to the generic `file-pdf.png` image asset rather than a PDF document; this browser retrieval path therefore does not expose the journal contents. The official index is useful evidence for journal number/date only, not for the contents of the Bodo applications. No Statement of Case, map or product specification has been read from Journal 191 in this pass. Continue to treat application annexures as unavailable and request the underlying PDFs from the Registry/applicant.
+
+
+## 2026-10-30 — GI applicant / community contact route identified
+
+A new potential document-request route is available through Bodoland GI Products and Handloom Centre Trust / Bodoland GI Heritage. Its Bodo Jou Gwran page explicitly states that the Trust does not own the GI registrations and that GI applicant/proprietor information is displayed as documented. Therefore this is an intermediary/community-heritage contact, not the legal GI applicant and not a substitute for IP India.
+
+The Trust's public contact page lists its office at Nangalbhanga, nearest Rowmari Bathou Thansali, Chirang, BTR, Assam 783380; phone +91 91016 54954; email displayed on the page as info@bodolandgihandloomcentre.org. It lists Ganesh Daimary (President/Chairperson, +91 60012 13691) and Ranjila Mohilary (Secretary/Managing Trustee/CEO, +91 91016 54954). The product page lists the Bodo Traditional Brewer's Association as the community association for traditional beverages; a separate Trust “About” search result names Dr. Berlao Narzary as its president. These identities/contact roles are leads only and must be verified directly before treating them as representatives of the legal applicant.
+
+The artisan directory currently says profiles will be added as partnerships and consent are established; it does not provide a producer directory or verified production localities. Thus it does not close the missing producer-list/map requirement.
+
+Recommended request route: ask the Trust to forward the request to the Bodo Traditional Brewer's Association and Bodo Geographical Indication (G.I) Board, or provide a referral to the authorized association contact. Request certified/public copies of the Statements of Case, original and amended maps, dated producer lists and inspection/control arrangements for applications 968, 969 and 970. Do not send sensitive personal information. No village production rows added; ASM-GAP-026 remains Open.
