@@ -232,3 +232,33 @@ A broad web-discovery pass combined the nine current district names with Assam t
 | Borah et al. (2021), six-district ethnobotanical survey | Reviewed record does not establish Tamulpur inclusion or present-day village allocation. | Require full district/village list and administrative crosswalk. |
 
 **Close-out status:** Tamulpur remains a zero-place-row district. Older Baksa/BTR records require village-level administrative crosswalk before they can be assigned to present-day Tamulpur. This is a search-status statement, not evidence of absence.
+
+
+## Nine-district zero-row close-out — 2026-10-31
+
+The targeted audit pass is complete for all nine districts that had no place rows at the start of this close-out: Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur.
+
+| District | Outcome |
+|---|---|
+| Barpeta | No qualifying beverage-specific locality found; remains zero-row |
+| Bajali | Medicinal-plant studies do not establish beverage practice; remains zero-row |
+| Charaideo | Nearby Sivasagar/Ahom evidence was not transferred across the current district boundary; remains zero-row |
+| Darrang | One historical district-level Kachari Zu/Záu lead added as ASM-PL-108 / SRC-129; contemporary locality unverified |
+| Dhubri | Goalpara Rabha fieldwork not transferred; remains zero-row |
+| Hojai | Older Nagaon district labels require village-level crosswalk; remains zero-row |
+| Nalbari | 2025 Bodo society article published by Nalbari Commerce College is a full-text retrieval lead only; remains zero-row |
+| South Salmara-Mankachar | Official community profile is not beverage evidence; remains zero-row |
+| Tamulpur | Kokrajhar/Baksa/BTR regional Bodo evidence not transferred without a village crosswalk; remains zero-row |
+
+### Archive counts after this close-out
+
+- Canonical beverage records: **35 total**, including **31 Assam**.
+- Place register: **111 total rows**, including **107 Assam**.
+- District matrix: **35 districts**; **27** now have at least one place row and **8** remain at zero rows.
+- Zero-row districts: **Barpeta, Bajali, Charaideo, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur**.
+- Source register: **129** entries.
+- Research gaps: **57 open** (42 high priority, 15 medium priority).
+
+These counts describe the current archive, not the completeness of Assam's beverage traditions. A place row may represent a historical lead, district-level study scope, starter-culture sample, or named field locality; it is not automatically proof of current household production. Darrang's new row is explicitly historical and is not linked to a canonical beverage ID. The eight zero-row districts remain research gaps, not districts where beverage traditions are absent.
+
+**Next phase:** Move from the nine-district screening pass to deeper Assam gap closure and source extraction, while retaining the eight zero-row districts as unresolved. Do not describe Assam as fully complete.
