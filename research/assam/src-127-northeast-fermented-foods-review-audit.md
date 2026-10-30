@@ -60,3 +60,16 @@ The relevant Assam starter metagenomics papers are already in the archive: **SRC
 The publisher HTML still does not expose the actual rows of “Table 1. Fermented foods of Assam”; only the heading and surrounding narrative are visible. The review also identifies Apong as Assam in the beverage section but later includes “apong, poka and jaan” in its Arunachal Pradesh discussion. This remains an unresolved geographic/name conflation risk; do not merge the Assam and Arunachal traditions without primary evidence.
 
 Decision: treat SRC-127's [60] citation as demonstrably mislinked/misattributed; do not use it as support for metagenomics. No new source ID or canonical beverage/locality row is needed. Keep Assam open pending the table/PDF and primary-source trace.
+
+
+### 2026-10-30 — Full HTML section-level Assam table and citation audit
+
+Reopened the publisher's full article HTML and inspected lines covering the Assam table heading, cereal beverage discussion and linked references. The HTML still does not expose any rows beneath “Table 1. Fermented foods of Assam”; later prose merely describes the table as including fish-based, rice-based, vegetable, bamboo-shoot and other products. Those category labels are not a recoverable item-level table and must not be converted into canonical records.
+
+The linked in-text citation [60] in the sentence “Recent metagenomic analyses of Assamese rice beer starters…” resolves directly to reference-list item 3: Borah, D. et al. (2021), “Compendium of plants used for preparation of traditional alcoholic beverages…”, DOI 10.13057/biodiv/d220451 (SRC-061). This is an ethnobotanical plant-use compendium, not a metagenomics paper. The citation mismatch is confirmed at the publisher's own linked reference level. Relevant metagenomics sources already registered are SRC-023 (Bora et al. 2016, Xaj-pitha) and SRC-027 (Narzary et al. 2021, Emao).
+
+The review's geography is internally inconsistent: it explicitly calls Apong “(Assam)” in the rice/millet beverage section, but later says “The fermented foods of Arunachal Pradesh apong, poka and jaan…” and labels Table 7 as Arunachal Pradesh. This does not establish whether “Apong” denotes the same tradition, a different local product, or a regional naming overlap. Do not merge records or assign Arunachal products to Assam. Seek the cited source [42], [47] and primary Apong ethnographic studies for locality/community resolution.
+
+Additional quality-control flags from this pass: (i) the beverage paragraph places “jou (Tripura)” alongside Assam's Apong and Xaj-pani, although our Assam source records describe Bodo Jou in Kokrajhar; the review's state assignment requires primary-source checking, not adoption; (ii) broad mold/yeast/LAB starter composition is generalized across several distinct drinks and is not demonstrated for each beverage; (iii) claims of B-complex vitamins, probiotic effects and health benefits are not beverage-specific human outcome evidence.
+
+Decision: no item-level Table 1 rows could be extracted; no new canonical beverage/locality/ingredient data added. Keep SRC-127 secondary-only and Assam state transition gate open.
