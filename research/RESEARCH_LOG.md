@@ -469,3 +469,10 @@
 - Confirmed the HTML bibliography as exposed starts at item 4, then continues 5–8 and 13 onward; this may be a rendering/extraction issue, so it is not treated as proof that the formatted article omits references.
 - The page exposes a “Download Article” label but no usable PDF URL in the inspected text view. Assam table rows remain inaccessible in the HTML extraction. SRC-061 and SRC-075 are already registered; no duplicate source records or canonical rows were added.
 - Next retrieval target: typeset PDF or author-supplied copy, especially to resolve the misattributed/mismatched metagenomics citation and recover Assam table entries. Assam remains active.
+
+
+## 2026-10-30 — SRC-127 direct citation verification
+- Inspected the publisher's linked in-text citation [60] for the claim about recent metagenomic analyses of Assamese rice-beer starters. It resolves to reference-list item 3, Borah et al. (2021), “Compendium of plants used for preparation of traditional alcoholic beverages…”, DOI 10.13057/biodiv/d220451 (SRC-061). This is an ethnobotanical plant-use compendium, not a metagenomics study: the review's citation is demonstrably mismatched to the claim.
+- Confirmed the relevant starter metagenomics papers are already registered: SRC-023 (Bora et al. 2016, Xaj-pitha) and SRC-027 (Narzary et al. 2021, Emao). Ashis Borah is a co-author of SRC-027, not its first author. The 2026 Wiley southern Assam article separately lists these and other distinct microbial studies in its bibliography.
+- The publisher HTML still exposes the Assam table heading but not its rows. It calls Apong an Assam beverage in one section, then includes apong with poka and jaan in an Arunachal Pradesh section; keep this geographic/name conflict unresolved and do not merge records.
+- Updated the SRC-127 audit with the direct citation-link finding. No duplicate source or unsupported canonical data rows were created. Assam remains active.
