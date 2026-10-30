@@ -130,3 +130,12 @@ The official GI registry pages for Jou Gishi (969), Jou Gwran (968) and Maibra J
 A broad web-discovery pass combined the nine current district names with Assam traditional rice beer / fermented beverage / ethnic-community field-study terms. The returned results were generic Assam-wide or South Assam studies, including sources already registered or not geographically attributable to these nine districts. No new district-specific named locality or product-to-district evidence was accepted from this pass.
 
 **Interpretation:** retain the nine districts as “no relevant place row found in current archive.” This is a search-status statement only, not evidence that those districts lack beverage traditions. Do not add placeholder villages or infer coverage from nearby districts. Continue with targeted searches using district-specific community names, local-language spellings and historical district boundaries.
+
+
+## 2026-10-31 — Barpeta targeted district audit
+- Targeted searches covered Barpeta + Haria/Hariya/Haari, rice beer, Apong, Zu, Adivasi/Tea Tribe, Bodo and Rabha beverage terms, plus district academic and government sources.
+- Reviewed Bhattacharjya et al. (2023), a Barpeta-specific ethnomedicinal survey of 30 traditional healers. Its scope is medicinal plant use, not beverage production; excluded from beverage place/ingredient updates.
+- Rechecked SRC-096 (Tanti et al. 2010): it documents Adivasi Assam starter Dabai / liquor Haria at community/state level, without a Barpeta locality. The 2013 Assam rice-beer review likewise names field locations elsewhere in the accessible text and does not establish Barpeta production.
+- The Assam Directorate of Tea Tribes and Adivasi Welfare current tea-garden directory lists Barpeta as “Nil” for tea gardens. This is contextual directory evidence only, not proof of no Adivasi households or Haria practice in the district.
+- **Decision:** no beverage-specific place row added; Barpeta remains at zero verified place rows. No generic Adivasi Haria locality claim inferred from statewide sources. Full audit: `research/assam/barpeta-district-beverage-coverage-audit-2026-10-31.md`.
+- Next: continue to Bajali; cross-walk source-era Barpeta references against current boundaries at village level.
