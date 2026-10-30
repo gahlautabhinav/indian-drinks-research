@@ -476,3 +476,10 @@
 - Confirmed the relevant starter metagenomics papers are already registered: SRC-023 (Bora et al. 2016, Xaj-pitha) and SRC-027 (Narzary et al. 2021, Emao). Ashis Borah is a co-author of SRC-027, not its first author. The 2026 Wiley southern Assam article separately lists these and other distinct microbial studies in its bibliography.
 - The publisher HTML still exposes the Assam table heading but not its rows. It calls Apong an Assam beverage in one section, then includes apong with poka and jaan in an Arunachal Pradesh section; keep this geographic/name conflict unresolved and do not merge records.
 - Updated the SRC-127 audit with the direct citation-link finding. No duplicate source or unsupported canonical data rows were created. Assam remains active.
+
+
+## 2026-10-30 — SRC-127 full HTML Assam-table and geography audit
+- Re-read the publisher's full HTML. Table 1's Assam rows remain absent from extracted content; prose only gives broad categories (fish, rice, vegetables, bamboo shoots and other products). No item-level rows were added.
+- Followed in-text citation [60] directly: it links to reference 3, Borah et al. (2021), the ethnobotanical compendium already SRC-061, not a metagenomic study. Confirmed citation mismatch. The actual Assam starter metagenomics records already registered are SRC-023 (Bora et al. 2016, Xaj-pitha) and SRC-027 (Narzary et al. 2021, Emao).
+- Logged geographic inconsistency: Apong is called Assamese in the beverage section, then described with Poka and Jaan under Arunachal Pradesh/Table 7. Jou is assigned to Tripura in the same beverage paragraph although Assam's Bodo Jou is documented in our Kokrajhar sources. These require primary-source attribution; no cross-state merging.
+- Logged generalization risks for starter organisms and health/vitamin/probiotic claims. No canonical rows added; SRC-127 remains secondary-only and Assam remains active.
