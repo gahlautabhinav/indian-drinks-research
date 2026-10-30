@@ -525,3 +525,12 @@
 - Exact product difference: 968 (Jou Gwran) lists Annexure-8 Supporting Documents, Annexure-9 Map, Annexure-10 Affidavit; 969 (Jou Gishi) lists Annexure-8 Historical and Supporting Documents, Annexure-9 Affidavit, Annexure-10 Map. The original map is separately listed for both.
 - All 31 entries are visible as metadata only; PDF payloads remain inaccessible through this text extraction. Do not claim to have read them. Four authorized-user rows are listed for 968 and three for 969, distinct from the producer-list PDFs.
 - Updated audit with complete inventories and a prioritized full-file request list. No locality or recipe claims added; ASM-GAP-026 remains Open.
+
+
+## 2026-10-31 — SRC-124 supplementary questionnaire retrieval
+- Retrieved the publisher-linked four-page Supplementary Material S1 for the 2026 *Discover Food* comparative study (SRC-124).
+- Confirmed it is a 36-question interview/PRA/FGD questionnaire, not a respondent dataset, plant inventory, locality register or missing Table 1.
+- The questionnaire places “bakhor/vekur/angkur” together in a starter-culture question, but this is questionnaire wording only and does not establish synonymy or community/product-level equivalence.
+- It asks about village/district, beverage name, plant species/parts, harvesting, fermentation duration, vessels, rituals, conservation, transmission and perceived benefits. These are prompts, not observed answers.
+- No canonical beverage, locality, ingredient or process rows were added. SRC-124 remains comparative evidence for Bodo (Kokrajhar/Baksa), Rabha (Goalpara/Kamrup) and Ahom (Tinsukia/Dibrugarh); its pooled 41-plant count is not a Bodo-only inventory.
+- Added `research/assam/src-124-supplementary-material-audit-2026-10-31.md`. Bodo GI primary specification gap ASM-GAP-026 remains open.
