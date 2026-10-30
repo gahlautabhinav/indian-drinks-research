@@ -219,3 +219,16 @@ A broad web-discovery pass combined the nine current district names with Assam t
 | Rabha Choko and southern Assam rice-beverage studies | Rabha fieldwork located in Goalpara; southern Assam household/microbiome studies identify Cachar, Hailakandi and Sribhumi/Karimganj. | Do not transfer to South Salmara-Mankachar. |
 
 **Close-out status:** South Salmara-Mankachar remains a zero-place-row district. Community ancestry and administrative profiles are search leads only; no beverage-specific locality was verified. This is a search-status statement, not evidence of absence.
+
+
+## Targeted district audit — Tamulpur (2026-10-31)
+
+| Candidate source | Finding | Decision |
+|---|---|---|
+| Deka, Basumatary and Deka (2025), Bodo cereal- and fruit-based beverages | Field survey villages are described around Kokrajhar district headquarters; no Tamulpur village or field district is identified. | Do not transfer Kokrajhar evidence to Tamulpur. |
+| 2013 Jou bishi ethnobotanical review | Relevant Bodo beverage plant table is based on Kokrajhar district fieldwork. | Bodo community context only; no Tamulpur locality. |
+| 2024 North-East rice-beverage review | Describes Jou bishi as a Bodo/Bodoland beverage, but no Tamulpur locality or sample is identified in the accessible section. | Regional context only. |
+| Brahma (2025), Traditional Fermentation Practices in Bodo Cuisine | Describes Jou in Bodo food culture; accessible record does not identify Tamulpur field sites. | No place row. |
+| Borah et al. (2021), six-district ethnobotanical survey | Reviewed record does not establish Tamulpur inclusion or present-day village allocation. | Require full district/village list and administrative crosswalk. |
+
+**Close-out status:** Tamulpur remains a zero-place-row district. Older Baksa/BTR records require village-level administrative crosswalk before they can be assigned to present-day Tamulpur. This is a search-status statement, not evidence of absence.
