@@ -183,3 +183,15 @@ A broad web-discovery pass combined the nine current district names with Assam t
 | Borah et al. (2021), six-district beverage ethnobotany | Abstract reports 32 villages in six districts but does not identify Dhubri in the reviewed record. | Do not infer study inclusion or beverage attribution. |
 
 **Close-out status:** Dhubri remains a zero-place-row district in the archive. This is a search-status statement, not evidence of absence. Historical Goalpara district labels require named-village crosswalks before transfer to present-day Dhubri.
+
+
+## Targeted district audit — Hojai (2026-10-31)
+
+| Candidate source | Finding | Decision |
+|---|---|---|
+| Saikia and Bori (2020), statewide traditional alcoholic drinks study | Discusses several Assam communities but the accessible abstract gives no Hojai district/locality allocation. | State-level context only; no place row. |
+| Natural Beverages of Assam (2019) | Broad community-level beverage discussion; no Hojai field locality identified in the accessible abstract. | No Hojai production claim. |
+| Borah et al. (2021), six-district beverage ethnobotany | Reports 32 villages in six districts, but reviewed abstract/landing page does not establish Hojai inclusion or a Hojai community-product pairing. | Do not infer study inclusion; require full locality list and boundary crosswalk. |
+| Yumnam et al. (2024) and Yumnam et al. (2026), southern Assam beverage studies | Their stated district frames are Cachar, Hailakandi and Sribhumi/Karimganj, not Hojai. | Do not transfer southern Assam evidence. |
+
+**Close-out status:** Hojai remains a zero-place-row district in the archive. Historical Nagaon district labels need village-level crosswalks before any record can be assigned to present-day Hojai. This is a search-status statement, not evidence of absence.
