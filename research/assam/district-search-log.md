@@ -139,3 +139,13 @@ A broad web-discovery pass combined the nine current district names with Assam t
 - The Assam Directorate of Tea Tribes and Adivasi Welfare current tea-garden directory lists Barpeta as “Nil” for tea gardens. This is contextual directory evidence only, not proof of no Adivasi households or Haria practice in the district.
 - **Decision:** no beverage-specific place row added; Barpeta remains at zero verified place rows. No generic Adivasi Haria locality claim inferred from statewide sources. Full audit: `research/assam/barpeta-district-beverage-coverage-audit-2026-10-31.md`.
 - Next: continue to Bajali; cross-walk source-era Barpeta references against current boundaries at village level.
+
+
+## 2026-10-31 — Bajali targeted district audit
+- Targeted searches covered Bajali + Jou/Jou-bidwi/Jou-gwran, rice beer, Haria, Bodo beverages, local village names and historical Barpeta references.
+- Reviewed Basumatary et al. (2025), a Bodo ethnomedicinal study covering seven Bodo-dominated Bajali villages. Its scope is medicinal plant use, not beverage production or starter-culture recipes; excluded from beverage place/ingredient updates.
+- Reviewed Das et al. (2026), a Bajali ethnomedicinal study of Doloigaon, Bamakhata and Muguria with 94 informants and 101 medicinal plant species. It does not document beverage traditions; excluded from beverage rows.
+- The 2025 study explicitly states Bajali was formerly part of erstwhile Barpeta. Historical district labels must be cross-walked by named village before assigning a record to current Barpeta or Bajali.
+- Existing Bodo Jou literature confirms the community tradition but no source retrieved in this pass ties a named Bajali village to current beverage production.
+- **Decision:** no beverage-specific place row added; Bajali remains at zero verified place rows. Full audit: `research/assam/bajali-district-beverage-coverage-audit-2026-10-31.md`.
+- Next: continue to Charaideo; maintain the separation between medicinal plant records and beverage starter-culture evidence.
