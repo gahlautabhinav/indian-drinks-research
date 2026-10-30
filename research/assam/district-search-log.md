@@ -149,3 +149,12 @@ A broad web-discovery pass combined the nine current district names with Assam t
 - Existing Bodo Jou literature confirms the community tradition but no source retrieved in this pass ties a named Bajali village to current beverage production.
 - **Decision:** no beverage-specific place row added; Bajali remains at zero verified place rows. Full audit: `research/assam/bajali-district-beverage-coverage-audit-2026-10-31.md`.
 - Next: continue to Charaideo; maintain the separation between medicinal plant records and beverage starter-culture evidence.
+
+
+## 2026-10-31 — Charaideo targeted district audit
+- Targeted searches covered Charaideo/Sonari + Ahom, Xajpani/Xaj/Haaj/Laopani, rice beer, Haria and local beverage terms.
+- Official Charaideo district information confirms the district was carved out of Sivasagar under a 2016 notification. Older Sivasagar references require named-village crosswalks before assignment to current Charaideo.
+- Rechecked existing SRC-011 (2017 Sivasagar beverage analysis), SRC-021 (2012 Xaj methodology survey) and SRC-026 (2023 Ahom starter ethnobotany). Their accessible geographic descriptions do not name a current Charaideo village. SRC-117's Demou/Luk Lao commercial report is explicitly Sivasagar, not Charaideo.
+- A non-authoritative travel page mentions Lao-Pani in Charaideo but supplies no traceable producer/source/methodology; excluded from canonical evidence.
+- **Decision:** no beverage-specific place row added; Charaideo remains at zero verified place rows. No transfer from Sivasagar based on proximity or Ahom historical association. Full audit: `research/assam/charaideo-district-beverage-coverage-audit-2026-10-31.md`.
+- Next: continue to Darrang.
