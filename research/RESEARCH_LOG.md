@@ -541,3 +541,10 @@
 - These are explicitly **district-level study-area records**, not named villages, current-production claims, or district-wide prevalence estimates. The article's accessible text does not provide village names or allocate each beverage to a specific district sample.
 - Linked the Bodo Jou and Ahom Xajpani community-level beverage references to their existing canonical records. Kept Rabha Choko/Chubitchi unlinked to Jonga-mod/Kecha-mod/Chokot because equivalence is unresolved.
 - Updated the Assam district coverage matrix and place register. No new canonical beverage or ingredient record was created.
+
+
+## 2026-10-31 — SRC-128 South Assam household study registered
+- Added Yumnam, Nath & Sharma (2026; first published online 29 December 2025), “Brewing Traditions of Northeast India, South Assam: Exploring Rice Beer's Cultural Significance and Indigenous Craftsmanship,” *Biotechnology and Applied Biochemistry* 73(3):1501–1511, DOI 10.1002/bab.70113, as SRC-128.
+- Publisher/PubMed metadata confirms May–October 2023 fieldwork across Cachar, Hailakandi and Sribhumi, 49 household visits, five communities (Dimasa Kachari, Hmar, Zeme Naga, Karbi and Tea tribes), and abstract-level plant names including *Acacia pennata*, *Glycyrrhiza glabra*, *Croton joufra* and unresolved “Ndhui gei”.
+- Full tables and village/community allocation were not exposed in the accessible publisher view; the data availability statement says information may be requested from the author on a justifiable request.
+- Added `research/assam/src-128-south-assam-household-study-audit.md`. No new canonical beverage, place, ingredient or process rows were added; do not infer beverage-specific plant use from the abstract.
