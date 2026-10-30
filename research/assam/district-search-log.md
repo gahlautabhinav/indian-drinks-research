@@ -158,3 +158,15 @@ A broad web-discovery pass combined the nine current district names with Assam t
 - A non-authoritative travel page mentions Lao-Pani in Charaideo but supplies no traceable producer/source/methodology; excluded from canonical evidence.
 - **Decision:** no beverage-specific place row added; Charaideo remains at zero verified place rows. No transfer from Sivasagar based on proximity or Ahom historical association. Full audit: `research/assam/charaideo-district-beverage-coverage-audit-2026-10-31.md`.
 - Next: continue to Darrang.
+
+
+## Targeted district audit — Darrang (2026-10-31)
+
+| Candidate source | Finding | Decision |
+|---|---|---|
+| Endle, Sidney (1911), *The Kacháris* (SRC-129) | Direct historical account of Kacharis of Darrang consuming rice beer called Zu/Záu; no current village-level mapping. | Added ASM-PL-108 as a historical district-level evidence lead. Left canonical Beverage_IDs blank because Zu/Záu's relationship to modern Bodo beverage records is unresolved. |
+| Historical Assam settlement report excerpt | Describes Kacharis in northern Darrang, particularly Mangaldai subdivision, consuming rice beer; exact modern village and product identity not established in the inspected excerpt. | Corroborating geographic context only; not used to create a village or new beverage record. |
+| Bhuyan and Baishya (2013) / Deka and Sarma (2010) on Rabha Jonga mod / Kecha mod | Rabhas are described as concentrated partly in Darrang, but the relevant ethnobotanical field locality is Dhupdhora, Goalpara district. | Do not infer Darrang production from population distribution. No Darrang Jonga mod row added. |
+| Modern district + beverage searches | Results did not expose a reliable contemporary Darrang village-level beverage field study in this pass. | Keep current production and village mapping open. |
+
+**Close-out status:** Darrang now has one historical district-level evidence lead (ASM-PL-108), not a verified contemporary production locality. Historical Kachari terminology is retained. No beverage canonical record or modern synonym link was added. This does not establish that current Darrang communities do or do not prepare the drink.
