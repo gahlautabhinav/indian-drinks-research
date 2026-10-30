@@ -170,3 +170,16 @@ A broad web-discovery pass combined the nine current district names with Assam t
 | Modern district + beverage searches | Results did not expose a reliable contemporary Darrang village-level beverage field study in this pass. | Keep current production and village mapping open. |
 
 **Close-out status:** Darrang now has one historical district-level evidence lead (ASM-PL-108), not a verified contemporary production locality. Historical Kachari terminology is retained. No beverage canonical record or modern synonym link was added. This does not establish that current Darrang communities do or do not prepare the drink.
+
+
+## Targeted district audit — Dhubri (2026-10-31)
+
+| Candidate source | Finding | Decision |
+|---|---|---|
+| Saikia and Bori (2020), statewide traditional alcoholic drinks study | Describes several Assam communities and their rice-beer traditions, but accessible abstract gives no Dhubri locality or district allocation. | State-level context only; no place row. |
+| Das, Rabha and Das (2021), Rabha Choko preparation | Primary fieldwork in five remote villages of Goalpara district (2019–2020), not Dhubri. | Do not transfer Goalpara fieldwork to present Dhubri. |
+| Deka and Sarma (2010), Rabha rice-beer starter herbs | Study is explicitly about Rabha of Goalpara district; no Dhubri locality identified. | No Dhubri production claim. |
+| Yumnam et al. (2024), southern Assam rice beverages | Study cohorts and district frame do not identify Dhubri as a sample locality. | Do not use as Dhubri evidence. |
+| Borah et al. (2021), six-district beverage ethnobotany | Abstract reports 32 villages in six districts but does not identify Dhubri in the reviewed record. | Do not infer study inclusion or beverage attribution. |
+
+**Close-out status:** Dhubri remains a zero-place-row district in the archive. This is a search-status statement, not evidence of absence. Historical Goalpara district labels require named-village crosswalks before transfer to present-day Dhubri.
