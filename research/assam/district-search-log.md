@@ -122,3 +122,11 @@ Teron (2006; SRC-013) explicitly distinguishes Hor-alank (fermented rice beer ma
 Created [ahom-bodo-naming-crosswalk.md](ahom-bodo-naming-crosswalk.md) to separate beverage names, starter names, umbrella traditions, stored forms, distilled products and GI-defined names. It preserves the open relationship among Xajpani/Koloh pani/Haj pani/Laopani/Luk-Lau and the unresolved boundary between folk Bodo Jou terms and the three GI-registered product names. The crosswalk adds no beverage IDs and no locality rows.
 
 The official GI registry pages for Jou Gishi (969), Jou Gwran (968) and Maibra Jou Bidwi (970) list authorized-user address strings. These are now documented in the GI provenance audit as address leads only; no production locality is inferred from them, and the Statements of Case remain to be extracted.
+
+
+## 2026-10-31 — Nine zero-place-row districts: broad discovery sweep
+**Districts checked:** Barpeta, Bajali, Charaideo, Darrang, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur.
+
+A broad web-discovery pass combined the nine current district names with Assam traditional rice beer / fermented beverage / ethnic-community field-study terms. The returned results were generic Assam-wide or South Assam studies, including sources already registered or not geographically attributable to these nine districts. No new district-specific named locality or product-to-district evidence was accepted from this pass.
+
+**Interpretation:** retain the nine districts as “no relevant place row found in current archive.” This is a search-status statement only, not evidence that those districts lack beverage traditions. Do not add placeholder villages or infer coverage from nearby districts. Continue with targeted searches using district-specific community names, local-language spellings and historical district boundaries.
