@@ -496,3 +496,10 @@
 - Reopened the official IP India GI Journal index and confirmed Journal 191 is listed with publication/availability date 31-05-2024.
 - Followed its Download link; the destination resolves to the generic `file-pdf.png` asset, not the journal PDF. This confirms the public HTML extraction path is not exposing the document payload; it does not prove the journal PDF is absent from the Registry.
 - No specification or map claims were added. ASM-GAP-026 remains Open.
+
+
+## 2026-10-30 — Bodo Jou GI community contact route
+- Identified Bodoland GI Products and Handloom Centre Trust / Bodoland GI Heritage as a possible intermediary contact. Its own Jou Gwran page explicitly says the Trust does not own the registrations; IP India remains authoritative for legal applicant/proprietor information.
+- Public contact page lists Nangalbhanga, Chirang, BTR office; +91 91016 54954; info@bodolandgihandloomcentre.org; chair Ganesh Daimary (+91 60012 13691); secretary/CEO Ranjila Mohilary (+91 91016 54954). Treat as intermediary leads, not verified representatives of the GI applicant.
+- Product page identifies Bodo Traditional Brewer's Association as the traditional-beverage association; separate About search result names Dr. Berlao Narzary as its president. Verify role and contact details before relying on it.
+- Artisan directory currently contains no producer profiles, so no producer/locality evidence was added. Recommended request: Statements of Case, original/amended maps, producer lists and inspection/control arrangements for applications 968–970. ASM-GAP-026 remains Open.
