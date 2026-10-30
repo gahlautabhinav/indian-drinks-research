@@ -490,3 +490,9 @@
 - Explicitly preserved distinction between application numbers 968–970 and certificate numbers 648–650; applicant address and broad Assam field do not establish production locality or map boundary.
 - Cross-read Bodoland GI Heritage process summaries for Jou Gwran/Gishi and the RIPA-hosted Maibra Jou Bidwi compilation. These are secondary leads, not official Statements of Case. Logged the Jou Gwran distillation/concentration ambiguity, unsubstantiated health language, and RIPA's Class 33 vs IP India Class 32 discrepancy for Maibra Jou Bidwi. No recipe, alcohol, plant-list or locality claim promoted to canonical data.
 - No new producer/locality rows. Primary Statements of Case, producer lists and original/amended maps remain unavailable; ASM-GAP-026 remains Open.
+
+
+## 2026-10-30 — GI Journal 191 link-resolution check
+- Reopened the official IP India GI Journal index and confirmed Journal 191 is listed with publication/availability date 31-05-2024.
+- Followed its Download link; the destination resolves to the generic `file-pdf.png` asset, not the journal PDF. This confirms the public HTML extraction path is not exposing the document payload; it does not prove the journal PDF is absent from the Registry.
+- No specification or map claims were added. ASM-GAP-026 remains Open.
