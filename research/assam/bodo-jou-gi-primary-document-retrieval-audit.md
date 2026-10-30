@@ -114,3 +114,8 @@ The Bodoland GI Heritage page gives process summaries for Jou Gwran and Jou Gish
 The RIPA-hosted compilation for Maibra Jou Bidwi reports special Maibra rice, Amao, 7–8% alcohol, a list of plant materials, a generic process and Bodoland/Assam origin. It is not an IP India Statement of Case or verified producer list. Its class field says 33 whereas IP India says class 32; treat this as a metadata discrepancy and do not import the recipe, alcohol figure, plant list or geography into canonical GI data without primary confirmation.
 
 No new village or producer locality rows are warranted. The primary Statements of Case, dated producer lists and original/amended maps remain the decisive missing records. ASM-GAP-026 remains Open.
+
+
+## 2026-10-30 — GI Journal 191 retrieval attempt
+
+Rechecked the official IP India GI Journal index. It lists Journal 191 as published and available on 31-05-2024. However, the visible “Download” link resolves to the generic `file-pdf.png` image asset rather than a PDF document; this browser retrieval path therefore does not expose the journal contents. The official index is useful evidence for journal number/date only, not for the contents of the Bodo applications. No Statement of Case, map or product specification has been read from Journal 191 in this pass. Continue to treat application annexures as unavailable and request the underlying PDFs from the Registry/applicant.
