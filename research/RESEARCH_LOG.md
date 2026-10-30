@@ -534,3 +534,10 @@
 - It asks about village/district, beverage name, plant species/parts, harvesting, fermentation duration, vessels, rituals, conservation, transmission and perceived benefits. These are prompts, not observed answers.
 - No canonical beverage, locality, ingredient or process rows were added. SRC-124 remains comparative evidence for Bodo (Kokrajhar/Baksa), Rabha (Goalpara/Kamrup) and Ahom (Tinsukia/Dibrugarh); its pooled 41-plant count is not a Bodo-only inventory.
 - Added `research/assam/src-124-supplementary-material-audit-2026-10-31.md`. Bodo GI primary specification gap ASM-GAP-026 remains open.
+
+
+## 2026-10-31 — SRC-124 district-level coverage integration
+- Added six district-level study-scope records from the 2026 Talukdar et al. study: Bodo community study scope in Baksa and Kokrajhar; Rabha community study scope in Goalpara and Kamrup; Ahom community study scope in Tinsukia and Dibrugarh.
+- These are explicitly **district-level study-area records**, not named villages, current-production claims, or district-wide prevalence estimates. The article's accessible text does not provide village names or allocate each beverage to a specific district sample.
+- Linked the Bodo Jou and Ahom Xajpani community-level beverage references to their existing canonical records. Kept Rabha Choko/Chubitchi unlinked to Jonga-mod/Kecha-mod/Chokot because equivalence is unresolved.
+- Updated the Assam district coverage matrix and place register. No new canonical beverage or ingredient record was created.
