@@ -483,3 +483,10 @@
 - Followed in-text citation [60] directly: it links to reference 3, Borah et al. (2021), the ethnobotanical compendium already SRC-061, not a metagenomic study. Confirmed citation mismatch. The actual Assam starter metagenomics records already registered are SRC-023 (Bora et al. 2016, Xaj-pitha) and SRC-027 (Narzary et al. 2021, Emao).
 - Logged geographic inconsistency: Apong is called Assamese in the beverage section, then described with Poka and Jaan under Arunachal Pradesh/Table 7. Jou is assigned to Tripura in the same beverage paragraph although Assam's Bodo Jou is documented in our Kokrajhar sources. These require primary-source attribution; no cross-state merging.
 - Logged generalization risks for starter organisms and health/vitamin/probiotic claims. No canonical rows added; SRC-127 remains secondary-only and Assam remains active.
+
+
+## 2026-10-30 — Bodo Jou GI cross-application audit
+- Rechecked IP India application pages 968, 969 and 970. Confirmed official names, applicant Bodo Geographical Indication (G.I) Board, same applicant address in Tengapara/Kokrajhar, Class 32, Manufactured Goods, broad Assam area, filing 29-08-2022, Journal 191 (31-05-2024), certificates 648–650 dated 01-10-2024, valid to 28-08-2032.
+- Explicitly preserved distinction between application numbers 968–970 and certificate numbers 648–650; applicant address and broad Assam field do not establish production locality or map boundary.
+- Cross-read Bodoland GI Heritage process summaries for Jou Gwran/Gishi and the RIPA-hosted Maibra Jou Bidwi compilation. These are secondary leads, not official Statements of Case. Logged the Jou Gwran distillation/concentration ambiguity, unsubstantiated health language, and RIPA's Class 33 vs IP India Class 32 discrepancy for Maibra Jou Bidwi. No recipe, alcohol, plant-list or locality claim promoted to canonical data.
+- No new producer/locality rows. Primary Statements of Case, producer lists and original/amended maps remain unavailable; ASM-GAP-026 remains Open.
