@@ -94,3 +94,102 @@ button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{ou
 .recommendation-item p{margin:4px 0 0;color:var(--muted);font-size:9px;line-height:1.7}
 @media(max-width:1050px){.insights-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.insight-note{max-width:45%}}
 @media(max-width:650px){.insights-section{padding:32px 14px 35px}.insights-section .section-heading h2{font-size:22px}.insights-summary{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.insight-kpi{padding:12px}.insight-kpi strong{font-size:23px}.insights-grid,.insight-bottom{grid-template-columns:1fr;gap:9px}.insight-panel{padding:15px}.insight-controls{flex-wrap:wrap;gap:8px}.insight-controls select{flex:1;min-width:150px}.insight-note{max-width:none;width:100%;margin-left:0}.panel-unit{font-size:7px}}
+
+
+/* Layout repair: consistent alignment and responsive archive workspace */
+.insights-section,
+.archive-section,
+.methodology {
+  width: 100%;
+}
+.insights-section > *,
+.archive-section > *,
+.methodology > * {
+  min-width: 0;
+}
+.insights-section > .section-heading,
+.insights-section > .insight-controls,
+.insights-section > .insights-summary,
+.insights-section > .insights-grid,
+.insights-section > .insight-bottom {
+  width: min(100%, 1480px);
+  margin-left: auto;
+  margin-right: auto;
+}
+.insights-section > .section-heading,
+.insights-section > .insight-controls { margin-bottom: 18px; }
+.insights-section > .insights-summary { margin-bottom: 12px; }
+.insights-section > .insight-bottom { margin-top: 12px; }
+.archive-section { max-width: 1600px; }
+.workspace {
+  grid-template-columns: minmax(250px, 292px) minmax(0, 1fr);
+  align-items: stretch;
+}
+.sidebar, .detail-panel, .insight-panel, .insight-kpi { min-width: 0; }
+.detail-panel { overflow-wrap: anywhere; }
+.field-card, .record-card, .dossier-content { min-width: 0; overflow-wrap: anywhere; }
+.insight-panel-head { min-width: 0; }
+.insight-panel-head > div { min-width: 0; }
+.insight-panel-head h3 { overflow-wrap: anywhere; }
+.rank-meta span { min-width: 0; }
+.action-link, .action-button { min-height: 34px; }
+
+@media (max-width: 980px) {
+  .workspace { grid-template-columns: minmax(0, 1fr); }
+  .sidebar {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .beverage-list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    max-height: 300px;
+    overflow: auto;
+  }
+  .sidebar-foot { display: none; }
+  .insights-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .methodology { grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); }
+}
+@media (max-width: 680px) {
+  .topbar {
+    height: auto;
+    min-height: 56px;
+    padding: 10px 14px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+  }
+  .topbar-right { width: 100%; gap: 0; }
+  .topbar nav {
+    width: 100%;
+    gap: 16px;
+    overflow-x: auto;
+    padding: 2px 0 4px;
+    scrollbar-width: none;
+  }
+  .topbar nav::-webkit-scrollbar { display: none; }
+  .topbar nav a { flex: 0 0 auto; }
+  .topbar nav a:nth-child(2) { display: inline; }
+  .intro { grid-template-columns: minmax(0, 1fr); }
+  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .archive-section { padding: 30px 12px 40px; }
+  .workspace { border-left: 0; border-right: 0; }
+  .beverage-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-height: 250px;
+  }
+  .detail-panel { padding: 20px 14px; }
+  .insights-section { padding: 32px 14px 36px; }
+  .insights-grid, .insight-bottom { grid-template-columns: minmax(0, 1fr); }
+  .insights-summary { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .insight-controls { align-items: stretch; }
+  .insight-controls select { width: 100%; min-width: 0; }
+  .insight-note { width: 100%; max-width: none; margin: 0; }
+  .methodology { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+}
+@media (max-width: 390px) {
+  .beverage-list, .insights-summary { grid-template-columns: minmax(0, 1fr); }
+  .intro h1 { font-size: clamp(30px, 9vw, 36px); }
+  .stats { padding-left: 12px; padding-right: 12px; }
+  .insight-kpi { padding: 11px; }
+}
