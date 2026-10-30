@@ -207,3 +207,15 @@ A broad web-discovery pass combined the nine current district names with Assam t
 | Rabha Jonga mod literature (2010, 2013) | Relevant field evidence is from Dhupdhora/Goalpara; no Nalbari locality established. | Do not transfer Goalpara evidence. |
 
 **Close-out status:** Nalbari remains a zero-place-row district. The 2025 Bodo society article should be retrieved and checked for actual fieldwork geography before the district is reconsidered. This is a search-status statement, not evidence of absence.
+
+
+## Targeted district audit — South Salmara-Mankachar (2026-10-31)
+
+| Candidate source | Finding | Decision |
+|---|---|---|
+| Government of Assam district profile | Describes Deshi/Goalpariya-speaking communities and historical indigenous ancestry groups including Koch, Rajbongshi, Mech and Rabha; does not document beverage practices or localities. | Community context only; no place row. |
+| Draft District Survey Report | Provides local culture/language and economic context, but no beverage-specific field observation in the reviewed excerpt. | Administrative context only. |
+| Saikia and Bori (2020) / Natural Beverages of Assam (2019) | Statewide beverage summaries; no South Salmara-Mankachar locality allocation in accessible records. | Do not infer district production. |
+| Rabha Choko and southern Assam rice-beverage studies | Rabha fieldwork located in Goalpara; southern Assam household/microbiome studies identify Cachar, Hailakandi and Sribhumi/Karimganj. | Do not transfer to South Salmara-Mankachar. |
+
+**Close-out status:** South Salmara-Mankachar remains a zero-place-row district. Community ancestry and administrative profiles are search leads only; no beverage-specific locality was verified. This is a search-status statement, not evidence of absence.
