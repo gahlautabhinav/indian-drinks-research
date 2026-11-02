@@ -1,6 +1,6 @@
 # Rohi and Sepa — Sonowal Kachari, Assam
 
-This research batch records two names separately because a 2026 peer-reviewed paper explicitly treats **Rohi** and **Sepa** as traditional Sonowal Kachari rice beers. The accessible abstract does not fully explain the technical distinction, so Sepa's recipe is deliberately left unresolved rather than copied from Rohi.
+This research batch records two names separately because a 2026 peer-reviewed paper explicitly treats **Rohi** and **Sepa** as traditional Sonowal Kachari rice beers. The full text now resolves the extraction distinction: Rohi is the first yellowish filtrate; Sepa is pressed from the water-diluted residual fermented mass. Village-to-batch and household-level attribution remain unresolved.
 
 ## Record A — Rohi
 
@@ -36,7 +36,7 @@ The article's antioxidant analysis is not proof of clinical benefit. Any medicin
 
 ## Geographic confidence and limitations
 
-Rohi has a field-study locality at the Jokai area of Dibrugarh from the 2023 article. The accessible text does not give an exact village name. The 2026 paper's repository abstract does not establish Sepa's sampling locality. Do not use the broader Sonowal Kachari distribution as proof of current brewing in every district.
+Rohi has a field-study locality at the Jokai area of Dibrugarh from the 2023 article. The 2026 paper names four field-study villages—Chaharikota, Teporguri, Bhoralibari and Meslou—in Dibrugarh district, visited June 2020–March 2021. The article does not allocate individual Rohi/Sepa batches or starter taxa to each village. Do not use broader Sonowal Kachari distribution as proof of current brewing in every district.
 
 ## Open research tasks
 
@@ -115,3 +115,30 @@ Keep “Rochi Mod” searchable as a source-attested spelling and preserve it in
 
 ### Next evidence target
 Seek a Sonowal Kachari language source, original-language spelling/pronunciation, or consent-based confirmation from a named locality; if unavailable, leave the gap open and mark the tourism spelling as unresolved.
+
+
+## Research pass — 2026-11-02: full-text extraction and structured data
+
+The publisher's current PDF endpoint was successfully opened. The paper documents four named Sonowal Kachari field-study villages—Chaharikota, Teporguri, Bhoralibari and Meslou—visited June 2020 to March 2021. The authors collected information from aged and experienced villagers; the number of informants, households and beverage batches is not stated. Some families reportedly sell brew in local markets, but the article does not identify which households or villages. The authors state prior informed consent was obtained. The underlying dataset is available from the corresponding author on reasonable request and is not publicly accessible because of privacy and ethics considerations.
+
+### Rohi and Sepa process boundary
+
+The article's sequence is explicit: half-cooked rice (Aaroi) is cooled, mixed with powdered Mod pitha and water, then fermented in an aluminium Handi sealed with banana leaves. The reported fermentation period is 4–5 days in summer and 8–10 days in winter. The fermented mass is filtered through a bamboo Khorahi with perforated banana leaves. The first yellowish liquor is Rohi. Water is then added to the residual fermented mass, which is mixed, wrapped in clean cotton cloth and pressed to produce the whitish liquor Sepa. This is a sequential two-fraction process in the paper, not two independent starter recipes. It labels Rohi standard/superior and Sepa regular/inferior; preserve that as a source-attributed local classification, not an objective quality judgement.
+
+### Mod pitha inventory and method
+
+Table 1 lists five entries including rice: *Oryza sativa*, *Casearia aculeata*, *Cinnamomum bejolghota*, *Cyclosorus dentatus* and *Cinnamomum tamala*. The reported parts are rice grain, leaves, “skins”, leaves and leaves respectively. The starter is ground with soaked rice, rolled into spheres, covered with *Cyclosorus dentatus* leaves and dried in a dark room for about two weeks; cakes are then wrapped in *Casearia aculeata* leaves, placed in a polythene bag and hung from the roof until use. The table cites secondary references for plant/family/medicinal details; no voucher identifiers or village-specific plant allocations are reported. Medicinal-use statements are not clinical efficacy evidence.
+
+### Analytical data and cautions
+
+The lab-validation recipe uses 1 kg sticky rice, about 10 g starter and 0.5 L distilled water; rice is cooled for two days and fermented at room temperature for four days. Table 2 reports physicochemical values for home- and lab-brewed Rohi and Sepa. Tables 3–5 report antioxidant/phenolic measurements, including storage-time data for Rohi. The authors state determinations were in triplicate and present mean ± SD (n=3), but the article does not clarify whether these are independent biological batches or technical replicates. Table 4 does not include a lab-brewed Sepa antioxidant row; the storage-time tables focus on Rohi. These omissions limit product comparisons. In-vitro antioxidant measurements are not proof of clinical health benefits.
+
+The article reports Rohi storage in an earthen Koloh for about a year and says Sepa does not store as long. It also reports visible microbial growth after ten months in stored samples. These are source-specific observations, not a validated safe-storage protocol. No storage duration should be treated as food-safety advice.
+
+### Structured files added
+
+- `research/assam/rohi-sepa-mod-pitha-5-plants-src045.csv` — five Table 1 entries.
+- `research/assam/rohi-sepa-physicochemical-src045.csv` — 29 long-format rows from Table 2.
+- `research/assam/rohi-sepa-antioxidant-src045.csv` — 60 long-format rows from Tables 3–5.
+
+The canonical beverage records and source register were updated. Four named locality rows ASM-PL-113–116 were added as field-study villages, not production censuses. ASM-GAP-036 remains Open but is narrowed to village-to-batch mapping, household counts, whether both fractions are made in all four villages, and village-specific starter inventories. The full-text retrieval audit is recorded in `rohi-sepa-src-045-fulltext-retrieval-audit.md`.
