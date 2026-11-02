@@ -1,6 +1,6 @@
 "Source_ID","Sample_code","Beverage","Contig_count","Assembly_size_Mb","N50_bp","L50","Largest_contig_bp","Contigs_ge_10kb","Contigs_ge_100kb","GC_percent","Source_note"
-"SRC-046","BR","Black Rohi Modh","5083","","6472","","296154","","6","","Per-sample metrics explicitly stated in main text; omitted values are not published there."
+"SRC-046","BR","Black Rohi Modh","5083","","6472","879","296154","","6","","Per-sample metrics explicitly stated in main text; omitted values are not published there."
 "SRC-046","RH","Rohi Modh","","33.42","19333","","309913","714","","","Per-sample metrics explicitly stated in main text; omitted values are not published there."
 "SRC-046","JOU","Jou Bidwi","","","32388","","255031","413","","51.18","Per-sample metrics explicitly stated in main text; omitted values are not published there."
-"SRC-046","SAI (SM)","Sai Mod","1030","21.25","50608","","301971","","30","50.28","Article uses SAI in assembly results and SM in other sections; retained both labels."
+"SRC-046","SAI (SM)","Sai Mod","1030","21.25","50608","124","301971","","30","50.28","Article uses SAI in assembly results and SM in other sections; retained both labels."
 "SRC-046","ALL","All four assemblies","","57.694302","","","","","","","Total assembled sequence bases reported: 57,694,302 bp; mean 14,423,575.5 bp per assembly (57,694,302/4)."
