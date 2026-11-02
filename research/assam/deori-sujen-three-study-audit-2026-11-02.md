@@ -1,0 +1,111 @@
+# Deori Sujen: three-study starter, locality and process audit — 2026-11-02
+
+## Executive finding
+
+Three full-text studies document Deori Sujen starter culture under overlapping but not identical names: **Mod pitha** (SRC-009, 2007), **Chuzae-pitha** (SRC-010, 2010), and **Sujen pitha / Chuzae-pitha / Mod pitha** (SRC-012, 2023). The publications support overlapping terminology, but do not establish universal synonymy across all Deori territorial groups (khel), districts or households.
+
+The three source-specific plant inventories contain 32, 15 and 13 listed taxa respectively. They should not be collapsed into a single canonical recipe. Simple normalized binomial comparison gives five overlapping names between SRC-009 and SRC-010, seven between SRC-009 and SRC-012, and six between SRC-010 and SRC-012. A few of these comparisons depend on correcting obvious source typos (e.g. “Coitus speciosus” vs Costus speciosus; “Drimaria cordata” vs Drymaria cordata), so overlap counts are candidate name matches, not voucher-confirmed identity.
+
+## 1. Source and field-site evidence
+
+### SRC-009 — Deori et al. (2007)
+
+“Ethnobotany of Sujen—a local rice beer of Deori tribe of Assam,” *Indian Journal of Traditional Knowledge* 6(1):121–125.
+
+- Fieldwork: 2003–2004.
+- Named villages: Sunpura Deori gaon, Sadiya (Tinsukia); Kololuwah (Dibrugarh); Rajabari (Sivasagar).
+- Researchers interviewed villagers who regularly prepared Sujen and observed the entire preparation process.
+- The authors say methods were the same across the three villages, but the number of plant species used varied from family to family.
+- The combined table lists 32 Mod pitha plants, without allocating each taxon to an individual village.
+- Plant identification was undertaken with consultation of the Regional Herbarium Assam and Botanical Survey of India, Eastern Circle.
+- The article's statement that more than 100 plants were used “in olden days” is a recollection, not a 100-plus-species inventory.
+
+The 32-row source-faithful transcription is `sujen-mod-pitha-32-species-src009.csv`.
+
+### SRC-010 — Baruah et al. (2010)
+
+“Plants used in the preparation of starter culture of rice-beer by the Ahom, Deori and Mishing tribes of Dhemaji District, Assam, India,” *Pleione* 4(2):288–293.
+
+- Fieldwork: October 2009–January 2010.
+- Deori field site: Borbam Deori gaon, Bordoloni block, Dhemaji.
+- Informants: two older women in the selected Deori village.
+- Deori starter is explicitly named **Chuzae-pitha**; 15 taxa are listed.
+- Plant specimens were preserved in the Darrang College Herbarium (DCH), and accession codes appear in the article.
+- This is the strongest voucher-linked, named Deori starter inventory among the three reviewed sources, but it is a small single-village historical study.
+
+The 15-row transcription is `sujen-chuzae-pitha-15-species-src010.csv`.
+
+### SRC-012 — Duarah et al. (2023)
+
+“Medicinal plants used in rice beer starter culture by different tribes in Assam: an ethnobotanical survey,” *International Journal of Pharmaceutical Sciences and Research* 14(6):3012–3027.
+
+- Survey districts: Sibsagar, Nagaon and Bongaigaon.
+- Authors state Deori, Mising and Ahom data were collected in Sibsagar; prior information was used to identify the relatively few households who prepare starter culture.
+- Deori Table 3 lists 13 taxa under the heading “Sujen pitha, Chuzae-pitha, or Mod pitha”.
+- The accessible paper does not name the Deori villages, report a Deori-specific sample size or allocate taxa to particular villages.
+- Methods include semi-structured questionnaires, discussions with experienced women, village/forest walks and plant collection/authentication with an Assam Agricultural University taxonomist.
+
+The 13-row transcription is `sujen-mod-pitha-13-species-src012.csv`. Printed names are retained, including obvious taxonomic/transcription concerns, rather than silently corrected.
+
+## 2. Terminology: Mod pitha and Chuzae-pitha
+
+Evidence supports that authors use both names for the Deori Sujen starter:
+- SRC-009 uses Mod pitha.
+- SRC-010 uses Chuzae-pitha at Borbam Deori gaon, Dhemaji.
+- SRC-012 explicitly groups “Sujen pitha, Chuzae-pitha, or Mod pitha” in its Deori table heading.
+
+This is publication-level evidence of overlapping terms, not proof that all Deori speakers use them interchangeably. Local usage may vary by locality, household or Deori khel. Preserve each source's term and request community/language review before normalizing the archive's canonical starter label.
+
+## 3. Plant inventory comparison
+
+| Comparison | Direct/candidate name overlap | Interpretation |
+|---|---:|---|
+| SRC-009 (32) vs SRC-010 (15) | 5 | Cinnamomum bejolghota, Oryza sativa, Psidium guajava, Saccharum officinarum, Scoparia dulcis |
+| SRC-009 (32) vs SRC-012 (13) | 7 | Artocarpus heterophyllus, Cinnamomum bejolghota, Centella asiatica, Costus speciosus (printed “Coitus”), Psidium guajava, Saccharum officinarum, Scoparia dulcis |
+| SRC-010 (15) vs SRC-012 (13) | 6 | Cinnamomum bejolghota, Drymaria cordata (printed “Drimaria” in SRC-010), Psidium guajava, Saccharum officinarum, Scoparia dulcis, Selaginella sp. |
+
+Counts are based on binomial-string normalization and obvious likely typographical correction only. They do not establish that the plant was used in the same way, by the same household, or in all sampled villages. Some printed taxonomy and family assignments need a separate authority/voucher reconciliation.
+
+## 4. Process and seasonal observations
+
+### SRC-009 (2007; historical field observations)
+
+- Mod pitha: cleaned plant parts sun-dried; 3–5 kg rice soaked about two hours; rice and plant materials ground together; 2–3 old starter cakes used as inoculant; sticky paste formed into small cakes.
+- Cakes dried above the kitchen fireplace for a couple of weeks and stored in a small earthen pot; paper reports storage of unused starter for 2–3 months.
+- Sujen: cooked rice mixed with powdered Mod pitha and covered with leaves; fermentation in an earthen vessel.
+- Reported fermentation: 3–4 days in summer, about one week in winter.
+- The article reports historical finished-beverage storage observations (up to one month in winter and 2–3 weeks in summer before souring). These are not food-safety recommendations and must not be presented as safe storage periods.
+
+### SRC-010 (2010; Dhemaji village account)
+
+- Starter-making seasons reported as September–October and February–March.
+- Plant materials and softened rice are powdered separately, mixed with a powdered parent starter, shaped into cakes and dried in sunlight or over mild kitchen fire.
+- Clay pitchers and hearth-side storage are described.
+- These are the authors' observations from the selected village and two informants, not a current statewide calendar.
+
+### SRC-012 (2023; comparative survey)
+
+- Also reports two starter preparation periods: September–October and February–March.
+- The paper does not provide a Deori village-specific fermentation or storage schedule in the accessible text.
+- Its ethnomedicinal columns record reported community beliefs, not demonstrated clinical effects.
+
+## 5. Repository changes
+
+- Three source-faithful CSV inventories created under `research/assam/`.
+- `sources/source_register.csv`: expanded SRC-009, SRC-010 and SRC-012 with full-text scope and limitations.
+- `data/places_coverage.csv`: clarified three historical SRC-009 village records, refined Borbam Deori gaon record, and added ASM-PL-109 for unnamed Sivasagar Deori survey scope.
+- `data/research_gaps.csv`: ASM-GAP-009, ASM-GAP-010 and ASM-GAP-011 updated. All remain Open.
+
+## 6. Remaining work
+
+1. Seek current Deori producer evidence for the four historical field localities; do not equate historical study presence with current production.
+2. Request village and household sample details from SRC-012 authors.
+3. Ask Deori speakers/knowledge holders to clarify local use of Mod pitha, Chuzae-pitha and Sujen pitha, including whether terms vary by khel.
+4. Reconcile the three inventories against botanical authority records and the DCH voucher accessions from SRC-010; preserve source spellings in the raw transcription.
+5. Obtain current, consent-based evidence on seasonality, fermentation and storage. Historical timings are not food-safety guidance.
+
+## Sources
+
+- SRC-009 — https://www.researchgate.net/publication/242292561_Ethnobotany_of_SujenA_local_rice_beer_of_Deori_tribe_of_Assam
+- SRC-010 — https://www.researchgate.net/publication/326098590_Plants_used_in_the_preparation_of_Starter_culture_of_Rice-beer_by_the_Ahom_Deori_and_Mishing_tribes_of_Dhemaji_District_Assam_India
+- SRC-012 — https://ijpsr.com/bft-article/medicinal-plants-used-in-rice-beer-starter-culture-by-different-tribes-in-Assam-an-ethnobotanical-survey/?view=fulltext
