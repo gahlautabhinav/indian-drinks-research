@@ -1,54 +1,71 @@
-# Mising Apong: Process and Locality Evidence Audit
+# Mising Apong Jorhat locality and process re-audit — 2026-11-02
 
-**Review date:** 2026-10-23  
-**Canonical records:** `ASM-002-NOG` (Noggin Apong), `ASM-003-POR` (Poro Apong)  
-**Scope:** Compare source descriptions of beverage names, extraction method and locality. This is a desk review, not a community-verified process standard.
+## Source reviewed
 
-## Main finding
+Gogoi, P.; Konwar, S.; Das, S.; Das, D.; Doimari, R.; Sonar, T.; Doley, S. (2026). “Ethnobotanical documentation of medicinal plants and traditional fermented foods of the Mishing community in Jorhat district of Assam, India.” *Ethnobotany Research and Applications* 34:75. DOI: https://doi.org/10.32859/era.34.75.1-31. Canonical source ID: SRC-069.
 
-The reviewed sources consistently distinguish **Nogin/Noggin Apong** from **Po:ro/Poro Apong**. The former is described as cooked rice fermented with an E’pob/Apop starter and then mixed with water and sieved. The latter includes ash from partly burned paddy straw or husk mixed with cooked rice and starter, followed by fermentation and liquid extraction. The available primary descriptions reviewed here do **not** establish distillation as a necessary step in Po:ro Apong preparation.
+The full 31-page PDF was retrieved from the journal's article download endpoint and reviewed, rather than relying on the abstract or search snippet.
 
-Do not rewrite the Poro record as a distilled spirit on the strength of broad secondary descriptions alone. Retain the process-classification gap until a source explicitly links distillation to a defined Poro variant or community-preferred term.
+## Field sites and study design
 
-## Evidence comparison
+The paper explicitly names ten Mising-dominant villages in Jorhat district:
+1. Charighoria
+2. Upor Kareng
+3. Kalbari
+4. Neulgaon
+5. Bormukoli
+6. Bahfalla
+7. Borpomua gaon
+8. Kumarbari gaon
+9. Jengrai Chapori
+10. Kawoimari Bonoria Mishing Gaon
 
-| Source | Geographic scope | Process evidence | What it does not establish |
-|---|---|---|---|
-| Pegu et al. (2013), “Apong, an alcoholic beverage of cultural significance of the Mising community of Northeast India” | Community-level discussion across Northeast India; not a village census | Distinguishes Nogin Apong from Po:ro Apong/Saimod; associates Poro with rice and ash from paddy husk/straw | Does not provide a current village-by-village production map |
-| Gogoi et al. (2026), Jorhat study (SRC-069) | Ten named Jorhat villages visited in 2024–2025; 50 informants | Describes Po:ro preparation with partly burned paddy husk/straw ash, cooked rice and starter; reports fermentation and water extraction through a cone-shaped Ta:suk bamboo basket lined with banana leaves | Does not map either drink to each named village; states vouchers were not collected/deposited; some wording about consent is internally uneven |
-| Borah (2026), Majuli study (SRC-084) | Three randomly selected Majuli villages, not named in accessible article text; 28 informants reported in the source register | Describes Po:ro with paddy-straw/husk ash and water extraction/filtration; describes Nogin fermentation as a separate method | Does not identify the three villages or establish a universal recipe; the source-specific process should not be generalized to every Mising household |
-| David (2023), PARI field report (SRC-085) | Household observation: Junali Risong's hamlet in Kamlabari block near Garamur, Majuli; exact village name not given | Reports the brewer mixing ash from burnt paddy stalks with cooked rice and herbs; the fermented mixture is placed in a cone-shaped basket, water is poured through it, and the beverage drains into a vessel | Single household account; not a representative survey; the brewer deliberately does not disclose all ingredient knowledge |
-| Deka et al. (2024/2025), six-district ethnobotanical study (SRC-061) | Multi-community and multi-district study | Contains discussion of distillation at a broader community level, but the reviewed section does not clearly attach distillation to Po:ro Apong specifically | Must not be used alone to claim Poro is distilled |
+The authors state that they visited these villages during the first week of every month for 12 consecutive months, between March 2024 and 2025. The study reports 50 informants (17 men and 33 women) and combines questionnaires, interviews, focused discussions and hands-on interactions.
 
-## Locality evidence
+**Critical geographic limitation:** the paper documents both Po:ro Apong and Noggin Apong collectively in the Jorhat study. It does not state which of the ten villages produces which beverage, whether every village produces either or both, or which informants prepared each form. Therefore all ten remain named field-study localities only. No beverage-specific production link is added to their place records.
 
-### Jorhat district
-The 2026 field study names ten villages: Charighoria, Upor Kareng, Kalbari, Neulgaon, Bormukoli, Bahfalla, Bor pomua gaon, Kumarbari gaon, Jeng rai Chapori and Kawoimari Bonoria Mishing Gaon. The archive records these as **study villages**, not as ten confirmed production sites for both Poro and Nogin. The paper documents both beverage forms within the study, but does not assign each form to every village.
+The authors state that voucher specimens were not collected or deposited in a recognized herbarium, so the plant identifications in this study lack voucher accession verification. The paper has one awkward sentence about consent (“a prior consent should be taken…”) but later explicitly says prior informed consent was obtained and repeats this in its declarations. Record the wording as internally uneven; do not speculate about misconduct.
 
-### Majuli district
-Borah (2026) describes a study of three randomly selected villages but the accessible full text does not name them. Keep the existing unnamed study-scope record rather than inferring names.
+## Source-specific process descriptions
 
-PARI's 2023 report describes Junali Risong making Po:ro Apong in her hamlet in Kamlabari block near Garamur. It is a useful household-level observation and evidence of documented practice in 2023, but it does not provide an exact village name or a district-wide prevalence estimate.
+### Po:ro Apong
 
-## Terminology and method cautions
+The paper describes:
+- partly burning paddy husk and dried paddy straw to collect ash;
+- mixing cooked rice with the collected ash and powdered starter;
+- placing the mixture in a fumigated earthen pot, closed with straw and Thelypteris parasitica leaves;
+- fermentation for roughly one to two weeks, with duration depending on starter amount and seasonal temperature;
+- extraction through a cone-shaped bamboo Ta:suk basket lined with banana leaves, with paddy straw (Amrong) at the base;
+- adding water from above and collecting the filtrate below.
 
-- Preserve source spellings: **Po:ro Apong**, **Poro Apong**, **Nogin Apong**, **Noggin Apong**, and **Saimod**. The relationship of Saimod to Poro is reported in some sources, but local terminology should be confirmed before normalization.
-- **Ta:suk** is described as a cone-shaped bamboo basket used in liquid extraction/filtration. Do not translate filtration into distillation.
-- The 2026 Jorhat article lists starter plants and describes process steps, but reports that voucher specimens were not deposited. Plant names therefore remain literature-reported identifications rather than voucher-verified identifications in this archive.
-- A source's discussion of medicinal or nutritional value is not clinical evidence of efficacy or safety.
-- Respect knowledge that a brewer intentionally keeps private. Do not pressure knowledge holders to disclose restricted ingredients or procedures.
+This is an extraction/filtration description, not a distillation apparatus or distillation step. It is consistent with the source-specific Ta:suk descriptions in SRC-084 (Majuli, 2026) and SRC-085 (PARI household observation, 2023). It does not prove every Mising community uses the same method or that no local variant exists.
 
-## Recommended next steps
+### Noggin Apong
 
-1. Keep `ASM-GAP-007` open.
-2. Seek community-preferred explanations of whether any Poro variant is distilled, and whether “Saimod” names a beverage, process, or local form.
-3. Keep village study coverage separate from product-to-village production evidence.
-4. If follow-up is undertaken, obtain informed consent, respect confidential knowledge, and document only what participants agree may be recorded and shared.
+The article separately describes:
+- cooked rice mixed with powdered Apop starter;
+- fermentation in an earthen pot for about 7–10 days;
+- the fermented rice termed Noginarug;
+- water added to a portion of Noginarug, stirred until milky, and sieved to obtain Nogin Apong.
 
-## Sources
+The article explicitly states that Apop is used for both Nogin and Po:ro. This does not mean the two finished drinks share all process steps.
 
-- SRC-061 — Deka et al. (2021), *Traditional alcoholic beverages and associated ethnobotanical knowledge in Assam* (see source register for full metadata).
-- SRC-069 — Gogoi et al. (2026), “Ethnobotanical documentation of medicinal plants and traditional fermented foods of the Mishing community in Jorhat district of Assam, India.” https://doi.org/10.32859/era.34.75.1-31
-- SRC-084 — Borah (2026), “Documentation of ethnobotanical plants used in the preparation of Apong, a traditionally prepared rice beer by the Mishing tribal community of Majuli district.” https://doi.org/10.21474/IJAR01/23298
-- SRC-085 — David (2023), “Making the Mising brew in Majuli.” https://ruralindiaonline.org/article/making-the-mising-brew-in-majuli
-- Pegu, R., Gogoi, J., Tamuli, A. K., & Teron, R. (2013). “Apong, an alcoholic beverage of cultural significance of the Mising community of Northeast India.” *Global Journal of Interdisciplinary Social Sciences*, 2(6), 12–17. https://www.walshmedicalmedia.com/open-access/apong-an-alcoholic-beverage-of-cultural-significance-of-the-mising-community-of-northeast-india.pdf
+## Implications for the archive
+
+1. Ten Jorhat village names are confirmed as 2024–2025 study sites; none is upgraded to village-specific Po:ro or Nogin production.
+2. Jorhat adds a second detailed source for Po:ro extraction through Ta:suk and does not report distillation in that method.
+3. The source gives different process durations for Po:ro (roughly 1–2 weeks) and Nogin (7–10 days); preserve these as source-specific observations, not universal specifications.
+4. Earlier broad statements that Poro is distilled should not override the explicit process descriptions from Jorhat, Majuli and the PARI household case. A distillation claim requires a source that names the community-preferred variant, locality and apparatus.
+5. No beverage-to-village mappings or new producer counts are inferred.
+6. No new canonical beverage records are created.
+
+## Repository updates
+
+- `data/places_coverage.csv`: ASM-PL-068 to ASM-PL-077 retain the ten exact study village names and now include field dates, sample size, subtype-allocation limitation and voucher caveat.
+- `data/research_gaps.csv`: ASM-GAP-005 updated with the full-text village list and explicit subtype-mapping gap; ASM-GAP-007 updated with Jorhat Ta:suk and Nogin process evidence. Both remain Open.
+- `sources/source_register.csv`: SRC-069 claims and limitations expanded from full-text review.
+
+## Source
+
+Full text PDF: https://ethnobotanyjournal.org/index.php/era/article/download/7814/2403/80765
+DOI: https://doi.org/10.32859/era.34.75.1-31
