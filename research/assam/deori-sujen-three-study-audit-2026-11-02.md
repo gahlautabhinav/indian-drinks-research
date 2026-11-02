@@ -2,9 +2,9 @@
 
 ## Executive finding
 
-Four studies now document Deori Sujen starter culture under overlapping but not identical names: **Mod pitha** (SRC-009, 2007), **Chuzae-pitha** (SRC-010, 2010), **Sujen pitha / Chuzae-pitha / Mod pitha** (SRC-012, 2023), and Mod pitha in a two-village Dibrugarh account (SRC-131, 2023). The publications support overlapping terminology, but do not establish universal synonymy across all Deori territorial groups (khel), districts or households.
+Five studies now document Deori Sujen starter culture under overlapping but not identical names: **Mod pitha** (SRC-009, 2007), **Chuzae-pitha** (SRC-010, 2010), **Sujen pitha / Chuzae-pitha / Mod pitha** (SRC-012, 2023), and Mod pitha in a two-village Dibrugarh account (SRC-131, 2023). The publications support overlapping terminology, but do not establish universal synonymy across all Deori territorial groups (khel), districts or households.
 
-The four source-specific plant inventories contain 32, 15, 13 and 19 listed taxa respectively. They should not be collapsed into a single canonical recipe. Simple normalized binomial comparison gives five overlapping names between SRC-009 and SRC-010, seven between SRC-009 and SRC-012, and six between SRC-010 and SRC-012. A few of these comparisons depend on correcting obvious source typos (e.g. “Coitus speciosus” vs Costus speciosus; “Drimaria cordata” vs Drymaria cordata), so overlap counts are candidate name matches, not voucher-confirmed identity.
+The five source-specific plant inventories contain 32, 15, 13, 19 and 21 listed taxa respectively. SRC-018 is a review article with a section-specific Tinsukia field-derived account; its locality and sampling details are less complete than the other studies. They should not be collapsed into a single canonical recipe. Simple normalized binomial comparison gives five overlapping names between SRC-009 and SRC-010, seven between SRC-009 and SRC-012, and six between SRC-010 and SRC-012. A few of these comparisons depend on correcting obvious source typos (e.g. “Coitus speciosus” vs Costus speciosus; “Drimaria cordata” vs Drymaria cordata), so overlap counts are candidate name matches, not voucher-confirmed identity.
 
 ## 1. Source and field-site evidence
 
@@ -128,3 +128,18 @@ Its source-specific Sujen account describes rice cooked with husk (tuh), cooled 
 This fourth inventory reinforces the need to preserve separate source lists. It does not establish that the 19 plants are used in both villages, that the list is current, or that all Deori divisions use this recipe. The new source was added to the register as SRC-131; ASM-GAP-009, -010 and -011 were updated; the canonical Sujen record now includes the two named Dibrugarh sites and explicitly retains the lack of producer counts and village-level plant mapping.
 
 **Source:** https://www.worldwidejournals.com/paripex/recent_issues_pdf/2023/November/a-study-on-the-use-of-fermented-rice-beverage-sujen-by-the-deoris-of-brahmaputra-valley-sociocultural-values-and-health-related-issues_November_2023_2566999188_3500267.pdf
+
+
+## Addendum 2 — SRC-018: Tinsukia Sujen table and its relationship to the 2007 inventory (2026-11-02)
+
+Bhuyan and Baishya (2013), “Ethno medicinal value of various plants used in the preparation of traditional rice beer by different tribes of Assam, India,” *Drug Invention Today* 5(4):335–341, is explicitly labelled a **Review Article** in its front matter. However, the Sujen subsection states that “this study was carried out in Tinsukia district” and the acknowledgements thank village women of Tinsukia district for sharing information about rice-beer preparation and starter plants. This is sufficient to treat the Sujen subsection as containing a field-derived account, but the article does not identify the village(s), survey dates, informant count, interview/collection protocol, or specimen vouchers. Its reference 9 is Deori, Begum and Mao (2007), but that citation alone does not establish that Table 4 is copied from the 2007 study.
+
+Table 4 lists 21 taxa. A source-faithful transcription is stored in `sujen-tinsukia-21-species-src018.csv`. Eight exact binomial names overlap with the combined 32-taxon SRC-009 inventory: *Allium sativum*, *Artocarpus heterophyllus*, *Capsicum annuum*, *Melastoma malabathricum*, *Oryza sativa*, *Saccharum officinarum*, *Scoparia dulcis* and *Solanum torvum*. The overlap is only a comparison of published names against the combined SRC-009 table, which pools three villages without village-level taxon allocation. It does not establish duplicate data, shared specimens, or independent sampling.
+
+The 2013 paper’s Tinsukia village(s) could overlap with **Sunpura Deori gaon, Sadiya**, already documented in SRC-009, but the paper does not name the site and the relationship cannot be resolved from the accessible article. A district-level, unnamed study-scope record ASM-PL-112 was therefore added, not a new named village. The source register entry SRC-018 was amended to distinguish its review classification from the field-derived content in this subsection.
+
+The article reports a preparation sequence of overnight soaking of rice; grinding plant parts with soaked rice into dough; forming round cakes around 4 cm in diameter and drying them on a bamboo sieve; boiling rice, cooling it, adding Mod pitha, sealing in an earthen pot with banana leaves and fermenting for 4–5 days. It reports storage of Sujen in earthen pots for 1–2 months at room temperature. These are source-reported historical descriptions, not current universal practice or food-safety recommendations.
+
+**Interpretive status:** retain SRC-018 as a field-derived Tinsukia district account embedded in a review article; do not count it as a confirmed independent village survey until authors clarify the field site and relationship to SRC-009. ASM-GAP-009, -010 and -011 remain open.
+
+**Source:** https://www.sciencedirect.com/science/article/abs/pii/S0975761913000720 (full text accessed via a Scribd-hosted copy; original publisher page blocked direct access).
