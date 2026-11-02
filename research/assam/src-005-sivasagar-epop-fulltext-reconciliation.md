@@ -27,3 +27,40 @@ ASM-GAP-045 already tracks comparison between the Sivasagar ÉPOP inventory and 
 - No new beverage record is needed; existing Mising Apong records already represent Nogin and Poro forms.
 - No new place records are needed for Majorbari and Ligiribari; existing rows ASM-PL-004 and ASM-PL-005 already cover them.
 - Next useful work: update those two place rows with the fuller SRC-005 evidence, then continue the ASM-GAP-045 taxon-level comparison with SRC-084.
+
+
+## 2026-11-02 — Complete SRC-005 Table 1 extraction
+
+The complete 31-row inventory is now transcribed to `research/assam/epop-sivasagar-31-species-src005.csv`. It preserves the paper's taxon spelling, family as printed, Mising vernacular form, habit, plant part, collection-period code and land-use dependency symbols. This is a faithful source transcription, **not** an accepted-name taxonomic dataset. In particular:
+- `Hydrocotyle sibthorpi-oides` appears with a line-break/OCR split in the PDF; the article body elsewhere prints *Hydrocotyle sibthorpioides*.
+- `Alstonia shcolaris`, `Melia azadirach`, `Albizzia lucida`, `Myrtacaceae`, `Mimosaceae` and other legacy spellings/family labels are retained as published.
+- `Neolitsea sp.` and `Selaginella sp.` remain genus-level identifications.
+- The article's own totals are 31 taxa, 27 angiosperms and 4 pteridophytes across 22 families. The taxon list has not been independently re-identified from herbarium vouchers in this project.
+
+### Additional locality context — acknowledgements
+
+The article acknowledgements name villagers from Majorbari, Ligiribari, Afala, Balama, Charaipora of Disangmukh; Dolopa, Balikur, Samukjan, Kotiari, Milanpur of Rajabari; and Gumutha, Ramnagar and Balikuthi of Charaideo. This list is useful as field-visit/community-engagement context, but acknowledgements are not an explicit village-by-village ÉPOP production register. The methods say 15 randomly selected villages were surveyed and Majorbari/Ligiribari selected for in-depth study; the article does not map the 31 plant taxa to individual villages. Therefore, no additional village rows have been created from acknowledgements alone.
+
+### Source-specific ecology summary
+
+- Growth forms: herbs 41.94%; trees 38.71%; shrubs 12.90%; climbers 6.45%.
+- Families: Asteraceae and Lauraceae have four taxa each; Scrophulariaceae and Verbenaceae have two each; remaining families are reported with one each (the paper spells Verbenaceae as “Verbinaceae” in one narrative passage).
+- Collection land-use dependency: forest 35.53%; fallow land 23.68%; agricultural fields 21.05%; homestead gardens 19.74%.
+- Parts: leaves 69.23%; young shoots 20.51%; whole plants 10.26%.
+- Collection time: the article reports 51.61% afternoon, 16.13% morning/broad-day, 9.68% bright day, and 6.45% early morning/afternoon categories; it also mentions some aromatic plants collected in evening. These categories should not be over-interpreted as exact hourly schedules.
+
+### Comparison caution
+
+SRC-006 (Dhemaji) and SRC-007 (Majuli) provide other Mising starter plant lists, but their names and identifications contain spelling, taxonomic and reporting inconsistencies. A cross-study “shared species” statistic must distinguish:
+1. exact same binomial spelling;
+2. plausible synonym/renamed accepted taxon;
+3. similar vernacular name only;
+4. genus-only or unresolved identification.
+
+Do not count category 2 as confirmed until a taxonomic authority/voucher check is complete, and do not treat category 3 as botanical identity. Keep the larger SRC-005/SRC-084 crosswalk in ASM-GAP-045; the 31-versus-48 inventory sizes are not a time trend or direct measure of local biodiversity.
+
+## Repository data action
+
+- Added the complete source transcription CSV.
+- Updated ASM-GAP-006 with full inventory and evidence limitations.
+- No new beverage or village records were created.
