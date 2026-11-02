@@ -24,7 +24,7 @@ The paper says BR and RH were made from black and common rice, respectively. The
 
 ## Locality and community identity
 
-The main text identifies the Pukia collection locality and the figure labels both BR and RH at Pukia. Supplementary File ST1 is described as listing sample codes with longitude and latitude. The supplementary DOCX was not retrievable in this pass, so no coordinates are transcribed and no map pin more precise than Pukia is added.
+The main text identifies the Pukia collection locality and the figure labels both BR and RH at Pukia. Supplementary File ST1 is described as listing sample codes with longitude and latitude. The supplementary DOCX was not retrievable in this pass, so no coordinates are transcribed and no map pin more precise than Pukia is added. The article separately deposits raw shotgun-metagenomic data under NCBI BioProject PRJNA1284041; Sanger sequence accessions are listed with organism/yeast labels in Fig. 3. The BioProject has not yet been expanded into individual SRA runs or BioSamples.
 
 The article uses a broad Kachari community label and cites Sonowal (2023) in its Rohi Modh discussion. This is not enough to establish that the Pukia producer is Sonowal Kachari, or that the Pukia RH batch is identical to the Sonowal Kachari Rohi documented in Dibrugarh by SRC-044/SRC-045. The archive therefore:
 - updates existing Pukia locality ASM-PL-043 to link both BR and RH sample records;
@@ -49,6 +49,8 @@ The article also reports HPLC ethanol of 5.55 ± 0.18% for JOU and 4.28 ± 0.14%
 HPLC and GC-MS/MS ethanol estimates differ for all four beverage types. Keep both platform-specific values rather than averaging them. The main text reports HPLC values and separate GC-MS/MS values; the authors attribute differences to analytical platform characteristics. The supplementary ST2 file may contain additional proximate metrics, but was not extracted in this pass.
 
 These antioxidant results are in-vitro chemical assay outcomes, not clinical health benefits. The predicted retinol-metabolism genes describe microbial metabolic potential and do not demonstrate direct vitamin A production. With only four independent household beverage batches, microbial correlations and group comparisons are exploratory, not confirmatory population-level evidence.
+
+A second structured summary, `research/assam/src046-microbiome-metabolome-summary.csv`, records the article's aggregate counts: 57.69 Mb assembled metagenomic sequences, 48 phyla, 1,785 species, 93 metabolites shared across all four beverages (59 primary metabolites among those), and per-beverage metabolite counts BR 167, SM 113, JOU 145 and RH 123. These are aggregate/sample-batch descriptors, not population estimates.
 
 ## Data-quality observations
 
