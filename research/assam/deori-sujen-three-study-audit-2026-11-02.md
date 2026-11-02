@@ -1,12 +1,14 @@
-# Deori Sujen: three-study starter, locality and process audit — 2026-11-02
+# Deori Sujen: four-study starter, locality and process audit — 2026-11-02
 
 ## Executive finding
 
-Three full-text studies document Deori Sujen starter culture under overlapping but not identical names: **Mod pitha** (SRC-009, 2007), **Chuzae-pitha** (SRC-010, 2010), and **Sujen pitha / Chuzae-pitha / Mod pitha** (SRC-012, 2023). The publications support overlapping terminology, but do not establish universal synonymy across all Deori territorial groups (khel), districts or households.
+Four studies now document Deori Sujen starter culture under overlapping but not identical names: **Mod pitha** (SRC-009, 2007), **Chuzae-pitha** (SRC-010, 2010), **Sujen pitha / Chuzae-pitha / Mod pitha** (SRC-012, 2023), and Mod pitha in a two-village Dibrugarh account (SRC-131, 2023). The publications support overlapping terminology, but do not establish universal synonymy across all Deori territorial groups (khel), districts or households.
 
-The three source-specific plant inventories contain 32, 15 and 13 listed taxa respectively. They should not be collapsed into a single canonical recipe. Simple normalized binomial comparison gives five overlapping names between SRC-009 and SRC-010, seven between SRC-009 and SRC-012, and six between SRC-010 and SRC-012. A few of these comparisons depend on correcting obvious source typos (e.g. “Coitus speciosus” vs Costus speciosus; “Drimaria cordata” vs Drymaria cordata), so overlap counts are candidate name matches, not voucher-confirmed identity.
+The four source-specific plant inventories contain 32, 15, 13 and 19 listed taxa respectively. They should not be collapsed into a single canonical recipe. Simple normalized binomial comparison gives five overlapping names between SRC-009 and SRC-010, seven between SRC-009 and SRC-012, and six between SRC-010 and SRC-012. A few of these comparisons depend on correcting obvious source typos (e.g. “Coitus speciosus” vs Costus speciosus; “Drimaria cordata” vs Drymaria cordata), so overlap counts are candidate name matches, not voucher-confirmed identity.
 
 ## 1. Source and field-site evidence
+
+The fourth source, SRC-131, is documented in the addendum below; its 19-taxon table is a separate Dibrugarh study inventory.
 
 ### SRC-009 — Deori et al. (2007)
 
