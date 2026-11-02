@@ -142,3 +142,12 @@ The article reports Rohi storage in an earthen Koloh for about a year and says S
 - `research/assam/rohi-sepa-antioxidant-src045.csv` — 60 long-format rows from Tables 3–5.
 
 The canonical beverage records and source register were updated. Four named locality rows ASM-PL-113–116 were added as field-study villages, not production censuses. ASM-GAP-036 remains Open but is narrowed to village-to-batch mapping, household counts, whether both fractions are made in all four villages, and village-specific starter inventories. The full-text retrieval audit is recorded in `rohi-sepa-src-045-fulltext-retrieval-audit.md`.
+
+
+## Cross-reference — Pukia Rohi Modh and Black Rohi Modh samples (SRC-046; 2026-11-02)
+
+Das, Medhi and Tamang (2026; SRC-046) separately analyzed one **Rohi Modh (RH)** and one **Black Rohi Modh (BR)** household batch from **Pukia, Dhemaji district**. The paper uses the broad community label “Kachari”; it does not identify the exact subcommunity or household. The authors explicitly state each beverage category was collected only once and triplicates are technical measurements, not independent biological batches. Therefore, the Pukia samples must not be automatically merged with the Sonowal Kachari Dibrugarh Rohi record (ASM-019-ROH).
+
+The paper describes the Pukia RH sample as common-rice Rohi Modh and BR as black-rice Black Rohi Modh. Its general background mentions Bora chaul/glutinous rice and aaroi for Rohi Modh, but the exact starter and process for the BR batch are not fully specified. The main-text map labels Pukia for both samples; supplementary ST1 is said to include GPS coordinates, but the DOCX payload was not accessible in this research pass. No coordinates are inferred.
+
+The archive now retains **ASM-021-BRM** as a provisional BR sample record and creates **ASM-022-RMH** for the Pukia RH sample, keeping both separate from the Sonowal Kachari Dibrugarh record until local identity and naming are confirmed. The structured main-text metric transcription is `research/assam/src046-published-sample-metrics.csv`; the full identity audit is `research/assam/src046-black-rohi-modh-pukia-audit-2026-11-02.md`. These chemical and microbiome findings are batch-specific and exploratory; they do not establish community-wide properties or clinical health benefits.
