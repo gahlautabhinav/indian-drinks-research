@@ -109,3 +109,20 @@ Counts are based on binomial-string normalization and obvious likely typographic
 - SRC-009 — https://www.researchgate.net/publication/242292561_Ethnobotany_of_SujenA_local_rice_beer_of_Deori_tribe_of_Assam
 - SRC-010 — https://www.researchgate.net/publication/326098590_Plants_used_in_the_preparation_of_Starter_culture_of_Rice-beer_by_the_Ahom_Deori_and_Mishing_tribes_of_Dhemaji_District_Assam_India
 - SRC-012 — https://ijpsr.com/bft-article/medicinal-plants-used-in-rice-beer-starter-culture-by-different-tribes-in-Assam-an-ethnobotanical-survey/?view=fulltext
+
+
+## Addendum — two named Dibrugarh field sites (SRC-131; 2023)
+
+A further primary field account was located during the 2026-11-02 continuation pass:
+
+Bharali, Anup Jyoti; Deori, Chinmoyee; Das, Jitu (2023), “A Study on the Use of Fermented Rice Beverage (Sujen) by the Deoris of Brahmaputra Valley: Socio-Cultural Values and Health Related Issues,” *PARIPEX – Indian Journal of Research* 12(11), November 2023. Canonical source ID: SRC-131.
+
+The paper names two Dibrugarh field villages: **Kalalowa Adarsha Deori Village** and **Madhupur Adarsha Deori Janajati village**. It identifies residents of both as Tengaponiya division and describes Sujen preparation and ritual/cultural use. The paper does not state fieldwork dates, informant count, number of producer households, or village-specific plant allocation. These are therefore named contemporary publication field sites, not quantified present-day production censuses. Two locality records ASM-PL-110 and ASM-PL-111 were added with those limitations.
+
+The paper's Table of starter plants lists 19 taxa, transcribed without silent correction to `sujen-dibrugarh-19-plants-src131.csv`. The table includes potentially problematic source-reported entries (for example, *Ananas comosus* with “bark” as the part used and *Pteridium aquilinum* with “fronds /roots”). These are preserved as published and must be checked against author notes, vouchers and community review. The 19 taxa are not allocated between the two villages.
+
+Its source-specific Sujen account describes rice cooked with husk (tuh), cooled on a bamboo dola, mixed with Mod pitha, covered with banana leaves and bihlongoni leaves, then transferred to an earthen koloh vessel for fermentation. It reports approximately one week to full fermentation. It also records a belief that citrus contact spoils the preparation; this is a reported belief, not a verified chemical effect or food-safety instruction. The paper does not give a current seasonality calendar.
+
+This fourth inventory reinforces the need to preserve separate source lists. It does not establish that the 19 plants are used in both villages, that the list is current, or that all Deori divisions use this recipe. The new source was added to the register as SRC-131; ASM-GAP-009, -010 and -011 were updated; the canonical Sujen record now includes the two named Dibrugarh sites and explicitly retains the lack of producer counts and village-level plant mapping.
+
+**Source:** https://www.worldwidejournals.com/paripex/recent_issues_pdf/2023/November/a-study-on-the-use-of-fermented-rice-beverage-sujen-by-the-deoris-of-brahmaputra-valley-sociocultural-values-and-health-related-issues_November_2023_2566999188_3500267.pdf
