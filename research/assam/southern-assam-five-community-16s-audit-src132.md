@@ -73,3 +73,22 @@ The data availability statement identifies NCBI BioProject **PRJNA1017140**. Ind
 - Clarify Zao/Zou spelling with community sources.
 - Compare only shared taxa at an appropriately broad rank against SRC-046 shotgun data; never pool raw relative-abundance values across different sequencing methods/pipelines.
 - Keep exact village coverage open until actual collection sites are disclosed.
+
+
+## NCBI accession reconciliation — verified 2026-11-03
+
+The NCBI BioProject page for **PRJNA1017140** exposes **five SRA Experiments and five BioSamples**. The linked SRA records resolve to five runs, one run per cohort, all Illumina MiSeq paired-end 16S V3–V4 amplicon libraries. The linked SRA Study is **SRP460503**. Crosswalk:
+
+| Cohort | BioSample | Experiment | Run | Spots | Bases |
+|---|---|---|---|---:|---:|
+| Tea tribes / Haria (TT) | SAMN36419344 | SRX21775002 | SRR26058871 | 589,968 | 354.1M |
+| Dimasa / Judima (DMK) | SAMN36419343 | SRX21775001 | SRR26058872 | 343,425 | 206.3M |
+| Zeme Naga / Zao-Zou (ZN) | SAMN36419342 | SRX21775000 | SRR26058873 | 460,980 | 276.9M |
+| Karbi / Hor Alank (K1) | SAMN36419341 | SRX21774999 | SRR26058874 | 616,797 | 370.6M |
+| Hmar / Zu (HM) | SAMN36419340 | SRX21774998 | SRR26058875 | 545,933 | 327.9M |
+
+**Important unresolved discrepancy:** the article's Materials and Methods states 15 collected samples, three from each cohort. NCBI currently exposes only five BioSamples and five SRA runs, one per cohort. The SRA sample names are exactly the cohort codes TT, DMK, ZN, K1 and HM. Neither the article nor the linked NCBI records inspected here establish whether each SRA library represents a pooled set of three field samples, a representative sample, or an incomplete deposition. Do not describe the five runs as 15 separate sequenced samples, and do not assume pooling without author or metadata confirmation.
+
+The NCBI BioProject page labels the data type “Metagenome”; the SRA experiment records explicitly label the library design “16S rRNA V3-V4 sequencing” and strategy “AMPLICON”, consistent with the article's PCR-based method. The SRA records report one run each and the accession mapping is independently captured in `research/assam/src132-ncbi-sra-accessions.csv`.
+
+The BioProject and all five SRA experiment records were directly inspected. The supplementary DOCX remains unextracted; sample-to-village metadata and the 15-versus-5 discrepancy therefore remain open.
