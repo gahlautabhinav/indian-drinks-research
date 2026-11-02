@@ -74,3 +74,35 @@ The official IP India registry lists Judima application 643 as registered, appli
 - Compare recipes only with explicit locality, household, date and consent context; do not publish restricted ritual knowledge without permission.
 
 **Conclusion:** Three named Dima Hasao localities now have differentiated evidence in the archive. This improves locality confidence but does not close the geographic-distribution gap or establish a universal Humao recipe.
+
+
+## 6. GI primary-document retrieval follow-up — 2026-11-02
+
+### Official registry record rechecked
+
+The live IP India application 643 page confirms:
+- GI: Judima; status: Registered.
+- Applicant name shown by the registry: “DIMAJIK HOSOM”.
+- Applicant address: Dibarai, Haflong, Dima Hasao, Assam.
+- Filing date: 16 January 2019; Journal 131; availability date 11 March 2020.
+- Certificate number 376, dated 14 September 2021; registration valid until 15 January 2029.
+- Geographical-area field shown on the registry page: Assam.
+- Document list includes separate PDFs for “643 - GI - List of Producers”, “643 - Map” and “643 - Statement of Case”, all dated 16 January 2019.
+
+The public page is JavaScript-driven. Its static HTML exposes a shared image/PDF icon target rather than the underlying document URLs. Following the visible PDF link resolves to a generic PDF-icon image, not the document itself. Therefore, the original Statement of Case, producer list and map were **not retrieved or read** in this pass. No claim about their contents is made.
+
+### Secondary geographic lead: CII 2024 GI booklet (SRC-130)
+
+The Confederation of Indian Industry's 2024 *A Booklet on Geographical Indications of Northeast States of India* (page 74; printed page numbering) states that Judima is produced by Dimasa communities residing mostly in **Dima Hasao and Karbi Anglong districts**. It repeats the applicant address at Dibarai and summarizes Humao/Thembra-based production.
+
+This adds a secondary district-scope statement beyond the IP India registry's broad “Assam” field. It is not the official GI map, does not provide a village-level producer list, and does not prove current production in every part of either district. Karbi Anglong already has independent literature/locality leads in this archive (including Kathkatia/Silonijan and Diphu sample collection); the CII statement is retained as district-level corroboration only, not a new village record.
+
+### Geographic interpretation and next action
+
+- Do not treat “Geographical Area: Assam” on the registry page as a claim that Judima is produced in every Assam district.
+- Do not treat Dibarai applicant address as the only production locality.
+- Record Dima Hasao and Karbi Anglong as districts named by the secondary GI booklet, while keeping the precise legal boundary and producer list unresolved.
+- Keep ASM-GAP-001 **Open**. The GI map, producer list and Statement of Case are still the critical missing primary documents.
+- Next step: request the three documents from the GI Registry or YADEM, then transcribe the map boundary and producer locations with document/page citations.
+
+**Retrieval status:** Official record page verified; original supporting PDFs not obtained. Secondary CII district-scope lead registered as SRC-130.
