@@ -92,3 +92,20 @@ The NCBI BioProject page for **PRJNA1017140** exposes **five SRA Experiments and
 The NCBI BioProject page labels the data type “Metagenome”; the SRA experiment records explicitly label the library design “16S rRNA V3-V4 sequencing” and strategy “AMPLICON”, consistent with the article's PCR-based method. The SRA records report one run each and the accession mapping is independently captured in `research/assam/src132-ncbi-sra-accessions.csv`.
 
 The BioProject and all five SRA experiment records were directly inspected. The supplementary DOCX remains unextracted; sample-to-village metadata and the 15-versus-5 discrepancy therefore remain open.
+
+
+## BioSample metadata quality check — verified 2026-11-03
+
+All five BioSample records were opened individually. They provide one collection date per cohort, but their geographic metadata is weak:
+
+| Cohort | Collection date | Geographic location | Submitted latitude/longitude |
+|---|---|---|---|
+| HM | 2022-06-21 | India | 20.59 N, 78.96 E |
+| K1 | 2022-07-01 | India | 20.59 N, 78.96 E |
+| ZN | 2022-07-10 | India | 20.59 N, 78.96 E |
+| DMK | 2022-07-17 | India | 20.59 N, 78.96 E |
+| TT | 2022-07-25 | India | 20.59 N, 78.96 E |
+
+The exact same coordinate pair is repeated for all five records, while the geographic-location attribute says only “India”. This is not sufficient evidence for southern Assam, a district, or a village; treat the coordinates as non-local/unverified metadata and do not map them as actual collection sites. Each BioSample also displays a link to a second BioProject, **PRJNA994679**, in addition to PRJNA1017140. That cross-link is recorded but its relationship to this paper's dataset has not been established in this pass.
+
+The accession CSV now includes the BioSample collection dates, generic geographic label, repeated coordinate pair and secondary BioProject link. The key open issues are now more specific: why 15 field samples correspond to five deposited BioSamples/runs, whether samples were pooled, what the repeated coordinates represent, and whether PRJNA994679 contains overlapping or ancillary data.
