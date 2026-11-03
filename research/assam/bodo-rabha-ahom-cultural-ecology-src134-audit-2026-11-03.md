@@ -29,6 +29,9 @@ Talukdar, S., Jyethi, D. S., Sarma, B., & Talukdar, H. (2026). “Cultural ecolo
 4. “Choko” and “Chubitchi”, and “Xajpani”, “Haaj” and “Laopani”, appear in different article sections. The article does not provide a formal synonym reconciliation.
 5. Ethnobotanical/ritual reports are not biochemical, clinical or safety validation. No health-benefit claims are added to the beverage records.
 
+## Supplementary-material check (2026-11-03)
+The publisher's four-page Supplementary Material S1 is a questionnaire sheet, not a locality list or raw dataset. It confirms that the instrument asked respondents for village/district, years involved in beverage preparation, local beverage name, starter-plant names/parts, plant collection source/season, fermentation duration, equipment, cultural use, conservation changes, knowledge transmission and commercialization views. However, the supplement contains blank questionnaire prompts only; it provides no completed responses, named villages, informant-level data, or district-to-informant allocation. It therefore does not resolve geographic attribution or allow independent recalculation of CKSI/FL. Cite the supplement as evidence of what was asked, not what respondents answered.
+
 ## Repository treatment
 - Added source register record SRC-134.
 - Added a three-community/district cohort CSV and a top-10 CKSI/FL transcription CSV.
