@@ -36,6 +36,9 @@ The AAU thesis compilation lists Radali Duarah's thesis “Bioactivity of medici
 ## Distinction from the 2018 Neog presentation lead
 Kakojan College's faculty profile separately records that Mridula Neog presented a paper at an ICSSR-sponsored national seminar on 27–28 April 2018 titled “Qualitative Phytochemical Analysis of two Pteridophytic Plant species used traditionally by Tribes of Assam in Starter Culture preparation of rice beer fermentation.” This is a presentation record only. No proceedings, abstract, full paper, plant identities or analytical results were located in this retrieval pass. Do not infer that the two pteridophytes are the same as any fern taxa in the 2023 Mising inventory or the 2020–21 thesis abstract. This lead remains open as a separate retrieval task.
 
+## Crosswalk to SRC-153
+A first-pass source-spelled comparison against Mili & Sundriyal (2023) is documented in `src151-src153-mising-starter-inventory-crosswalk-2026-11-04.md`. It identifies seven shared binomial strings and three additional review candidates; none are treated as voucher-confirmed identity or proof of same village-level use.
+
 ## Relationship to existing Assam sources
 - The 36-plant Mising list is a Sibsagar-district survey and should not be merged into the Jorhat-only plant list in SRC-148, the multi-community table in SRC-061, the Sivasagar Apong starter list in SRC-146, or the 48-plant Majuli inventory in SRC-084.
 - Repeated botanical names across sources are evidence of reported overlap only; source spelling, identification, parts and locality attribution must be reconciled individually.
