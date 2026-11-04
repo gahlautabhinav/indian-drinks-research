@@ -57,7 +57,7 @@ FlipHTML5 digital issue pages/printed pagination 59–63:
 
 ## Bibliographic correction and verification trail (2026-11-04)
 
-The earlier label of 2014 should not be treated as settled. The source masthead repeatedly says January 2014, while page 2 says IJHEPS/January 2015; FlipHTML5 records publication on 17 January 2015; and the Kakojan College author profile lists the paper under 2015. The preferred year is therefore 2015 with an explicit uncertainty note, not a silent correction. The article occupies digital pages 59–63 (article number 9 in the contents). The separate 2015 paper “Biochemical investigation of Fermented Rice Product of Mishing Tribe of Jorhat District” is a distinct publication listed on the same author profile; do not merge it with this article.
+The earlier label of 2014 should not be treated as settled. The source masthead repeatedly says January 2014, while page 2 says IJHEPS/January 2015; FlipHTML5 records publication on 17 January 2015; and the Kakojan College author profile lists the paper under 2015. The best-supported bibliographic treatment is 2014 as the printed issue year, while retaining the institutional-profile discrepancy (2015) in the record. FlipHTML5's upload/publication date is not proof that the issue itself appeared in 2015. The article occupies digital pages 59–63 (article number 9 in the contents). The separate 2015 paper “Biochemical investigation of Fermented Rice Product of Mishing Tribe of Jorhat District” is a distinct publication listed on the same author profile; do not merge it with this article.
 
 ## Interpretation cautions
 
