@@ -62,3 +62,14 @@ No result is inferred from either title. No fermentation values, organism names,
 - For SRC-140 request *Bulletin of Life Sciences*, Vol. XVI (2011), ISSN 0971-5746, article by Kardong, Sood, Yadav and Bora; ask for contents page and article pagination if the full volume cannot be scanned.
 - For SRC-139 request *Journal of Assam Science Society*, 52(2) (2011), pp. 1–6, Kardong; note the title's source spelling “Saimod” and starter “Epop”.
 - Do not substitute the 2007–2009 UGC project summary (SRC-152) or 2012 Po:ro article (SRC-136) for these two articles. They are related research but not the same publications.
+
+
+## 5. Targeted follow-up search (2026-11-04)
+- Repeated exact-title searches for both 2011 Epop/Saimod papers did not surface either original article or an independent abstract.
+- The Dibrugarh University institutional bibliography remains the authoritative public confirmation for the two separate citations: SRC-139, *Journal of Assam Science Society* 52(2):1–6 (2011); SRC-140, *Bulletin of Life Sciences* Vol. XVI (2011), ISSN 0971-5746, page range not exposed.
+- The same university bibliography places a report-system URL immediately above the SRC-140 entry: `http://192.169.197.210:8080/duar/university/report/view/1015/10`. The legacy host did not resolve through the current retrieval environment; it is an archival lead only, not evidence that the article PDF was retrieved.
+- A separate university-hosted 2007–2009 UGC project final report is now available (SRC-152), but remains distinct from both 2011 journal articles.
+- No change to the evidence boundary: no fermentation time-series, mold identity, amylase values or isolate assay details are attributed to SRC-139/140.
+
+## 6. Current retrieval decision
+Both originals remain unlocated. The next step is direct institutional retrieval from the Dibrugarh University Central Library / Department of Life Sciences and the Assam Science Society, with scans of the issue contents pages requested if article scans cannot be supplied. Do not close ASM-GAP-062 on the basis of SRC-152.
