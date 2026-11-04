@@ -46,3 +46,14 @@ Kakojan College's current faculty profile for Mridula Neog records:
 The profile's “View Supporting Publication Document” for the 2015 article currently returns HTTP 404. A separate public college IQAC document library was checked: its available 2017–18 and 2018–19 seminar/workshop records do not identify the ICSSR event or reproduce the presentation. The faculty profile does not state the event's host institution, conference proceedings, abstract, or the two plant names. Exact-title searches also did not locate a proceedings volume or author copy.
 
 No identities are inferred from SRC-153, SRC-151 or other inventories. The 2015 article and project report remain separate from the 2018 conference presentation; the accessible material does not prove that the 2015 article derives from the project. No recipe, locality, sample size, phytochemical result or beverage measurement is added.
+
+
+## 8. Journal-publisher and volume-sequence cross-check (2026-11-04)
+
+A journal-level metadata lead was recovered through the ISSN 2319-2097 record for *INTUIT*:
+- It describes *INTUIT* as an annual, printed, double-blind peer-reviewed multidisciplinary research journal published by the Publication Cell, Devicharan Baruah Girls' College (DCB Girls' College), Jorhat.
+- Its listed journal URL is the college's magazine page: http://dcbgirlscollegejorhat.org/magazine.html. That endpoint was not accessible in the current retrieval session, and no issue PDF was obtained.
+- The Kakojan College profile continues to list Neog's article as Volume II (2015). However, a separate DCB Girls' College academic profile lists another *INTUIT* article in Volume IV (2015). This is a bibliographic discrepancy requiring the original issue masthead; it is not sufficient to overwrite Neog's recorded “Volume II”.
+- A public 2017–18 institutional report and further exact-title searches did not expose the article or a proceedings record for the 2018 pteridophyte presentation.
+
+**Decision:** retain the source-reported “Volume II” with an explicit verification flag; do not normalize it to Volume IV. Request the 2015 *INTUIT* issue contents/masthead and Neog article from DCB Girls' College Publication Cell / Library, alongside the UGC project final report. For the 2018 seminar, request the invitation/programme, host institution, abstract book and paper copy separately. The two pteridophyte identities remain unknown.
