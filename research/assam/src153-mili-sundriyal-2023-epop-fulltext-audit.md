@@ -13,7 +13,7 @@ Rajiv Mili and R. C. Sundriyal (2023), “ÉPOP (traditional starter culture): a
 - Informant/household counts, voucher accession numbers, village-by-taxon matrix and coordinates are not exposed.
 
 ## Inventory
-Table 1 reports 31 taxa in 22 families: 27 angiosperms and four pteridophytes. The complete source-spelled transcription is in `src153-epop-31-plants-mili-sundriyal-2023.csv` (if committed separately). It captures local names, habit, plant part, collection period and ordinal habitat-dependency marks for forest, home garden, agricultural field and fallow land.
+Table 1 reports 31 taxa in 22 families: 27 angiosperms and four pteridophytes. The publisher PDF exposes the full 31-row table, but a separate structured CSV transcription has not yet been committed. The table contains local names, habit, plant part, collection period and ordinal habitat-dependency marks for forest, home garden, agricultural field and fallow land.
 
 Source table spellings are retained, including “Alstonia shcolaris”, “Albizzia lucida”, “Melia azadirach”, “Myrtacaceae” and punctuation variants. The table's line-wrap in “Hydrocotyle sibthorpi-oides” is joined to “sibthorpioides”, consistent with the prose. `Selaginella sp` remains genus-level. Four pteridophytes listed: Dryopteris filix-mas, Lygodium flexuosum, Pteris semipinata and Selaginella sp. They do not identify the two plants in Mridula Neog's separate 2018 seminar presentation.
 
