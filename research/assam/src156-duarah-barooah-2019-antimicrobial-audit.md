@@ -47,3 +47,8 @@ SRC-156 predates SRC-155 (2020 four-plant abstract), the AAU 2020–21 thesis ab
 
 ## Handling
 Register as a distinct full-text laboratory study, not an ethnobotanical survey or finished-beverage assay. Record only district-level collection provenance (Sibsagar), with no invented village points. Keep numeric values out of the beverage dataset. Linked audits: SRC-154, SRC-155 and the Duarah 2020–2023 chronology.
+
+
+## Scope clarification
+
+The 2019 article itself does **not** explicitly identify either plant as a rice-beer starter ingredient, and its stated selection basis is information from local people about medicinal properties. The association of these two plants with rice-beer starter culture is explicit in the authors' separate 2020 conference abstract (SRC-155), not in the 2019 article. Accordingly, SRC-156 should be classified primarily as a Sibsagar-collected medicinal-plant antimicrobial study by the same research team, and only cross-referenced to the rice-beer starter research programme as a later author-linked association. Do not use SRC-156 alone to add either plant to an Apong/Epop ingredient inventory or locality matrix.
