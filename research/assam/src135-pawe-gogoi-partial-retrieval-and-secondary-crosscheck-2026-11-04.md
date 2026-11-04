@@ -24,3 +24,7 @@ The review separately lists 17 Apong starter plants and attributes that list to 
 ## Actions and next steps
 
 SRC-135 remains a primary ethnobotanical source with partial preview access, not a full-text audited source. SRC-144 is separately registered as a secondary review. No beverage or locality records were added. Keep ASM-GAP-060 open. Next: retrieve the NeBIO issue PDF/author copy, transcribe the full Apob table, establish locality and methods, and obtain Handique & Deka (2016) primary text before resolving the seasonal variants.
+
+## Additional retrieval check — 2026-11-04
+
+The registered journal domain `nebio.in` was checked directly during this pass and currently redirects to an unrelated gambling-content site. This is not treated as an archive or source for the article. The Botanical Survey of India bibliography continues to corroborate the Pawe & Gogoi citation, but the original NeBIO full text remains unavailable through the accessible sources checked. No claims about the article beyond the partial ResearchGate preview are upgraded.
