@@ -53,3 +53,16 @@ The paper's own 5% alcohol result differs from the 7.52–18.5% v/v range report
 FlipHTML5 digital issue pages/printed pagination 59–63:
 - https://fliphtml5.com/ntyj/brxv/
 - Article text includes survey/methodology, process accounts, microbiological results, biochemical comparisons and references.
+
+
+## Bibliographic correction and verification trail (2026-11-04)
+
+The earlier label of 2014 should not be treated as settled. The source masthead repeatedly says January 2014, while page 2 says IJHEPS/January 2015; FlipHTML5 records publication on 17 January 2015; and the Kakojan College author profile lists the paper under 2015. The preferred year is therefore 2015 with an explicit uncertainty note, not a silent correction. The article occupies digital pages 59–63 (article number 9 in the contents). The separate 2015 paper “Biochemical investigation of Fermented Rice Product of Mishing Tribe of Jorhat District” is a distinct publication listed on the same author profile; do not merge it with this article.
+
+## Interpretation cautions
+
+- The abstract reports 51 starter-plant species, but the accessible text layer does not reliably expose Table 1. No species-level inventory has been added.
+- The reported 118 × 10^7 viable yeast/mould cells per ml is attributed to the original culture sample; it is not a count for every finished beverage or a universal starter specification.
+- The absence of Enterobacteriaceae and lactic-acid bacteria is a negative result under the paper’s stated selective media and incubation conditions, not proof that such organisms never occur in Epop or Apong.
+- The paper’s 5% alcohol figure is source-specific and should not be averaged with other studies.
+- Claims about medicinal importance, health and welfare are not clinical evidence.
