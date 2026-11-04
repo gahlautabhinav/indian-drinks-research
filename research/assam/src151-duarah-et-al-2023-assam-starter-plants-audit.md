@@ -19,7 +19,7 @@ Related institutional thesis abstract: Radali Duarah, “Bioactivity of medicina
 - It distinguishes Nogin Apong from Poro Apong; the latter is described as cooked rice with ash made from rice husk and rice straw and is also called Chai mod.
 - The article reports 36 plants in the Mising starter inventory for Sibsagar district.
 - Table 1 presents local names, botanical names, family, parts used, reasons for use in starter preparation and other medicinal claims.
-- The table contains source-text anomalies: duplicated display of rows 22–23 in the HTML extraction; inconsistent botanical spellings and taxonomy (for example, source forms “Ipmoea pentaphylla,” “Caesapinia bondac,” “Casealpinia boduc,” “Sphaerostepheras unitus,” “Zanthoxylum nitidum,” “Rubus hexagynous”); family names and vernacular spellings also vary. Preserve source forms; do not silently correct.
+- The publisher PDF was inspected visually (pages 3015–3016). It physically prints rows 22 and 23 twice, so the table contains 38 displayed row instances but 36 distinct numbered records. The duplicate instances are exact repeats and are retained as a documented source-layout anomaly; the deduplicated 36-entry transcription is committed at `src151-duarah-et-al-2023-mising-36-plants.csv`. The PDF also contains inconsistent botanical spellings and taxonomy (for example, source forms “Ipmoea pentaphylla,” “Caesapinia bondac,” “Casealpinia boduc,” “Sphaerostepheras unitus,” “Zanthoxylum nitidum,” “Rubus hexagynous”); family names and vernacular spellings also vary. Preserve source forms; do not silently correct.
 - The Mising table's plant-use descriptions include flavour, bitterness, sweetness, stickiness, concentration/strength and other stated purposes. These are reported local explanations, not independently validated functional mechanisms.
 - Article's general method section refers to a figure and says methods are similar for most communities; it does not provide a detailed, independently reproducible Mising-specific recipe in the accessible text. Do not borrow process parameters from other Apong studies and attribute them to this survey.
 - No Mising village-by-village species matrix or voucher accession numbers are exposed in the article.
@@ -44,12 +44,15 @@ Kakojan College's faculty profile separately records that Mridula Neog presented
 ## Limitations
 - No informant, household, village or specimen counts in accessible methods.
 - No village-by-taxon matrix, voucher accession list or reproducible detailed Mising process recipe.
-- HTML table extraction duplicates rows 22–23 in its visible text rendering; table transcription requires visual PDF verification before any CSV export.
+- The publisher PDF itself repeats rows 22–23; after deduplicating those exact repeated entries, the 36 distinct numbered records are transcribed in the committed CSV. The table's row 18–19 botanical-name/family columns appear unusually populated and are preserved as printed, with a note rather than an attempted correction.
 - Botanical names and families contain typographical or taxonomic inconsistencies. No silent normalization.
 - Medicinal claims are community-reported beliefs or statements in the paper; laboratory antioxidant or antimicrobial assays do not establish clinical benefit, beverage safety or efficacy.
 - The AAU thesis is available here only as an abstract in an institutional thesis compilation, not the full thesis.
 - The 2018 Neog conference presentation remains a separate, unverified bibliographic lead.
 
+## Visual PDF verification and transcription update (2026-11-04)
+The official journal download was retrieved as a 16-page PDF: https://ijpsr.com/?action=download_pdf&name=41-Vol-14-Issue-6-June-2023-IJPSR-RA-18229.pdf&postid=97806. Visual inspection of PDF pages 3015–3016 confirms that rows 22 and 23 are physically duplicated in the printed table, not merely duplicated by the HTML parser. The table proceeds through row 36. Therefore the 36 distinct numbered entries are transcribed once each in the CSV. The source's unusual placement of the second botanical-looking string in the family column for rows 18 and 19 is preserved rather than normalized. The paper reports the plant identification/authentication was carried out by a taxonomist in the Department of Agronomy, Assam Agricultural University, Jorhat; no voucher accession IDs are supplied in the article.
+
 ## Files and next steps
-- No new plant CSV is created in this audit because the HTML extraction duplicates rows and needs visual table verification.
+- `src151-duarah-et-al-2023-mising-36-plants.csv` — deduplicated 36-entry source transcription, retaining source spellings and documenting repeated printed rows 22–23.
 - Next: obtain the complete AAU thesis and its appendices; verify the 2023 Table 1 against the journal PDF; retrieve the 2018 ICSSR seminar proceedings or author-held presentation; separately continue pursuing Neog's 2015 Intuit article and 2011 Kardong originals.
