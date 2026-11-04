@@ -66,3 +66,12 @@ AAU's library page identifies the Rev. B. M. Pugh Library at Jorhat and lists **
 Exact-title and author searches of public web-indexed Shodhganga/Krishikosh records did not surface a full-text Duarah thesis in this retrieval pass. Do not describe the thesis as available through either repository until a matching record and file are retrieved.
 
 **Practical request:** ask the AAU Central Library / Rev. B. M. Pugh Library and the College of Community Science, Food Science and Nutrition department for (a) the full PhD thesis or supervised reading access, (b) appendices and raw assay tables, and (c) herbarium authentication/voucher details. Quote the title exactly, author Radali Duarah, department Food Science and Nutrition, major adviser Dr. Mridula Saikia Barooah, and the 2020–21 compendium entry at pp. 350–351.
+
+
+## Correction: ADTU DBT-funded JRF entry is not proof of a rice-beer project (2026-11-04)
+
+Assam down town University's current faculty profile lists Radali Duarah's 2019–2021 work experience as “JRF” at Assam down town University “under DBT funded project”, with responsibilities “Research and report writing”. The profile does **not** name the project, its PI, subject, grant number, or deliverables. In the same profile, the PhD thesis on bioactivity of plants used in Assam rice-beer starter cultures is listed separately under research qualifications/publications.
+
+Therefore, the DBT-funded JRF position is only a biographical lead. It cannot currently be linked to the rice-beer thesis, SRC-155, SRC-154 or SRC-151. Do not describe it as a DBT-funded rice-beer project unless a project title, grant record, PI confirmation or report explicitly connects them.
+
+Source: ADTU faculty profile, Working Experience and Research sections: https://adtu.in/teaching-faculties/T0RNNA==/assistant-professor.html (accessed 2026-11-04).
