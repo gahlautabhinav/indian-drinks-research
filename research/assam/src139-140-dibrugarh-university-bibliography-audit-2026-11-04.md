@@ -40,3 +40,25 @@ No result is inferred from either title. No fermentation values, organism names,
 - Next: obtain the original journal issues or author copies, then extract methods, tables, time-series, organism/isolate identification and limitations. Any locality or sample-level claim requires explicit evidence in the original paper.
 
 **Retrieval status:** Institutional bibliography verified; both original full texts not retrieved.
+
+
+## 4. Second retrieval pass — journal archive and library holdings (2026-11-04)
+
+### SRC-140 journal context
+- Dibrugarh University's official *Bulletin of Life Sciences* archive exposes a complete March 2012 issue, Volume XVIII, hosted on the university's old web domain: https://oldweb.dibru.ac.in/wp-content/uploads/2020/03/file206.pdf.
+- That issue identifies the journal as a research journal published by the Department of Life Sciences, Dibrugarh University, with the Registrar as publisher, annual March publication and ISSN 0971-5746. It contains a separate Kardong et al. 2012 silk-worm paper, not the Epop paper.
+- This proves the university has digitized at least one annual issue and establishes the journal's official publication provenance. It does not prove Volume XVI (2011) is available in the archive. Searches for the exact Epop title and volume/year did not locate the original article or a direct PDF.
+- A faculty publication profile lists another Vol. XVI 2011 article at pp. 61–72, but this is not the Epop article and cannot be used to infer its pagination.
+
+### SRC-139 journal context
+- The 2011 paper is recorded in *Journal of Assam Science Society* 52(2):1–6, ISSN 0587-1921. A separate institutional publication list records another paper in the same issue at pp. 103–105, confirming the issue's pagination extends beyond the first six pages; it does not expose the Kardong article.
+- The Assam Science Society's current website lists contact details (gsass2014@gmail.com; +91-6001399315) but its public downloads/archive pages do not expose the 2011 journal issue. The Society's current site identifies its publications but no digitized JASS backfile was found in this pass.
+- An older All India Peoples Science Network profile reports that JASS was renamed from the second issue of 2011; this is contextual history, not a source for the Kardong paper's contents.
+- A CSIR/NISCAIR library holdings page lists *Journal of Assam Science Society* holdings at NEIST only through 2010 and NISCAIR 1963–1987. This suggests those listed holdings do not cover the 2011 issue; it does not prove no other institutional library holds it.
+
+### Retrieval outcome and practical route
+- No original 2011 paper retrieved. ASM-GAP-062 remains Open / High.
+- Next high-yield route: request scans/copies from the Assam Science Society and Dibrugarh University Department of Life Sciences / Central Library, quoting the exact article titles, issue details and SRC-139/140.
+- For SRC-140 request *Bulletin of Life Sciences*, Vol. XVI (2011), ISSN 0971-5746, article by Kardong, Sood, Yadav and Bora; ask for contents page and article pagination if the full volume cannot be scanned.
+- For SRC-139 request *Journal of Assam Science Society*, 52(2) (2011), pp. 1–6, Kardong; note the title's source spelling “Saimod” and starter “Epop”.
+- Do not substitute the 2007–2009 UGC project summary (SRC-152) or 2012 Po:ro article (SRC-136) for these two articles. They are related research but not the same publications.
