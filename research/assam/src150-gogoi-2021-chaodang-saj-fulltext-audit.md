@@ -16,7 +16,7 @@ Girish Gogoi (2021). “Traditional knowledge on preparation of starter culture 
 The study documents Chaodang community Saj / Laopani and starter cake Su-pitha / Modor-pitha. Do not automatically merge this with Ahom Sajpani, Xajpani or other Assamese Laopani traditions. The article says the Chaodang method is similar to Ahom Sajpani and Deori Sujen but describes its own process and names.
 
 ## Su-pitha inventory
-Table 1 lists 81 entries. The accompanying CSV transcribes all 81 visible entries with vernacular name, botanical name, family and plant part as printed. Apparent typographical issues, genus-only identifications and taxonomic uncertainty are retained; no silent normalization or voucher-based correction has been attempted. The paper reports 47 families, with Rubiaceae the most frequent at seven species.
+Table 1 lists 81 entries. The publisher PDF exposes all 81 Table 1 entries, but a structured CSV export has not yet been committed. Do not assume a CSV exists; any future transcription must preserve source spellings and be checked row-by-row against the PDF. Apparent typographical issues, genus-only identifications and taxonomic uncertainty are retained; no silent normalization or voucher-based correction has been attempted. The paper reports 47 families, with Rubiaceae the most frequent at seven species.
 
 The paper identifies six species as required in larger quantities: Amblovenatum opulentum, Lygodium microphyllum, Lygodium flexuosum, Mussaenda frondosa, Centella asiatica and Hydrocotyle sibthorpioides. Other plants are reportedly used in small amounts (two to three leaves / other parts / whole plants depending on rice quantity). Exact weights or standardized proportions are not supplied.
 
