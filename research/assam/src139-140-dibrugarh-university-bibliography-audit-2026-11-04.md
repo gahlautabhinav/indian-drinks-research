@@ -73,3 +73,16 @@ No result is inferred from either title. No fermentation values, organism names,
 
 ## 6. Current retrieval decision
 Both originals remain unlocated. The next step is direct institutional retrieval from the Dibrugarh University Central Library / Department of Life Sciences and the Assam Science Society, with scans of the issue contents pages requested if article scans cannot be supplied. Do not close ASM-GAP-062 on the basis of SRC-152.
+
+
+## 7. Recovered exact institutional bibliography location (2026-11-04)
+
+A more precise open-and-find pass located both entries in Dibrugarh University's *Self Study Report, Volume IIIB [Research Publications]*, submitted to NAAC for the 2011–2015 assessment period. The PDF's printed pagination places the entries on pages 109–110 (the extracted PDF line range is 5165–5180):
+
+- SRC-140 appears first: Kardong, Sood, Yadav and Bora; *Bulletin of Life Sciences*, Vol. XVI, ISSN 0971-5746, 2011. The university list still supplies no article page range.
+- SRC-139 follows: D. Kardong; *Journal of Assam Science Society*, 52(2):1–6, ISSN 0587-1921, 2011.
+- The report-system URL immediately above SRC-140 is printed as a separate table entry, not identified as a link to that article. Treat it strictly as a legacy archival lead.
+
+This strengthens the institutional provenance and gives a stable pinpoint location in the university's NAAC publication inventory. It does not change the full-text status: neither original paper has been retrieved, and no scientific findings may be extracted from this bibliography.
+
+**Source:** Dibrugarh University, *Self Study Report, Volume IIIB [Research Publications]*, assessment period 2011–2015, printed pp. 109–110; university-hosted PDF: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf.
