@@ -51,3 +51,18 @@ These are abstract-transcribed results. Units and decimal formatting are retaine
 - SRC-154: `src154-duarah-2023-nsi-antimicrobial-abstract-audit-2026-11-04.md`
 - SRC-155: `src155-duarah-barooah-2020-four-plants-bioactivity-abstract-audit-2026-11-04.md`
 - AAU thesis abstract: https://aau.ac.in/assets/files/thesis/vol-VIII-2020-21.pdf
+
+
+## Institutional thesis-retrieval route checked (2026-11-04)
+
+AAU's current postgraduate-studies page describes its public thesis archive as **digitized volumes and comprehensive research abstracts**; Volume VIII (2020–21) is the source of the abstract used above. The page does not advertise the full Duarah dissertation as a public download.
+
+AAU's library page identifies the Rev. B. M. Pugh Library at Jorhat and lists **Krishikosh** as an institutional repository containing theses, dissertations and other research literature from ICAR institutions and State Agricultural Universities. The library's rules say thesis/dissertation materials marked for consultation are not issued; the page also describes temporary membership and short-term consultation for outside researchers. This is a concrete institutional route to pursue, but does not establish that Duarah's thesis is deposited in Krishikosh or openly downloadable.
+
+- AAU PG thesis archive: https://aau.ac.in/pg_studies
+- AAU Rev. B. M. Pugh Library: https://aau.ac.in/library
+- AAU's listed online catalogue (Koha): http://asuj.bestbookbuddies.com
+
+Exact-title and author searches of public web-indexed Shodhganga/Krishikosh records did not surface a full-text Duarah thesis in this retrieval pass. Do not describe the thesis as available through either repository until a matching record and file are retrieved.
+
+**Practical request:** ask the AAU Central Library / Rev. B. M. Pugh Library and the College of Community Science, Food Science and Nutrition department for (a) the full PhD thesis or supervised reading access, (b) appendices and raw assay tables, and (c) herbarium authentication/voucher details. Quote the title exactly, author Radali Duarah, department Food Science and Nutrition, major adviser Dr. Mridula Saikia Barooah, and the 2020–21 compendium entry at pp. 350–351.
