@@ -3,7 +3,7 @@
 ## Bibliographic / document identity
 Devid Kardong, Principal Investigator. “Isolation and Biochemical Characterization of Potential Amylolytic and Alcohol Producing Yeast Strains from Yeast Cake (Epope) Used in the Preparation of Po:ro (Sai-mod), a Traditional Alcoholic Rice Beverage of Mising Tribe of Assam, India.” Final report under UGC Minor Research Project F. No. 32-617/2006(SR), Department of Life Sciences, Dibrugarh University. Project period reported as 1 April 2007 to 31 March 2009.
 
-Accessible reproduction: https://www.scribd.com/document/1042837999/Devid-Kardong-Report (five-page Scribd item, accessed 2026-11-04). This is a third-party reproduction, not an official Dibrugarh University or UGC-hosted copy. The visible text labels it “Annexure-III” and “Final Report”; two bound copies are said to have been enclosed with the submission.
+Official Dibrugarh University PDF: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf (five pages; accessed 2026-11-04). A matching five-page Scribd reproduction was also located: https://www.scribd.com/document/1042837999/Devid-Kardong-Report. The official institutional PDF is the preferred citation. The visible document labels itself “Annexure-III” and “Final Report”; two bound copies are said to have been enclosed with the UGC submission.
 
 ## Project identity and provenance
 - Principal investigator: Devid Kardong, Department of Life Sciences, Dibrugarh University.
