@@ -39,3 +39,28 @@ The publisher landing page was rechecked directly (IndianJournals.com, online pu
 Publisher record: https://indianjournals.com/article/jdfhs-43-1-017
 DOI: https://doi.org/10.18805/ajdfr.DR-1829
 ASM-GAP-053 remains Open.
+
+
+## 2026-11-04 — Detailed publisher full-text extraction
+
+The ARCC publisher's complete HTML article was re-opened and methods/results were extracted beyond the earlier abstract audit.
+
+### Sampling and starter types
+- The article's abstract lists seven districts (Jorhat, Sivasagar, Golaghat, Lakhimpur, Dhemaji, Majuli and Karbi Anglong), but the body states six districts and nine starter inoculum samples. The discrepancy remains unresolved.
+- Methods identify dry starter cakes named “Xaaj pitha,” “Apong,” and “Suzen (mod pitha),” collected during 2019–20 and taken to Assam Agricultural University's Department of Plant Pathology.
+- The methods describe 10 g powdered starter suspended in 90 ml sterile water, serial dilution, and plating on YEPD, PDA and V8 juice agar (with streptomycin) at 25±1°C for 48 h.
+- The article does not give a reliable mapping of the nine samples to the three starter types, districts, communities or villages. The abstract's seven-district list cannot be used as a sample allocation.
+
+### Isolates and molecular work
+- Sixteen yeast strains from nine starter cultures were grouped into *Saccharomyces cerevisiae* (nine strains), *Saccharomycopsis fibuligera* (three) and *Candida tropicalis* (four).
+- Two filamentous fungi were identified as *Aspergillus oryzae* and *A. niger*. The article says the *A. oryzae* identification was confirmed by the National Centre for Fungal Taxonomy, New Delhi, ID 2001.17.
+- Representative yeast isolates were sequenced; the article reports GenBank accessions MK110643 (*S. cerevisiae*), MK110642 (*S. fibuligera*) and MK110644 (*C. tropicalis*). The article also reports representative sequence comparisons and the accession IDs in its results.
+- The abstract says five species in four genera, while the main results distinguish two mould species plus three yeast species. Keep the article's own taxonomic reporting and do not silently recalculate the summary.
+
+### Important caveats
+- This paper is a nine-starter culture study, not a seven-district beverage-production census. Its abstract/body discrepancy and missing sample-to-site matrix are still material.
+- It is not safe to claim that all nine starter samples contained all five species; the article says *S. cerevisiae* was dominant in all nine, but it does not establish identical full composition for each.
+- The discussion raises possible health concerns around *Candida tropicalis*. This is the authors' interpretation of starter isolates, not a clinical or finished-beverage exposure study.
+- No village rows or beverage-specific ingredient records have been added.
+
+**Current action:** retain ASM-GAP-053 Open / High. Obtain the original sample register and author clarification of the seven-versus-six district discrepancy and nine-sample mapping.
