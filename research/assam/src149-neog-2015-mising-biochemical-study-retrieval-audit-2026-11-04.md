@@ -35,3 +35,14 @@ This record is a bibliographic lead, not an extracted primary dataset. No bevera
 ## Next action
 
 Search the *Intuit* Volume II archive and Kakojan College/author-held project records; seek the original article and project final report. Extract each beverage separately and reconcile it against SRC-136, SRC-147 and SRC-148 only after primary text is available.
+
+
+## Follow-up retrieval: 2018 pteridophyte presentation and 2015 publication record (2026-11-04)
+Kakojan College's current faculty profile for Mridula Neog records:
+- 2015 article “Biochemical investigation of Fermented Rice Product of Mishing Tribe of Jorhat District,” *Intuit: A Peer Reviewed Multidisciplinary International Research Journal*, Vol. II, ISSN 2319-2097.
+- A UGC-sponsored minor research project titled “Ethno-biological Investigation and Quality Assessment of Fermented Rice Products of Mishing Tribe of Jorhat District of Assam.”
+- A paper presented at an ICSSR-sponsored two-day National Seminar on 27–28 April 2018 titled “Qualitative Phytochemical Analysis of two Pteridophytic Plant species used traditionally by Tribes of Assam in Starter Culture preparation of rice beer fermentation.”
+
+The profile's “View Supporting Publication Document” for the 2015 article currently returns HTTP 404. A separate public college IQAC document library was checked: its available 2017–18 and 2018–19 seminar/workshop records do not identify the ICSSR event or reproduce the presentation. The faculty profile does not state the event's host institution, conference proceedings, abstract, or the two plant names. Exact-title searches also did not locate a proceedings volume or author copy.
+
+No identities are inferred from SRC-153, SRC-151 or other inventories. The 2015 article and project report remain separate from the 2018 conference presentation; the accessible material does not prove that the 2015 article derives from the project. No recipe, locality, sample size, phytochemical result or beverage measurement is added.
