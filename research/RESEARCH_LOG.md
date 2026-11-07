@@ -584,3 +584,9 @@
 - The binary link was visible on the live Springer article page but could not be retrieved by the browser or direct download. No coordinates or supplementary table values were extracted.
 - NCBI/ENA browser attempts did not expose individual SRA accessions for BioProject PRJNA1284041. No run IDs or GPS coordinates were inferred. ASM-GAP-056 remains Open.
 - Detailed audit: `research/assam/src046-metagenomic-data-access-audit-2026-11-03.md`.
+
+## 2026-11-07 — Interactive India administrative map
+- Added a Leaflet-based India map using the Survey of India / Esri India Living Atlas administrative service (Release 2026): state/UT polygon selection, district polygon drilldown, archive coverage styling and district-to-record interaction.
+- Registered the map service as SRC-159 and documented layer metadata, extent, runtime dependency and evidence limitations in `research/geospatial/interactive-map-implementation-audit-2026-11-07.md`.
+- JavaScript syntax validation passed. Live browser rendering, service CORS/query behaviour and district-name crosswalk still require post-deployment verification.
+- Map colours represent current archive place-row coverage only; they do not indicate district-wide production prevalence. No-place-row districts are archive gaps, not evidence of absence.
