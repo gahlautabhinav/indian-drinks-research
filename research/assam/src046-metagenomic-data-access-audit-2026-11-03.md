@@ -97,3 +97,12 @@ The predicted retinol-pathway annotations are microbial functional predictions, 
 5. Check the raw Nanopore reads and metadata for reproducibility only after the sample/run map is verified.
 
 **Primary source:** Das, R., Medhi, M.C. & Tamang, B. (2026). *AMB Express* 16, 91. https://doi.org/10.1186/s13568-026-02062-0
+
+
+## 2026-11-07 — Sample-locality reconciliation and evidence crosswalk
+
+A fresh full-text check of the publisher article confirms the four beverage/sample locality assignments in the main text: Black Rohi Modh (BR) and Rohi Modh (RH) from Pukia, Dhemaji; Jou Bidwi (JOU) from Kaljar, Baksa; and Sai Mod (SM) from Jamuuri Panchali, Dhemaji. The article states that each beverage was authentically collected once as a single household batch. Triplicate analytical measurements are technical replicates, not independent household or production batches. The paper explicitly says Sai Mod is also called Poro Apong in its background discussion; this is retained as a source-reported naming crosswalk, not assumed to be universally accepted terminology. The JOU sample is not automatically equated with GI-specific Maibra Jou Bidwi or Jou Gishi.
+
+Added `ASM-PL-117` (Jamuuri Panchali / SM) and `ASM-PL-118` (Kaljar / JOU) to the place register and integrated both into the Dhemaji and Baksa district matrix rows. The place rows are single-household sample collection evidence, not a production census or current prevalence claim. Updated the broad Poro Apong and Jou umbrella source references with the explicit caveats above. Existing Pukia BR/RH sample record remains unchanged.
+
+The publisher article continues to reference Supplementary File ST1 for sample codes/GPS coordinates and ST2–ST5 for analytical detail; those files have not been extracted in this update. NCBI BioProject PRJNA1284041 still needs resolution to individual BioSample/SRA run records. Gap ASM-GAP-056 remains Open.
