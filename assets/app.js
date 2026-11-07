@@ -134,6 +134,9 @@
     if(!stateSelect||!districtSelect||!beverageSelect)return;
     stateSelect.innerHTML=states.map(v=>'<option value="'+esc(v)+'">'+esc(v)+'</option>').join("");
     stateSelect.value=states.includes("Assam")?"Assam":(states[0]||"");
+    const stateButtons=$("#geo-state-buttons");
+    stateButtons.innerHTML=states.map(v=>'<button type="button" data-geo-state="'+esc(v)+'" class="'+(v===stateSelect.value?"active":"")+'">'+esc(v)+'</button>').join("");
+    stateButtons.querySelectorAll("[data-geo-state]").forEach(btn=>btn.addEventListener("click",()=>{stateSelect.value=btn.dataset.geoState;stateSelect.dispatchEvent(new Event("change"));}));
     state.geoState=stateSelect.value;
     stateSelect.addEventListener("change",()=>{state.geoState=stateSelect.value;state.geoDistrict="";state.geoBeverage="";renderGeography();});
     districtSelect.addEventListener("change",()=>{state.geoDistrict=districtSelect.value;state.geoBeverage="";renderGeography();});
@@ -156,6 +159,7 @@
     if(!linked.some(b=>b.Beverage_ID===state.geoBeverage))state.geoBeverage="";
     beverageSelect.value=state.geoBeverage;
     const title=$("#geo-title"),count=$("#geo-count"),summary=$("#geo-summary"),list=$("#geo-district-list"),records=$("#geo-records");
+    document.querySelectorAll("[data-geo-state]").forEach(btn=>btn.classList.toggle("active",btn.dataset.geoState===state.geoState));
     title.textContent=state.geoState+(state.geoDistrict?" · "+state.geoDistrict:" · District overview");
     count.textContent=rows.length+" district entries";
     const totalPlaces=state.places.filter(p=>p.State===state.geoState).length;
