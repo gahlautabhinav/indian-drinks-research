@@ -577,3 +577,10 @@
 - Added ASM-PL-117 (Jamuuri Panchali / Sai Mod sample) and ASM-PL-118 (Kaljar / Jou Bidwi sample), updating the Assam district matrix and the broad Poro Apong / Jou beverage source references. The Sai Mod–Poro Apong equivalence is recorded only as the article's own source-reported crosswalk pending community confirmation; Jou Bidwi is not equated with GI-specific Maibra Jou Bidwi or Jou Gishi.
 - Supplementary ST1 coordinates and ST2–ST5 analytical tables remain unextracted; BioProject PRJNA1284041 still needs individual BioSample/SRA run resolution. ASM-GAP-056 remains Open.
 - Detailed audit: `research/assam/src046-metagenomic-data-access-audit-2026-11-03.md`.
+
+
+## 2026-11-07 — SRC-046 supplementary retrieval audit
+- Confirmed the publisher's direct supplementary object `13568_2026_2062_MOESM1_ESM.docx` and exact inventory: ST1 sample codes/GPS coordinates; ST2 proximate data; ST3 isolate morphology; ST4 assembly quality/metataxonomy; ST5a QC; ST5b GC-MS/MS metabolomics.
+- The binary link was visible on the live Springer article page but could not be retrieved by the browser or direct download. No coordinates or supplementary table values were extracted.
+- NCBI/ENA browser attempts did not expose individual SRA accessions for BioProject PRJNA1284041. No run IDs or GPS coordinates were inferred. ASM-GAP-056 remains Open.
+- Detailed audit: `research/assam/src046-metagenomic-data-access-audit-2026-11-03.md`.
