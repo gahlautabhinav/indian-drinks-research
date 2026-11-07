@@ -19,7 +19,7 @@
     </a>
     <div class="topbar-right">
       <span class="status-label"><span class="status-dot"></span> Archive in progress</span>
-      <nav aria-label="Main navigation"><a href="#insights">Insights</a><a href="#archive">Records</a><a href="#methodology">Method</a><a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">Repository ↗</a></nav>
+      <nav aria-label="Main navigation"><a href="#insights">Insights</a><a href="#geography">Places</a><a href="#archive">Records</a><a href="#methodology">Method</a><a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">Repository ↗</a></nav>
     </div>
   </header>
 
@@ -65,6 +65,21 @@
         <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">07 / GEOGRAPHIC COVERAGE</span><h3>Locality evidence</h3></div></div><div id="insight-places" class="coverage-list"></div></article>
         <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">08 / NEXT BEST RESEARCH</span><h3>Where to focus next</h3></div></div><div id="insight-recommendations" class="recommendation-list"></div></article>
       </div>
+    </section>
+
+
+    <section id="geography" class="geo-section">
+      <div class="section-heading"><div><div class="eyebrow">02 / GEOGRAPHIC INTELLIGENCE</div><h2>Explore the archive by place</h2></div><p>Move from state to district to the beverage records and evidence attached to each place.</p></div>
+      <div class="geo-workspace">
+        <div class="geo-browser">
+          <div class="geo-step"><span class="geo-step-no">01</span><div><label for="geo-state">STATE / UNION TERRITORY</label><select id="geo-state"><option value="Assam">Assam</option></select></div></div>
+          <div class="geo-step"><span class="geo-step-no">02</span><div><label for="geo-district">DISTRICT</label><select id="geo-district"><option value="">Select a district</option></select></div></div>
+          <div class="geo-step"><span class="geo-step-no">03</span><div><label for="geo-beverage">BEVERAGE LAYER</label><select id="geo-beverage"><option value="">All beverages in selected district</option></select></div></div>
+          <div class="geo-coverage-legend"><span><i class="legend-dot documented"></i> Named locality / direct field evidence</span><span><i class="legend-dot lead"></i> District or study-area lead</span><span><i class="legend-dot none"></i> No place row in archive</span></div>
+        </div>
+        <div class="geo-results" aria-live="polite"><div class="geo-results-head"><div><span class="eyebrow">PLACE-BASED RECORDS</span><h3 id="geo-title">Assam · Select a district</h3></div><span id="geo-count" class="geo-count">35 district rows</span></div><div id="geo-summary" class="geo-summary"></div><div id="geo-district-list" class="geo-district-list"></div><div id="geo-records" class="geo-records"><p class="pane-intro">Choose a district to inspect the beverage coverage and its source-linked locality evidence.</p></div></div>
+      </div>
+      <p class="geo-integrity-note"><strong>Boundary integrity:</strong> clickable district polygons are deliberately withheld until the official Survey of India administrative vector geometry is extracted and checked against its 2026 political map. This explorer uses the archive’s district matrix and place records; it is not a substitute map and does not imply that a district without a place row has no beverage traditions.</p>
     </section>
 
     <section id="archive" class="archive-section">
