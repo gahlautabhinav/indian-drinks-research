@@ -7,7 +7,9 @@
   <meta name="description" content="A source-led research archive documenting traditional alcoholic beverages of India, their communities, localities, methods and open questions.">
   <title>Indian Drinks Research — Field Archive</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
   <link rel="stylesheet" href="assets/style.css">
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script defer src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script defer src="assets/app.js"></script>
 </head>
@@ -70,6 +72,7 @@
 
     <section id="geography" class="geo-section">
       <div class="section-heading"><div><div class="eyebrow">02 / GEOGRAPHIC INTELLIGENCE</div><h2>Explore the archive by place</h2></div><p>Move from state to district to the beverage records and evidence attached to each place.</p></div>
+      <div class="geo-map-panel"><div class="geo-map-toolbar"><div><span class="eyebrow">INTERACTIVE ADMINISTRATIVE MAP</span><strong id="geo-map-heading">India · State boundaries</strong></div><button type="button" id="geo-map-back" disabled>← All India</button></div><div id="india-map" role="application" aria-label="Interactive map of India showing selectable state and district boundaries"></div><div class="geo-map-footer"><span id="geo-map-status">Loading administrative boundaries…</span><span>Boundary source: Survey of India · Esri India / Living Atlas · Release 2026</span></div></div>
       <div class="geo-workspace">
         <div class="geo-browser">
           <div class="geo-step"><span class="geo-step-no">01</span><div><label for="geo-state">STATE / UNION TERRITORY</label><select id="geo-state"><option value="Assam">Assam</option></select><div id="geo-state-buttons" class="geo-state-buttons" aria-label="States represented in the archive"></div><small class="geo-picker-note">Only states with current archive records are listed here.</small></div></div>
@@ -79,7 +82,7 @@
         </div>
         <div class="geo-results" aria-live="polite"><div class="geo-results-head"><div><span class="eyebrow">PLACE-BASED RECORDS</span><h3 id="geo-title">Assam · Select a district</h3></div><span id="geo-count" class="geo-count">35 district rows</span></div><div id="geo-summary" class="geo-summary"></div><div id="geo-district-list" class="geo-district-list"></div><div id="geo-records" class="geo-records"><p class="pane-intro">Choose a district to inspect the beverage coverage and its source-linked locality evidence.</p></div></div>
       </div>
-      <p class="geo-integrity-note"><strong>Boundary integrity:</strong> clickable district polygons are deliberately withheld until the official Survey of India administrative vector geometry is extracted and checked against its 2026 political map. This explorer uses the archive’s district matrix and place records; it is not a substitute map and does not imply that a district without a place row has no beverage traditions.</p>
+      <p class="geo-integrity-note"><strong>Boundary and evidence note:</strong> state and district polygons are served by the Survey of India / Esri India Living Atlas administrative boundary service (Release 2026). The service extent and attributes are checked against the source metadata; the map is a research navigation layer, not a legal cadastral map. A district with no place row means no relevant record is currently in this archive—not that no beverage tradition exists.</p>
     </section>
 
     <section id="archive" class="archive-section">
