@@ -102,3 +102,11 @@ The SRC-157 Kokrajhar Flood Contingency Plan cross-check independently attests a
 The live CSV shape check after the update passed for all eight principal data tables/registers checked: every populated row matched its header width, and no duplicate primary IDs were found in the source, beverage, place, community, production-method, cultural-practice, gap or district tables. This is a structural check only; semantic cross-reference and evidence audits remain part of the Assam close-out gate.
 
 **Transition decision unchanged:** Assam remains the active state. Do not move to the next state until the Bodo GI primary-specification and remaining process/name close-out checks are completed. Long-term fieldwork and community-confirmation gaps may remain explicitly open; they must not be marked resolved merely to pass the transition gate.
+
+## Geospatial dashboard source gate — 2026-11-07
+
+- Added SRC-158, the Survey of India Vector Data Catalogue 2025. It specifies ABDB Shapefile/Geodatabase formats, State/UT through village boundaries and Version 01 harmonization with ORGI. The catalogue reports Assam: 35 districts, 162 subdistricts, 21,024 village polygons and 18,113 village points.
+- Survey of India's political-map catalogue lists the English 13th Edition (2026); this is the national territorial reference for the proposed interactive atlas.
+- Third-party 2011_c map geometry and the NIC BharatMaps service last updated October 2017 were rejected as the current national/district basemap.
+- Official ABDB binary geometry has not yet been extracted. Therefore the interactive map is not yet implemented; do not imply otherwise. The dashboard specification is India → State/UT → District → Beverage coverage → Dossier, with evidence-class distinctions and no false “absence” inference for districts with no archive rows.
+- Full audit: `research/geospatial/india-basemap-source-audit-2026-11-07.md`.
