@@ -155,3 +155,17 @@ The full rendered IP India detail pages expose 31 document entries for each of a
 Application 968 / Jou Gwran: amended application is listed as “GI - Amended Application”; Annexure-8 Supporting Documents; Annexure-9 Map; Annexure-10 Affidavit. Application 969 / Jou Gishi: amended application is “Annexure-1 Amended Application”; Annexure-8 Historical and Supporting Documents; Annexure-9 Affidavit; Annexure-10 Map. This precise difference matters: the map annexure is 9 for 968 and 10 for 969. Both official pages show four authorized-user rows for 968 and three for 969; these are not the producer-list PDF contents and do not establish full production boundaries.
 
 The pages expose the document titles and dates, but every visible download control is represented as a PDF icon/link whose target is not exposed in this text retrieval. Therefore no PDF contents are claimed as read. This complete inventory allows a precise request for the full 31-item file for each application, prioritizing Statement of Case, original/amended map, producer list, GI Analysis, GI Association Details, Annexure-7 Association, GI Journal Copy and examination/FCR documents.
+
+## 2026-11-07 — Live registry document-inventory recheck
+
+The three official application-detail pages were reopened and their document tables checked again:
+
+- [968 — Bodo Jou Gwran](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/968): the page lists the Statement of Case (29-08-2022), original Map (29-08-2022), Producers List (13-02-2023), amended application and later map annexure (19-10-2023), plus the Journal Copy and certificate. The amended map is labelled **Annexure-9 Map**.
+- [969 — Bodo Jou Gishi](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/969): the page lists the same core document classes; the amended map is labelled **Annexure-10 Map**.
+- [970 — Bodo Maibra Jou Bidwi](https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/970): the page lists the Statement of Case, original Map, Producers List (13-02-2023), Journal Copy and certificate; the 19-10-2023 amended map is labelled **Annexure-8 Map**. The page exposes 29 document rows in its current extracted table.
+
+The three detail pages continue to show the registered indication names, Class 32, broad geographical area “Assam”, filing date 29-08-2022, Journal 191 / availability date 31-05-2024, and certificate numbers 648, 649 and 650 respectively. These certificate numbers remain distinct from application numbers 968, 969 and 970.
+
+**Retrieval limitation unchanged:** the document rows are visible but their extracted download controls resolve to the generic PDF icon, not the document payload or a stable direct URL. The listed Statement of Case, maps and producer-list PDFs have therefore not been read. Do not infer product specifications, producer localities or mapped boundaries from the document titles or the applicant's Kokrajhar address. Keep ASM-GAP-026 Open.
+
+This recheck confirms a practical request checklist: obtain the three Statements of Case, each original map, each amended map (968 Annexure-9; 969 Annexure-10; 970 Annexure-8), each dated Producers List, the Journal 191 copy and each registration certificate. Compare original and amended maps rather than assuming they are identical.
