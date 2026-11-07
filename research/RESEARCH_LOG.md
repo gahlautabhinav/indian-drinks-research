@@ -555,3 +555,10 @@
 - This does not prove it is the exact locality described as 10 km east of Kokrajhar headquarters: the plan gives no coordinates or distance. Kept ASM-GAP-028 Open pending author coordinates/confirmation.
 - Updated existing ASM-PL-063 and the Kokrajhar district matrix; created no new place row and no beverage-to-village attribution. Explicitly did not equate “Barshangaon” in the plan with “Banshigaon” in the paper.
 - Full audit: `research/assam/kokrajhar-jalpaiguri-locality-crosscheck-src157-2026-11-07.md`.
+
+## 2026-11-07 — Official India basemap source audit (SRC-158)
+- Added Survey of India Vector Data Catalogue 2025 as SRC-158. It specifies the official ABDB formats (Shapefile/Geodatabase), state/district/sub-district/village levels and Version 01 harmonization with ORGI; Assam is listed as 35 districts, 162 subdistricts, 21,024 village polygons and 18,113 village points.
+- Checked the Survey of India political-map catalogue: English 13th Edition (2026) is listed. The official ABDB page exposes a national State/District/Subdistrict RAR download.
+- Rejected the third-party map GeoJSON/TopoJSON inspected in this pass as the project’s national outline: its features are tagged `2011_c` and it does not meet the territorial-reference requirement. Also excluded NIC BharatMaps’ public district service as a current production layer because its service metadata says October 2017 / 717 districts / 36 states.
+- The official ABDB RAR was identified but not extracted in this session. No map geometry was integrated and no clickable map feature is claimed as complete.
+- Created `research/geospatial/india-basemap-source-audit-2026-11-07.md` with source hierarchy, exclusions, dashboard interaction specification and technical acceptance gate. Next: obtain/extract official SoI ABDB, validate geometry and territorial extent against SoI 2026 political map, then implement India → State → District → Beverage coverage → Dossier.
