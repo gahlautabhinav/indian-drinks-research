@@ -79,3 +79,26 @@ The 2026-10-23 release-candidate counts are superseded by the current CSV snapsh
 
 
 **2026-10-29 source-count update after SRC-127:** The current source register now contains 127 populated data rows; SRC-127 is a new secondary review record, and SRC-080 remains absent. The earlier 126-row snapshot is historical. This source-count update does not close any research gap or pass the Assam transition gate.
+
+## 2026-11-07 live archive snapshot (supersedes earlier count snapshots)
+
+The current repository CSVs were recounted after the SRC-157 locality cross-check. Counts below are **archive inventory counts**, not unique producers, unique villages, exhaustive tradition counts or evidence of current prevalence.
+
+| Measure | Current count | Scope / interpretation |
+|---|---:|---|
+| Canonical Assam beverage records | 33 | Assam rows in `data/beverages.csv`; includes provisional records with explicit confidence limits |
+| Assam place-register rows | 115 | Assam rows in `data/places_coverage.csv`; not 115 unique villages and may include district/study-area/sample leads |
+| District baseline rows | 35 | Current district reference layer |
+| Districts with at least one place row | 27 | Presence in the archive only; evidence strength varies by row |
+| Districts with no place row | 8 | Barpeta, Bajali, Charaideo, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur |
+| Assam-assigned research gaps | 65 | All 65 remain Open; 50 High and 15 Medium priority |
+| Populated source-register rows | 156 | Project-wide source register; SRC-157 is the highest assigned ID, while SRC-080 remains absent |
+| Project-wide beverage rows | 37 | Includes non-Assam records |
+| Project-wide place rows | 119 | Includes non-Assam records |
+| Project-wide research gaps | 70 | Includes non-Assam records |
+
+The SRC-157 Kokrajhar Flood Contingency Plan cross-check independently attests a Jalpaiguri locality within Kokrajhar Revenue Circle. It makes the 2025 Bodo beverage survey's “Jalpaiguri (10 km east)” geographically plausible in Assam, but does not prove exact identity because the administrative plan gives no coordinates or distance. ASM-GAP-028 remains Open pending author confirmation. No new beverage-to-village attribution was added.
+
+The live CSV shape check after the update passed for all eight principal data tables/registers checked: every populated row matched its header width, and no duplicate primary IDs were found in the source, beverage, place, community, production-method, cultural-practice, gap or district tables. This is a structural check only; semantic cross-reference and evidence audits remain part of the Assam close-out gate.
+
+**Transition decision unchanged:** Assam remains the active state. Do not move to the next state until the Bodo GI primary-specification and remaining process/name close-out checks are completed. Long-term fieldwork and community-confirmation gaps may remain explicitly open; they must not be marked resolved merely to pass the transition gate.
