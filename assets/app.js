@@ -2,7 +2,7 @@
   const OWNER = "gahlautabhinav/indian-drinks-research";
   const RAW = "https://raw.githubusercontent.com/" + OWNER + "/main/";
   const $ = (selector) => document.querySelector(selector);
-  const state = { beverages: [], places: [], communities: [], sources: [], methods: [], practices: [], gaps: [], selected: null, tab: "overview" };
+  const state = { beverages: [], places: [], communities: [], sources: [], methods: [], practices: [], gaps: [], districts: [], selected: null, tab: "overview", geoState: "Assam", geoDistrict: "", geoBeverage: "" };
   const dossierPaths = {
     "ASM-001-JUD": "research/assam/judima.md",
     "ASM-002-NOG": "research/assam/apong-mising.md",
@@ -31,7 +31,7 @@
   const dataFiles = {
     beverages: "data/beverages.csv", places: "data/places_coverage.csv", communities: "data/communities.csv",
     sources: "sources/source_register.csv", methods: "data/production_methods.csv",
-    practices: "data/cultural_practices.csv", gaps: "data/research_gaps.csv"
+    practices: "data/cultural_practices.csv", gaps: "data/research_gaps.csv", districts: "data/assam_district_coverage_matrix.csv"
   };
   function parseCSV(text) {
     const rows=[]; let row=[], field="", quoted=false;
@@ -59,7 +59,7 @@
     $("#stat-places").textContent=state.places.length;
     $("#stat-communities").textContent=state.communities.length;
     $("#stat-sources").textContent=state.sources.length;
-    populateFilters(); renderList(); initInsights(); renderInsights();
+    populateFilters(); renderList(); initInsights(); renderInsights(); initGeography(); renderGeography();
     const params=new URLSearchParams(location.search); const id=params.get("id");
     if(id&&state.beverages.some(b=>b.Beverage_ID===id))selectBeverage(id,false);
   }
@@ -127,6 +127,55 @@
     $("#insight-recommendations").innerHTML=recs.map(([title,desc])=>'<div class="recommendation-item"><strong>'+esc(title)+'</strong><p>'+esc(desc)+'</p></div>').join("");
     const note=document.querySelector(".insight-note");if(note)note.textContent=scope?"Filtered to "+scope+". Counts describe archive documentation, not population prevalence.":"All states / territories. Counts describe archive documentation, not population prevalence.";
   }
+
+  function initGeography(){
+    const states=[...new Set(state.beverages.map(b=>b.State).filter(Boolean))].sort();
+    const stateSelect=$("#geo-state"),districtSelect=$("#geo-district"),beverageSelect=$("#geo-beverage");
+    if(!stateSelect||!districtSelect||!beverageSelect)return;
+    stateSelect.innerHTML=states.map(v=>'<option value="'+esc(v)+'">'+esc(v)+'</option>').join("");
+    stateSelect.value=states.includes("Assam")?"Assam":(states[0]||"");
+    state.geoState=stateSelect.value;
+    stateSelect.addEventListener("change",()=>{state.geoState=stateSelect.value;state.geoDistrict="";state.geoBeverage="";renderGeography();});
+    districtSelect.addEventListener("change",()=>{state.geoDistrict=districtSelect.value;state.geoBeverage="";renderGeography();});
+    beverageSelect.addEventListener("change",()=>{state.geoBeverage=beverageSelect.value;renderGeography();});
+  }
+  function geoDistrictRows(){
+    if(state.geoState==="Assam"&&state.districts.length)return state.districts.slice().sort((a,b)=>a.District_Current_Name.localeCompare(b.District_Current_Name));
+    const names=[...new Set(state.places.filter(p=>p.State===state.geoState&&p.District).map(p=>p.District))].sort();
+    return names.map(name=>({District_Current_Name:name,Archive_Coverage_Class:"Place rows available; district matrix not yet compiled for this state",Place_Row_Count:String(state.places.filter(p=>p.State===state.geoState&&p.District===name).length),Beverage_IDs:[...new Set(state.places.filter(p=>p.State===state.geoState&&p.District===name).flatMap(p=>splitIDs(p.Beverage_IDs||p.Beverage_ID)))].join(";"),Interpretation_Caveat:"This state does not yet have a complete district matrix. Only districts appearing in current place rows are listed."}));
+  }
+  function renderGeography(){
+    const districtSelect=$("#geo-district"),beverageSelect=$("#geo-beverage");if(!districtSelect||!beverageSelect)return;
+    const rows=geoDistrictRows(),selected=rows.find(r=>r.District_Current_Name===state.geoDistrict);
+    districtSelect.innerHTML='<option value="">Select a district</option>'+rows.map(r=>'<option value="'+esc(r.District_Current_Name)+'">'+esc(r.District_Current_Name)+'</option>').join("");
+    districtSelect.value=state.geoDistrict;
+    const districtPlaces=state.places.filter(p=>p.State===state.geoState&&(!state.geoDistrict||p.District===state.geoDistrict));
+    const ids=[...new Set(districtPlaces.flatMap(p=>splitIDs(p.Beverage_IDs||p.Beverage_ID)))];
+    const linked=state.beverages.filter(b=>b.State===state.geoState&&(!state.geoDistrict||ids.includes(b.Beverage_ID)));
+    beverageSelect.innerHTML='<option value="">All beverages in selected district</option>'+linked.map(b=>'<option value="'+esc(b.Beverage_ID)+'">'+esc(b.Beverage_Name)+'</option>').join("");
+    if(!linked.some(b=>b.Beverage_ID===state.geoBeverage))state.geoBeverage="";
+    beverageSelect.value=state.geoBeverage;
+    const title=$("#geo-title"),count=$("#geo-count"),summary=$("#geo-summary"),list=$("#geo-district-list"),records=$("#geo-records");
+    title.textContent=state.geoState+(state.geoDistrict?" · "+state.geoDistrict:" · District overview");
+    count.textContent=rows.length+" district entries";
+    const totalPlaces=state.places.filter(p=>p.State===state.geoState).length;
+    const noRows=rows.filter(r=>Number(r.Place_Row_Count||0)===0).length;
+    summary.innerHTML='<div><span>District entries</span><strong>'+rows.length+'</strong></div><div><span>Place rows</span><strong>'+totalPlaces+'</strong></div><div><span>No place row</span><strong>'+noRows+'</strong></div>';
+    list.innerHTML=rows.map(r=>{const n=Number(r.Place_Row_Count||0),active=r.District_Current_Name===state.geoDistrict;return '<button type="button" class="geo-district '+(active?'active':'')+'" data-district="'+esc(r.District_Current_Name)+'"><span><strong>'+esc(r.District_Current_Name)+'</strong><small>'+esc(shortText(r.Archive_Coverage_Class||"Coverage not classified",78))+'</small></span><b class="'+(n>0?'has-rows':'no-rows')+'">'+n+'</b></button>';}).join("")||'<p class="pane-intro">No district-level place rows are currently recorded for this state.</p>';
+    list.querySelectorAll("[data-district]").forEach(btn=>btn.addEventListener("click",()=>{state.geoDistrict=btn.dataset.district;renderGeography();}));
+    if(!state.geoDistrict){records.innerHTML='<p class="pane-intro">Select a district above or from the district list. Districts with zero place rows are shown as archive gaps, not as places without beverage traditions.</p>';return;}
+    const district=rows.find(r=>r.District_Current_Name===state.geoDistrict)||{};
+    let places=state.places.filter(p=>p.State===state.geoState&&p.District===state.geoDistrict);
+    if(state.geoBeverage)places=places.filter(p=>splitIDs(p.Beverage_IDs||p.Beverage_ID).includes(state.geoBeverage));
+    const beverageIds=[...new Set(places.flatMap(p=>splitIDs(p.Beverage_IDs||p.Beverage_ID)))];
+    const beverages=state.beverages.filter(b=>beverageIds.includes(b.Beverage_ID));
+    const cls=Number(district.Place_Row_Count||0)===0?"No place row in current archive":(district.Archive_Coverage_Class||"Place evidence recorded");
+    records.innerHTML='<div class="geo-district-detail"><div><span class="eyebrow">ARCHIVE COVERAGE CLASS</span><p>'+esc(cls)+'</p></div><p class="geo-caveat">'+esc(district.Interpretation_Caveat||"Place rows describe source-reported evidence and should not be interpreted as a complete production map.")+'</p></div>'+
+      (beverages.length?'<h4>Linked beverage records</h4><div class="geo-beverage-list">'+beverages.map(b=>'<button type="button" data-beverage="'+esc(b.Beverage_ID)+'"><strong>'+esc(b.Beverage_Name)+'</strong><small>'+esc(b.Community||"Community not specified")+' · '+esc(b.Beverage_ID)+'</small></button>').join("")+'</div>':'<p class="pane-intro">No beverage record is currently linked to a named place row for this district'+(state.geoBeverage?' and selected beverage.':'.')+'</p>')+
+      (places.length?'<h4>Locality and study evidence</h4><div class="geo-place-list">'+places.map(p=>'<article><div><strong>'+esc(p.Village_or_Locality||p.Block_or_Subdistrict||p.District)+'</strong><span>'+esc(p.Coverage_Status||"Coverage status not classified")+'</span></div><p>'+esc(shortText(p.Evidence_for_Production_or_Consumption,280))+'</p><small>Source IDs: '+esc(p.Source_IDs||"Not linked")+'</small></article>').join("")+'</div>':'');
+    records.querySelectorAll("[data-beverage]").forEach(btn=>btn.addEventListener("click",()=>{selectBeverage(btn.dataset.beverage,true);}));
+  }
+
   function populateFilters(){
     const states=[...new Set(state.beverages.map(b=>b.State).filter(Boolean))].sort();
     $("#state-filter").innerHTML='<option value="">All states</option>'+states.map(v=>'<option>'+esc(v)+'</option>').join("");
