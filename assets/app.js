@@ -2,7 +2,7 @@
   const OWNER = "gahlautabhinav/indian-drinks-research";
   const RAW = "https://raw.githubusercontent.com/" + OWNER + "/main/";
   const $ = (selector) => document.querySelector(selector);
-  const state = { beverages: [], places: [], communities: [], sources: [], methods: [], practices: [], gaps: [], districts: [], selected: null, tab: "overview", geoState: "Assam", geoDistrict: "", geoBeverage: "" };
+  const state = { beverages: [], places: [], communities: [], sources: [], methods: [], practices: [], gaps: [], districts: [], selected: null, tab: "overview", geoState: "Assam", geoDistrict: "", geoBeverage: "", geoMap: null, geoStateLayer: null, geoDistrictLayer: null, geoStateFeatures: [], geoMapLevel: "india" };
   const dossierPaths = {
     "ASM-001-JUD": "research/assam/judima.md",
     "ASM-002-NOG": "research/assam/apong-mising.md",
@@ -59,7 +59,7 @@
     $("#stat-places").textContent=state.places.length;
     $("#stat-communities").textContent=state.communities.length;
     $("#stat-sources").textContent=state.sources.length;
-    populateFilters(); renderList(); initInsights(); renderInsights(); initGeography(); renderGeography();
+    populateFilters(); renderList(); initInsights(); renderInsights(); initGeography(); renderGeography(); initGeoMap();
     const params=new URLSearchParams(location.search); const id=params.get("id");
     if(id&&state.beverages.some(b=>b.Beverage_ID===id))selectBeverage(id,false);
   }
@@ -142,6 +142,99 @@
     districtSelect.addEventListener("change",()=>{state.geoDistrict=districtSelect.value;state.geoBeverage="";renderGeography();});
     beverageSelect.addEventListener("change",()=>{state.geoBeverage=beverageSelect.value;renderGeography();});
   }
+  const ADMIN_MAP = "https://livingatlas.esri.in/server/rest/services/LivingAtlas/IND_AdminBoundary/MapServer";
+  async function fetchAdminGeoJSON(layer, where="1=1"){
+    const params=new URLSearchParams({where,outFields:"*",returnGeometry:"true",outSR:"4326",f:"geojson"});
+    const response=await fetch(ADMIN_MAP+"/"+layer+"/query?"+params.toString());
+    if(!response.ok)throw new Error("Boundary service returned "+response.status);
+    const data=await response.json();
+    if(data.error)throw new Error(data.error.message||"Boundary service query failed");
+    return data;
+  }
+  function mapCoverage(feature){
+    const p=feature.properties||{}, rows=state.places.filter(x=>x.State===state.geoState&&x.District===p.district);
+    if(state.geoState==="Assam"){
+      const matrix=state.districts.find(x=>x.District_Current_Name===p.district);
+      return {count:Number(matrix?.Place_Row_Count||0),kind:Number(matrix?.Place_Row_Count||0)>0?"documented":"none"};
+    }
+    return {count:rows.length,kind:rows.length?"documented":"none"};
+  }
+  function geoStateStyle(){return {color:"#8c806f",weight:1.1,opacity:.95,fillColor:"#272a2b",fillOpacity:.82};}
+  function geoDistrictStyle(feature){
+    const c=mapCoverage(feature);
+    return {color:"#a39a8c",weight:.8,opacity:.9,fillColor:c.count?"#8e7759":"#25292b",fillOpacity:c.count?.72:.48};
+  }
+  function initGeoMap(){
+    const el=$("#india-map");if(!el||!window.L)return;
+    state.geoMap=L.map(el,{zoomControl:true,scrollWheelZoom:true,minZoom:3,maxZoom:10,preferCanvas:true,attributionControl:true}).setView([22.8,82.2],4.2);
+    L.control.scale({metric:true,imperial:false,position:"bottomleft"}).addTo(state.geoMap);
+    $("#geo-map-back").addEventListener("click",showIndiaMap);
+    fetchAdminGeoJSON(1).then(data=>{
+      state.geoStateFeatures=data.features||[];
+      state.geoStateLayer=L.geoJSON(data,{style:geoStateStyle,onEachFeature:(feature,layer)=>{
+        const name=feature.properties.state||"State / UT";
+        layer.bindTooltip(name,{sticky:true,direction:"auto"});
+        layer.on("click",()=>showDistrictMap(name));
+      }}).addTo(state.geoMap);
+      state.geoMap.fitBounds(state.geoStateLayer.getBounds(),{padding:[18,18]});
+      $("#geo-map-status").textContent=state.geoStateFeatures.length+" state / UT polygons loaded. Select a state to inspect its districts.";
+      $("#geo-map-heading").textContent="India · Select a state / UT";
+    }).catch(err=>{
+      $("#geo-map-status").textContent="Map boundaries could not be loaded. The place directory remains available below.";
+      console.error("Administrative map:",err);
+    });
+  }
+  function showIndiaMap(){
+    if(!state.geoMap||!state.geoStateLayer)return;
+    if(state.geoDistrictLayer){state.geoMap.removeLayer(state.geoDistrictLayer);state.geoDistrictLayer=null;}
+    state.geoStateLayer.addTo(state.geoMap);
+    state.geoMap.fitBounds(state.geoStateLayer.getBounds(),{padding:[18,18]});
+    state.geoMapLevel="india";state.geoState="";
+    $("#geo-map-heading").textContent="India · Select a state / UT";
+    $("#geo-map-back").disabled=true;
+    $("#geo-map-status").textContent="India view · Select any state / UT polygon.";
+  }
+  async function showDistrictMap(stateName){
+    if(!state.geoMap)return;
+    state.geoState=stateName;state.geoDistrict="";state.geoBeverage="";
+    const select=$("#geo-state");if(select&&[...select.options].some(o=>o.value===stateName))select.value=stateName;
+    renderGeography();
+    $("#geo-map-heading").textContent=stateName+" · District boundaries";
+    $("#geo-map-back").disabled=false;
+    $("#geo-map-status").textContent="Loading district boundaries for "+stateName+"…";
+    try{
+      const where="state='"+stateName.replace(/'/g,"''")+"'";
+      const data=await fetchAdminGeoJSON(2,where);
+      if(state.geoDistrictLayer)state.geoMap.removeLayer(state.geoDistrictLayer);
+      if(state.geoStateLayer)state.geoMap.removeLayer(state.geoStateLayer);
+      state.geoDistrictLayer=L.geoJSON(data,{style:geoDistrictStyle,onEachFeature:(feature,layer)=>{
+        const district=feature.properties.district||"District";
+        const c=mapCoverage(feature);
+        layer.bindTooltip(district+" · "+c.count+" archive place rows",{sticky:true});
+        layer.on("click",()=>{
+          state.geoDistrict=district;
+          const districtSelect=$("#geo-district");
+          if(districtSelect&&[...districtSelect.options].some(o=>o.value===district))districtSelect.value=district;
+          renderGeography();styleGeoDistrictSelection();
+          $("#geo-map-status").textContent=district+", "+stateName+" · "+c.count+" linked place rows in current archive.";
+        });
+      }}).addTo(state.geoMap);
+      if(state.geoDistrictLayer.getLayers().length)state.geoMap.fitBounds(state.geoDistrictLayer.getBounds(),{padding:[20,20]});
+      state.geoMapLevel="district";
+      $("#geo-map-status").textContent=(data.features||[]).length+" district polygons · "+stateName+". Gold indicates archive place rows; grey indicates no place row currently linked.";
+    }catch(err){
+      $("#geo-map-status").textContent="Could not load district boundaries for "+stateName+".";
+      console.error(err);
+    }
+  }
+  function styleGeoDistrictSelection(){
+    if(!state.geoDistrictLayer)return;
+    state.geoDistrictLayer.eachLayer(layer=>{
+      const selected=layer.feature?.properties?.district===state.geoDistrict;
+      layer.setStyle({weight:selected?2.5:.8,color:selected?"#e0bd8e":"#a39a8c",fillOpacity:selected?.9:(mapCoverage(layer.feature).count?.72:.48)});
+      if(selected)layer.bringToFront();
+    });
+  }
   function geoDistrictRows(){
     if(state.geoState==="Assam"&&state.districts.length)return state.districts.slice().sort((a,b)=>a.District_Current_Name.localeCompare(b.District_Current_Name));
     const names=[...new Set(state.places.filter(p=>p.State===state.geoState&&p.District).map(p=>p.District))].sort();
@@ -167,7 +260,7 @@
     summary.innerHTML='<div><span>District entries</span><strong>'+rows.length+'</strong></div><div><span>Place rows</span><strong>'+totalPlaces+'</strong></div><div><span>No place row</span><strong>'+noRows+'</strong></div>';
     list.innerHTML=rows.map(r=>{const n=Number(r.Place_Row_Count||0),active=r.District_Current_Name===state.geoDistrict;return '<button type="button" class="geo-district '+(active?'active':'')+'" data-district="'+esc(r.District_Current_Name)+'"><span><strong>'+esc(r.District_Current_Name)+'</strong><small>'+esc(shortText(r.Archive_Coverage_Class||"Coverage not classified",78))+'</small></span><b class="'+(n>0?'has-rows':'no-rows')+'">'+n+'</b></button>';}).join("")||'<p class="pane-intro">No district-level place rows are currently recorded for this state.</p>';
     list.querySelectorAll("[data-district]").forEach(btn=>btn.addEventListener("click",()=>{state.geoDistrict=btn.dataset.district;renderGeography();}));
-    if(!state.geoDistrict){records.innerHTML='<p class="pane-intro">Select a district above or from the district list. Districts with zero place rows are shown as archive gaps, not as places without beverage traditions.</p>';return;}
+    if(!state.geoDistrict){styleGeoDistrictSelection();records.innerHTML='<p class="pane-intro">Select a district above or from the district list. Districts with zero place rows are shown as archive gaps, not as places without beverage traditions.</p>';return;}
     const district=rows.find(r=>r.District_Current_Name===state.geoDistrict)||{};
     let places=state.places.filter(p=>p.State===state.geoState&&p.District===state.geoDistrict);
     if(state.geoBeverage)places=places.filter(p=>splitIDs(p.Beverage_IDs||p.Beverage_ID).includes(state.geoBeverage));
@@ -177,6 +270,7 @@
     records.innerHTML='<div class="geo-district-detail"><div><span class="eyebrow">ARCHIVE COVERAGE CLASS</span><p>'+esc(cls)+'</p></div><p class="geo-caveat">'+esc(district.Interpretation_Caveat||"Place rows describe source-reported evidence and should not be interpreted as a complete production map.")+'</p></div>'+
       (beverages.length?'<h4>Linked beverage records</h4><div class="geo-beverage-list">'+beverages.map(b=>'<button type="button" data-beverage="'+esc(b.Beverage_ID)+'"><strong>'+esc(b.Beverage_Name)+'</strong><small>'+esc(b.Community||"Community not specified")+' · '+esc(b.Beverage_ID)+'</small></button>').join("")+'</div>':'<p class="pane-intro">No beverage record is currently linked to a named place row for this district'+(state.geoBeverage?' and selected beverage.':'.')+'</p>')+
       (places.length?'<h4>Locality and study evidence</h4><div class="geo-place-list">'+places.map(p=>'<article><div><strong>'+esc(p.Village_or_Locality||p.Block_or_Subdistrict||p.District)+'</strong><span>'+esc(p.Coverage_Status||"Coverage status not classified")+'</span></div><p>'+esc(shortText(p.Evidence_for_Production_or_Consumption,280))+'</p><small>Source IDs: '+esc(p.Source_IDs||"Not linked")+'</small></article>').join("")+'</div>':'');
+    styleGeoDistrictSelection();
     records.querySelectorAll("[data-beverage]").forEach(btn=>btn.addEventListener("click",()=>{selectBeverage(btn.dataset.beverage,true);}));
   }
 
