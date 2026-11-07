@@ -569,3 +569,11 @@
 - Current extracted 970 document table exposes 29 rows. All three pages continue to show Class 32, broad geographical area Assam, Journal 191 / 31-05-2024, and certificates 648–650 (not application IDs).
 - The visible document controls still expose only generic PDF icons in text extraction; no PDF content or stable document URL was retrieved. No GI production boundary, producer locality or specification was inferred. ASM-GAP-026 remains Open.
 - Updated `research/assam/bodo-jou-gi-primary-document-retrieval-audit.md` with the exact per-application amended-map labels and request checklist.
+
+
+## 2026-11-07 — SRC-046 sample-locality reconciliation
+- Rechecked the full publisher article for Das, Medhi & Tamang (2026; SRC-046). The main text explicitly assigns the Jou Bidwi (JOU) sample to Kaljar, Baksa, and the Sai Mod (SM) sample to Jamuuri Panchali, Dhemaji; BR and RH remain assigned to Pukia, Dhemaji.
+- Each beverage was collected once as one authentic household batch. Technical triplicates do not establish independent household replication or village-wide production prevalence.
+- Added ASM-PL-117 (Jamuuri Panchali / Sai Mod sample) and ASM-PL-118 (Kaljar / Jou Bidwi sample), updating the Assam district matrix and the broad Poro Apong / Jou beverage source references. The Sai Mod–Poro Apong equivalence is recorded only as the article's own source-reported crosswalk pending community confirmation; Jou Bidwi is not equated with GI-specific Maibra Jou Bidwi or Jou Gishi.
+- Supplementary ST1 coordinates and ST2–ST5 analytical tables remain unextracted; BioProject PRJNA1284041 still needs individual BioSample/SRA run resolution. ASM-GAP-056 remains Open.
+- Detailed audit: `research/assam/src046-metagenomic-data-access-audit-2026-11-03.md`.
