@@ -562,3 +562,10 @@
 - Rejected the third-party map GeoJSON/TopoJSON inspected in this pass as the project’s national outline: its features are tagged `2011_c` and it does not meet the territorial-reference requirement. Also excluded NIC BharatMaps’ public district service as a current production layer because its service metadata says October 2017 / 717 districts / 36 states.
 - The official ABDB RAR was identified but not extracted in this session. No map geometry was integrated and no clickable map feature is claimed as complete.
 - Created `research/geospatial/india-basemap-source-audit-2026-11-07.md` with source hierarchy, exclusions, dashboard interaction specification and technical acceptance gate. Next: obtain/extract official SoI ABDB, validate geometry and territorial extent against SoI 2026 political map, then implement India → State → District → Beverage coverage → Dossier.
+
+## 2026-11-07 — Bodo Jou GI registry document inventory recheck
+- Reopened the official IP India application pages for 968 (Jou Gwran), 969 (Jou Gishi) and 970 (Maibra Jou Bidwi).
+- Confirmed that each page lists a Statement of Case, original map, dated Producers List, Journal 191 copy and registration certificate. Amended map annexure labels differ: 968 Annexure-9 Map; 969 Annexure-10 Map; 970 Annexure-8 Map.
+- Current extracted 970 document table exposes 29 rows. All three pages continue to show Class 32, broad geographical area Assam, Journal 191 / 31-05-2024, and certificates 648–650 (not application IDs).
+- The visible document controls still expose only generic PDF icons in text extraction; no PDF content or stable document URL was retrieved. No GI production boundary, producer locality or specification was inferred. ASM-GAP-026 remains Open.
+- Updated `research/assam/bodo-jou-gi-primary-document-retrieval-audit.md` with the exact per-application amended-map labels and request checklist.
