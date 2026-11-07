@@ -548,3 +548,10 @@
 - Publisher/PubMed metadata confirms May–October 2023 fieldwork across Cachar, Hailakandi and Sribhumi, 49 household visits, five communities (Dimasa Kachari, Hmar, Zeme Naga, Karbi and Tea tribes), and abstract-level plant names including *Acacia pennata*, *Glycyrrhiza glabra*, *Croton joufra* and unresolved “Ndhui gei”.
 - Full tables and village/community allocation were not exposed in the accessible publisher view; the data availability statement says information may be requested from the author on a justifiable request.
 - Added `research/assam/src-128-south-assam-household-study-audit.md`. No new canonical beverage, place, ingredient or process rows were added; do not infer beverage-specific plant use from the abstract.
+
+## 2026-11-07 — Kokrajhar “Jalpaiguri” locality cross-check (SRC-157)
+- Added the Kokrajhar District Administration's 2025 Flood Contingency Plan as SRC-157 after checking its Kokrajhar Revenue Circle / Nayekgaon Forest Range village table.
+- The official plan lists “Jalpaiguri” within Kokrajhar district, independently confirming a local namesake and making the 2025 Deka et al. survey locality geographically plausible in Assam rather than automatically referring to Jalpaiguri, West Bengal.
+- This does not prove it is the exact locality described as 10 km east of Kokrajhar headquarters: the plan gives no coordinates or distance. Kept ASM-GAP-028 Open pending author coordinates/confirmation.
+- Updated existing ASM-PL-063 and the Kokrajhar district matrix; created no new place row and no beverage-to-village attribution. Explicitly did not equate “Barshangaon” in the plan with “Banshigaon” in the paper.
+- Full audit: `research/assam/kokrajhar-jalpaiguri-locality-crosscheck-src157-2026-11-07.md`.
