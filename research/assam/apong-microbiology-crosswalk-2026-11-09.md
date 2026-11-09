@@ -96,3 +96,21 @@ Separately, Das et al. (2019; SRC-087) studied **finished rice-beer samples**, i
 - 2024 mycoflora study: https://doi.org/10.18805/ajdfr.DR-1829
 - 2019 finished-beverage microbiota: https://doi.org/10.1007/s13205-019-1702-z
 - 2021 review: https://doi.org/10.3389/fsufs.2021.678045
+
+## 7. Primary six-community study — Parasar, Sarma & Kotoky (2017), new SRC-164
+
+**Citation:** Parasar, D. P., Sarma, H. K. & Kotoky, J. (2017). “Exploring the Genealogy and Phenomic Divergences of Indigenous Domesticated Yeasts Cultivated by Six Ethnic Communities of Assam, India.” *Journal of Biological Sciences* 17(2):91–105. DOI: https://doi.org/10.3923/jbs.2017.91.105. Full text: https://scialert.net/fulltext/?doi=jbs.2017.91.105.
+
+**Sampling and methods verified in publisher full text:**
+- Starter cakes collected in six districts: Sibsagar, Dhemaji, Karbi-Anglong, Goalpara, Kokrajhar and Kamrup.
+- Communities: Ahom (Sibsagar), Mising (Dhemaji), Karbi (Karbi Anglong), Rabha (Goalpara), Bodo (Kokrajhar) and Kachari (Kamrup).
+- Cakes shade-dried for two days; 1 g homogenized in 10 mL distilled water, diluted 10⁻³ and plated on YPD agar with chloramphenicol and chlorotetracycline; incubated at 30°C. Cultures were subcultured five times.
+- 64 isolates reported from the six-community starter collection; 31 selected for molecular identification, yielding nine species across seven genera. The 31 were distributed as Bodo 10, Rabha 6, Karbi 6, Kachari 4, Ahom 3 and Mising 2.
+- Molecular identification used ITS1/ITS4 primers and sequencing; article says accessions are in Tables 2 and 3. The article's detailed table images are not machine-readable in the accessible text extraction, so this pass does not transcribe accession-to-isolate mapping beyond the MIC5X record independently linked to LC011412 in the 2020 follow-on article.
+
+**Mising-specific result:** the two Mising isolates selected for molecular identification are MIB4X and MIC5X. Figure legend identifies MIC5X as *Rhodotorula taiwanensis*; the paper's text identifies MIB4X as *Wickerhamomyces anomalus*. Thus the primary paper supports both species in the Mising starter-cake sample set. This corrects the oversimplified “Rhodotorula only” summary sometimes repeated in secondary literature.
+
+**Important internal inconsistency:** the abstract says *W. anomalus* dominated starter cultures across all six communities except Ahom; the results section says it occurred across all six except Ahom; but one discussion sentence says “absence of specific fermenting yeast” in Mising starters. The isolate mapping in the results identifies MIB4X as *W. anomalus*, so the discussion sentence appears inconsistent with the paper's own results. Preserve this as a source contradiction rather than deleting either statement.
+
+**Evidence limits:** the paper studies starter cakes, not finished Apong. It uses selective media that inhibit LAB, so it cannot characterize the full starter microbiome or establish absence of bacteria. It reports district-level community attribution, but the table images need high-resolution inspection before a specific village can be assigned to MIC5X or MIB4X. The 64 cultured isolates and 31 molecularly identified isolates are not interchangeable denominators.
+
