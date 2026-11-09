@@ -643,3 +643,10 @@
 - Confirmed 27 beverage samples from nine villages were pooled as triplicates per location into nine composite samples. Each RB code is a pooled location composite, not an independent household batch.
 - Recorded MG-RAST study ID mgp85043 (paper prints "mgp 85043"). Supplementary Table S1 contains village/sample mapping and S2 rice varieties/starter herbs, but the PMC record marks the DOCX as available to authorized users; no public copy was recovered. MG-RAST sample metadata endpoint was not accessible in this pass.
 - Updated SRC-087 and the Apong microbiology crosswalk. No village records or map pins added; sample-to-village mapping remains an explicit access gap.
+
+## 2026-11-09 — SRC-165 Mising LAB isolate study
+- Added Das et al. (2019), *Access Microbiology* 1(4):e000028, DOI 10.1099/acmi.0.000028, as SRC-165.
+- Table 1 links Mising Apong to *Lactobacillus casei* TEZU262 (KR781613), and Apop-pitha to *Pediococcus pentosaceus* TEZU481 (KT273331), TEZU482 (KT273330), TEZU486 (KT273328).
+- No village/district/household mapping is provided. The paper's combined “rice beer/starter cake name” column does not consistently resolve whether each row came from finished beer or starter cake.
+- Flagged an internal count discrepancy: prose says three *L. casei* and 13 isolates total, while Table 1 lists four *L. casei* and 14 isolate rows. Preserved rather than silently corrected.
+- Added the full evidence audit to the Apong microbiology crosswalk. In-vitro probiotic-like assays are not clinical evidence; do not equate Apop-pitha starter detections with finished Apong microbiota.
