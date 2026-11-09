@@ -728,3 +728,13 @@
 - Added section 17 to the Apong microbiology crosswalk and created a dedicated full-text audit. No duplicate source ID, synthetic time-series, household prevalence, or generalized production claim was added.
 - Next: continue searching for independent Mising Apong source material and resolve older Kardong SRC-139/SRC-140 acquisition gaps where possible.
 
+
+
+## 2026-11-09 — SRC-168 Mising fermented-food / Apong process paper
+- Retrieved the complete four-page PDF for Pegu, Sarmah, Yein & Sanong, DOI 10.5530/ajbls.2022.11.112. The PDF masthead/final citation date the article to *Asian Journal of Biological and Life Sciences* 11(3), Sep–Dec 2022, pages 840–843; the current repository landing page displays 2026 metadata. Registered the citation year as 2022 and documented the metadata conflict.
+- The paper reports fieldwork in rural Dhemaji district, Sep–Dec 2021, targeting households involved in fermented-food manufacture, but gives no village names, village count, respondent/household denominator or representative sampling frame. Its claim that every Mising household prepares the products is not supported by a reported denominator.
+- Transcribed the short process account for Po:ro and Nogin: Epop applied to cooked rice; closed straw-sealed earthen jars on a smoke-reached loft; an approximately 15-day period; Po:ro ash from charred straw (Amrong) and husk (ampe); Nogin associated with Ampi-abun and Lie-ambun glutinous rice; Ponyok/Arug terms for residues/by-products.
+- Flagged that the text does not clearly establish whether 15 days applies identically to both variants or a controlled fermentation endpoint. It reports no plant inventory, vouchers, microbial assays, biochemical data, or time-course series.
+- Added SRC-168 to the source register, dedicated full-text audit and Apong crosswalk. No village pin, prevalence estimate, universal recipe or new microbial claim was created.
+- Next: examine the 2026 PO:RO flavour-chemistry review as an emerging secondary synthesis (issue date listed December 2026; verify online-publication status and avoid registering as published before the version-of-record date), and continue seeking primary Mising datasets / Kardong full texts.
+
