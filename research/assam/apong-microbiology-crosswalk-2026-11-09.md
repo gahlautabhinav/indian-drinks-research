@@ -114,3 +114,32 @@ Separately, Das et al. (2019; SRC-087) studied **finished rice-beer samples**, i
 
 **Evidence limits:** the paper studies starter cakes, not finished Apong. It uses selective media that inhibit LAB, so it cannot characterize the full starter microbiome or establish absence of bacteria. It reports district-level community attribution, but the table images need high-resolution inspection before a specific village can be assigned to MIC5X or MIB4X. The 64 cultured isolates and 31 molecularly identified isolates are not interchangeable denominators.
 
+
+## 8. SRC-087 supplementary-table retrieval attempt — 2026-11-09
+
+### Confirmed directly from the publisher full text
+
+The 2019 article (Das et al., *3 Biotech* 9:174; DOI 10.1007/s13205-019-1702-z) identifies the nine finished-beverage composite samples as follows:
+
+| Sample | Community | Beverage |
+|---|---|---|
+| RB01 | Mising | Poro Apong |
+| RB02 | Mising | Nogin Apong |
+| RB03 | Mising | Nogin Apong |
+| RB04–RB06 | Ahom | Xaaj |
+| RB07–RB09 | Bodo | Joubishi |
+
+The methods state that 27 samples were collected from nine villages, and triplicate samples from each location were pooled equally to make nine composite samples. Thus each RB code represents a location-level composite, not a single independent household batch. The article states that 16S rDNA sequences were deposited in MG-RAST under study ID mgp85043 (printed with a space as "mgp 85043" in the article; normalized here only for identifier lookup).
+
+### What could not be recovered
+
+- Supplementary Table S1 is the source for village names and the sample/location mapping. The PMC record explicitly describes the supplementary DOCX as available to authorized users; no public copy was found in the publisher/PMC route checked on 2026-11-09.
+- Supplementary Table S2 contains rice varieties and starter herbs; it was not retrieved either.
+- Public web indexing confirmed the article's text and the MG-RAST study identifier, but the MG-RAST API endpoint could not be read through the current research access route. No MG-RAST sample IDs or village metadata are asserted.
+
+### Archive decision
+
+Do not add village-level production records or map RB01/RB02/RB03 to any named village. Retain the known sample-to-beverage crosswalk only. The next verification route is to request the supplementary DOCX and/or a sample metadata export from the corresponding author, and independently query MG-RAST project mgp85043 when its public metadata endpoint is accessible. This is an evidence-access gap, not evidence that the villages are unknown to the researchers.
+
+**Primary article:** https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/  
+**MG-RAST study:** mgp85043 (identifier cited in the paper)
