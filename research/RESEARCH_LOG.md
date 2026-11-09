@@ -716,3 +716,15 @@
 - It gives no species-level identifications, named sample localities, sample-level measurements, full culture conditions or reproducible enzyme assays. It says two bound final-report copies were enclosed and that papers were being prepared for publication; it does not establish the precise data lineage of SRC-139 or SRC-140.
 - Added the access-boundary assessment to the Apong microbiology crosswalk. Kept the Scribd copy distinct from the official Dibrugarh University SRC-152 PDF and did not promote it to a new source ID. No new locality, microbial species, enzyme value or fermentation curve added.
 - Rechecked official Dibrugarh University Bulletin archive search: the university-hosted Vol. XVIII (March 2012) PDF is accessible, but does not contain either 2011 Epop paper; it is not a substitute for Vol. XVI. SRC-139 and SRC-140 remain unresolved full-text acquisition targets.
+
+
+## 2026-11-09 — SRC-046 2026 Sai Mod multi-omics full-text audit
+- Reopened the full text of Das, Medhi & Tamang (2026), *AMB Express* 16:91, DOI 10.1186/s13568-026-02062-0, already registered as SRC-046.
+- Confirmed the Sai Mod/Po:ro Apong sample was collected at Jamuuri Panchali, Dhemaji district, where the authors say preparation is now rare. This is a named sample locality, not evidence of district-wide prevalence.
+- The paper says 12 samples across four beverage types but also states each beverage was collected only once as an authentic household batch; triplicates are technical replicates. Recorded one independent batch per beverage type, not 12 independent households.
+- For Sai Mod, HPLC ethanol is 4.28 ± 0.14% v/v while the GC–MS/MS results report 4.99%. Preserved both method-specific values as an unresolved discrepancy.
+- Transcribed the paper's Sai Mod culture-derived LAB/yeast isolate labels separately from shotgun metagenomic relative-abundance results. The latter report Saccharomyces 54.85% and Lentilactobacillus 28.29% for SM; DNA-derived abundance is not a viable-cell count.
+- Flagged predicted retinol pathway annotations as metabolic potential only, not direct retinol/vitamin A production or a health outcome. Antioxidant assays remain in-vitro chemical measurements.
+- Added section 17 to the Apong microbiology crosswalk and created a dedicated full-text audit. No duplicate source ID, synthetic time-series, household prevalence, or generalized production claim was added.
+- Next: continue searching for independent Mising Apong source material and resolve older Kardong SRC-139/SRC-140 acquisition gaps where possible.
+
