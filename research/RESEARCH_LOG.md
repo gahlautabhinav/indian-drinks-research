@@ -690,3 +690,11 @@
 - Found an additional thesis acquisition lead in a CSIR-NEIST institutional report: Devid Kardong, 2011 Dibrugarh University PhD thesis, “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam,” guide T. C. Bora. Thesis itself not retrieved; title spelling retained as printed.
 - Updated the Apong microbiology crosswalk with the distinction between SRC-152, SRC-139 and SRC-140. No new production locations, microbial species identities, recipe values or fermentation curves created.
 - Next: acquire the SRC-139 journal issue, SRC-140 *Bulletin of Life Sciences* Vol. XVI, complete SRC-152 technical annexure, and Kardong's 2011 thesis via Dibrugarh University library/author.
+
+
+## 2026-11-09 — Thesis and journal-archive acquisition follow-up
+- Reconfirmed via CSIR-NEIST institutional report that Devid Kardong's 2011 Dibrugarh University PhD thesis is titled “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam,” guide Dr T. C. Bora. Retained the source spelling “Chaimod.”
+- Checked Dibrugarh University's official ETD discovery, Indian open thesis and e-resource pages; these direct researchers to Shodhganga, IndCat, OATD, NDLTD, CORE and library catalogue services. Exact-title/name public indexing did not expose a thesis record or PDF in this pass.
+- Rechecked journal acquisition: the 2016 Dibrugarh University NAAC research-publication volume confirms SRC-139 (*Journal of Assam Science Society* 52(2):1–6, 2011) and SRC-140 (*Bulletin of Life Sciences* Vol. XVI, 2011), but exact-issue searches did not recover either full article.
+- An IIT Guwahati annual report independently confirms other 2011 articles appeared in *Journal of Assam Science Society* volume 52, but it does not provide Kardong's article or complete issue contents.
+- Updated the Apong microbiology crosswalk with the failed public retrieval route and direct library/document-delivery acquisition recommendation. No new primary experimental data, sample localities, enzyme values or fermentation kinetics were inferred.
