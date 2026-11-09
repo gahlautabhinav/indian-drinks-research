@@ -650,3 +650,10 @@
 - No village/district/household mapping is provided. The paper's combined “rice beer/starter cake name” column does not consistently resolve whether each row came from finished beer or starter cake.
 - Flagged an internal count discrepancy: prose says three *L. casei* and 13 isolates total, while Table 1 lists four *L. casei* and 14 isolate rows. Preserved rather than silently corrected.
 - Added the full evidence audit to the Apong microbiology crosswalk. In-vitro probiotic-like assays are not clinical evidence; do not equate Apop-pitha starter detections with finished Apong microbiota.
+
+## 2026-11-09 — Mising E’pob bacterial literature-gap check
+- Targeted searches for bacterial community profiling of Mising Apop-pitha/E’pob did not locate a comprehensive publicly accessible primary starter-cake bacterial survey.
+- Reconfirmed SRC-165 as the directly relevant culture-dependent LAB evidence: Mising Apong/*L. casei* TEZU262 and Apop-pitha/*P. pentosaceus* TEZU481/482/486. No locality/household linkage; the paper's combined source-name column does not consistently resolve sample material.
+- Explicitly excluded Ahom Xaj-pitha shotgun-metagenomics (PMC4947050) and microbial-quality (PMC6977804) studies from Mising evidence.
+- Clarified the three evidence layers in the Apong microbiology crosswalk: starter cake, fermentation-stage, and finished beverage. No Mising fermentation-stage time series found in this pass.
+- No new source-register entry created because the newly identified material was either already registered (SRC-106, SRC-114, SRC-164, SRC-165, SRC-087) or an excluded non-Mising near-match.
