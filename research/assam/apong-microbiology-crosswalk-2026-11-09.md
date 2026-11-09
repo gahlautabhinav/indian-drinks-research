@@ -236,3 +236,46 @@ The abstract reports pH 3.72 ± 0.22 and alcohol 35% v/v for Rohi; pH 3.86 ± 0.
 - Do not merge Sai Mod with every Poro Apong process or equate Rohi with Mising Nogin.
 - Do not infer clinical antioxidant benefit from in-vitro DPPH/ABTS or total-phenolic assays.
 - No stage-resolved fermentation chemistry or time-series metabolomics was identified in this search pass.
+
+
+## 12. Po:ro Apong fermentation process and experimental evidence
+
+### SRC-136 — Kardong et al. (2012): household process and stage observations
+
+The article reports Mising household samples from Dibrugarh district. Its process description is unusually specific: approximately 100 g powdered Epop per 3 kg cooked rice; rice is coated with rice-husk/straw ash; fermentation in a clean, dry container (preferably earthen pot) plugged with dry straw or fresh fern leaves for about 20 days at approximately 30–35°C. The fermented solid mash is called Po:ro arouk and is extracted by adding warm water over the mash in a cone-shaped bamboo Ta:suk lined with banana or Canna leaves.
+
+The authors describe a mild fruity-sweet aroma by days 2–3 and a stronger fruity/pungent odour around days 8–10 as traditional sensory cues. These are reported observations, not validated chemical markers or proof of a universal maturation schedule.
+
+The paper reports three finished samples with similar taste/texture and finished-product pH 4.06 ± 0.1, titratable acidity 0.53% lactic acid, reducing sugars 3.33 ± 0.2 mg/ml, free amino acids 2.43 ± 0.12 mg/ml, total carbohydrate 46.62 ± 4.3 mg/ml, protein 1.05 ± 0.06 mg/ml and alcohol 7.52–18.5% v/v. Microbial load is reported separately for Epop, ripe mash and finished filtrate, but methods/units differ between solid starter/mash and liquid product. These are not a controlled fermentation time-series and should not be used to calculate stage survival or growth rates.
+
+### SRC-167 — Kardong, Pegu & Ghose Guha (2017): controlled starter comparison
+
+This primary experimental paper compares traditional home-made starter (HMS) against laboratory-made starter (LMS) and a selected microbial consortium for Po:ro Apong. The consortium contains two amylolytic fungi, *Mucor* sp. and *Saccharomycopsis* sp., plus an alcohol-fermenting *Saccharomyces* sp., all isolated from HMS.
+
+At the 144-hour endpoint, the HMS mash showed:
+- pH 4.78
+- reducing sugar 17 ± 0.12 mg/g
+- titratable acidity 0.22 ± 0.01% lactic acid
+- ethanol 3.1 ± 0.02 ml/100 g fermented mash
+
+The paper reports lower ethanol and acidity in LMSP/MC than HMS, while bacterial colony counts increased in LMSP/MC and fell in HMS. It also notes that the laboratory consortium digested rice starch more visibly but produced a less desirable/faulty odour, whereas HMS mash had a fruity smell. The authors interpret this as evidence that a small selected consortium did not reproduce the functional performance of the traditional mixed starter.
+
+The study's endpoint is 144 hours (six days), not the approximately 20-day household fermentation described in SRC-136. Do not compare the six-day mash ethanol directly with SRC-136 finished-drink alcohol. The experimental substrate, assay units and fermentation endpoint differ.
+
+**Method caveats:** the article reports 14 herbs in results while its abstract mentions 13; it does not disclose named villages or household sample count, and does not give a detailed multi-timepoint trajectory. It is a preliminary laboratory comparison, not a controlled trial isolating individual plant effects. It supports the importance of the traditional starter as a complex inoculum but does not prove which individual microbes/herbs cause the observed effect.
+
+### Cross-source synthesis: why reported times differ
+
+The sources document distinct process descriptions, not one standardized recipe:
+- SRC-136 (2012): Po:ro mash about 20 days at 30–35°C.
+- SRC-147 (2013): Po:ro 6–8 days warm / 12–15 days cold; separate Nogin process.
+- SRC-148 (2014/2015 issue-date discrepancy): Po:ro 15–20 days; Nogin 3–4 days in its reported Jorhat sample.
+- SRC-167 (2017): controlled laboratory comparison assessed at 144 hours; not a household finished-product schedule.
+- SRC-153 (2023) and SRC-160 (2026): further source-specific descriptions; no universal timing should be inferred.
+- SRC-161 (2026 Majuli): reports its own 10–15-day summer process accounts.
+
+The differences may reflect locality, season, rice/starter preparation, vessel, desired product, and how authors define fermentation completion versus extraction. The evidence does not justify choosing one value as universally correct.
+
+### Evidence gap
+
+No Mising Apong study located in this pass provides a robust, replicated time-course sampling of the same fermentation batches at multiple points (e.g., day 0, 2, 4, 6, 10, 15, 20) with matched pH, sugars, ethanol, organic acids and microbial community measurements. This remains a high-value research gap.
