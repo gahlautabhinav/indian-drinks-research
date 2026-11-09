@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-09T00:00:00Z",
+  "title": "Design System: Fieldnotes · Indian Drinks Research",
+  "extensions": {
+    "colorMeta": {
+      "lamp": { "role": "primary", "displayName": "Reader Lamp", "canonical": "#f2eee4", "tonalRamp": ["#0b0d0f", "#23272a", "#3a3f42", "#555b5f", "#7a8084", "#a3a69f", "#c9c6bb", "#f2eee4"] },
+      "ledger-red": { "role": "secondary", "displayName": "Ledger Red", "canonical": "#d9483b", "tonalRamp": ["#2a0c09", "#4d1510", "#731f18", "#99291f", "#bf3a2d", "#d9483b", "#e8857b", "#f5c6c0"] },
+      "film-black": { "role": "neutral", "displayName": "Film Black (z0)", "canonical": "#0b0d0f", "tonalRamp": ["#0b0d0f", "#121518", "#1a1d20", "#23272a", "#2e3337", "#3a3f42", "#555b5f", "#7a8084", "#a3a69f", "#c9c6bb", "#e6e1d6"] },
+      "silver-gelatin": { "role": "neutral", "displayName": "Silver Gelatin (z10)", "canonical": "#e6e1d6", "tonalRamp": ["#0b0d0f", "#121518", "#1a1d20", "#23272a", "#2e3337", "#3a3f42", "#555b5f", "#7a8084", "#a3a69f", "#c9c6bb", "#e6e1d6"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Page heads and the record slip's beverage name; 22px below 640px." },
+      "headline": { "displayName": "Headline", "purpose": "Dossier h2 over a single rule." },
+      "title": { "displayName": "Title", "purpose": "Register-section heads, pane headings, dossier prose size." },
+      "body": { "displayName": "Body", "purpose": "Page default and reader field values." },
+      "register": { "displayName": "Register", "purpose": "Table cell size for every register; .name cells are 600." },
+      "label": { "displayName": "Label", "purpose": "Column heads, field labels, priority words; uppercase, 0.04em. Stamp tracks 0.08em." },
+      "control": { "displayName": "Control", "purpose": "Crumbs, running head, tabs, filters, footnotes, notes." }
+    },
+    "shadows": [
+      { "name": "overlay-tooltip", "value": "0 2px 8px rgba(0,0,0,.5)", "purpose": "Leaflet tooltip only; the one small floating overlay." },
+      { "name": "overlay-toast", "value": "0 6px 20px rgba(0,0,0,.5)", "purpose": "Toast only. Surfaces at rest never cast a shadow." }
+    ],
+    "motion": [
+      { "name": "ease", "value": "cubic-bezier(.16,1,.3,1)", "purpose": "Exponential ease-out for every transition and the paging animation." },
+      { "name": "paging-in", "value": "page-in .22s var(--ease) both; from {opacity:0; transform:translateY(10px)}", "purpose": "Rows arriving from below when the register re-pages or the reader loads a record. Removed under prefers-reduced-motion." },
+      { "name": "state-hover", "value": "150ms", "purpose": "Row ground, crumb, tab, page-link and slip-action hover." },
+      { "name": "map-polygon", "value": "fill/stroke/fill-opacity 180ms var(--ease)", "purpose": "Polygon lift under the lamp." },
+      { "name": "skeleton-shimmer", "value": "shimmer 1.6s linear infinite", "purpose": "Loading rows while CSVs fetch." }
+    ],
+    "breakpoints": [
+      { "name": "wide", "value": "1180px" },
+      { "name": "stack", "value": "960px" },
+      { "name": "narrow", "value": "640px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Running head",
+      "kind": "nav",
+      "refersTo": "running-head",
+      "description": "Sticky 44px register head: title, crumbs, counts, page links.",
+      "html": "<header class=\"ds-rh\"><a class=\"ds-rh-title\" href=\"#\">Indian Drinks Research <span>Fieldnotes</span></a><nav class=\"ds-rh-crumbs\"><ol><li><button type=\"button\">India</button></li><li><button type=\"button\" aria-current=\"page\">Assam</button></li></ol></nav><div class=\"ds-rh-counts\"><span><b>37</b> beverages</span><span><b>121</b> places</span></div><nav class=\"ds-rh-pages\"><a href=\"#\">Gazetteer</a><a href=\"#\">Beverages</a><a href=\"#\">Record</a></nav></header>",
+      "css": ".ds-rh{height:44px;display:grid;grid-template-columns:auto 1fr auto auto;align-items:center;gap:0 28px;padding:0 20px;background:var(--z0,#0b0d0f);color:var(--z10,#e6e1d6);border-bottom:1px solid var(--z5,#3a3f42);border-top:3px double var(--z7,#7a8084);font:12px/1.5 'Source Sans 3','Segoe UI',system-ui,sans-serif}.ds-rh-title{color:inherit;text-decoration:none;font-weight:600;letter-spacing:.01em;white-space:nowrap}.ds-rh-title span{font-weight:400;color:var(--z8,#a3a69f);margin-left:8px}.ds-rh-crumbs ol{list-style:none;margin:0;padding:0;display:flex;gap:4px}.ds-rh-crumbs li+li::before{content:'/';color:var(--z6,#555b5f);margin:0 4px}.ds-rh-crumbs button{background:none;border:0;padding:2px 0;font:inherit;color:var(--z8,#a3a69f);cursor:pointer;text-decoration:underline;text-decoration-color:transparent;text-underline-offset:3px;transition:color .15s,text-decoration-color .15s}.ds-rh-crumbs button:hover{color:var(--z10,#e6e1d6);text-decoration-color:var(--z6,#555b5f)}.ds-rh-crumbs button[aria-current=page]{color:var(--z10,#e6e1d6);font-weight:600}.ds-rh-counts{color:var(--z8,#a3a69f);display:flex;gap:14px;white-space:nowrap}.ds-rh-counts b{color:var(--z10,#e6e1d6);font-weight:600}.ds-rh-pages{display:flex;gap:18px}.ds-rh-pages a{text-decoration:none;color:var(--z8,#a3a69f);padding:12px 0;border-bottom:2px solid transparent;transition:color .15s,border-color .15s}.ds-rh-pages a:hover{color:var(--z10,#e6e1d6);border-color:var(--z6,#555b5f)}.ds-rh :focus-visible{outline:2px solid var(--lamp,#f2eee4);outline-offset:1px}"
+    },
+    {
+      "name": "Register table with lamp row",
+      "kind": "custom",
+      "refersTo": "register-cell",
+      "description": "The register: double-ruled caption, sans uppercase heads, hairline cells, clickable rows with hover bar and full-lamp selection.",
+      "html": "<table class=\"ds-register\"><caption>Assam · Districts</caption><thead><tr><th>District</th><th class=\"ds-num\">Place rows</th><th>Beverages linked</th><th>Evidence</th></tr></thead><tbody><tr class=\"ds-row\" tabindex=\"0\"><td><span class=\"ds-name\">Bajali</span></td><td class=\"ds-num ds-blank\"></td><td class=\"ds-blank\"></td><td><i class=\"ds-hatch ds-outlined\"></i><span class=\"ds-ev\">Unverified</span></td></tr><tr class=\"ds-row ds-selected\" tabindex=\"0\"><td><span class=\"ds-name\">Baksa</span><span class=\"ds-stamp\">UPDATED</span><small>Bodo</small></td><td class=\"ds-num\">6</td><td>Jou / Jou bishi; Jou Gishi</td><td><i class=\"ds-hatch ds-solid\"></i><span class=\"ds-ev\">Well documented</span></td></tr><tr class=\"ds-row\" tabindex=\"0\"><td><span class=\"ds-name\">Cachar</span></td><td class=\"ds-num\">3</td><td>Tea-tribe Haria; Zao</td><td><i class=\"ds-hatch ds-crossed\"></i><span class=\"ds-ev\">Documented</span></td></tr></tbody></table>",
+      "css": ".ds-register{width:100%;border-collapse:collapse;font:12px/1.4 'Source Serif 4',Georgia,serif;font-variant-numeric:tabular-nums lining-nums;color:var(--z10,#e6e1d6);background:var(--z0,#0b0d0f)}.ds-register caption{text-align:left;font-size:13px;font-weight:600;padding:0 0 6px;border-bottom:3px double var(--z7,#7a8084)}.ds-register th{font:600 11px/1.35 'Source Sans 3','Segoe UI',system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;color:var(--z8,#a3a69f);text-align:left;padding:7px 8px 6px;border-bottom:1px solid var(--z7,#7a8084);white-space:nowrap}.ds-register td{padding:7px 8px;border-bottom:1px solid var(--z3,#23272a);vertical-align:top}.ds-register td+td,.ds-register th+th{border-left:1px solid var(--z3,#23272a)}.ds-num{text-align:right;width:3.6em;white-space:nowrap}.ds-name{font-weight:600}.ds-register small{display:block;color:var(--z7,#7a8084);font:11px/1.35 'Source Sans 3',sans-serif;margin-top:2px}.ds-blank{color:var(--z6,#555b5f)}.ds-blank::before{content:'—'}.ds-row{cursor:pointer;transition:background .15s cubic-bezier(.16,1,.3,1)}.ds-row td:first-child{position:relative}.ds-row td:first-child::before{content:'';position:absolute;left:0;top:0;bottom:0;width:2px;background:transparent;transition:background .15s}.ds-row:hover td,.ds-row:focus-within td{background:var(--z1,#121518)}.ds-row:hover td:first-child::before{background:var(--z6,#555b5f)}.ds-row:focus-visible{outline:2px solid var(--lamp,#f2eee4);outline-offset:-2px}.ds-row.ds-selected td{background:var(--lamp,#f2eee4);color:var(--z0,#0b0d0f);border-color:var(--z9,#c9c6bb)}.ds-row.ds-selected td:first-child::before{background:var(--z0,#0b0d0f)}.ds-row.ds-selected small,.ds-row.ds-selected .ds-ev{color:var(--z4,#2e3337)}.ds-row.ds-selected .ds-hatch{--hatch-ink:var(--z0,#0b0d0f)}.ds-row.ds-selected .ds-stamp{border-color:var(--z4,#2e3337);color:var(--z4,#2e3337)}.ds-stamp{display:inline-block;margin-left:6px;padding:0 4px;border:1px solid var(--z7,#7a8084);color:var(--z8,#a3a69f);font:600 11px/14px 'Source Sans 3',sans-serif;letter-spacing:.08em;transform:rotate(-4deg);vertical-align:middle}.ds-hatch{--hatch-ink:var(--z9,#c9c6bb);display:inline-block;width:40px;height:12px;vertical-align:-1px;border:1px solid var(--hatch-ink);margin-right:6px;background-color:transparent;background-size:4px 4px}.ds-solid{background-color:var(--hatch-ink)}.ds-hatched{background-image:repeating-linear-gradient(45deg,var(--hatch-ink) 0 1px,transparent 1px 4px)}.ds-dotted{background-image:radial-gradient(var(--hatch-ink) .7px,transparent .8px)}.ds-outlined{background:transparent}.ds-crossed{background-image:repeating-linear-gradient(45deg,var(--hatch-ink) 0 1px,transparent 1px 4px),repeating-linear-gradient(-45deg,var(--red,#d9483b) 0 1px,transparent 1px 4px);border-color:var(--red,#d9483b)}.ds-ev{font:11px/1.35 'Source Sans 3',sans-serif;color:var(--z8,#a3a69f);white-space:nowrap}"
+    },
+    {
+      "name": "Hatch evidence swatches",
+      "kind": "chip",
+      "refersTo": "hatch",
+      "description": "Evidence as density, not colour: solid, hatched, dotted, outlined; crossed marks an unresolved name boundary.",
+      "html": "<div class=\"ds-swatches\"><span><i class=\"ds-hatch ds-solid\"></i>well documented</span><span><i class=\"ds-hatch ds-hatched\"></i>documented</span><span><i class=\"ds-hatch ds-dotted\"></i>provisional</span><span><i class=\"ds-hatch ds-outlined\"></i>unverified</span><span><i class=\"ds-hatch ds-crossed\"></i>name boundary unresolved</span></div>",
+      "css": ".ds-swatches{display:flex;flex-wrap:wrap;gap:6px 18px;font:11px/1.35 'Source Sans 3','Segoe UI',system-ui,sans-serif;color:var(--z8,#a3a69f);background:var(--z0,#0b0d0f);padding:8px}.ds-hatch{--hatch-ink:var(--z9,#c9c6bb);display:inline-block;width:40px;height:12px;vertical-align:-1px;border:1px solid var(--hatch-ink);margin-right:6px;background-color:transparent;background-size:4px 4px}.ds-solid{background-color:var(--hatch-ink)}.ds-hatched{background-image:repeating-linear-gradient(45deg,var(--hatch-ink) 0 1px,transparent 1px 4px)}.ds-dotted{background-image:radial-gradient(var(--hatch-ink) .7px,transparent .8px)}.ds-outlined{background:transparent}.ds-crossed{background-image:repeating-linear-gradient(45deg,var(--hatch-ink) 0 1px,transparent 1px 4px),repeating-linear-gradient(-45deg,var(--red,#d9483b) 0 1px,transparent 1px 4px);border-color:var(--red,#d9483b)}"
+    },
+    {
+      "name": "Footnotes",
+      "kind": "custom",
+      "refersTo": "footnotes",
+      "description": "Footnote apparatus under every register; the first note states counts are documentation, not prevalence.",
+      "html": "<ol class=\"ds-footnotes\"><li>Counts describe documentation held in this archive, not prevalence or production in the population.</li><li>Rows reviewed within the latest fortnight carry an <span class=\"ds-stamp\">UPDATED</span> stamp.</li></ol>",
+      "css": ".ds-footnotes{margin:0;padding:10px 0 0 1.6em;border-top:1px solid var(--z5,#3a3f42);font:12px/1.5 'Source Sans 3','Segoe UI',system-ui,sans-serif;color:var(--z8,#a3a69f);max-width:110ch;background:var(--z0,#0b0d0f)}.ds-footnotes li{margin:3px 0}.ds-stamp{display:inline-block;padding:0 4px;border:1px solid var(--z7,#7a8084);color:var(--z8,#a3a69f);font-weight:600;font-size:11px;line-height:14px;letter-spacing:.08em;transform:rotate(-4deg);vertical-align:middle}"
+    },
+    {
+      "name": "Filter field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Ruled filter cell: uppercase sans label, underlined transparent input, keyboard hint; underline turns lamp on focus.",
+      "html": "<form class=\"ds-filters\"><label class=\"ds-field\"><span>Search</span><input type=\"search\" placeholder=\"Name, community, starter, district, source ID…\"><kbd>/</kbd></label><label class=\"ds-field\"><span>Evidence</span><select><option>All</option><option>Well documented</option><option>Documented</option></select></label><span class=\"ds-filter-count\">37 of 37 records</span></form>",
+      "css": ".ds-filters{display:grid;grid-template-columns:minmax(220px,2fr) minmax(120px,1fr) auto;border:1px solid var(--z5,#3a3f42);background:var(--z1,#121518);font-family:'Source Sans 3','Segoe UI',system-ui,sans-serif;color:var(--z10,#e6e1d6)}.ds-field{display:flex;flex-direction:column;gap:2px;padding:6px 10px 7px;border-right:1px solid var(--z5,#3a3f42);min-width:0;position:relative}.ds-field span{font-size:11px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--z7,#7a8084)}.ds-field input,.ds-field select{background:transparent;border:0;border-bottom:1px solid var(--z4,#2e3337);padding:3px 0;font:12px/1.5 inherit;font-family:inherit;color:inherit;width:100%;outline:0;border-radius:0;caret-color:var(--lamp,#f2eee4);transition:border-color .15s}.ds-field select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--z8,#a3a69f) 50%),linear-gradient(135deg,var(--z8,#a3a69f) 50%,transparent 50%);background-position:calc(100% - 10px) 50%,calc(100% - 6px) 50%;background-size:4px 4px;background-repeat:no-repeat;padding-right:18px}.ds-field input::placeholder{color:var(--z7,#7a8084);opacity:1}.ds-field input:focus,.ds-field select:focus{border-bottom-color:var(--lamp,#f2eee4)}.ds-field kbd{position:absolute;right:10px;bottom:9px;font-size:11px;color:var(--z7,#7a8084);border:1px solid var(--z4,#2e3337);padding:0 4px;line-height:14px}.ds-filter-count{display:flex;align-items:end;padding:6px 12px 8px;font-size:11px;color:var(--z8,#a3a69f);white-space:nowrap}"
+    },
+    {
+      "name": "Slip actions",
+      "kind": "button",
+      "refersTo": "slip-action",
+      "description": "Ruled strip of record actions; the primary action sits under the lamp.",
+      "html": "<div class=\"ds-slip-actions\"><a class=\"ds-primary\" href=\"#\">Open dossier</a><a href=\"#\">beverages.csv</a><button type=\"button\">Copy record link</button></div>",
+      "css": ".ds-slip-actions{display:flex;flex-wrap:wrap;border:1px solid var(--z5,#3a3f42);width:max-content;max-width:100%;font:11px/1.5 'Source Sans 3','Segoe UI',system-ui,sans-serif}.ds-slip-actions a,.ds-slip-actions button{background:var(--z1,#121518);border:0;border-right:1px solid var(--z5,#3a3f42);padding:7px 11px;color:var(--z10,#e6e1d6);font:inherit;text-decoration:none;white-space:nowrap;cursor:pointer;border-radius:0;transition:background .15s}.ds-slip-actions a:last-child,.ds-slip-actions button:last-child{border-right:0}.ds-slip-actions a:hover,.ds-slip-actions button:hover{background:var(--z2,#1a1d20)}.ds-slip-actions .ds-primary{background:var(--lamp,#f2eee4);color:var(--z0,#0b0d0f);font-weight:600}.ds-slip-actions :focus-visible{outline:2px solid var(--lamp,#f2eee4);outline-offset:1px}"
+    },
+    {
+      "name": "Tabs",
+      "kind": "nav",
+      "refersTo": "tab",
+      "description": "Reader tab strip over a strong rule; the selected tab carries a lamp underline.",
+      "html": "<div class=\"ds-tabs\" role=\"tablist\"><button type=\"button\" role=\"tab\" aria-selected=\"true\">Overview</button><button type=\"button\" role=\"tab\" aria-selected=\"false\">Sources<span>4</span></button><button type=\"button\" role=\"tab\" aria-selected=\"false\">Places<span>6</span></button><button type=\"button\" role=\"tab\" aria-selected=\"false\">Dossier</button></div>",
+      "css": ".ds-tabs{display:flex;border-bottom:1px solid var(--z7,#7a8084);font:12px/1.5 'Source Sans 3','Segoe UI',system-ui,sans-serif;background:var(--z0,#0b0d0f)}.ds-tabs button{flex:0 0 auto;background:none;border:0;border-bottom:2px solid transparent;margin-bottom:-1px;padding:8px 12px;font:inherit;color:var(--z8,#a3a69f);cursor:pointer;white-space:nowrap;transition:color .15s,border-color .15s}.ds-tabs button:hover{color:var(--z10,#e6e1d6)}.ds-tabs button[aria-selected=true]{color:var(--z10,#e6e1d6);border-bottom-color:var(--lamp,#f2eee4);font-weight:600}.ds-tabs button span{color:var(--z7,#7a8084);margin-left:4px;font-weight:400}.ds-tabs button:focus-visible{outline:2px solid var(--lamp,#f2eee4);outline-offset:1px}"
+    },
+    {
+      "name": "Flag and error note",
+      "kind": "custom",
+      "refersTo": "flag",
+      "description": "The only uses of ledger red: an unresolved-state flag and a fetch error note.",
+      "html": "<div class=\"ds-redwrap\"><span class=\"ds-flag\">NAME BOUNDARY UNRESOLVED</span><p class=\"ds-error\">Could not load data/beverages.csv from the main branch. <a href=\"#\">Open the repository</a>.</p></div>",
+      "css": ".ds-redwrap{background:var(--z0,#0b0d0f);padding:8px;font-family:'Source Sans 3','Segoe UI',system-ui,sans-serif}.ds-flag{color:var(--red,#d9483b);font-size:11px;font-weight:600;letter-spacing:.04em}.ds-error{margin:10px 0 0;padding:10px 12px;border:1px solid var(--red,#d9483b);color:var(--z10,#e6e1d6);font-size:12px;max-width:70ch}.ds-error a{color:inherit;text-decoration-color:var(--z6,#555b5f);text-underline-offset:3px}.ds-error a:hover{text-decoration-color:var(--z10,#e6e1d6)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "District Handbook on Microfilm",
+    "overview": "The archive is a government register, a District Census Handbook, read as negative microfilm on a backlit reader. Everything on the page is a ruled register: state, district, locality and beverage rows in tabular columns, double-ruled column heads, hairline row rules, a running head across the top, footnotes under every table. The page is one long scroll of register pages (Gazetteer, Register of beverages, Record, Ledger of open questions) separated by double rules, each with its own head. Selecting a state or district does not navigate; the register re-pages in place.\n\nThe material is film: a fixed eleven-step grey ramp from film black to silver-gelatin, with one warm light (the reader lamp) for the selected row and one red (the ledger's red rule) for conflict. Evidence is printed as hatch density rather than colour. Every blank cell is printed as a blank (an em dash), every count is footnoted as documentation rather than prevalence. The world refuses the dark analytics-dashboard arrangement: no KPI tile row, no hero, no card grid, no eyebrow labels, no section numbers.",
+    "keyCharacteristics": [
+      "Edge-to-edge register density; tables are the primary surface, not a widget inside one.",
+      "Eleven-step tonal ramp is the entire neutral vocabulary; depth is tonal, never shadowed.",
+      "One reserved red for unresolved and conflict states; one warm lamp for selection.",
+      "Serif register text with tabular lining figures; sans-serif only for controls and column labels.",
+      "Hatch-density evidence swatches, a rotated UPDATED stamp, footnote apparatus under every table.",
+      "Paging motion: rows arrive from below over 220ms, exponential ease-out; nothing else animates."
+    ],
+    "rules": [
+      { "name": "The Ramp-Only Rule", "body": "No neutral exists outside --z0..--z10. Any grey, border, ground or ink is one of the eleven steps; new surfaces pick a step, they do not mix a new one.", "section": "colors" },
+      { "name": "The Red Rule", "body": "Red marks an unresolved or conflicting fact and nothing else. If a red element is not a flag, a high priority, a cross-hatch or an error, it is wrong.", "section": "colors" },
+      { "name": "The Lamp Rule", "body": "The lamp lights exactly one row at a time. Selection is full lamp ground with film-black ink, not a tint; secondary text on a lamp row drops to z4.", "section": "colors" },
+      { "name": "The Figures Rule", "body": "tabular-nums lining-nums is set on body and inherited everywhere; numeric columns are right-aligned and never proportionally spaced.", "section": "typography" },
+      { "name": "The Apparatus Rule", "body": "Source Sans 3 appears only on apparatus (heads, labels, controls, notes, IDs, dates). Record content stays serif.", "section": "typography" },
+      { "name": "The Rules-Not-Shadows Rule", "body": "Hierarchy is drawn with rules of three weights (hairline z3, standard z5, double z7). A new surface that needs separation gets a rule or a one-step tonal change, never a shadow.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do pick every grey from --z0..--z10 and every rule from --rule-soft (z3), --rule (z5) or --rule-strong (z7).",
+      "Do footnote every counted table with the documentation-not-prevalence line, in sans 12px z8 under a 1px rule.",
+      "Do print blanks as an em dash in z6 (.blank); a missing value is a fact on the page, not whitespace.",
+      "Do make the row itself the control: tr.row-link with hover z1, 2px z6 left bar, and full-lamp selection.",
+      "Do set controls, heads and labels in Source Sans 3 at 11–12px and keep record text in Source Serif 4 with tabular lining figures.",
+      "Do separate pages and heads with the 3px double rule; separate rows with hairlines.",
+      "Do animate only arriving rows (opacity + transform, 220ms, --ease) and honour reduced motion with an instant swap."
+    ],
+    "donts": [
+      "Don't introduce a neutral outside the ramp or tint a ramp step with alpha for a new surface.",
+      "Don't use ledger red for anything but unresolved or conflicting states (flags, high priority, cross-hatch, fetch errors).",
+      "Don't add eyebrow labels, kickers or section numbers above headings; the page head is a heading and a note, nothing above it.",
+      "Don't build cards, KPI tiles, hero bands or card grids; every surface is a ruled register or a ruled strip.",
+      "Don't round a corner or cast a shadow on a surface at rest; the tooltip and toast are the only floating overlays.",
+      "Don't encode evidence with colour; evidence is hatch density (solid / hatched / dotted / outlined), conflict is cross-hatch.",
+      "Don't present a count as prevalence, and don't let a number stand without its footnote."
+    ]
+  }
+}

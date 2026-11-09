@@ -105,7 +105,7 @@ The repository includes **Fieldnotes**, a static research dashboard for browsing
 3. The workflow at `.github/workflows/pages.yml` deploys the static site from the repository root.
 4. Open the Pages URL shown in Settings → Pages. For this repository it will normally be `https://gahlautabhinav.github.io/indian-drinks-research/`.
 
-The dashboard requires no Node build step or backend. It uses browser-side CSV parsing and the Marked library CDN for Markdown dossier rendering. The first deployment runs after Pages is configured to use GitHub Actions; later pushes to `main` trigger deployment automatically.
+The dashboard requires no Node build step or backend. It uses browser-side CSV parsing, Leaflet (CDN) for the India map on the Survey of India / Esri India Living Atlas boundary service, the Marked library CDN for Markdown dossier rendering, and Google Fonts. The page is laid out as a register: a gazetteer paged India → state → district, the beverage register, a record reader, and a ledger of open questions. Design tokens and rules are in `DESIGN.md`; product context in `PRODUCT.md`. The first deployment runs after Pages is configured to use GitHub Actions; later pushes to `main` trigger deployment automatically.
 
 
 - [Assam cross-community study source-quality audit](research/assam/cross-community-2026-source-quality-audit.md) — claim-scope limits and internal numerical checks for SRC-091; preserves district-vs-village distinction and flags the FL interpretation and life-form-count discrepancy.

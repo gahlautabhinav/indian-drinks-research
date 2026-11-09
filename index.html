@@ -3,119 +3,164 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#111315">
-  <meta name="description" content="A source-led research archive documenting traditional alcoholic beverages of India, their communities, localities, methods and open questions.">
-  <title>Indian Drinks Research — Field Archive</title>
+  <meta name="theme-color" content="#0b0d0f">
+  <meta name="description" content="Fieldnotes: a source-led register of India's traditional alcoholic beverages, read state by district by locality, with evidence limits printed in the record.">
+  <title>Fieldnotes · Indian Drinks Research</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=Source+Sans+3:wght@400;500;600&display=swap">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
   <link rel="stylesheet" href="assets/style.css">
   <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
   <script defer src="assets/app.js"></script>
 </head>
 <body>
-  <header class="topbar">
-    <a class="brand" href="./" aria-label="Archive home">
-      <span class="brand-mark">IR</span>
-      <span class="brand-copy"><strong>Indian Drinks Research</strong><small>Field archive · Working edition</small></span>
-    </a>
-    <div class="topbar-right">
-      <span class="status-label"><span class="status-dot"></span> Archive in progress</span>
-      <nav aria-label="Main navigation"><a href="#insights">Insights</a><a href="#geography">Places</a><a href="#archive">Records</a><a href="#methodology">Method</a><a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">Repository ↗</a></nav>
-    </div>
+  <a class="skip" href="#gazetteer">Skip to the register</a>
+
+  <header class="running-head" role="banner">
+    <a class="rh-title" href="./">Indian Drinks Research <span>Fieldnotes</span></a>
+    <nav class="rh-crumbs" aria-label="Register position"><ol id="crumbs"><li><button type="button" data-level="india" aria-current="page">India</button></li></ol></nav>
+    <div class="rh-counts" id="rh-counts" aria-live="polite"><span>Loading register…</span></div>
+    <nav class="rh-pages" aria-label="Register pages">
+      <a href="#gazetteer">Gazetteer</a><a href="#beverages">Beverages</a><a href="#reader">Record</a><a href="#ledger">Gaps</a><a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">Repository</a>
+    </nav>
   </header>
 
   <main>
-    <section class="intro">
-      <div class="intro-main">
-        <div class="eyebrow">FIELD RESEARCH / INDIA <span>—</span> EDITION 01</div>
-        <h1>Traditional alcoholic<br>beverages of India</h1>
-        <p class="intro-description">A growing, source-linked record of regional beverages, the communities that make them, documented production practices, and the limits of the available evidence.</p>
+    <!-- PAGE I: GAZETTEER -->
+    <section id="gazetteer" class="page page-gazetteer" aria-labelledby="gz-title">
+      <div class="page-head">
+        <h1 id="gz-title">Gazetteer of places</h1>
+        <p class="page-note">State, district and locality rows as documented in this archive. Select a polygon or a row to page inward.</p>
       </div>
-      <div class="intro-side">
-        <div class="intro-index">RESEARCH SCOPE</div>
-        <p>State → district → locality</p>
-        <p>Community knowledge · Material culture · Fermentation</p>
-        <div class="scope-rule"></div>
-        <span>Current field focus</span><strong>Assam, Northeast India</strong>
-      </div>
-    </section>
-
-    <section class="stats" aria-label="Archive statistics">
-      <div><span class="metric-label">Beverage records</span><strong id="stat-beverages">—</strong></div>
-      <div><span class="metric-label">Place records</span><strong id="stat-places">—</strong></div>
-      <div><span class="metric-label">Community records</span><strong id="stat-communities">—</strong></div>
-      <div><span class="metric-label">Registered sources</span><strong id="stat-sources">—</strong></div>
-    </section>
-
-    <section id="insights" class="insights-section">
-      <div class="section-heading">
-        <div><div class="eyebrow">01 / RESEARCH INTELLIGENCE</div><h2>Patterns across the archive</h2></div>
-        <p>Computed from current records. Counts show what is documented—not necessarily what is most common in real-world practice.</p>
-      </div>
-      <div class="insight-controls"><label for="insight-state">Scope</label><select id="insight-state"><option value="">All states / territories</option></select><span class="insight-note">Change the scope to compare patterns by state.</span></div>
-      <div id="insights-summary" class="insights-summary" aria-live="polite"></div>
-      <div class="insights-grid">
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">01 / RECORDED CATEGORIES</span><h3>Beverage types</h3></div><span class="panel-unit">records</span></div><div id="insight-types" class="rank-list"></div></article>
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">02 / INGREDIENT SIGNALS</span><h3>Ingredient mentions</h3></div><span class="panel-unit">records mentioning</span></div><div id="insight-ingredients" class="rank-list"></div><p class="insight-footnote">Keyword scan of recorded ingredient fields; not a verified recipe-level ingredient frequency.</p></article>
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">03 / STARTER CULTURES</span><h3>Starter documentation</h3></div><span class="panel-unit">exact labels</span></div><div id="insight-starters" class="rank-list"></div><p class="insight-footnote">Labels are shown as recorded. Similar spellings and local terms are not merged.</p></article>
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">04 / PROCESS</span><h3>Documented method stages</h3></div><span class="panel-unit">method rows</span></div><div id="insight-stages" class="rank-list"></div></article>
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">05 / EVIDENCE COVERAGE</span><h3>Evidence levels</h3></div><span class="panel-unit">beverage records</span></div><div id="insight-evidence" class="rank-list"></div></article>
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">06 / RESEARCH DEBT</span><h3>Open questions by priority</h3></div><span class="panel-unit">open gaps</span></div><div id="insight-gaps" class="rank-list"></div></article>
-      </div>
-      <div class="insight-bottom">
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">07 / GEOGRAPHIC COVERAGE</span><h3>Locality evidence</h3></div></div><div id="insight-places" class="coverage-list"></div></article>
-        <article class="insight-panel"><div class="insight-panel-head"><div><span class="eyebrow">08 / NEXT BEST RESEARCH</span><h3>Where to focus next</h3></div></div><div id="insight-recommendations" class="recommendation-list"></div></article>
-      </div>
-    </section>
-
-
-    <section id="geography" class="geo-section">
-      <div class="section-heading"><div><div class="eyebrow">02 / GEOGRAPHIC INTELLIGENCE</div><h2>Explore the archive by place</h2></div><p>Move from state to district to the beverage records and evidence attached to each place.</p></div>
-      <div class="geo-map-panel"><div class="geo-map-toolbar"><div><span class="eyebrow">INTERACTIVE ADMINISTRATIVE MAP</span><strong id="geo-map-heading">India · State boundaries</strong></div><button type="button" id="geo-map-back" disabled>← All India</button></div><div id="india-map" role="application" aria-label="Interactive map of India showing selectable state and district boundaries"></div><div class="geo-map-footer"><span id="geo-map-status">Loading administrative boundaries…</span><span>Boundary source: Survey of India · Esri India / Living Atlas · Release 2026</span></div></div>
-      <div class="geo-workspace">
-        <div class="geo-browser">
-          <div class="geo-step"><span class="geo-step-no">01</span><div><label for="geo-state">STATE / UNION TERRITORY</label><select id="geo-state"><option value="Assam">Assam</option></select><div id="geo-state-buttons" class="geo-state-buttons" aria-label="States represented in the archive"></div><small class="geo-picker-note">Only states with current archive records are listed here.</small></div></div>
-          <div class="geo-step"><span class="geo-step-no">02</span><div><label for="geo-district">DISTRICT</label><select id="geo-district"><option value="">Select a district</option></select></div></div>
-          <div class="geo-step"><span class="geo-step-no">03</span><div><label for="geo-beverage">BEVERAGE LAYER</label><select id="geo-beverage"><option value="">All beverages in selected district</option></select></div></div>
-          <div class="geo-coverage-legend"><span><i class="legend-dot documented"></i> Named locality / direct field evidence</span><span><i class="legend-dot lead"></i> District or study-area lead</span><span><i class="legend-dot none"></i> No place row in archive</span></div>
+      <div class="gazetteer">
+        <div class="map-col">
+          <div class="map-frame">
+            <div id="india-map" role="application" aria-label="Administrative map of India. Select a state or district polygon to page the register."></div>
+            <div class="map-lamp" aria-hidden="true"></div>
+          </div>
+          <div class="map-margin">
+            <span id="map-status">Loading administrative boundaries…</span>
+            <button type="button" id="map-back" class="link-btn" hidden>← Back to India</button>
+          </div>
+          <dl class="map-key" aria-label="Map key">
+            <div><dt><i class="key-swatch key-rows"></i></dt><dd>Polygon has place rows in this archive</dd></div>
+            <div><dt><i class="key-swatch key-none"></i></dt><dd>No place row yet (a search-status fact, not an absence of tradition)</dd></div>
+            <div><dt><i class="key-swatch key-lamp"></i></dt><dd>Selected</dd></div>
+          </dl>
         </div>
-        <div class="geo-results" aria-live="polite"><div class="geo-results-head"><div><span class="eyebrow">PLACE-BASED RECORDS</span><h3 id="geo-title">Assam · Select a district</h3></div><span id="geo-count" class="geo-count">35 district rows</span></div><div id="geo-summary" class="geo-summary"></div><div id="geo-district-list" class="geo-district-list"></div><div id="geo-records" class="geo-records"><p class="pane-intro">Choose a district to inspect the beverage coverage and its source-linked locality evidence.</p></div></div>
+        <div class="register-col">
+          <div class="register-head">
+            <h2 id="gz-register-title">India · States with archive entries</h2>
+            <span id="gz-register-count" class="register-count"></span>
+          </div>
+          <div id="gz-register" class="register-body" aria-live="polite">
+            <table class="register skeleton-table" aria-hidden="true"><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
+          </div>
+          <ol class="footnotes" id="gz-footnotes">
+            <li>Counts describe documentation held in this archive, not prevalence or production in the population.</li>
+            <li>Boundaries: Survey of India / Esri India Living Atlas administrative boundary service, drawn with <a href="https://leafletjs.com" target="_blank" rel="noreferrer">Leaflet</a>. A research navigation layer, not a cadastral map. The service carries pre-2016 district names and polygons; newer districts are listed in the register only.</li>
+          </ol>
+        </div>
       </div>
-      <p class="geo-integrity-note"><strong>Boundary and evidence note:</strong> state and district polygons are served by the Survey of India / Esri India Living Atlas administrative boundary service (Release 2026). The service extent and attributes are checked against the source metadata; the map is a research navigation layer, not a legal cadastral map. A district with no place row means no relevant record is currently in this archive—not that no beverage tradition exists.</p>
     </section>
 
-    <section id="archive" class="archive-section">
-      <div class="section-heading">
-        <div><div class="eyebrow">02 / RECORDS</div><h2>Research index</h2></div>
-        <p>Search the catalogue, then inspect a record and its evidence trail.</p>
+    <!-- PAGE II: BEVERAGE REGISTER -->
+    <section id="beverages" class="page page-beverages" aria-labelledby="bv-title">
+      <div class="page-head">
+        <h1 id="bv-title">Register of beverages</h1>
+        <p class="page-note">One row per canonical record. Spelling variants are notes on a row, never separate rows.</p>
       </div>
-      <div class="workspace">
-        <aside class="sidebar" aria-label="Search and filter records">
-          <label class="searchbox"><span class="search-icon">⌕</span><input id="search" type="search" placeholder="Search records…" autocomplete="off" aria-label="Search records"><kbd>/</kbd></label>
-          <div class="filter-row"><label for="state-filter">State / territory</label><select id="state-filter"><option value="">All locations</option></select></div>
-          <div class="filter-row"><label for="type-filter">Record type</label><select id="type-filter"><option value="">All types</option></select></div>
-          <div class="list-caption"><span>CATALOGUE</span><span id="result-count">Loading…</span></div>
-          <div id="beverage-list" class="beverage-list"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
-          <div class="sidebar-foot"><span>IR / INDEX</span><span>Evidence before inference</span></div>
+      <form class="filters" role="search" aria-label="Filter the beverage register" onsubmit="return false">
+        <label class="field field-search"><span>Search</span><input id="search" type="search" placeholder="Name, community, starter, district, source ID…" autocomplete="off"><kbd aria-hidden="true">/</kbd></label>
+        <label class="field"><span>State</span><select id="state-filter"><option value="">All</option></select></label>
+        <label class="field"><span>Type</span><select id="type-filter"><option value="">All</option></select></label>
+        <label class="field"><span>Evidence</span><select id="evidence-filter"><option value="">All</option><option value="solid">Well documented</option><option value="hatched">Documented</option><option value="dotted">Provisional</option><option value="outlined">Unverified / unclassified</option></select></label>
+        <span class="filter-count" id="result-count" aria-live="polite">—</span>
+      </form>
+      <div class="register-scroll">
+        <table class="register register-beverages" id="beverage-table">
+          <thead>
+            <tr>
+              <th scope="col" class="col-id">ID</th>
+              <th scope="col">Beverage</th>
+              <th scope="col">Community</th>
+              <th scope="col">State / district</th>
+              <th scope="col">Type</th>
+              <th scope="col">Starter</th>
+              <th scope="col" class="col-ev">Evidence</th>
+              <th scope="col" class="num">Src</th>
+              <th scope="col" class="num">Pl</th>
+              <th scope="col" class="num">Gap</th>
+              <th scope="col" class="col-date">Reviewed</th>
+            </tr>
+          </thead>
+          <tbody id="beverage-rows"><tr class="skeleton-row"><td colspan="11"></td></tr><tr class="skeleton-row"><td colspan="11"></td></tr><tr class="skeleton-row"><td colspan="11"></td></tr></tbody>
+        </table>
+      </div>
+      <ol class="footnotes">
+        <li>Evidence is set from the record's own evidence-level text: <i class="hatch solid"></i> well documented, <i class="hatch hatched"></i> documented, <i class="hatch dotted"></i> provisional, <i class="hatch outlined"></i> unverified or not classified. <i class="hatch crossed"></i> marks a row whose name boundary with another record is unresolved.</li>
+        <li>Src, Pl and Gap are counts of linked source, place and open-gap rows. "Reviewed" is the record's last review date; rows reviewed within the latest fortnight carry an UPDATED stamp.</li>
+      </ol>
+    </section>
+
+    <!-- PAGE III: RECORD READER -->
+    <section id="reader" class="page page-reader" aria-labelledby="rd-title" aria-live="polite">
+      <div class="page-head">
+        <h1 id="rd-title">Record</h1>
+        <p class="page-note" id="rd-note">No record selected. Choose a row in the beverage register or a linked beverage in the gazetteer.</p>
+      </div>
+      <div id="reader-body" class="reader-body"></div>
+    </section>
+
+    <!-- PAGE IV: RESEARCH-GAP LEDGER -->
+    <section id="ledger" class="page page-ledger" aria-labelledby="lg-title">
+      <div class="page-head">
+        <h1 id="lg-title">Ledger of open questions</h1>
+        <p class="page-note">Research gaps are records, not omissions. Each carries its beverage, district, priority and the next action on file.</p>
+      </div>
+      <div class="ledger-grid">
+        <div class="ledger-main">
+          <div class="register-head"><h2>Open gaps by priority</h2><span class="register-count" id="lg-count"></span></div>
+          <div class="register-scroll">
+            <table class="register register-gaps" id="gap-table">
+              <thead><tr><th scope="col" class="col-id">Gap</th><th scope="col">Pri.</th><th scope="col">Beverage</th><th scope="col">District</th><th scope="col">Question</th><th scope="col">Next action</th></tr></thead>
+              <tbody id="gap-rows"></tbody>
+            </table>
+          </div>
+        </div>
+        <aside class="ledger-side" aria-label="Archive shape">
+          <table class="register register-summary">
+            <caption>Shape of the archive</caption>
+            <tbody id="shape-rows"></tbody>
+          </table>
+          <table class="register register-summary">
+            <caption>Evidence tiers, beverage records</caption>
+            <tbody id="evidence-rows"></tbody>
+          </table>
+          <table class="register register-summary">
+            <caption>Assam districts with no place row</caption>
+            <tbody id="nodistrict-rows"></tbody>
+          </table>
         </aside>
-        <article id="detail" class="detail-panel" aria-live="polite">
-          <div class="empty-state"><div class="empty-index">SELECT A RECORD</div><h3>Record details</h3><p>Choose an entry from the index to review its documented attributes, linked localities, methods, cultural context, sources and unresolved questions.</p></div>
-        </article>
       </div>
-    </section>
-
-    <section id="methodology" class="methodology">
-      <div class="method-intro"><div class="eyebrow">02 / RESEARCH METHOD</div><h2>Read the evidence<br>in its context.</h2><p>This is a working research archive, not a definitive catalogue of every community practice. Each claim should remain traceable to its source and geographic scope.</p></div>
-      <div class="principles">
-        <div><span>01</span><div><strong>Terminology</strong><p>Names and spellings are retained with source context. Similar names are not assumed to be synonyms.</p></div></div>
-        <div><span>02</span><div><strong>Geography</strong><p>A sample, historical mention or community-level study does not establish current production in every locality.</p></div></div>
-        <div><span>03</span><div><strong>Uncertainty</strong><p>Conflicting accounts, missing locality evidence and unanswered questions stay visible in the record.</p></div></div>
-      </div>
+      <ol class="footnotes">
+        <li>Priority and status are as recorded in <a href="https://github.com/gahlautabhinav/indian-drinks-research/blob/main/data/research_gaps.csv" target="_blank" rel="noreferrer">research_gaps.csv</a>. A district with no place row means no relevant record has been found yet.</li>
+      </ol>
     </section>
   </main>
 
-  <footer><div class="footer-left"><span class="brand-mark">IR</span><span><strong>Indian Drinks Research</strong><small>Open research archive · Working edition</small></span></div><p>Data and dossiers are maintained in the <a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">public repository ↗</a>.</p><span class="footer-note">Version 0.1 / Assam field set</span></footer>
+  <footer class="colophon">
+    <dl class="principles">
+      <div><dt>Terminology</dt><dd>Names and spellings are kept with their source context. Similar names are not assumed to be synonyms.</dd></div>
+      <div><dt>Geography</dt><dd>A sample, a historical mention or a community-level study does not establish current production in every locality.</dd></div>
+      <div><dt>Uncertainty</dt><dd>Conflicting accounts, missing locality evidence and unanswered questions stay visible in the record.</dd></div>
+    </dl>
+    <p class="colophon-line">Data and dossiers are maintained in the <a href="https://github.com/gahlautabhinav/indian-drinks-research" target="_blank" rel="noreferrer">public repository</a>. The CSV and Markdown archive is the source of truth; this page reads it from the main branch. Working edition, Assam field set.</p>
+  </footer>
+
   <div id="toast" role="status" class="toast" hidden></div>
 </body>
 </html>
