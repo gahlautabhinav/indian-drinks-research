@@ -314,3 +314,43 @@ Das et al. (2023), *mSystems* 8(6), e00745-23, compares gut microbiomes of peopl
 ### Recommended next evidence request
 
 Request Kardong's 2011 article or the complete *Journal of Assam Science Society* 52(2) issue from Dibrugarh University / the journal archive. If obtained, transcribe every timepoint and retain the original units, replicate counts, temperature, starter dose and fermentation substrate details. Then compare its design against the 2017 144-hour endpoint without merging datasets.
+
+
+## 14. Older Dibrugarh University Epop research — SRC-152, SRC-139 and SRC-140 audit (2026-11-09)
+
+### SRC-152 — UGC Minor Research Project final report (2007–2009)
+
+**Primary institutional document:** Devid Kardong, *Isolation and Biochemical Characterization of Potential Amylolytic and Alcohol Producing Yeast Strains from Yeast Cake (Epope) Used in the Preparation of Po:ro (Sai-mod), a Traditional Alcoholic Rice Beverage of Mising Tribe of Assam, India*, UGC Minor Research Project F. No. 32-617/2006(SR), Department of Life Sciences, Dibrugarh University. Project period: 1 April 2007–31 March 2009. Official PDF: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf.
+
+**Directly verified in the accessible institutional PDF:**
+- Three Epop starter samples from different places were collected; the report does not name those places in the accessible text.
+- Seven pure isolates (bacteria and fungi/yeasts) with amylolytic activity and six isolates with alcohol-fermenting activity were recovered.
+- Partial characterisation is reported for amylolytic isolates AY-3 (also printed as amy-3), AY-1(19), and AY-4 (Big cell), and alcohol-fermenting isolate FY-10.
+- The report proposes AY-3 + AY-4 + FY-10 as a likely suitable consortium for Saimod/Po:ro solid-state fermentation. This is a candidate based on physiological characters, not proof of a validated or universally used household starter.
+- The administrative section says the work was part of Kardong's PhD research and that papers were still being prepared for publication at the time of the report.
+
+**Access limitation:** The university-hosted PDF currently exposes the administrative UGC form and a short project summary (152 extracted text lines); it does not expose the detailed technical annexure, full isolate-identification tables, sample locations, assay protocols or numerical biochemical results. A Scribd-hosted reproduction provides substantially the same summary but is not a substitute for the missing technical annexure. Do not infer species identities from AY/FY codes or assign the three samples to districts/villages.
+
+### SRC-139 — 2011 Saimod fermentation-parameter paper
+
+Dibrugarh University's research-publication record independently lists D. Kardong, “Studies on the Changes of certain Parameters during fermentation of Saimod using Epop: The Traditional Starter for Preparation of Alcoholic beverage by Mishing Tribe of Assam, India,” *Journal of Assam Science Society* 52(2):1–6, ISSN 0587-1921 (2011). Institutional bibliography: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf.
+
+The exact title makes this the strongest lead for fermentation kinetics, but the article itself remains unretrieved after targeted searches. No parameters, sampling intervals, replicate counts, units, temperature or results are transcribed. The SRC-152 project report is related institutional research, but it is not the SRC-139 article and cannot be used as a proxy for its results.
+
+### SRC-140 — 2011 Epop mould amylolytic-activity paper
+
+The same Dibrugarh University bibliography lists Devid Kardong, Kaushal Sood, R. N. S. Yadav and T. C. Bora, “Amyolytic activity of mold isolated from Epop used by the Mising tribe of Assam, India in preparation of alcoholic Rice beer,” *Bulletin of Life Sciences*, Vol. XVI (2011), ISSN 0971-5746. The title is printed as “Amyolytic” in the bibliography; retain that source spelling in bibliographic transcription rather than silently correcting it to “Amylolytic.”
+
+The article's full text and page range were not located. SRC-152 provides related Epop isolate context, but it does not establish that SRC-140 reports the same strains or assays. Do not attribute AY-3/AY-4 or any enzyme activity values to SRC-140 without its article.
+
+### Thesis lead — Devid Kardong (2011)
+
+A CSIR-NEIST institutional publication report lists Dr Devid Kardong's 2011 Dibrugarh University PhD thesis as “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam,” under guide Dr T. C. Bora. This is a valuable acquisition lead, but the report is bibliographic evidence only; no thesis PDF or repository record was retrieved. Note the title spelling “Chaimod” in that institutional record; do not silently harmonize it with “Saimod.”
+
+### Evidence and archive decisions
+
+- Keep SRC-152, SRC-139 and SRC-140 as three distinct records: a 2007–09 UGC project report, a 2011 fermentation-parameter paper, and a 2011 mould-amylolytic paper.
+- The report's three-sample design and isolate counts are evidence about SRC-152 only. They must not be attributed automatically to either journal paper.
+- The candidate AY-3/AY-4/FY-10 consortium is a historical experimental proposal, not evidence of current household practice.
+- No new beverage locality, producer, recipe or fermentation-time-series value is created from these documents.
+- Next acquisition routes: request the complete technical annexure to SRC-152, the complete *Journal of Assam Science Society* 52(2) issue for SRC-139, *Bulletin of Life Sciences* Vol. XVI for SRC-140, and the 2011 Dibrugarh University PhD thesis from the university library/repository or author.
