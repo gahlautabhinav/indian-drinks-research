@@ -679,3 +679,14 @@
 - SRC-087 is finished-beverage sampling only. SRC-153/160/161 are process descriptions, not kinetic experiments.
 - Excluded Das et al. (2023) gut microbiome study as beverage-fermentation time-course evidence; its longitudinal/human outcomes concern gut/fecal microbiome, not the brewing process.
 - Concluded no fully retrievable, replicated, matched multi-timepoint fermentation dataset was located. Added evidence audit and no-cross-study-curve rule to the crosswalk.
+
+
+## 2026-11-09 — Older Dibrugarh University Epop research retrieval
+- Recovered the official Dibrugarh University UGC Minor Research Project final report by Devid Kardong (F. No. 32-617/2006(SR), project period 1 Apr 2007–31 Mar 2009), SRC-152: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf.
+- Directly verified three Epop starter samples from unspecified places; seven pure amylolytic isolates and six alcohol-fermenting isolates; partial-characterisation codes AY-3/amy-3, AY-1(19), AY-4 (Big cell), FY-10; AY-3 + AY-4 + FY-10 proposed as a candidate consortium.
+- The accessible institutional PDF exposes only the administrative form and short summary, not the detailed technical annexure. No species IDs, named sample locations, assay protocols or numerical biochemical tables were inferred.
+- Reconfirmed SRC-139's bibliographic record in Dibrugarh University publication report: Kardong (2011), *Journal of Assam Science Society* 52(2):1–6, title explicitly concerns changes during Saimod fermentation. Full paper remains unavailable; no time-series values transcribed.
+- Reconfirmed SRC-140's bibliographic record: Kardong, Sood, Yadav & Bora (2011), “Amyolytic activity of mold isolated from Epop...”, *Bulletin of Life Sciences* Vol. XVI. Full text/page range not found; retained bibliography's “Amyolytic” spelling.
+- Found an additional thesis acquisition lead in a CSIR-NEIST institutional report: Devid Kardong, 2011 Dibrugarh University PhD thesis, “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam,” guide T. C. Bora. Thesis itself not retrieved; title spelling retained as printed.
+- Updated the Apong microbiology crosswalk with the distinction between SRC-152, SRC-139 and SRC-140. No new production locations, microbial species identities, recipe values or fermentation curves created.
+- Next: acquire the SRC-139 journal issue, SRC-140 *Bulletin of Life Sciences* Vol. XVI, complete SRC-152 technical annexure, and Kardong's 2011 thesis via Dibrugarh University library/author.
