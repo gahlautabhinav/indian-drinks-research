@@ -427,3 +427,17 @@ The methods state that 12 samples represented the four beverage types, while als
 ### Archive decision
 
 SRC-046 was already present in the source register; this is a deeper full-text audit, not a duplicate source. Its main contribution to the Mising record is a named Sai Mod collection locality (Jamuuri Panchali, Dhemaji), one-batch microbiome/metabolome evidence, and an explicit distinction between HPLC and GC–MS/MS ethanol values. No new village-production map pin or population prevalence claim is justified.
+
+## 18. SRC-168 (2022) — Dhemaji Mising fermented-food / Apong process account
+
+Pegu, Sarmah, Yein & Sanong, “Study on a Few Traditional Fermented Food Practices of Mising Community of Dhemaji District, Upper Assam, India,” *Asian Journal of Biological and Life Sciences* 11(3):840–843, DOI 10.5530/ajbls.2022.11.112. Full PDF: https://www.ajbls.com/sites/default/files/AsianJBiolLifeSci-11-3-840.pdf.
+
+The PDF masthead and final citation identify the issue as September–December **2022**. The repository landing page now displays 2026 metadata, although it also shows the 2022 DOI and original 2022 submission/acceptance dates. The source register retains the issue/citation year (2022) and records this metadata discrepancy.
+
+The paper says a field survey was conducted in Dhemaji district villages/rural areas over September–December 2021 and that households involved in fermented-food manufacture were selected. It supplies no village names, number of villages, household/respondent count, sampling frame or village-to-product allocation. Its broad discussion statement that every Mising household prepares these products is not supported by a reported denominator or representative sampling design. No village-level map pin or prevalence estimate is justified.
+
+The short Apong process account distinguishes “Pr: ro Apong” and “Noggin Apong”: Epop powder is applied to cooked rice and stored in closed, straw-sealed earthen jars on a smoke-reached loft; it describes an approximately 15-day fermentation/loft period. Po:ro rice is cooled on a bamboo-stick sheet (Dola) and kneaded with charred straw ash (Amrong) and husk ash (ampe). Nogin is associated with selected glutinous rice, naming Ampi-abun and Lie-ambun. The text describes Po:ro as brown/black and Nogin as creamy/white, and names Ponyok and Arug for the respective residues/ingredients, reportedly reused as pig/fish feed.
+
+The 15-day passage is brief and does not clearly establish whether the same duration applies to both variants or whether it is a controlled fermentation endpoint. Keep it as a source-specific account, not a universal process value. The paper contains no Epop plant inventory, voucher, microbial isolation/sequencing, fermentation chemistry, safety analysis or time-course data.
+
+Do not combine its 15-day account with the distinct timings in SRC-136, SRC-147, SRC-148, SRC-161 or SRC-167 into one standard schedule. Full audit: `research/assam/src168-pegu-et-al-2022-mising-fermented-foods-audit.md`.
