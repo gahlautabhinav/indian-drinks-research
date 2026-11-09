@@ -202,3 +202,37 @@ Keep three datasets distinct:
 3. **Finished beverage:** pooled Mising Poro/Nogin 16S profiles (SRC-087) and culture-dependent Apong-associated LAB isolate row (SRC-165), with distinct sampling designs and no direct sample linkage.
 
 Do not infer that the Apop-pitha *P. pentosaceus* strains are present in every starter, that they dominate starter cakes, or that finished Apong inherits the same measured community. Next useful primary-source targets are the original sample provenance/isolate records for SRC-165 and any unpublished thesis/project on Apong-Pitha microbial composition; search leads alone must not be promoted to source records without a retrievable primary document.
+
+
+## 11. Mising Apong biochemical composition — primary evidence review
+
+### SRC-087: Das et al. (2019), finished-beverage comparison
+
+The 2019 *3 Biotech* study analysed nine pooled location composites from 27 finished-beverage samples. Mising samples were RB01 (Poro Apong), RB02 and RB03 (Nogin Apong). The sample-specific table reports:
+
+| Measure | RB01 Poro | RB02 Nogin | RB03 Nogin |
+|---|---:|---:|---:|
+| Alcohol (% v/v) | 10.67 ± 1.02 | 9.99 ± 0.40 | 10.37 ± 0.57 |
+| DPPH scavenging (mg ascorbic-acid equivalent/ml) | 3.01 ± 0.18 | 3.47 ± 0.06 | 3.17 ± 0.08 |
+| ABTS scavenging (mg ascorbic-acid equivalent/ml) | 2.04 ± 0.06 | 3.23 ± 0.03 | 1.80 ± 0.03 |
+| Total phenolics (mg gallic-acid equivalent/ml) | 2.99 ± 1.05 | 2.80 ± 0.21 | 2.07 ± 0.25 |
+
+These are reported means ± SEM in the paper. The table's significance-letter annotations must be consulted before making pairwise statistical claims. The study pooled three samples per location, so these values represent composite samples, not independent household-level variation.
+
+GC–MS Table 3 lists detected compounds across the rice-beer sample set, including saccharides (e.g., glucose, fructose, maltose, trehalose), organic acids (e.g., lactic, acetic, butanoic, propanoic and gluconic acids), amino acids (e.g., glycine, proline, serine, alanine, valine, leucine and glutamic acid), and other compounds. The accessible table presents a combined list; it does not provide a sample-by-sample concentration matrix in the extracted text. Therefore do not claim that every listed metabolite occurs in every Poro or Nogin sample, or that one subtype has a greater concentration without the full quantitative data.
+
+The article reports 18 bacterial genera and says LAB form the dominant group overall (about 90% abundance). This is an overall statement across the nine composites, not a Poro-vs-Nogin-specific quantitative ranking. Functional pathways were inferred using PICRUSt from 16S data; these are predictions, not direct metabolite flux measurements.
+
+### SRC-166: Kumari et al. (2024), Sai Mod/Poro Apong and Rohi
+
+Publisher page: *Systems Microbiology and Biomanufacturing* 4(1):56–65, DOI 10.1007/s43393-023-00188-x; online 14 October 2024. The publisher labels the item “Review,” although its abstract describes a current study and reports measured physicochemical and analytical results. The full text was not accessible in this pass.
+
+The abstract reports pH 3.72 ± 0.22 and alcohol 35% v/v for Rohi; pH 3.86 ± 0.43 and alcohol 26% v/v for Sai Mod. It also reports moisture, volatile acidity, total soluble sugar/protein, crude fat, DPPH, phenolics, flavonoids and mineral measurements. The abstract's ordering is explicit: first Rohi, then Sai Mod for the paired values in its first sentence; the second sentence reports the same order for values “for Sai and Rohi mods respectively,” which creates an apparent ordering ambiguity. Do not assign the paired values beyond the explicit sequence without checking the full paper's tables. The reported 26–35% v/v alcohol values are substantially higher than SRC-087's approximately 10% for Apong; this difference may reflect sample/process definition or analytical/reporting issues and must not be reconciled by assumption. The abstract also prints total soluble sugar and protein in µg/ml, units that require full-text verification.
+
+### Cross-study cautions and archive decision
+
+- SRC-087 is the best sample-labelled quantitative comparison currently available for Poro and Nogin finished beverages.
+- SRC-166 is a relevant additional source, but its abstract alone is insufficient to harmonize values, assign all measurements securely, or establish comparability.
+- Do not merge Sai Mod with every Poro Apong process or equate Rohi with Mising Nogin.
+- Do not infer clinical antioxidant benefit from in-vitro DPPH/ABTS or total-phenolic assays.
+- No stage-resolved fermentation chemistry or time-series metabolomics was identified in this search pass.
