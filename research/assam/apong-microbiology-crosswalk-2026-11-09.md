@@ -354,3 +354,26 @@ A CSIR-NEIST institutional publication report lists Dr Devid Kardong's 2011 Dibr
 - The candidate AY-3/AY-4/FY-10 consortium is a historical experimental proposal, not evidence of current household practice.
 - No new beverage locality, producer, recipe or fermentation-time-series value is created from these documents.
 - Next acquisition routes: request the complete technical annexure to SRC-152, the complete *Journal of Assam Science Society* 52(2) issue for SRC-139, *Bulletin of Life Sciences* Vol. XVI for SRC-140, and the 2011 Dibrugarh University PhD thesis from the university library/repository or author.
+
+
+## 15. Thesis and journal-archive acquisition routes — follow-up (2026-11-09)
+
+### Thesis record and repository route
+
+A CSIR-NEIST institutional research-fellow publication report independently lists Devid Kardong's 2011 Dibrugarh University PhD thesis:
+“Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam,” guide Dr T. C. Bora. The report is bibliographic evidence for the thesis, not its contents. The title spelling “Chaimod” is retained as printed.
+
+Dibrugarh University's current library discovery pages direct users to Shodhganga, IndCat, OATD, NDLTD, CORE and other ETD discovery services. Exact-title/name searches in the accessible indexed results did not locate a thesis record or full-text download. This is a failed retrieval in the public search route checked, not proof that the thesis is absent from the university's physical holdings or restricted repository.
+
+Useful institutional discovery pages:
+- Dibrugarh University Indian Open Thesis & Dissertations: https://www.dibru.ac.in/indian-open-thesis-and-dissertations
+- Dibrugarh University ETD Discovery Tools: https://www.dibru.ac.in/ETD-discovery-tools
+- Dibrugarh University library e-resources / catalogue and thesis routes: https://www.dibru.ac.in/list-of-e-resources
+
+### Journal issue checks
+
+The university's 2016 NAAC research-publication volume independently confirms the bibliographic entries for SRC-139 and SRC-140. Searches for the *Journal of Assam Science Society* 52(2) 2011 issue and *Bulletin of Life Sciences* Vol. XVI (2011) did not recover either full article. A separate IIT Guwahati report confirms that *Journal of Assam Science Society* volume 52 had other 2011 papers, but it does not expose Kardong's article or issue contents.
+
+### Retrieval conclusion
+
+No new primary experimental data were recovered in this follow-up. SRC-139 remains the key fermentation-time-course acquisition target; SRC-140 remains the key mould/amylolytic enzyme target; Kardong's 2011 thesis may contain the integrated methods and data behind the project. Do not claim that any thesis or journal PDF was obtained. The next practical route is direct document delivery / library enquiry to Dibrugarh University Central Library and the Department of Life Sciences, requesting the thesis and the two exact journal issues.
