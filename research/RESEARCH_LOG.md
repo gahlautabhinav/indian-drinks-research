@@ -595,3 +595,8 @@
 - Corrected `ASM-GAP-058`: cleared non-ID text (`Not yet assignable; PRJNA994679`) from `Beverage_ID`; project-level BioProject lead remains unassigned until sample-to-beverage linkage is proven.
 - Corrected `ASM-GAP-064`: replaced obsolete/nonexistent IDs with canonical `ASM-001-JUD`, `ASM-005-HAL` and `ASM-003-POR`. Kept Jumai unlinked because SRC-143 does not resolve its identity and no canonical finished-beverage record exists; added an explicit next action against unsupported assignment.
 - No validator rules were weakened and no beverage records were fabricated. Full repair rationale: `research/assam/archive-validation-repair-gaps-058-064-2026-11-09.md`.
+
+## 2026-11-09 — SRC-153 mapped-village reconciliation
+- Re-inspected the publisher PDF, including Figure 1 (page 4) and acknowledgements (page 12). Methods state 15 randomly selected Sivasagar villages; Figure 1 has 13 visible but unlabeled point symbols; acknowledgements name 13 villages in Disangmukh, Rajabari and Charaideo groups. Majorbari and Ligiribari are the two explicitly named in-depth villages.
+- The 13/13 correspondence is suggestive, not proof that the acknowledgement list is the complete sample frame or that plotted points map one-to-one to named villages. No village-level beverage production rows were created. Updated ASM-GAP-068 and documented author-data requests in `research/assam/src153-figure-and-village-list-reconciliation-2026-11-09.md`.
+- Checked a separate 2026 Mili et al. floristic paper with NIFG/2023/1–125 vouchers; it is not identified as the ÉPOP voucher register and cannot resolve SRC-153's missing voucher/locality crosswalk.
