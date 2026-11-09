@@ -66,3 +66,16 @@ The preferred issue-year citation is 2014 because the digital issue masthead rep
 - The absence of Enterobacteriaceae and lactic-acid bacteria is a negative result under the paper’s stated selective media and incubation conditions, not proof that such organisms never occur in Epop or Apong.
 - The paper’s 5% alcohol figure is source-specific and should not be averaged with other studies.
 - Claims about medicinal importance, health and welfare are not clinical evidence.
+
+## Targeted inventory-recovery recheck (2026-11-09)
+
+The FlipHTML5 page-level text is now independently retrievable at printed pages 59–61:
+- Page 59 confirms the paper's title, authors, the authors' claim of 51 starter-plant species and the distinction between Nogin Apong and Po:ro Apong/Saimod: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/59/
+- Page 60 confirms the five named collection villages (Sirum, Budubari, Boloma, Bhomoraguri and Arunamukh), 2011–2012 plant collection, herbarium preparation/deposition at Kakojan College, and the aggregate claim of 51 species in 39 genera and 31 families: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/60/
+- Page 61 confirms the reported starter-cake process and the source-specific 4–8 cakes/kg and 3–4 day Nogin account, plus 15–20 day Po:ro account: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/61/
+
+**The key limitation remains unresolved:** the page-level text extraction does not expose Table 1's plant rows. Targeted searches for the article title, Table 1 and the 51-species claim did not locate a separate complete transcription or publisher-hosted PDF. No species list has therefore been reconstructed from snippets or inferred from other Apong studies. The article's Table 1 must be inspected from a legible page image or original issue before a 51-row inventory can be entered.
+
+The Kakojan College faculty profile for co-author Mridula Neog separately records a 2018 ICSSR-sponsored two-day national-seminar presentation titled “Qualitative Phytochemical Analysis of two Pteridophytic Plant species used traditionally by Tribes of Assam in Starter Culture preparation of rice beer fermentation” (27–28 April 2018). The public profile does not name the host institution or provide the paper, abstract, plant identities, voucher details or results. It is a separate lead, not evidence that the two species are included in SRC-148's 51-species inventory. Targeted public search did not retrieve the presentation or proceedings. Source profile: https://www.kakojancollege.edu.in/singlefaculty.php?slno=91.
+
+**Decision:** retain the 51-species figure as an author-reported aggregate only. Do not create species-level rows until Table 1 is visually transcribed and cross-checked. Keep the 2018 pteridophyte paper separate under ASM-GAP-067.
