@@ -392,3 +392,38 @@ The administrative form states that the paper was “preparing for publication�
 **Sources:**
 - Scribd reproduction of the five-page administrative report and Annexure I summary: https://www.scribd.com/document/1042837999/Devid-Kardong-Report
 - Official Dibrugarh University SRC-152 report: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf
+
+
+## 17. SRC-046 (2026) — new multi-omics evidence for Sai Mod / Po:ro Apong
+
+### Source and sample identity
+
+Das, Medhi and Tamang (2026), “Microbial diversity and its links to retinol pathways and aroma compounds in ethnic fermented rice beverages of Assam,” *AMB Express* 16, article 91, DOI 10.1186/s13568-026-02062-0. Open-access full text: https://link.springer.com/article/10.1186/s13568-026-02062-0.
+
+The paper includes four beverage labels: Black Rohi Modh (BR), Rohi Modh (RH), Jou Bidwi (JOU), and Sai Mod (SM). Its text explicitly associates Sai Mod with the Mising community and describes Epop as its rice-flour/herb starter. The collection site for SM is Jamuuri Panchali, Dhemaji district; preparation there is described as rare. This is a named locality and an important addition to the Assam evidence base, but it is one collected household batch, not proof of district-wide or current prevalence. The article's broader description of other beverages should not be merged into the Mising Apong profile.
+
+The methods state that 12 samples represented the four beverage types, while also stating that each beverage was authentically collected only once and that all triplicate measurements were technical replicates from single fermentation batches. Treat the independent biological evidence as one household batch per beverage type, not 12 independent household observations. The authors themselves describe the dataset as case-study type. Do not interpret analytical triplicates as biological replication.
+
+### Sai Mod measurements and organisms reported
+
+- HPLC ethanol: 4.28 ± 0.14% v/v for SM. The GC–MS/MS section separately reports 4.99% ethanol for SM; preserve both method-specific reported values and flag their difference rather than selecting one.
+- pH for the four beverages collectively ranges 4.1–4.5; titratable acidity 0.58–0.72% lactic acid. The main-text abstract does not provide the exact SM pH/TTA values; do not assign the group range to SM.
+- Antioxidant assays: SM DPPH 46.84 ± 1.39%; FRAP 96.93 ± 1.46 µmol/mL. These are in-vitro chemical assay outputs, not health outcomes.
+- Culture-dependent isolation: 16 LAB and 11 yeast isolates from SM (among 68 LAB and 55 yeast isolates across all four beverage types). The paper reports LAB identifications including Lactiplantibacillus plantarum (SM1), Levilactobacillus brevis (SM6), and Lentilactobacillus hilgardii (SM3, SM4, SM5); yeast identifications include Saccharomyces cerevisiae (SM1Y, SM2Y), Saccharomyces paradoxus (SM4Y), and Wickerhamomyces anomalus (SM3Y).
+- Shotgun metagenomic analysis reports Saccharomyces as the most abundant genus in SM (54.85%), with Lentilactobacillus also prominent (28.29%). These are sequence-derived relative-abundance estimates, not viable-cell counts. The paper's metagenomic workflow used Nanopore long-read sequencing and Kaiju annotation; distinguish this from the cultured isolates.
+- The SM metabolome is reported as 113 compounds, with serine, aromatic acids, and disaccharides (cellobiose, trehalose) highlighted. The study also reports predicted retinol-related pathways. Gene/pathway annotation indicates metabolic potential, not direct vitamin A/retinol production or a nutritional/clinical benefit.
+
+### Critical limitations and reconciliation flags
+
+1. **One batch per beverage:** all analytical triplicates are technical replicates. Group-level p-values, ordination and correlations are exploratory and batch-specific; they do not establish community-level differences or causal microbial effects.
+2. **12 samples vs four authentic batches:** the paper says 12 samples but describes one authentic collection per beverage and technical triplicates. Do not count 12 as independent households or fermentation events.
+3. **Ethanol discrepancy:** HPLC reports SM 4.28 ± 0.14% v/v; GC–MS/MS discussion/results report 4.99%. Retain method-specific values; request clarification before treating either as a definitive product specification.
+4. **Taxonomy vs viability:** metagenomic species/genera and culture-isolate IDs are distinct evidence streams. DNA detection does not establish viability; cultured isolate counts do not describe the entire community.
+5. **Species richness claims:** the paper reports 1,785 species across four beverage metagenomes, but its own discussion says the small independent sample count (n=4) constrains statistical power. Treat broad species-level annotation cautiously, especially for rare taxa and inferred functional roles.
+6. **Retinol interpretation:** predicted retinol metabolism genes/pathways are not direct measurement of retinol, vitamin A or human bioavailability.
+7. **Comparison with SRC-087 and SRC-136:** SRC-087's Mising finished-beverage samples and SRC-136's process/biochemistry work are different studies with different materials, methods, localities and process stages. Do not pool ethanol or pH into a synthetic time series or universal range.
+8. **Community label:** the article explicitly identifies Sai Mod as Mising in its introduction, but the methods' locality and household details are sparse. Preserve Jamuuri Panchali, Dhemaji as the collection site stated in the paper; do not infer producer identity beyond the source.
+
+### Archive decision
+
+SRC-046 was already present in the source register; this is a deeper full-text audit, not a duplicate source. Its main contribution to the Mising record is a named Sai Mod collection locality (Jamuuri Panchali, Dhemaji), one-batch microbiome/metabolome evidence, and an explicit distinction between HPLC and GC–MS/MS ethanol values. No new village-production map pin or population prevalence claim is justified.
