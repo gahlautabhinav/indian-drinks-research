@@ -590,3 +590,8 @@
 - Registered the map service as SRC-159 and documented layer metadata, extent, runtime dependency and evidence limitations in `research/geospatial/interactive-map-implementation-audit-2026-11-07.md`.
 - JavaScript syntax validation passed. Live browser rendering, service CORS/query behaviour and district-name crosswalk still require post-deployment verification.
 - Map colours represent current archive place-row coverage only; they do not indicate district-wide production prevalence. No-place-row districts are archive gaps, not evidence of absence.
+
+## 2026-11-09 — Archive foreign-key validation repair
+- Corrected `ASM-GAP-058`: cleared non-ID text (`Not yet assignable; PRJNA994679`) from `Beverage_ID`; project-level BioProject lead remains unassigned until sample-to-beverage linkage is proven.
+- Corrected `ASM-GAP-064`: replaced obsolete/nonexistent IDs with canonical `ASM-001-JUD`, `ASM-005-HAL` and `ASM-003-POR`. Kept Jumai unlinked because SRC-143 does not resolve its identity and no canonical finished-beverage record exists; added an explicit next action against unsupported assignment.
+- No validator rules were weakened and no beverage records were fabricated. Full repair rationale: `research/assam/archive-validation-repair-gaps-058-064-2026-11-09.md`.
