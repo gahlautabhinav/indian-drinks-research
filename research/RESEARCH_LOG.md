@@ -630,3 +630,10 @@
 - Kept SRC-087 (Das et al. 2019) separate as finished-beverage 16S bacterial-DNA evidence for Poro Apong RB01 and Nogin Apong RB02/RB03. It is not a starter-cake yeast/mould profile.
 - No beverage, place or microbial canonical records were added because the available studies do not justify new production localities or stage-specific household prevalence. Existing locality evidence for the three Dhemaji starter collection sites should be cross-checked against the place register before any future structured links.
 - Follow-up: retrieve Parasar et al. (2017) full paper, Das et al. (2019) supplementary sample table, and Saikia et al. (2024) nine-sample register; seek a Mising-specific longitudinal sampling design.
+
+## 2026-11-09 — SRC-164 primary six-community yeast study extraction
+- Retrieved and read the publisher full text of Parasar, Sarma & Kotoky (2017), DOI 10.3923/jbs.2017.91.105; added it as SRC-164 and expanded the Apong microbiology crosswalk.
+- Verified six-district/six-community starter-cake sampling and culture-dependent methods (YPD, chloramphenicol/chlorotetracycline, 30°C; subculture five times). Paper reports 64 cultured isolates; 31 selected for molecular identification; nine species across seven genera.
+- Mising starter-cake representatives selected for molecular identification: MIC5X (*Rhodotorula taiwanensis*) and MIB4X (*Wickerhamomyces anomalus*). This refines the earlier single-species summary; it remains starter-cake evidence, not finished Apong.
+- Flagged an internal source contradiction: abstract/results state *W. anomalus* across all communities except Ahom, while one discussion sentence says absence of a specific fermenting yeast in Mising starters. Did not silently resolve it.
+- Table 1/2/3 images were not sufficiently machine-readable for exact isolate-to-village or full accession transcription; no locality-to-isolate inference made. Existing MIC5X accession LC011412 is independently linked by the 2020 follow-on characterization paper.
