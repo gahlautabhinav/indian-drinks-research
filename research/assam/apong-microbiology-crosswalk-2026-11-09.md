@@ -143,3 +143,35 @@ Do not add village-level production records or map RB01/RB02/RB03 to any named v
 
 **Primary article:** https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/  
 **MG-RAST study:** mgp85043 (identifier cited in the paper)
+
+
+## 9. SRC-165 — LAB isolates from Assam rice beer and starter materials (Das et al., 2019)
+
+**Primary source:** Arup Jyoti Das, Manas Jyoti Das, Tatsuro Miyaji & Sankar Chandra Deka, “Growth and metabolic characterization of four lactic acid bacteria species isolated from rice beer prepared in Assam, India,” *Access Microbiology* 1(4):e000028 (published 29 May 2019), DOI 10.1099/acmi.0.000028; PMID 32974521; PMCID PMC7470291.
+
+### Sampling and isolate table
+
+The methods say rice beer and starter cakes were collected from households of different tribal communities in Assam, in replicates, transported refrigerated and stored at 4°C. The article does not provide village/district sampling locations or household-level provenance. LAB were cultured on MRS agar with CaCO3 and bromocresol purple using a double-layer technique; identification used 16S rRNA sequencing.
+
+Table 1 explicitly reports the following Mising rows:
+
+| Source label | Community | Isolate | 16S accession |
+|---|---|---|---|
+| Apong | Mising | *Lactobacillus casei* TEZU262 | KR781613 |
+| Apop-pitha | Mising | *Pediococcus pentosaceus* TEZU481 | KT273331 |
+| Apop-pitha | Mising | *Pediococcus pentosaceus* TEZU482 | KT273330 |
+| Apop-pitha | Mising | *Pediococcus pentosaceus* TEZU486 | KT273328 |
+
+The remaining Table 1 entries document LAB from Dimasa (Umhu, Judima), Karbi (Thap, Hor-alank), Deori (Perok-kushi, Sujen), Ahom (Mod-pitha, Xajpani) and Bodo (Amou, Jou-bishi). All 14 table rows and accessions should be retained as article-level culture records, not converted to village-level production records.
+
+### Internal discrepancy to preserve
+
+The results prose states three *L. casei*, one *L. pentosus*, one *L. plantarum* and eight *P. pentosaceus* strains (13 total). Table 1 actually lists 14 isolate rows and four *L. casei* entries: TEZU309, TEZU468, TEZU262 and TEZU374. Do not silently harmonize the prose to the table. The table's combined heading “Rice beer/starter cake name” also does not make the biological material type unambiguous for every row.
+
+### Interpretation limits
+
+The work is culture-dependent and targets LAB; it is not a comprehensive microbiome survey. The Mising *L. casei* and *P. pentosaceus* detections are tied to the paper's labels “Apong” and “Apop-pitha,” respectively, but no named village, district, household, fermentation stage or precise source material is supplied for each isolate. Do not equate Apop-pitha starter cake with finished Apong. The paper's acid/bile tolerance, antibiosis and antioxidant assays are in-vitro strain characterizations, not clinical evidence of probiotic efficacy, treatment benefit, or safety in consumers.
+
+### Cross-source relevance
+
+This study complements SRC-087, which used 16S rDNA sequencing on pooled finished beverages, and SRC-162/SRC-164, which examine yeast isolates from starter materials. Its Mising LAB strains are not direct confirmation of the bacterial profile in SRC-087's RB01–RB03 composites because the sources, samples and methods differ. Keep the evidence layers separate: culture-isolated LAB from this paper; bacterial DNA profiles from SRC-087; and starter-cake yeast isolates from SRC-162/164.
