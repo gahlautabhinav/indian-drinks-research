@@ -175,3 +175,30 @@ The work is culture-dependent and targets LAB; it is not a comprehensive microbi
 ### Cross-source relevance
 
 This study complements SRC-087, which used 16S rDNA sequencing on pooled finished beverages, and SRC-162/SRC-164, which examine yeast isolates from starter materials. Its Mising LAB strains are not direct confirmation of the bacterial profile in SRC-087's RB01–RB03 composites because the sources, samples and methods differ. Keep the evidence layers separate: culture-isolated LAB from this paper; bacterial DNA profiles from SRC-087; and starter-cake yeast isolates from SRC-162/164.
+
+
+## 10. Starter-cake bacterial evidence check — 2026-11-09
+
+### Finding
+
+A targeted search for bacterial-community studies of Mising Apop-pitha / E’pob did not identify a publicly accessible primary study that comprehensively profiles bacteria in the Mising starter cake itself. This is a bounded literature-search result, not proof that no such work exists.
+
+The strongest directly relevant bacterial evidence remains SRC-165 (Das et al., 2019): culture-dependent LAB isolates associated in Table 1 with Mising labels Apong and Apop-pitha. The Apop-pitha isolates are *Pediococcus pentosaceus* TEZU481, TEZU482 and TEZU486 (accessions KT273331, KT273330 and KT273328); the Apong isolate is *Lactobacillus casei* TEZU262 (KR781613). The article does not supply locality/household-level provenance or clearly separate the biological material type for every row under its combined “rice beer/starter cake name” heading.
+
+SRC-164 (Parasar et al., 2017) provides culture-dependent yeast evidence from Mising starter cakes, including *Rhodotorula taiwanensis* MIC5X and *Wickerhamomyces anomalus* MIB4X. It is not a bacterial survey. SRC-087 (Das et al., 2019) provides 16S rDNA bacterial profiles from pooled finished-beverage samples RB01–RB03 (Poro/Nogin Apong), not from E’pob starter cake. SRC-087's S1/S2 supplementary tables remain inaccessible in the reviewed public route.
+
+### Excluded near-matches
+
+- The 2016 whole-genome-shotgun metagenomics study of Xaj-pitha (PMC4947050) is explicitly an Ahom starter-cake study. Its LAB and other bacterial taxa cannot be attributed to Mising E’pob.
+- The 2019 microbial-quality study of Xaj-pitha (PMC6977804) concerns Ahom starter and fermentation, not Mising starter.
+- The 2024 E’pob HRLC-MS article (SRC-114) profiles chemical/spectral annotations in a starter-cake sample; it does not identify bacterial taxa.
+- The 2021 yeast review (SRC-106) summarizes starter-cake yeasts and identifies Mising apong kusure/apop pitha with *R. taiwanensis* and *W. anomalus*; it is secondary yeast evidence, not bacterial community data.
+
+### Evidence-layer decision
+
+Keep three datasets distinct:
+1. **Starter cake:** Mising yeast isolates (SRC-164) and LAB isolate rows associated with Apop-pitha (SRC-165); no comprehensive bacterial starter-cake microbiome established.
+2. **Fermentation stage:** no Mising Apong stage-resolved bacterial time series located in this pass.
+3. **Finished beverage:** pooled Mising Poro/Nogin 16S profiles (SRC-087) and culture-dependent Apong-associated LAB isolate row (SRC-165), with distinct sampling designs and no direct sample linkage.
+
+Do not infer that the Apop-pitha *P. pentosaceus* strains are present in every starter, that they dominate starter cakes, or that finished Apong inherits the same measured community. Next useful primary-source targets are the original sample provenance/isolate records for SRC-165 and any unpublished thesis/project on Apong-Pitha microbial composition; search leads alone must not be promoted to source records without a retrievable primary document.
