@@ -112,3 +112,24 @@ Request from the author/Jengraimukh College:
 - OpenAlex metadata: https://openalex.org/works/W7161536275
 - SRC-151 full transcription: `src151-duarah-et-al-2023-mising-36-plants.csv`
 - SRC-153 full audit: `src153-mili-sundriyal-2023-epop-fulltext-audit.md`
+
+## 9. Authority-backed taxonomic review (2026-11-09)
+
+A separate reviewed layer is committed at `src161-taxonomic-review-2026-11-09.csv`. Raw source spellings in the 48-row transcription remain unchanged.
+
+Key corrections/decisions based on Kew Plants of the World Online (POWO), Kew Medicinal Plant Names Services (MPNS), and India Flora Online:
+- Row 1 “Paderia foetida” is a source spelling error; accepted spelling is *Paederia foetida* L. (Rubiaceae).
+- Row 2 *Phlogacanthus thyrsiformis* is accepted in POWO (Acanthaceae).
+- Row 6 “Tinospora Miers” is genus-only; no species epithet may be inferred.
+- Row 13 *Hydrocotyle sibthorpioides* is accepted in Araliaceae. The SRC-151 transcription's Araliaceae agrees with POWO; do not treat it as a different species.
+- Row 14 is especially important: “Aschasma loroglossum” corresponds to *Achasma loroglossum*, a synonym of accepted *Etlingera loroglossa* (Zingiberaceae). The SRC-161 table's Scytosiphonaceae assignment is erroneous/inconsistent; voucher identity still needs confirmation.
+- Row 20/33 *Zanthoxylum oxyphyllum* is accepted in Rutaceae. The taxonomic name is accepted, but whether the two rows are separate local-name observations or duplicate table records remains unresolved.
+- Row 31 *Scoparia dulcis* is accepted in Plantaginaceae. SRC-161's family is supported by current POWO/WFO; SRC-151's Scrophulariaceae reflects a different/older family treatment, not necessarily a distinct plant.
+- Row 39 “Termalia arjuna” is likely a spelling error for *Terminalia arjuna* (Combretaceae); preserve the source string until voucher confirmation.
+- Row 42 *Bergera koenigii* is **not** a typo under current POWO treatment: POWO accepts *Bergera koenigii* and lists *Murraya koenigii* as its synonym, following Esser (2021). Some other floristic frameworks retain Murraya; cite the taxonomic backbone used.
+
+This is a nomenclatural crosswalk, not specimen authentication. The accepted name of a candidate does not prove that the field-collected plant was correctly identified. No raw source strings or canonical beverage/plant rows were overwritten.
+
+## 10. Cross-study interpretation correction
+
+The 11 SRC-151 overlaps and 7 SRC-153 overlaps are exact-name-string matches after removal of author abbreviations and punctuation, not synonym-resolved totals. Family disagreement for *Scoparia dulcis* is taxonomic-framework history; *Hydrocotyle sibthorpioides* is consistently Araliaceae in the current Kew treatment. These overlaps should be used as a research prioritization signal, not a claim of uniform use across Mising villages.
