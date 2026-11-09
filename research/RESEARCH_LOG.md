@@ -657,3 +657,9 @@
 - Explicitly excluded Ahom Xaj-pitha shotgun-metagenomics (PMC4947050) and microbial-quality (PMC6977804) studies from Mising evidence.
 - Clarified the three evidence layers in the Apong microbiology crosswalk: starter cake, fermentation-stage, and finished beverage. No Mising fermentation-stage time series found in this pass.
 - No new source-register entry created because the newly identified material was either already registered (SRC-106, SRC-114, SRC-164, SRC-165, SRC-087) or an excluded non-Mising near-match.
+
+## 2026-11-09 — Mising Apong biochemical composition
+- Re-analysed SRC-087 sample-level Table 1 for finished Mising Apong composites RB01 (Poro), RB02/RB03 (Nogin): alcohol 10.67%, 9.99%, 10.37% v/v respectively; recorded DPPH, ABTS and phenolic values with reported units/SEM.
+- Extracted Table 3's combined GC-MS compound classes: saccharides, organic acids, amino acids and other compounds. The accessible text does not expose a sample-by-sample concentration matrix, so no subtype-specific metabolite abundance claims were made.
+- Added SRC-166 (Kumari et al. 2024; DOI 10.1007/s43393-023-00188-x) as a related physicochemical source. Flagged publisher page's “Review” label despite abstract describing measurements, inaccessible full text, ambiguous ordering in paired abstract values, unusual alcohol values (26% Sai Mod/Poro; 35% Rohi), and sugar/protein units requiring verification.
+- Updated the Assam Apong crosswalk with study comparability caveats. No clinical benefit inferred from in-vitro antioxidant assays; no fermentation-stage time-series study found in this pass.
