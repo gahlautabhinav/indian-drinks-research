@@ -637,3 +637,9 @@
 - Mising starter-cake representatives selected for molecular identification: MIC5X (*Rhodotorula taiwanensis*) and MIB4X (*Wickerhamomyces anomalus*). This refines the earlier single-species summary; it remains starter-cake evidence, not finished Apong.
 - Flagged an internal source contradiction: abstract/results state *W. anomalus* across all communities except Ahom, while one discussion sentence says absence of a specific fermenting yeast in Mising starters. Did not silently resolve it.
 - Table 1/2/3 images were not sufficiently machine-readable for exact isolate-to-village or full accession transcription; no locality-to-isolate inference made. Existing MIC5X accession LC011412 is independently linked by the 2020 follow-on characterization paper.
+
+## 2026-11-09 — SRC-087 supplementary and sample-code audit
+- Rechecked Das et al. (2019) publisher/PMC full text and supplementary links. Confirmed sample-code mapping: RB01=Mising Poro Apong; RB02/RB03=Mising Nogin Apong; RB04–RB06=Ahom Xaaj; RB07–RB09=Bodo Joubishi.
+- Confirmed 27 beverage samples from nine villages were pooled as triplicates per location into nine composite samples. Each RB code is a pooled location composite, not an independent household batch.
+- Recorded MG-RAST study ID mgp85043 (paper prints "mgp 85043"). Supplementary Table S1 contains village/sample mapping and S2 rice varieties/starter herbs, but the PMC record marks the DOCX as available to authorized users; no public copy was recovered. MG-RAST sample metadata endpoint was not accessible in this pass.
+- Updated SRC-087 and the Apong microbiology crosswalk. No village records or map pins added; sample-to-village mapping remains an explicit access gap.
