@@ -377,3 +377,18 @@ The university's 2016 NAAC research-publication volume independently confirms th
 ### Retrieval conclusion
 
 No new primary experimental data were recovered in this follow-up. SRC-139 remains the key fermentation-time-course acquisition target; SRC-140 remains the key mould/amylolytic enzyme target; Kardong's 2011 thesis may contain the integrated methods and data behind the project. Do not claim that any thesis or journal PDF was obtained. The next practical route is direct document delivery / library enquiry to Dibrugarh University Central Library and the Department of Life Sciences, requesting the thesis and the two exact journal issues.
+
+
+## 16. SRC-152 UGC project-report copy: content boundary and publication chronology
+
+A Scribd-hosted five-page copy titled **“Devid Kardong Report”** was located during this retrieval pass. It identifies the underlying work as the UGC Minor Research Project F. No. 32-617/2006(SR), conducted from 1 April 2007 to 31 March 2009, on isolation and biochemical characterization of potential amylolytic and alcohol-producing strains from Mising Epop used for Po:ro/Sai-mod. The copy contains the administrative final-report form and Annexure I summary, not the full technical annexures or raw experimental tables.
+
+The visible summary repeats the previously registered findings: three starter-culture samples from unspecified places; seven pure amylolytic isolates described collectively as bacteria and fungus/yeast; six alcohol-fermenting isolates; partial characterization of AY-3 (also printed amy-3), AY-1(19), AY-4 (Big cell) and FY-10; and a proposed solid-state fermentation consortium comprising AY-3, AY-4 and FY-10. It does not provide taxonomic species identifications, named sampling sites, sample-level measurements, detailed culture conditions or reproducible assay tables. Do not convert these isolate codes into species names or infer the three localities.
+
+The administrative form states that the paper was “preparing for publication” and that two bound copies of the final project report were enclosed. It also notes project presentations in 2007 and 2008. This is consistent with the project being completed before later journal publications, but it does not prove which particular 2011 paper drew on which experiment. The report's own stated project title is distinct from the later SRC-139 and SRC-140 article titles; retain those as separate bibliographic records until full texts establish overlap.
+
+**Access caveat:** the Scribd copy is a secondary-hosted reproduction, not a Dibrugarh University repository record. The official Dibrugarh University institutional report PDF previously registered as SRC-152 remains the preferred institutional source, but its accessible copy is only a short project summary. The newly located five-page copy does not close the technical-annexure gap. No new microbial taxonomy, enzyme values, locality, or fermentation-time-course data are added.
+
+**Sources:**
+- Scribd reproduction of the five-page administrative report and Annexure I summary: https://www.scribd.com/document/1042837999/Devid-Kardong-Report
+- Official Dibrugarh University SRC-152 report: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf
