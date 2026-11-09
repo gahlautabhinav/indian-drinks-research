@@ -279,3 +279,38 @@ The differences may reflect locality, season, rice/starter preparation, vessel, 
 ### Evidence gap
 
 No Mising Apong study located in this pass provides a robust, replicated time-course sampling of the same fermentation batches at multiple points (e.g., day 0, 2, 4, 6, 10, 15, 20) with matched pH, sugars, ethanol, organic acids and microbial community measurements. This remains a high-value research gap.
+
+
+## 13. Fermentation time-course evidence audit — 2026-11-09
+
+### Search question
+
+Does the published Mising Po:ro Apong literature provide a replicated, matched, multi-timepoint series measuring pH, reducing/total sugars, ethanol, titratable acidity, microbial counts/community and preferably organic acids in the same fermentation batches?
+
+### Results by source
+
+**SRC-139 — Kardong (2011), “Studies on the Changes of certain Parameters during fermentation of Saimod using Epop.”** Dibrugarh University bibliography confirms a publication entry in *Journal of Assam Science Society* 52(2):1–6. The primary article itself was not retrieved. No timepoint values, methods, sampling design or parameters are transcribed. This is the most promising lead for the exact time-course question, but it cannot currently support any quantitative statement. Obtain the journal issue or author copy before extracting results.
+
+**SRC-136 — Kardong et al. (2012).** Provides process description, finished-product chemistry, and microbial-load observations at three material stages: Epop starter, ripe mash and filtered beverage. Reported microbial loads are 549 × 10^7 CFU/g in Epop, 414 × 10^7 in ripe mash and 8,700 ± 6.332 CFU/mm³ in filtrate. These are different materials and units; they are not a day-by-day time series and cannot be used to calculate microbial decline or survival across fermentation. The article's abstract describes biochemical analysis of finished product; no matched day 0-to-maturation table is exposed.
+
+**SRC-167 — Kardong, Pegu & Ghose Guha (2017).** Compares HMS, LMS and a selected consortium at a single reported endpoint of 144 h. It reports fermentation parameter changes in the HMS relative to initial values, but the accessible article does not provide a complete multi-day trajectory for all parameters. The 144 h endpoint is six days, and should not be equated with the 20-day household process reported in SRC-136.
+
+**SRC-087 — Das et al. (2019).** Analyses finished beverage composites RB01–RB03 for Poro/Nogin; no fermentation-stage sampling series. Supplementary S1/S2 remain inaccessible in the reviewed public route.
+
+**SRC-153, SRC-160, SRC-161.** Ethnobotanical/process documentation with source-specific preparation and fermentation-duration descriptions, not controlled biochemical time courses.
+
+### Important external contextual source (not added as an Apong fermentation source)
+
+Das et al. (2023), *mSystems* 8(6), e00745-23, compares gut microbiomes of people consuming Poro or Nogin Apong. It repeats a 7–10-day Poro process description and cites prior Apong chemistry, but its experimental time-series concerns human gut/fecal outcomes, not beverage fermentation. It must not be treated as fermentation kinetics evidence.
+
+### Conclusion
+
+**No fully retrievable, replicated, matched multi-timepoint fermentation dataset was identified in this pass.** SRC-139 is a strong unresolved lead because its title explicitly concerns changes during Saimod fermentation; its full text should be prioritized. Until then:
+- Do not plot a fermentation curve by combining values from SRC-136, SRC-167 and SRC-087.
+- Do not treat three material-stage microbial loads as temporal microbial counts.
+- Do not infer sugar-to-ethanol conversion rates from a single endpoint or across different studies.
+- Do not assume 6, 7–10, 10–15 or 20 days are contradictory measurements of the same standardized recipe; source, season, process definition and endpoint vary.
+
+### Recommended next evidence request
+
+Request Kardong's 2011 article or the complete *Journal of Assam Science Society* 52(2) issue from Dibrugarh University / the journal archive. If obtained, transcribe every timepoint and retain the original units, replicate counts, temperature, starter dose and fermentation substrate details. Then compare its design against the 2017 144-hour endpoint without merging datasets.
