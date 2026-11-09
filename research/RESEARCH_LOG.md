@@ -670,3 +670,12 @@
 - Added SRC-167 (Kardong, Pegu & Ghose Guha 2017), an experimental comparison of traditional HMS against LMS and a three-organism consortium. At 144 h, HMS produced pH 4.78, reducing sugar 17 ± 0.12 mg/g, titratable acidity 0.22 ± 0.01% lactic acid and ethanol 3.1 ± 0.02 ml/100 g mash. LMSP/MC had lower ethanol/acidity and increased bacterial colony counts.
 - Flagged limitations: six-day laboratory endpoint is not the full household fermentation schedule; no named villages or replicate design; 14 herbs in results vs 13 in abstract; cannot attribute outcome to individual herbs or microbes.
 - Cross-compared SRC-136, SRC-147, SRC-148, SRC-153, SRC-160 and SRC-161 process durations; retained source-specific variability and identified absence of replicated matched multi-timepoint fermentation chemistry/microbiome studies as a key gap.
+
+## 2026-11-09 — Fermentation time-course evidence audit
+- Targeted searches for Mising Po:ro/Saimod time-course data and rechecked SRC-136, SRC-139 and SRC-167.
+- SRC-139's bibliographic record confirms a 2011 paper explicitly titled “Studies on the Changes of certain Parameters during fermentation of Saimod using Epop”; full article not retrieved, so no values or timepoints transcribed. Marked as highest-priority acquisition lead.
+- SRC-136 provides microbial-load values for Epop, ripe mash and filtrate, but different materials/units, not day-by-day sampling; cannot calculate stage survival or temporal decline.
+- SRC-167 reports a 144-hour endpoint comparison of HMS, LMS and consortium, not a complete multi-timepoint profile.
+- SRC-087 is finished-beverage sampling only. SRC-153/160/161 are process descriptions, not kinetic experiments.
+- Excluded Das et al. (2023) gut microbiome study as beverage-fermentation time-course evidence; its longitudinal/human outcomes concern gut/fecal microbiome, not the brewing process.
+- Concluded no fully retrievable, replicated, matched multi-timepoint fermentation dataset was located. Added evidence audit and no-cross-study-curve rule to the crosswalk.
