@@ -698,3 +698,13 @@
 - Rechecked journal acquisition: the 2016 Dibrugarh University NAAC research-publication volume confirms SRC-139 (*Journal of Assam Science Society* 52(2):1–6, 2011) and SRC-140 (*Bulletin of Life Sciences* Vol. XVI, 2011), but exact-issue searches did not recover either full article.
 - An IIT Guwahati annual report independently confirms other 2011 articles appeared in *Journal of Assam Science Society* volume 52, but it does not provide Kardong's article or complete issue contents.
 - Updated the Apong microbiology crosswalk with the failed public retrieval route and direct library/document-delivery acquisition recommendation. No new primary experimental data, sample localities, enzyme values or fermentation kinetics were inferred.
+
+
+## 2026-11-09 — Mising Apong 2013 ethnobotanical review/full-text audit (SRC-008)
+- Retrieved the publisher-hosted PDF for Gogoi, Dutta & Mondal, DOI 10.7324/JAPS.2013.34.S16. Corrected the source-register locality: the field survey names three Mising villages in Sibsagar district — Afola Gaon, Disang Mugh and Borhula Par — not Barmukuli in Dhemaji. Fieldwork is stated as September–December 2012.
+- Reclassified the publication as a review with a field-survey component: its abstract explicitly combines active field survey with available local literature, and its final citation calls it “A Review.” It therefore cannot be treated as a clean primary inventory from only the three villages.
+- The paper states 39 plants, but Table 1 visibly contains numbered entries 1–14, 16–28 and 30–39 (37 displayed rows; numbers 15 and 29 are absent). Kept the stated count and visible table count separate rather than filling the gaps or assuming omitted rows.
+- Authors say collected specimens were deposited in the Dibrugarh University Department of Pharmaceutical Sciences herbarium, but no voucher/accession numbers or plant-to-village allocation are reported in the article.
+- Preparation section describes aopo pitha, a reported ratio of one starter cake per kilogram of rice, fumigated earthen pot, banana-leaf/bhilongoni cover, at least five days' fermentation and water addition/filtration. Because this section cites Das et al. (2012), it is recorded as a source-presented/literature-derived process account, not as a separately demonstrated recipe observed in each named village.
+- Botanical spellings and taxonomic inconsistencies remain source-preserved for a separate taxonomic review. Medicinal-use statements are ethnobotanical claims, not evidence of clinical efficacy or safety.
+- Corrected SRC-008 in the source register and added the detailed audit. SRC-139 and SRC-140 remain acquisition gaps; no experimental values or fermentation kinetics were inferred from their bibliographic entries.
