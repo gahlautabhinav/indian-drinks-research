@@ -83,8 +83,17 @@ Dibrugarh University's 2016 NAAC Self Study Report, Volume IIA (Departmental Pro
 
 The table identifies UGC as the funding agency and records an amount of 1.0 lakh. The same report section is part of the Centre for Studies in Biotechnology profile. The accessible entry does not supply a project code, grant dates, completion date, sample locations, strain list or final report link.
 
-**Important reconciliation caveat:** SRC-152 is already an accessible Kardong UGC project report covering Epop samples and amylolytic/alcohol-fermenting isolates from a 2007–2009 project period. The newly found project-title entry is thematically close, but the accessible administrative record does not establish whether it is the same grant, a revised title, a continuation, or a separate project. Do not create a second project/source record or double-count funding until the project file number, dates or sanction order are obtained.
+**Reconciliation resolved:** This is the same project already represented by SRC-152, not a second grant. The official final report gives UGC Minor Research Project F. No. **32-617/2006(SR)**, project period **1 April 2007–31 March 2009**, approved amount **₹1,00,000** and received amount **₹85,000**. The 2016 NAAC departmental profile repeats the project title and UGC funding entry, with amount 1.0 lakh. The exact title, investigator and amount align; no second project/source record or extra funding total should be created. The report says two bound copies of the final report were enclosed and that the work would be incorporated into Kardong's PhD thesis. The publicly accessible five-page PDF contains only the administrative form and short summary, not the technical annexure.
 
 This is a useful acquisition lead: request the UGC sanction letter/project code, approved and final project titles, project duration, completion report, technical annexures, strain-identification sheets, culture-deposit/accession records and any publications arising from the work. Until those are recovered, this entry adds no new microbial taxa, strain identities, methods or results to the evidence base.
 
 **Source:** Dibrugarh University, *Self Study Report, Volume-IIA: Evaluation Reports of Departments & Centres* (October 2016), Centre for Studies in Biotechnology profile, printed page 168 / PDF text lines 9159–9163: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-IIA-Departmental-profile.pdf
+
+
+## 8. UGC project identity crosswalk resolved — 2026-11-10
+
+The newly located 2016 departmental profile entry is conclusively reconciled to **SRC-152** using the final report's exact UGC reference number, **F. No. 32-617/2006(SR)**, principal investigator Devid Kardong, project title and approved grant amount. The final report specifies 1 April 2007–31 March 2009, ₹1,00,000 approved, ₹85,000 received and ₹84,658 spent. The 2016 self-study entry is a later institutional restatement of this same project, not evidence of a second award. No duplicate source or project record is warranted.
+
+The final report's administrative form says paper-writing was ongoing at project close and that findings would be incorporated into the PhD thesis. This establishes intended dissemination, but does not prove which later publications arose directly from the grant. In particular, do not attribute SRC-139 or SRC-140 to the grant without an acknowledgement, manuscript statement or thesis citation linking them.
+
+**Primary source:** Dibrugarh University-hosted final report, https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf (UGC reference and project dates at PDF text lines 8–60; dissemination and thesis statements at lines 68–117; summary at lines 128–151).
