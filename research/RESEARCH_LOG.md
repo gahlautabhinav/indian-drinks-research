@@ -763,3 +763,14 @@
 - Created an exact lexical crosswalk and separate candidate spelling/synonym review file. Pairwise exact lexical overlap counts: SRC-007/SRC-146 9; SRC-007/SRC-153 7; SRC-007/SRC-160 11; SRC-007/SRC-161 10; SRC-146/SRC-153 9; SRC-146/SRC-160 12; SRC-146/SRC-161 16; SRC-153/SRC-160 8; SRC-153/SRC-161 13; SRC-160/SRC-161 13. These remove author citations and punctuation only; they are not accepted-name or synonym counts.
 - Important unresolved candidates include Eupatorium odoratum / Chromolaena odorata, Spilanthes acmella / Acmella paniculata, Murraya koenigii / Bergera koenigii, Costus speciosus / Hellenia speciosa, and several likely OCR/spelling errors. All remain unmerged pending POWO/WFO and voucher/author verification.
 - No new beverage, plant-canonical or village records were created. SRC-160's 20 taxa are not Po:ro-exclusive; SRC-007/SRC-161/SRC-153 inventories are not allocated to specific beverage variants; medicinal-use claims are not clinical evidence. ASM-GAP-068 remains open for field matrices and vouchers.
+
+
+## 10 November 2026 — Mising starter-plant taxonomic authority review
+
+- Reviewed all 17 candidate rows in `research/assam/mising-five-study-candidate-taxonomic-aliases.csv` against Kew Plants of the World Online (POWO).
+- Confirmed authority-level synonym relationships for `Eupatorium odoratum` → `Chromolaena odorata`, `Murraya koenigii` → `Bergera koenigii`, and `Costus speciosus` → `Hellenia speciosa`; `Ocimum sanctum` is also a synonym of accepted `Ocimum tenuiflorum`, but SRC-007's printed `Occimum sunctum` remains a probable typo pending source-image/voucher check.
+- Important false-positive prevention: POWO treats `Spilanthes acmella` as a synonym of `Blainvillea acmella`, while `Spilanthes paniculata` / `Spilanthes acmella var. paniculata` are synonyms of `Acmella paniculata`. Therefore SRC-153 `Spilanthes acmella` must not be merged with SRC-161 `Acmella paniculata` on current evidence.
+- `Hydrocotyle rotundifolia` is treated by POWO as a synonym of `Hydrocotyle sibthorpioides var. sibthorpioides`, not `Centella asiatica`; preserve these as separate candidates.
+- Reviewed likely spelling variants (including `Drymeria/Drymaria`, `Alstonia shcolaris/scholaris`, `Albizzia/Albizia lucida`, `Melia azadirach/azedarach`, `Paderia/Paederia foetida`, `Guilandian/Guilandina bonduc`, and `Termalia/Terminalia arjuna`). These remain source-faithful transcription strings; no specimen identity is inferred.
+- `Swertia chirata` / `Swernia chirata` remains unresolved: the accepted `Swertia chirayita` page does not by itself prove the printed epithet is that species.
+- Added detailed review: `research/assam/mising-five-study-taxonomic-authority-review-2026-11-10.md`. Updated the candidate-alias CSV with POWO outcomes and URLs. No canonical plant records, beverage records, or locality records were created or merged. ASM-GAP-068 and associated voucher/field-matrix gaps remain open.
