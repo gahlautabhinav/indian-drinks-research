@@ -441,3 +441,32 @@ The short Apong process account distinguishes “Pr: ro Apong” and “Noggin A
 The 15-day passage is brief and does not clearly establish whether the same duration applies to both variants or whether it is a controlled fermentation endpoint. Keep it as a source-specific account, not a universal process value. The paper contains no Epop plant inventory, voucher, microbial isolation/sequencing, fermentation chemistry, safety analysis or time-course data.
 
 Do not combine its 15-day account with the distinct timings in SRC-136, SRC-147, SRC-148, SRC-161 or SRC-167 into one standard schedule. Full audit: `research/assam/src168-pegu-et-al-2022-mising-fermented-foods-audit.md`.
+
+
+## 19. False-positive title match check and SRC-152 evidence boundary — 2026-11-10
+
+### 2017 amylolytic-fungi paper is not Kardong's 2011 Epop paper
+
+A targeted search for Kardong's 2011 title surfaced Das, Miyaji & Deka (2017), “Amylolytic fungi in starter cakes for rice beer production,” *Journal of General and Applied Microbiology* 63:236–245, DOI 10.2323/jgam.2016.11.004. This is a separate paper with a superficially similar title and subject. Its methods explicitly identify the two starter materials as Bodo *amou* from Kokrajhar district and Deori *perok-kushi* from Lakhimpur district. The two sequenced fungi are *Amylomyces rouxii* TU460 and *Rhizopus oryzae* TU465. Neither sample is Mising Epop. These taxa and enzyme values must not be attributed to SRC-140 or used as direct evidence for Poro Apong.
+
+### SRC-152 official report: what the accessible five-page copy actually establishes
+
+The Dibrugarh University-hosted Kardong UGC Minor Research Project report was opened and checked page-by-page. It confirms:
+- Project period: 1 April 2007–31 March 2009 (UGC F. No. 32-617/2006(SR)).
+- Three Epop starter-culture samples from different places were collected; the accessible report does not name those places.
+- Seven pure isolates, described collectively as bacteria and fungus/yeast, showed amylolytic properties; six isolates had alcohol-fermenting properties.
+- Partial characterisation is reported for AY-3 (also printed amy-3), AY-1(19), AY-4 (Big cell) and FY-10.
+- AY-3 + AY-4 + FY-10 are proposed as a likely suitable consortium for Saimod/Po:ro solid-state fermentation. This is a candidate consortium, not proof of a validated standard or household starter.
+- The final-report form says papers were still being prepared for publication at the time and that the work was intended to be incorporated into Kardong's PhD thesis.
+
+The five-page institutional PDF contains the administrative final-report form and a short project summary, not the technical annexure, full strain identities, sample locations, assay protocols or numerical tables. These project-report findings remain SRC-152 evidence only; they cannot be transferred automatically to SRC-139 (2011 fermentation-parameter article) or SRC-140 (2011 mould activity article).
+
+### Acquisition status and next step
+
+The Dibrugarh University bibliography independently lists SRC-139 as Kardong's “Studies on the Changes of certain Parameters during fermentation of Saimod using Epop” in *Journal of Assam Science Society* 52(2):1–6 (2011), and SRC-140 as Kardong, Sood, Yadav & Bora's “Amyolytic activity of mold isolated from Epop...” in *Bulletin of Life Sciences*, Vol. XVI (2011). Exact-title searches did not recover either article's full text. Retain the source spelling “Amyolytic” as printed in the institutional bibliography. No fermentation timepoints, mould species, enzyme values or new localities are added from those unretrieved articles.
+
+**Primary links checked:**
+- SRC-152 institutional report: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf
+- Dibrugarh University bibliography: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
+- Separate 2017 Bodo/Deori amylolytic-fungi paper: https://www.jstage.jst.go.jp/article/jgam/63/4/63_2016.11.004/_pdf
+
