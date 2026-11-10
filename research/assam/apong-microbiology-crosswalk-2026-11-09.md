@@ -470,3 +470,16 @@ The Dibrugarh University bibliography independently lists SRC-139 as Kardong's â
 - Dibrugarh University bibliography: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
 - Separate 2017 Bodo/Deori amylolytic-fungi paper: https://www.jstage.jst.go.jp/article/jgam/63/4/63_2016.11.004/_pdf
 
+
+
+## 20. Source-stage and isolate reconciliation: SRC-136, SRC-148, SRC-152, SRC-165 and SRC-167 â€” 2026-11-10
+
+A focused reconciliation was completed across the five existing source records. It is documented in:
+- research/assam/mising-apong-microbiology-source-stage-isolate-matrix-2026-11-10.csv
+- research/assam/mising-apong-microbiology-reconciliation-audit-2026-11-10.md
+
+Key direct source-level clarification: SRC-165 Table 1 lists three Mising Apop-pitha isolates of Pediococcus pentosaceus (TEZU481 / KT273331; TEZU482 / KT273330; TEZU486 / KT273328) and one Mising Apong-labelled Lactobacillus casei isolate (TEZU262 / KR781613). The Apong row is not resolved to Poro or Nogin and the paper does not map isolates to named villages or households.
+
+SRC-148 reports three Saccharomyces species plus Mucor and Rhizopus in starter culture, while reporting no LAB growth on its selected plates. This method-bound negative result does not contradict SRC-165's deliberate MRS-based LAB isolation; neither result establishes universal presence or absence across Mising households. SRC-152's AY/FY codes remain unidentified and cannot be assigned to the genera in SRC-148 or SRC-167. SRC-167's Mucor + Saccharomycopsis + Saccharomyces consortium is experimental and genus-level; no isolate linkage to SRC-148 is established.
+
+SRC-136's Epop, ripe-mash and finished-liquid microbial counts are total counts with differing units and no matched longitudinal design. They are not a taxonomic profile or comparable survival curve. No canonical microbial-community record, village allocation or cross-study isolate identity was created. SRC-139 and SRC-140 remain unrecovered.
