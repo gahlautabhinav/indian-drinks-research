@@ -774,3 +774,16 @@
 - Reviewed likely spelling variants (including `Drymeria/Drymaria`, `Alstonia shcolaris/scholaris`, `Albizzia/Albizia lucida`, `Melia azadirach/azedarach`, `Paderia/Paederia foetida`, `Guilandian/Guilandina bonduc`, and `Termalia/Terminalia arjuna`). These remain source-faithful transcription strings; no specimen identity is inferred.
 - `Swertia chirata` / `Swernia chirata` remains unresolved: the accepted `Swertia chirayita` page does not by itself prove the printed epithet is that species.
 - Added detailed review: `research/assam/mising-five-study-taxonomic-authority-review-2026-11-10.md`. Updated the candidate-alias CSV with POWO outcomes and URLs. No canonical plant records, beverage records, or locality records were created or merged. ASM-GAP-068 and associated voucher/field-matrix gaps remain open.
+
+
+## 10 November 2026 — SRC-170 full-text recovery and Poro-specific Apob transcription
+
+- Recovered readable full text for Pawe & Gogoi (2013) from the ResearchGate publication page. The separate PDF download link returned 404, but the complete article body and table are readable on the landing page.
+- Corrected the earlier access assessment: this is no longer abstract-only evidence. The article names seven selected villages across Lakhimpur and Sonitpur: Dhunaguri, Badati, Bongalmora, Chamaguri Temona, Luitmukh, Kathalkuchi and Rajbari. It reports interviews with regular Poro brewers, direct observation of the complete process, plant collection and identification confirmed at BSI Shillong (ASSAM) and Itanagar (ARUN).
+- Transcribed Table 1 as `research/assam/src170-pawe-gogoi-2013-poro-apob-28-taxon-inventory.csv`: 28 taxon-level rows from 27 visible table serials. Table serial 26 is absent; serial 25 contains both *Thelypteris parasitica* and *T. dentata*. No missing plant was invented.
+- The article explicitly labels Table 1 as plants used for Poro Apong Apob preparation. It is therefore a Poro-specific inventory, not a general Nogin/ÉPOP inventory. Source spellings, family names, vernacular labels and plant parts are preserved.
+- Updated SRC-170 in `sources/source_register.csv` with full-text evidence, seven villages, herbarium verification, 28 taxa and source-specific process details.
+- Updated `research/assam/src170-pawe-gogoi-2013-poro-apong-acquisition-audit.md` with methods, plant inventory interpretation and process: Apob cakes dried 3–5 days above kitchen fireplace; Poro mash includes straw/rice-husk ash and 4–5 crushed Apob cakes; fermentation 7–12 days depending on season (sometimes more than a month); final liquid filtered/re-filtered with water through Tasuk until brown. This source describes filtration, not distillation.
+- Updated ASM-GAP-060: locality now includes the seven named study villages, while the gap remains open for field dates, informant count, voucher accession numbers, missing serial-26 explanation and plant-by-village allocation.
+- No canonical plant or village records created. Do not assign every Table 1 plant to all seven villages; the paper gives no village-by-taxon matrix.
+- Source page: https://www.researchgate.net/publication/270577488_Ethnobotany_of_Poro_Apong_or_Chai_Mod-A_local_rice_beer_of_Mishing_tribes_of_Assam
