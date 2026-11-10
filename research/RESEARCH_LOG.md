@@ -855,3 +855,12 @@
 - Tested the legacy report URL appearing adjacent to the SRC-140 listing in the institutional PDF. It did not resolve via the browser route and the PDF layout does not prove it is an SRC-140 article link. It is not used as content evidence.
 - Updated research/assam/kardong-thesis-and-2011-epop-papers-acquisition-audit-2026-11-10.md with the additional acquisition checks and explicit year/access caveats. No new source IDs or scientific claims added.
 - Sources checked: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf ; https://neist.res.in/publication/are11123.pdf ; https://www.dibru.ac.in/global-open-thesis-and-dissertations ; https://www.dibru.ac.in/lnb-library .
+
+
+## 10 November 2026 — Kardong UGC project-record cross-check
+
+- Located a second Dibrugarh University institutional record in the 2016 NAAC departmental self-study report. It lists Dr D. Kardong's project “Isolation and Biochemical characterization of Potential Amylolytic and Alcohol producing Yeast strains from Yeast cake (EPOP) used in preparation of PO:RO (Saimod)”, UGC-funded, amount 1.0 lakh.
+- The report does not provide grant code, dates, duration, locations, strain identities or final report link. Its relationship to SRC-152's 2007–2009 Kardong UGC project report is unresolved; it may be the same grant under a variant title or another administrative entry. No duplicate project/source record or funding total was created.
+- Expanded the acquisition request targets to include the UGC sanction/project code, completion report, technical annexures, strain-identification sheets and culture-deposit/accession records.
+- Updated research/assam/kardong-thesis-and-2011-epop-papers-acquisition-audit-2026-11-10.md. No new microbial taxa, strain identities, sample locations or experimental results were added.
+- Source checked: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-IIA-Departmental-profile.pdf (Centre for Studies in Biotechnology profile, printed page 168 / PDF text lines 9159–9163).
