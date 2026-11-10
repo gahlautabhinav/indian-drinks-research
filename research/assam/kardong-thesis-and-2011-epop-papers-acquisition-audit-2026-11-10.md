@@ -73,3 +73,18 @@ The current Dibrugarh University library page identifies the Lakshminath Bezbaro
 - CSIR-NEIST PhD award list: https://neist.res.in/publication/are11123.pdf
 - Dibrugarh University global thesis discovery: https://www.dibru.ac.in/global-open-thesis-and-dissertations
 - Dibrugarh University library: https://www.dibru.ac.in/lnb-library
+
+
+## 7. Additional UGC project record found — 2026-11-10
+
+Dibrugarh University's 2016 NAAC Self Study Report, Volume IIA (Departmental Profiles), lists a project under Dr. D. Kardong with the title:
+
+> “Isolation and Biochemical characterization of Potential Amylolytic and Alcohol producing Yeast strains from Yeast cake (EPOP) used in preparation of PO:RO (Saimod), a traditional alcoholic beverage of the Mising tribe of Assam, India”.
+
+The table identifies UGC as the funding agency and records an amount of 1.0 lakh. The same report section is part of the Centre for Studies in Biotechnology profile. The accessible entry does not supply a project code, grant dates, completion date, sample locations, strain list or final report link.
+
+**Important reconciliation caveat:** SRC-152 is already an accessible Kardong UGC project report covering Epop samples and amylolytic/alcohol-fermenting isolates from a 2007–2009 project period. The newly found project-title entry is thematically close, but the accessible administrative record does not establish whether it is the same grant, a revised title, a continuation, or a separate project. Do not create a second project/source record or double-count funding until the project file number, dates or sanction order are obtained.
+
+This is a useful acquisition lead: request the UGC sanction letter/project code, approved and final project titles, project duration, completion report, technical annexures, strain-identification sheets, culture-deposit/accession records and any publications arising from the work. Until those are recovered, this entry adds no new microbial taxa, strain identities, methods or results to the evidence base.
+
+**Source:** Dibrugarh University, *Self Study Report, Volume-IIA: Evaluation Reports of Departments & Centres* (October 2016), Centre for Studies in Biotechnology profile, printed page 168 / PDF text lines 9159–9163: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-IIA-Departmental-profile.pdf
