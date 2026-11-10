@@ -830,3 +830,16 @@
 - Checked official Dibrugarh University thesis discovery pages and Lakshminath Bezbaroa Library page. Recorded registrar@dibru.ac.in as the official general contact route for requesting the thesis and the two journal issues; no unverified personal email address added.
 - Created `research/assam/kardong-thesis-and-2011-epop-papers-acquisition-audit-2026-11-10.md` with confirmed citations, access status, request targets and evidence boundaries.
 - No new source IDs, plant taxa, locality records or microbial taxa created. SRC-139/SRC-140 remain open acquisition leads.
+
+
+## 10 November 2026 — Mising Apong microbiology source-stage/isolate reconciliation
+
+- Reopened the existing crosswalk and source-register rows SRC-136, SRC-148, SRC-152, SRC-165 and SRC-167 before adding any new source IDs.
+- Recovered the complete Mising portion of SRC-165 Table 1 from the open-access primary paper: Apop-pitha / Mising yielded P. pentosaceus TEZU481 (KT273331), TEZU482 (KT273330) and TEZU486 (KT273328); Apong / Mising yielded L. casei TEZU262 (KR781613). The Apong row is not resolved as Poro or Nogin, and no village/household crosswalk is provided.
+- Reconciled this with SRC-148's culture-dependent report of three Saccharomyces species, Mucor and Rhizopus, plus no LAB growth on its selected plates. The negative result is method-bound and does not refute SRC-165's MRS-based LAB recovery.
+- Kept SRC-152's seven amylolytic and six alcohol-fermenting isolate counts and AY/FY codes unresolved at species level; no mapping to SRC-148/SRC-167 organisms was invented.
+- Kept SRC-167's Mucor + Saccharomycopsis + Saccharomyces consortium as an experimental genus-level comparator, not a customary household starter or isolate-linked extension of SRC-148.
+- Reaffirmed that SRC-136 total microbial counts for Epop, ripe mash and finished liquid use different units and are not a matched time-series or taxonomic profile.
+- Created research/assam/mising-apong-microbiology-source-stage-isolate-matrix-2026-11-10.csv (18 data rows; 12 columns) and research/assam/mising-apong-microbiology-reconciliation-audit-2026-11-10.md. No new source IDs, canonical microbial records or locality claims were created.
+- SRC-139 and SRC-140 remain open acquisition leads; their unrecovered full texts were not replaced with adjacent papers.
+- Primary source checked for SRC-165: https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000028 ; SRC-148 reproduced full text: https://fliphtml5.com/ntyj/brxv/ ; SRC-152 official report: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf ; SRC-167 institutional PDF: https://oldweb.dibru.ac.in/wp-content/uploads/2020/02/Article_21.pdf .
