@@ -97,3 +97,20 @@ The newly located 2016 departmental profile entry is conclusively reconciled to 
 The final report's administrative form says paper-writing was ongoing at project close and that findings would be incorporated into the PhD thesis. This establishes intended dissemination, but does not prove which later publications arose directly from the grant. In particular, do not attribute SRC-139 or SRC-140 to the grant without an acknowledgement, manuscript statement or thesis citation linking them.
 
 **Primary source:** Dibrugarh University-hosted final report, https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf (UGC reference and project dates at PDF text lines 8–60; dissemination and thesis statements at lines 68–117; summary at lines 128–151).
+
+## 9. Publication-output cross-check against SRC-152 — 2026-11-11
+
+The UGC final report (SRC-152) states that paper-writing was in progress at project close, results were being prepared for scientific journals, and the work was intended to be incorporated into Kardong's PhD thesis. It names two conference presentations in 2007 and 2008 but does not list a resulting journal paper by title or journal.
+
+A related publication already registered as **SRC-136** is Kardong, Deori, Sood, Yadav, Bora and Gogoi, “Evaluation of Nutritional and Biochemical aspects of Po:ro apong (Saimod) — A home made alcoholic rice beverage of Mising tribe of Assam, India,” *Indian Journal of Traditional Knowledge* 11(3), July 2012, pp. 499–504. Its manuscript history states received 10 August 2009 and revised 30 November 2009. Those dates overlap the close of the UGC project, and the topic and lead author align with SRC-152. This makes SRC-136 a strong candidate for a related output, but the inspected article text does not provide an explicit acknowledgement of UGC F. No. 32-617/2006(SR), and the project report does not name SRC-136. Record the relationship as **probable/undocumented, not confirmed**.
+
+The two 2011 papers remain unlinked to the grant at this stage:
+- SRC-139 (D. Kardong, *Journal of Assam Science Society* 52(2):1–6) is bibliographically listed by Dibrugarh University, but its primary text and acknowledgement are not recovered.
+- SRC-140 (Kardong, Sood, Yadav and Bora, *Bulletin of Life Sciences* Vol. XVI) is likewise bibliographically listed, but its primary text and acknowledgement are not recovered.
+
+Do not use shared authorship, similar titles, chronology or institutional bibliography alone as proof of grant-funded publication. The next decisive evidence is the SRC-139/SRC-140 full texts, thesis bibliography/acknowledgements, or a project publication list held by the department/library.
+
+**Sources:**
+- SRC-152 final report: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf
+- SRC-136 full text: https://www.researchgate.net/publication/274834679_Evaluation_of_Nutritional_and_Biochemical_aspects_of_Poro_apong_Saimod_-_A_home_made_alcoholic_rice_beverage_of_Mising_tribe_of_Assam_India
+- Dibrugarh University bibliography for SRC-139/SRC-140: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
