@@ -787,3 +787,13 @@
 - Updated ASM-GAP-060: locality now includes the seven named study villages, while the gap remains open for field dates, informant count, voucher accession numbers, missing serial-26 explanation and plant-by-village allocation.
 - No canonical plant or village records created. Do not assign every Table 1 plant to all seven villages; the paper gives no village-by-taxon matrix.
 - Source page: https://www.researchgate.net/publication/270577488_Ethnobotany_of_Poro_Apong_or_Chai_Mod-A_local_rice_beer_of_Mishing_tribes_of_Assam
+
+
+## 10 November 2026 — Six-study Mising starter-plant crosswalk
+
+- Added the recovered SRC-170 Poro-specific Apob inventory to a new six-study comparison without modifying the earlier five-study dataset.
+- Created `research/assam/mising-six-study-source-row-inventory.csv` with 185 source-row/taxon observations: SRC-007 21, SRC-146 37, SRC-153 31, SRC-160 20, SRC-161 48 and SRC-170 28.
+- Created `research/assam/mising-six-study-exact-name-crosswalk.csv` with 117 first-two-token lexical keys after removing parenthetical author citations, punctuation and hyphens. No synonym or fuzzy matching was used.
+- Created `research/assam/mising-six-study-cross-study-reconciliation-audit-2026-11-10.md` with all 15 pairwise overlaps. SRC-170 shares exact lexical keys with SRC-007 (4), SRC-146 (8), SRC-153 (4), SRC-160 (8) and SRC-161 (7). Nine SRC-170 keys are shared with at least one other study: *Centella asiatica*, *Clerodendrum viscosum*, *Lygodium flexuosum*, *Oryza sativa*, *Piper longum*, *Piper nigrum*, *Psidium guajava*, *Saccharum officinarum* and *Zingiber officinale*.
+- Important exact-match caution: SRC-170 prints `Scoperia dulcis`, which is not counted as an exact lexical match to `Scoparia dulcis` in other studies. Similar spelling is not synonym evidence.
+- The six-study crosswalk is a reversible research aid; it does not create canonical plant records or collapse distinct source spellings, recipes, villages or beverage variants.
