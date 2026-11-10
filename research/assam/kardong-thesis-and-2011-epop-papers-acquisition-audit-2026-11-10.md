@@ -48,3 +48,28 @@ The university's general contact route is official; no unverified personal email
 - Dibrugarh University Indian thesis discovery: https://www.dibru.ac.in/indian-open-thesis-and-dissertations
 - Dibrugarh University ETD discovery: https://www.dibru.ac.in/ETD-discovery-tools
 - Kardong UGC project report (SRC-152): https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf
+
+
+## 6. Additional catalogue and issue-date checks — 2026-11-10
+
+A second targeted search pass checked exact titles, alternate title wording, ISSN, volume/issue references, the institutional thesis discovery pages and the older Dibrugarh University publication PDF.
+
+### What was newly corroborated
+- The university's 2016–2015 assessment-period research-publication volume again lists SRC-140 as Kardong, Sood, Yadav and Bora, “Amyolytic activity of mold isolated from Epop used by the Mising tribe of Assam, India in preparation of alcoholic Rice beer,” *Bulletin of Life Sciences*, Vol. XVI, ISSN 0971-5746, 2011.
+- The same volume lists SRC-139 as D. Kardong, “Studies on the Changes of certain Parameters during fermentation of Saimod using Epop,” *Journal of Assam Science Society* 52(2), pp. 1–6, ISSN 0587-1921, 2011.
+- The CSIR-NEIST PhD-award list independently confirms Dr Devid Kardong's Dibrugarh PhD in 2011, the title printed as “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam,” and guide Dr T. C. Bora.
+- Dibrugarh University's current global thesis page links to NDLTD and OATD; its Indian thesis page links to Shodhganga, IndCat and other repositories. These are discovery routes, not evidence that the thesis is digitised or indexed there.
+
+### Bibliographic discrepancy to retain
+A separate institutional profile/search result describes *Journal of Assam Science Society* Vol. 52(2) as an issue edited in 2012. The university research-publication volume lists Kardong's SRC-139 paper in 52(2) as 2011. Until the physical issue masthead or article itself is checked, retain the issue/year conflict as unresolved rather than silently changing SRC-139's registered year.
+
+### Search outcome and access boundary
+No publisher-hosted or institutional full text for SRC-139, SRC-140 or the PhD thesis was recovered in this pass. The legacy university report URL printed immediately before the SRC-140 bibliography row in the institutional PDF was tested as a lead but did not resolve through the browser route; the PDF layout does not establish that this generic report URL is a download link for SRC-140, so it is not treated as evidence of article contents. No taxa, enzyme values, fermentation timepoints, sample locations or methods are inferred from the titles.
+
+The current Dibrugarh University library page identifies the Lakshminath Bezbaroa Library as the central information resource centre and publishes the university's general contact route. The practical next step remains a targeted catalogue/document-delivery request for: (1) *Journal of Assam Science Society* 52(2), article pp. 1–6; (2) *Bulletin of Life Sciences* Vol. XVI, 2011, Kardong et al. article; and (3) Devid Kardong's 2011 PhD thesis. Request catalogue record identifiers, holdings, scan/document-delivery procedure and any access conditions.
+
+**Additional sources checked:**
+- Dibrugarh University research-publication volume: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
+- CSIR-NEIST PhD award list: https://neist.res.in/publication/are11123.pdf
+- Dibrugarh University global thesis discovery: https://www.dibru.ac.in/global-open-thesis-and-dissertations
+- Dibrugarh University library: https://www.dibru.ac.in/lnb-library
