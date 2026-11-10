@@ -809,3 +809,14 @@
 - Process comparison: SRC-136 reports about 20 days at 30–35°C, 100 g powdered Epop per 3 kg cooked rice, then warm-water Ta:suk filtration. SRC-170 reports 7–12 days depending on season (sometimes >1 month), 4–5 crushed Apob cakes, then water filtration/re-filtration through Tasuk until brown. Both source descriptions are filtration, not distillation; keep the reported durations source-specific.
 - SRC-136 biochemical measurements are based on three finished beverage samples; microbial counts use different units/methods for starter/mash and finished liquid and must not be treated as a directly comparable time-series or safety assessment.
 - No canonical plant, locality or beverage records created/merged. Voucher provenance, informant metadata and plant-by-village allocation remain unresolved.
+
+
+## 10 November 2026 — Mising Epop microbiology source-boundary audit
+
+- Rechecked existing SRC-152, SRC-139 and SRC-140 records before assigning any new source IDs; all three were already registered, so no duplicate source rows were created.
+- Opened the Dibrugarh University-hosted five-page SRC-152 UGC project report. It confirms a 1 Apr 2007–31 Mar 2009 project, three Epop starter samples from unnamed places, seven pure isolates with amylolytic properties, six with alcohol-fermenting properties, partial characterisation codes AY-3/amy-3, AY-1(19), AY-4 and FY-10, and a proposed AY-3 + AY-4 + FY-10 consortium. The accessible copy lacks technical annexures, species-level identifications, named localities and assay tables; the candidate consortium is not evidence of a standard household starter.
+- Identified and rejected a false-positive near-title match: Das, Miyaji & Deka (2017), “Amylolytic fungi in starter cakes for rice beer production,” is about Bodo amou from Kokrajhar and Deori perok-kushi from Lakhimpur. Its Amylomyces rouxii TU460 and Rhizopus oryzae TU465 findings must not be attributed to Kardong's Mising Epop paper SRC-140.
+- Exact-title searches did not retrieve the full texts of SRC-139 (2011 Saimod fermentation parameters) or SRC-140 (2011 Epop mould “Amyolytic activity”). Their detailed results remain unavailable; no timepoints, mould taxa or enzyme values were invented.
+- Updated research/assam/apong-microbiology-crosswalk-2026-11-09.md, section 19, with the false-positive distinction, SRC-152 report findings, limitations and acquisition status.
+- Primary sources checked: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf ; https://www.jstage.jst.go.jp/article/jgam/63/4/63_2016.11.004/_pdf
+- Follow-up remains: obtain complete Journal of Assam Science Society 52(2) (2011), Bulletin of Life Sciences Vol. XVI (2011), and Kardong's 2011 thesis or technical annexures from Dibrugarh University. Do not treat the 2017 Bodo/Deori paper as a substitute.
