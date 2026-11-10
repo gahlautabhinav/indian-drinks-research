@@ -34,7 +34,7 @@
 
 - Source-row inventory size: SRC-007 = 21; SRC-146 = 37 visible rows; SRC-153 = 31; SRC-160 = 20; SRC-161 = 48. Total rows compared = 157.
 - SRC-161 contains 47 unique printed scientific-name labels because *Zanthoxylum oxyphyllum* is repeated twice; the two original rows remain preserved.
-- Exact lexical overlaps (not taxonomic synonym matches) are calculated and reported in the crosswalk CSV. A shared exact name across studies establishes repeated reporting, not identical local use, plant part, recipe role, locality or beverage variant.
+- Exact lexical overlaps (not taxonomic synonym matches), after removing author citations and treating hyphenated epithets as one token, are: SRC-007/SRC-146 9; SRC-007/SRC-153 7; SRC-007/SRC-160 11; SRC-007/SRC-161 10; SRC-146/SRC-153 9; SRC-146/SRC-160 12; SRC-146/SRC-161 16; SRC-153/SRC-160 8; SRC-153/SRC-161 13; SRC-160/SRC-161 13. These are lexical matches only, not taxonomic synonym matches. A shared exact name across studies establishes repeated reporting, not identical local use, plant part, recipe role, locality or beverage variant.
 - Some apparent differences may disappear after taxonomic review: e.g. *Eupatorium odoratum* / *Chromolaena odorata*, *Spilanthes acmella* / *Acmella paniculata*, *Murraya koenigii* / *Bergera koenigii*, and *Costus speciosus* / *Hellenia speciosa*. These remain unmerged pending authority and voucher review.
 - Conversely, similar vernacular labels must not be used to merge distinct taxa: e.g. SRC-007 *Lygodium japonicum* is not the same as *Lygodium flexuosum* in SRC-146/SRC-153/SRC-160.
 
