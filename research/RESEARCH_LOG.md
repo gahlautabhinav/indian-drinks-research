@@ -843,3 +843,15 @@
 - Created research/assam/mising-apong-microbiology-source-stage-isolate-matrix-2026-11-10.csv (18 data rows; 12 columns) and research/assam/mising-apong-microbiology-reconciliation-audit-2026-11-10.md. No new source IDs, canonical microbial records or locality claims were created.
 - SRC-139 and SRC-140 remain open acquisition leads; their unrecovered full texts were not replaced with adjacent papers.
 - Primary source checked for SRC-165: https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000028 ; SRC-148 reproduced full text: https://fliphtml5.com/ntyj/brxv/ ; SRC-152 official report: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf ; SRC-167 institutional PDF: https://oldweb.dibru.ac.in/wp-content/uploads/2020/02/Article_21.pdf .
+
+
+## 10 November 2026 — Second acquisition pass for Kardong 2011 papers and PhD thesis
+
+- Rechecked exact titles, title variants, ISSNs and journal volume/issue details for SRC-139 and SRC-140; no primary full text or thesis PDF was recovered.
+- Reconfirmed the university publication volume's bibliography: SRC-140 is in *Bulletin of Life Sciences* Vol. XVI (2011), ISSN 0971-5746; SRC-139 is listed in *Journal of Assam Science Society* 52(2), pp. 1–6, ISSN 0587-1921, 2011.
+- Reconfirmed the 2011 Dibrugarh PhD award and exact thesis title spelling “Chaimod(PO:RO)” in the CSIR-NEIST list, with Dr T. C. Bora as guide.
+- Found a bibliographic year conflict: another institutional profile describes JASS Vol. 52(2) as edited in 2012, while Dibrugarh University's publication volume lists SRC-139 as 2011. Left the source-register year unchanged pending inspection of the original issue/article.
+- Checked the university's current global and Indian thesis discovery pages. They link to NDLTD/OATD and Shodhganga/IndCat respectively; no evidence that Kardong's thesis is actually indexed or downloadable was found.
+- Tested the legacy report URL appearing adjacent to the SRC-140 listing in the institutional PDF. It did not resolve via the browser route and the PDF layout does not prove it is an SRC-140 article link. It is not used as content evidence.
+- Updated research/assam/kardong-thesis-and-2011-epop-papers-acquisition-audit-2026-11-10.md with the additional acquisition checks and explicit year/access caveats. No new source IDs or scientific claims added.
+- Sources checked: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf ; https://neist.res.in/publication/are11123.pdf ; https://www.dibru.ac.in/global-open-thesis-and-dissertations ; https://www.dibru.ac.in/lnb-library .
