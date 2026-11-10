@@ -860,7 +860,7 @@
 ## 10 November 2026 — Kardong UGC project-record cross-check
 
 - Located a second Dibrugarh University institutional record in the 2016 NAAC departmental self-study report. It lists Dr D. Kardong's project “Isolation and Biochemical characterization of Potential Amylolytic and Alcohol producing Yeast strains from Yeast cake (EPOP) used in preparation of PO:RO (Saimod)”, UGC-funded, amount 1.0 lakh.
-- The report does not provide grant code, dates, duration, locations, strain identities or final report link. Its relationship to SRC-152's 2007–2009 Kardong UGC project report is unresolved; it may be the same grant under a variant title or another administrative entry. No duplicate project/source record or funding total was created.
+- This was subsequently resolved as the same grant as SRC-152 (UGC F. No. 32-617/2006(SR)); see the 11 November reconciliation entry below. No duplicate project/source record or funding total was created.
 - Expanded the acquisition request targets to include the UGC sanction/project code, completion report, technical annexures, strain-identification sheets and culture-deposit/accession records.
 - Updated research/assam/kardong-thesis-and-2011-epop-papers-acquisition-audit-2026-11-10.md. No new microbial taxa, strain identities, sample locations or experimental results were added.
 - Source checked: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-IIA-Departmental-profile.pdf (Centre for Studies in Biotechnology profile, printed page 168 / PDF text lines 9159–9163).
@@ -873,3 +873,13 @@
 - The final report states paper-writing was ongoing at project close and that findings would be incorporated into Kardong's PhD thesis. It does not identify which later papers arose from the grant; SRC-139/SRC-140 are not attributed to it without direct acknowledgement evidence.
 - Updated the Kardong acquisition audit and SRC-152 source-register caveat. No new taxa, isolates, localities or experimental results added.
 - Primary source: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf (UGC reference/project dates, finances, dissemination statement and summary).
+
+
+## 11 November 2026 — Kardong project publication-output cross-check
+
+- Compared the SRC-152 UGC final report's dissemination statements with the already registered SRC-136 2012 *Indian Journal of Traditional Knowledge* paper. SRC-136 was received 10 August 2009 and revised 30 November 2009, overlapping the project period (1 April 2007–31 March 2009) and sharing lead author/topic. This is a strong candidate for related project output, but the inspected paper does not explicitly acknowledge UGC F. No. 32-617/2006(SR); classify the linkage as probable/undocumented, not confirmed.
+- SRC-152's report says paper-writing was underway, mentions 2007/2008 conference presentations, and states that findings would be incorporated into Kardong's PhD thesis. It does not name SRC-136, SRC-139 or SRC-140.
+- SRC-139 and SRC-140 remain unlinked to the grant until their full texts, thesis acknowledgements/bibliography or a departmental publication list are recovered.
+- Corrected an outdated sentence in the acquisition audit that had continued to describe the 2016 project entry as unresolved, after the grant identity was already reconciled.
+- No new source ID, duplicate project, taxon, strain or locality was created.
+- Sources: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf ; https://www.researchgate.net/publication/274834679_Evaluation_of_Nutritional_and_Biochemical_aspects_of_Poro_apong_Saimod_-_A_home_made_alcoholic_rice_beverage_of_Mising_tribe_of_Assam_India ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf .
