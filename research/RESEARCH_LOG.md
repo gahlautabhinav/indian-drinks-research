@@ -864,3 +864,12 @@
 - Expanded the acquisition request targets to include the UGC sanction/project code, completion report, technical annexures, strain-identification sheets and culture-deposit/accession records.
 - Updated research/assam/kardong-thesis-and-2011-epop-papers-acquisition-audit-2026-11-10.md. No new microbial taxa, strain identities, sample locations or experimental results were added.
 - Source checked: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-IIA-Departmental-profile.pdf (Centre for Studies in Biotechnology profile, printed page 168 / PDF text lines 9159–9163).
+
+
+## 10 November 2026 — SRC-152 UGC project identity crosswalk resolved
+
+- Matched the 2016 NAAC departmental project entry to SRC-152 using the exact UGC reference F. No. 32-617/2006(SR), principal investigator, project title and ₹1.0 lakh approved amount.
+- The official final report specifies 1 April 2007–31 March 2009, ₹1,00,000 approved, ₹85,000 received and ₹84,658 spent. The NAAC profile is a later institutional restatement of the same grant, not a second project. No duplicate source/project record or extra funding amount was created.
+- The final report states paper-writing was ongoing at project close and that findings would be incorporated into Kardong's PhD thesis. It does not identify which later papers arose from the grant; SRC-139/SRC-140 are not attributed to it without direct acknowledgement evidence.
+- Updated the Kardong acquisition audit and SRC-152 source-register caveat. No new taxa, isolates, localities or experimental results added.
+- Primary source: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf (UGC reference/project dates, finances, dissemination statement and summary).
