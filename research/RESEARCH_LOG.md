@@ -820,3 +820,13 @@
 - Updated research/assam/apong-microbiology-crosswalk-2026-11-09.md, section 19, with the false-positive distinction, SRC-152 report findings, limitations and acquisition status.
 - Primary sources checked: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf ; https://www.jstage.jst.go.jp/article/jgam/63/4/63_2016.11.004/_pdf
 - Follow-up remains: obtain complete Journal of Assam Science Society 52(2) (2011), Bulletin of Life Sciences Vol. XVI (2011), and Kardong's 2011 thesis or technical annexures from Dibrugarh University. Do not treat the 2017 Bodo/Deori paper as a substitute.
+
+
+## 10 November 2026 — Kardong thesis and 2011 paper acquisition audit
+
+- Rechecked exact title and author searches for Devid Kardong's 2011 Dibrugarh University PhD thesis and the two 2011 Epop papers already registered as SRC-139 and SRC-140. No full text or thesis download was recovered in the public search route.
+- Confirmed thesis identity and 2011 award from the CSIR-NEIST institutional PhD-award list; title is printed “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam,” under guide Dr T. C. Bora. Preserve “Chaimod” as source wording.
+- Reconfirmed SRC-139 and SRC-140 bibliographic details in Dibrugarh University's institutional research-publication volume. This does not establish paper contents; no fermentation timepoints, mould identifications or enzyme values added.
+- Checked official Dibrugarh University thesis discovery pages and Lakshminath Bezbaroa Library page. Recorded registrar@dibru.ac.in as the official general contact route for requesting the thesis and the two journal issues; no unverified personal email address added.
+- Created `research/assam/kardong-thesis-and-2011-epop-papers-acquisition-audit-2026-11-10.md` with confirmed citations, access status, request targets and evidence boundaries.
+- No new source IDs, plant taxa, locality records or microbial taxa created. SRC-139/SRC-140 remain open acquisition leads.
