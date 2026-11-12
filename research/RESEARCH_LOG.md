@@ -934,3 +934,15 @@
 - SRC-167 remains the only explicitly Po:ro-specific experimental consortium comparison, but its three consortium isolates have no reported strain codes or accessions. No bridge to SRC-148/SRC-164 is established.
 - Updated the Apong microbiology crosswalk. No new source IDs, taxa, localities or canonical recipe records were added.
 - Next: obtain sample registers and isolate notebooks from the relevant authors/institutions, especially the SRC-164 Mising sample register and SRC-167 consortium isolate codes.
+
+
+## 12 November 2026 — SRC-148 primary-page sampling and microbiology method audit
+
+- Re-inspected printed pages 60–61 of Borkotoky, Neog & Barua's “Mishing's Apong – An Intangible Cultural Heritage of Assam” (SRC-148; January 2014 issue).
+- Confirmed the study's broad field frame as Mising-dominated areas of Jorhat district and Epop/Epop-pitha plus prepared Apong collected mostly from Sirum, Budubari, Boloma, Bhomoraguri and Arunamukh. Plant collection is dated April–June 2011 and 2012. “Mostly” does not establish a sample count or village-to-sample allocation.
+- Confirmed microbiological isolation was performed from Epop starter cake, not as a direct finished-beverage microbial census. Transcribed the culture media and conditions for Enterobacteriaceae, LAB, yeasts and moulds; taxonomic identification was phenotypic and limited to group/lowest possible genus.
+- Retained the reported three Saccharomyces species and one each of Mucor and Rhizopus without inventing species names, isolate codes or accession numbers. Their occurrence is not allocated to Po:ro versus Nogin.
+- Qualified the paper's “no bacterial growth” inference as a media- and incubation-bound negative culture result, not proof of bacterial absence throughout Apong fermentation. The 118 × 10^7 cells/mL count remains a source-specific starter-culture yeast/mould count.
+- Created `research/assam/src148-borkotoky-2014-sampling-and-microbiology-method-audit-2026-11-12.md` and added section 23 to `research/assam/apong-microbiology-crosswalk-2026-11-09.md`.
+- No new source IDs, taxa, strain records, village-specific microbial records or canonical recipes were added. Both files were fetched back and checked after their commits.
+- Primary pages: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/60/ ; https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/61/ .
