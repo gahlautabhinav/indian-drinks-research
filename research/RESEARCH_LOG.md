@@ -883,3 +883,12 @@
 - Corrected an outdated sentence in the acquisition audit that had continued to describe the 2016 project entry as unresolved, after the grant identity was already reconciled.
 - No new source ID, duplicate project, taxon, strain or locality was created.
 - Sources: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf ; https://www.researchgate.net/publication/274834679_Evaluation_of_Nutritional_and_Biochemical_aspects_of_Poro_apong_Saimod_-_A_home_made_alcoholic_rice_beverage_of_Mising_tribe_of_Assam_India ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf .
+
+
+## 12 November 2026 — SRC-139 issue-year and SRC-140 publisher-route check
+
+- Independently corroborated the 2011 year for *Journal of Assam Science Society* 52(2): an Assam Veterinary and Fishery University publication list cites another article in the same volume/issue (pp. 114–119) as 2011; Gauhati University also records a JASS Volume 52 Issue 1 article in 2011. Retained SRC-139 as 2011, while preserving the conflicting 2012 institutional profile metadata until the original issue masthead/article is obtained.
+- Re-tested the generic legacy URL printed immediately before SRC-140 in the Dibrugarh University bibliography PDF, including direct HTTP and hostname substitutions. No readable article or report was recovered; do not treat the URL as an SRC-140 link based on table position alone.
+- Located the current Assam Science Society official website. It confirms the Society publishes journals and provides a public contact route (gsass2014@gmail.com; +91-6001399315), but the visible files/archives page does not list historical JASS issues. This is a verified enquiry route, not proof of holdings.
+- No full texts for SRC-139/SRC-140 or Kardong thesis recovered; no new scientific findings or source IDs added.
+- Sources: https://www.avfu.ac.in/sbthub/publications.html ; https://gauhati.ac.in/publications/influence-of-break-up-on-fusion-of-1213c-208207pb-system-6027/ ; https://assamsciencesociety.in/about ; https://assamsciencesociety.in/information/download ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf .
