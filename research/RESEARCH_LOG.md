@@ -971,3 +971,13 @@
 - Created research/assam/src172-mili-sundriyal-2023-epop-audit-2026-11-12.md and the 31-row CSV; added SRC-172 to sources/source_register.csv and section 25 to the Apong crosswalk.
 - No canonical plant records, accepted-name merges, village-level plant allocations, microbial records or universal recipes created. SRC-148's original 51-taxon table remains a separate acquisition gap.
 - Primary source: https://doi.org/10.1186/s42779-023-00214-2 ; publisher PDF: https://link.springer.com/content/pdf/10.1186/s42779-023-00214-2.pdf .
+
+
+## 12 November 2026 — SRC-170 / SRC-172 Mising Epop inventory comparison
+
+- Compared the source-faithful 28-taxon Poro Apob inventory (SRC-170; Pawe & Gogoi 2013, Lakhimpur/Sonitpur) against the 31-taxon general ÉPOP inventory (SRC-172; Mili & Sundriyal 2023, Sivasagar).
+- Four exact lexical overlaps were confirmed: *Lygodium flexuosum*, *Piper longum*, *Psidium guajava* and *Saccharum officinarum*. “Scoperia dulcis” / *Scoparia dulcis* is retained as a likely spelling correspondence, not an accepted-name or exact-match merge.
+- Compared use-parts for exact overlaps: *Piper longum* is dry inflorescence in SRC-170 versus leaf in SRC-172; *Psidium guajava* is leaf versus leaf/young shoot; *Lygodium flexuosum* is stem & leaf versus foliar part/young shoot; *Saccharum officinarum* is leaf in both.
+- Kept the inference bounded: SRC-170 is explicitly Poro Apob and covers Lakhimpur/Sonitpur; SRC-172 is general Mising ÉPOP in Sivasagar and does not allocate taxa to Poro/Nogin. Shared names do not establish one recipe, household prevalence or common collection geography.
+- Created research/assam/src170-src172-epop-pairwise-crosswalk-2026-11-12.csv and research/assam/src170-src172-epop-comparison-2026-11-12.md; added section 26 to the Apong crosswalk. No new source ID, canonical taxon, synonym or recipe record was created.
+- Next: pursue image-level recovery of SRC-148's missing 51-taxon Table 1, keeping it distinct from SRC-172's complete but separate inventory.
