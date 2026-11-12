@@ -527,3 +527,17 @@ The table gives initial loads of 1.03 × 10³ ± 215 (LMSP), 1.7 × 10³ ± 267 
 
 SRC-167 is the strongest directly accessible experimental comparison of traditional household Po:ro starter against a simplified laboratory consortium in this source set. Its central result is narrow but useful: under the study's laboratory setup and 144-hour endpoint, the household starter achieved higher reported ethanol and acidity, lower pH and reducing sugar, and a distinct sensory description than the selected three-genus consortium. It does **not** identify the full household microbiome, establish a standard recipe, identify the isolates to species, or resolve the 2011 SRC-139/SRC-140 gaps. No new source ID, taxon, locality, or canonical recipe record is warranted by this audit.
 
+
+
+## 22. Sample-provenance and isolate crosswalk — 2026-11-12
+
+A targeted primary-source comparison was completed for SRC-148, SRC-162, SRC-164 and SRC-167, including two follow-on publications linked to SRC-164. The detailed audit is `research/assam/mising-apong-starter-microbiology-provenance-audit-2026-11-12.md`.
+
+Key clarifications:
+- SRC-148 reports three Saccharomyces species and one each of Mucor and Rhizopus from Apong/Epop starter culture, while describing both Nogin and Po:ro processes. The microbiology results are not assigned to either beverage subtype; retain them as general Apong starter-culture evidence.
+- SRC-164's Mising starter samples are assigned to Dhemaji district, but not to Po:ro or Nogin. Its selection passage lists six initial codes (MIE1X, MIB4X, MID3X, MID3.1X, MID4Y, MID4.2X) but then says MIB4X and MIC5X were selected; MIC5X is absent from the six-code list. Keep this as an unresolved source inconsistency.
+- Nath et al. (2019) explicitly labels its isolate table as reproduced from Parasar et al. (2017) and confirms MIB4X = Wickerhamomyces anomalus, Mishing, accession KM603602. This is follow-on analysis of an existing isolate, not an independent starter collection.
+- Parasar et al. (2020) identifies MIC5X as Rhodotorula taiwanensis, accession LC011412, also as follow-on isolate characterization rather than an independent household survey.
+- SRC-162 is a separate mixed-community starter collection. The 12 samples labelled xaj/apong/suzen are not mapped by sample to community, district or beverage subtype; no result can be assigned specifically to Mising Po:ro.
+- SRC-167 explicitly studies Po:ro Apong/Saimod, but gives its household-starter-derived Mucor sp., Saccharomycopsis sp. and Saccharomyces sp. isolates no codes or sequence accessions. No isolate bridge to SRC-148/SRC-164 is established.
+- No new source IDs, microbial taxa, localities or canonical beverage records were added. Next: request sample registers and isolate notebooks from the relevant research groups and obtain SRC-167's strain identifiers.
