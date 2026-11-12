@@ -570,3 +570,21 @@ The 11 are a dicot subset only; the paper explicitly says both dicots and monoco
 - SRC-171: 11 Nogin/Nogjin-specific dicot taxa, not a full mixed dicot/monocot inventory.
 
 Two possible spelling correspondences between SRC-170 and SRC-171 are flagged, not merged: “Coctus speciosa” vs *Costus speciosus*, and “Zenthoxylum nitidum” vs *Zanthoxylum nitidum*. Retain each source's original string pending botanical-authority verification. The inaccessible SRC-148 table means no systematic subset claim against its 51 taxa is yet justified. No canonical recipe or accepted-name merges created.
+
+
+## 25. SRC-172 — Mili & Sundriyal (2023): Sivasagar general ÉPOP inventory
+
+Mili & Sundriyal (2023), Journal of Ethnic Foods 10:47, DOI 10.1186/s42779-023-00214-2, report a 31-taxon ÉPOP inventory from Sivasagar district: 27 angiosperms and four pteridophytes, across 22 families. The methods describe a field survey in 15 randomly selected villages and in-depth work in Majorbari and Ligiribari. Plant identifications were assisted by BSI Itanagar expertise and compared with ARUN and ASSAM regional herbaria. No voucher accession numbers or taxon-by-village matrix are published.
+
+The source-faithful 31-row table transcription is research/assam/src172-mili-sundriyal-2023-epop-31-taxon-inventory.csv; detailed source audit is research/assam/src172-mili-sundriyal-2023-epop-audit-2026-11-12.md. Table 1 records botanical name, family, Mising name, habit, part used, collection period and qualitative sourcing dependency across forest, home garden, agricultural field and fallow land. The paper reports forest as the largest source category (35.53%), followed by fallow land (23.68%), agricultural fields (21.05%) and home gardens (19.74%); these are source-reported collection-source percentages, not abundance or ecological population estimates.
+
+The article discusses both Poro and Nogin Apong but does not allocate individual Table 1 taxa to either variant. Preserve it as general Mising ÉPOP evidence. Two entries remain genus-only (*Neolitsea* sp. and *Selaginella* sp.); spelling forms such as “Alstonia shcolaris,” “Melia azadirach” and “Albizzia lucida” are retained from the table, not silently normalized.
+
+### Updated source comparison
+
+- SRC-148: 51 Epop taxa; general Epop, subtype unresolved; table still not recoverable from indexed text.
+- SRC-170: 28 taxon-level names in a Po:ro-specific Apob table.
+- SRC-171: 11 dicot taxa explicitly for Nogin/Nogjin Epop; not a complete dicot/monocot inventory.
+- SRC-172: 31 taxa in general ÉPOP from Sivasagar; no subtype allocation.
+
+These are four separate source-specific inventories and must not be added together or merged as a single canonical recipe. The 2023 article's table is now fully recoverable from its publisher PDF, but it does not solve SRC-148's separate 51-taxon table gap.
