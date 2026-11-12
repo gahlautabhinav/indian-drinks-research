@@ -959,3 +959,15 @@
 - Created research/assam/src171-sarma-devi-2016-nogin-epop-11-taxon-inventory.csv and research/assam/src171-sarma-devi-2016-nogin-epop-audit-2026-11-12.md; added SRC-171 to sources/source_register.csv and section 24 to the Apong microbiology/ethnobotany crosswalk.
 - No canonical plant records, accepted-name merges, village-level occurrence claims or complete Nogin recipe were created. The SRC-148 51-row Table 1 remains an image-transcription acquisition gap.
 - Primary source: https://doi.org/10.22271/tpr.2016.v3.i3.087 ; full text: https://www.researchgate.net/publication/312069738_Role_of_dicot_angiosperms_in_the_livelihood_of_Mishing_community_in_Sonitpur_district_Assam_India .
+
+
+## 12 November 2026 — SRC-172 Mili & Sundriyal (2023) Sivasagar ÉPOP 31-taxon inventory
+
+- Located and inspected the publisher-hosted open-access PDF for Mili & Sundriyal (2023), Journal of Ethnic Foods 10:47, DOI 10.1186/s42779-023-00214-2. The full Table 1 spans printed pages 6–7 and is text-extractable.
+- Registered it as SRC-172 after checking the source register. The study reports an extensive survey in 15 randomly selected Mising villages in Sivasagar district, with in-depth work in Majorbari and Ligiribari. The article does not report a respondent count, complete 15-village list or voucher accession numbers; acknowledgements name only 13 localities.
+- Transcribed all 31 Table 1 entries into research/assam/src172-mili-sundriyal-2023-epop-31-taxon-inventory.csv, retaining source names, families, local names, habits, parts used, collection periods and qualitative land-use dependency categories. Count is 27 angiosperms plus four pteridophytes; two entries remain genus-only (Neolitsea sp., Selaginella sp.).
+- Preserved table spelling and identification caveats including Alstonia shcolaris (narrative prose says scholaris), Melia azadirach, Albizzia lucida, and genus-only taxa. Did not create accepted-name mappings.
+- Confirmed the paper discusses Poro and Nogin Apong but does not allocate individual Table 1 taxa to either beverage variant. Kept SRC-172 separate from SRC-148's 51 general Epop taxa, SRC-170's Poro-specific Apob table and SRC-171's 11 Nogin-specific dicot taxa.
+- Created research/assam/src172-mili-sundriyal-2023-epop-audit-2026-11-12.md and the 31-row CSV; added SRC-172 to sources/source_register.csv and section 25 to the Apong crosswalk.
+- No canonical plant records, accepted-name merges, village-level plant allocations, microbial records or universal recipes created. SRC-148's original 51-taxon table remains a separate acquisition gap.
+- Primary source: https://doi.org/10.1186/s42779-023-00214-2 ; publisher PDF: https://link.springer.com/content/pdf/10.1186/s42779-023-00214-2.pdf .
