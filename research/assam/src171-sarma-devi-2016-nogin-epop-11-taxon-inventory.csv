@@ -1,0 +1,12 @@
+Source_ID,Table_Row,Scientific_Name_As_Published,Family_As_Published,Mishing_Name,Plant_Part,Life_Form,Use_Statement,Variant_Attribution,Notes
+SRC-171,1,"Clerodendrum infortunatum L.",Verbenaceae,Pakkom,Leaf,Shrub,"Leaf dried and powdered for Epop",Nogin/Nogjin,"Table 3; paper says 11 dicot species recorded for Epop used for Nogjin Apong."
+SRC-171,2,"Coriandrum sativum L.",Apiaceae,Dhania,Stem/leaf,Herb,"Stem/leaf dried and powdered for Epop",Nogin/Nogjin,"Table 3."
+SRC-171,3,"Costus speciosus (J.Koenig) Sm.",Costaceae,Jomlakhuti,"Leaf; prose says root dried and powdered",Shrub,"Used in Epop",Nogin/Nogjin,"Table lists leaf under part used but accompanying use text says root; internal row-level inconsistency preserved."
+SRC-171,4,"Cuscuta reflexa Roxb.",Convolvulaceae,Rabonlota,Root,Climber,"Recorded as Epop plant; use/mode cell blank",Nogin/Nogjin,"Table 3."
+SRC-171,5,"Flemingia strobilifera (L.) W.T.Aiton",Fabaceae,Makhioti,Leaf,Shrub,"Recorded as Epop plant; use/mode cell blank",Nogin/Nogjin,"Table 3."
+SRC-171,6,"Hibiscus rosa-sinensis L.",Malvaceae,Leunaapum,Leaf,Tree,"Leaf dried and powdered for Epop",Nogin/Nogjin,"Table 3; life-form label T retained as printed."
+SRC-171,7,"Lippia javanica (Burm.f.) Spreng.",Verbenaceae,,Leaf/flower,Herb,"Leaf/flower dried and powdered for Epop",Nogin/Nogjin,"Mishing vernacular name is blank/dash in table."
+SRC-171,8,"Polygonum hydropiper L.",Polygonaceae,Leubo,Leaf/stem,Herb,"Leaf/stem dried and powdered for Epop",Nogin/Nogjin,"Table 3."
+SRC-171,9,"Polygonum microcephalum D. Don",Polygonaceae,Nekungkune,Leaf,Herb,"Leaf dried and powdered for Epop",Nogin/Nogjin,"Table 3."
+SRC-171,10,"Tinospora cordifolia (Willd.) Miers",Menispermaceae,Amrita,Leaf,Climber,"Recorded as Epop plant; use/mode cell blank",Nogin/Nogjin,"Table 3."
+SRC-171,11,"Zanthoxylum nitidum (Roxb.) DC.",Rutaceae,Jabrang,Leaf,Shrub,"Recorded as Epop plant; use/mode cell blank",Nogin/Nogjin,"Table 3."
