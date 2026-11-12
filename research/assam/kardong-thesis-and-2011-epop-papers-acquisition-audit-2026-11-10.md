@@ -142,3 +142,29 @@ Sources:
 ### Current acquisition state
 
 No full text was recovered for SRC-139 or SRC-140 in this pass. No thesis PDF or accessible thesis catalogue record was located. No article contents, enzyme values, mould taxa, strain identifiers or fermentation time-series are inferred. Recommended requests should be sent to both Dibrugarh University/Lakshminath Bezbaroa Library and Assam Science Society, with exact volume, issue, page range and ISSN, and should ask for scans, holding/catalogue identifiers or a referral to the current custodian.
+
+
+## 11. Bibliographic index coverage and Bulletin volume cross-check — 2026-11-12
+
+### Journal of the Assam Science Society
+
+OpenAlex recognises *Journal of the Assam Science Society* as a journal under ISSN 0587-1921 (OpenAlex source ID S4393915592), but its currently displayed source record exposes only three indexed works, all from 1970, 1980 and 1995. Neither SRC-139 nor other 2011 works are represented in that displayed set. This is an index-coverage limitation, not evidence that SRC-139 was not published. Exact-title and author/title searches across the available public search route did not locate an indexed work record or full text for SRC-139.
+
+Source: https://openalex.org/sources/S4393915592
+
+### Bulletin of Life Sciences
+
+The journal is identified in the Dibrugarh University bibliography as a Department of Life Sciences research journal, ISSN 0971-5746. The bibliography lists SRC-140 in Vol. XVI (2011). An independent faculty publication profile at Assam down town University cites another Vol. XVI paper in the same journal as 2011 (pp. 61–72), supporting the existence of a 2011 Vol. XVI issue. The university archive search also exposes a different issue, Vol. XVIII, March 2012, with the same ISSN and departmental publisher; this demonstrates that the journal had separate issue volumes and does not supply SRC-140's article text.
+
+Sources:
+- Dibrugarh University publication list: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
+- Assam down town University faculty profile: https://adtu.in/teaching-faculties/TWpJPQ%3D%3D/.html
+- Dibrugarh University Vol. XVIII March 2012 issue PDF: https://oldweb.dibru.ac.in/wp-content/uploads/2020/03/file206.pdf
+
+### Thesis repository searches
+
+Exact-title/author searches for “Devid Kardong”, “Chaimod”, “PO:RO” and the thesis title did not return a Shodhganga or NDLTD record in the available public search results. The CSIR-NEIST PhD-award list remains the reliable evidence for award/title/guide, not for thesis deposit or public availability. The absence of a surfaced repository hit is not proof that no physical or restricted institutional copy exists.
+
+### Acquisition conclusion
+
+The evidence now independently supports the journal identities, ISSNs and broad issue-year/volume metadata, but not the contents of SRC-139 or SRC-140. The highest-yield next action remains a catalogue-level request with exact bibliographic coordinates and a request for inter-library loan/document delivery. Do not attempt to reconstruct results from neighbouring articles in the same journals.
