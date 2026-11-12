@@ -483,3 +483,47 @@ Key direct source-level clarification: SRC-165 Table 1 lists three Mising Apop-p
 SRC-148 reports three Saccharomyces species plus Mucor and Rhizopus in starter culture, while reporting no LAB growth on its selected plates. This method-bound negative result does not contradict SRC-165's deliberate MRS-based LAB isolation; neither result establishes universal presence or absence across Mising households. SRC-152's AY/FY codes remain unidentified and cannot be assigned to the genera in SRC-148 or SRC-167. SRC-167's Mucor + Saccharomycopsis + Saccharomyces consortium is experimental and genus-level; no isolate linkage to SRC-148 is established.
 
 SRC-136's Epop, ripe-mash and finished-liquid microbial counts are total counts with differing units and no matched longitudinal design. They are not a taxonomic profile or comparable survival curve. No canonical microbial-community record, village allocation or cross-study isolate identity was created. SRC-139 and SRC-140 remain unrecovered.
+
+
+## 21. SRC-167 full-text experimental interpretation audit — 2026-11-12
+
+### Study identity and scope
+
+Kardong, Devid; Pegu, Bhaba Kr.; Ghose Guha, Bijeta (2017), “Evaluation of Efficacy of the Microbial Consortium for Fermentation of Alcoholic Rice Beverage amongst Mising Tribe of Assam, India,” *Current Trends in Pharmaceutical Research* 4(2):6–17. Dibrugarh University-hosted full text: https://oldweb.dibru.ac.in/wp-content/uploads/2020/02/Article_21.pdf.
+
+The article explicitly studies traditional fermentation of **Po:ro apong / Saimod**, not an undifferentiated sample of all Apong variants. It compares household-made starter (HMS) with a laboratory-made starter (LMS) and a microbial consortium (MC). Household HMS was collected from Mising households in unspecified Mising-populated localities; no village, household count or biological replicate design is reported.
+
+### What the experiment actually compared
+
+- HMS: household starter culture, collected from local households and brought to the laboratory.
+- MC: one amylolytic *Mucor* sp., one amylolytic *Saccharomycopsis* sp. and one alcohol-fermenting *Saccharomyces* sp., all described as isolated from HMS. These are genus-level identifications in this article; do not assign species or accession numbers.
+- LMSP: the selected MC combined with a powdered herbal concoction and laboratory-grade starch in a 1:3 ratio, mixed with water and sterilized before inoculation.
+- LMSN: the same laboratory herbal/starch preparation without microbial inoculation.
+- The authors describe HMS as having the best overall fermentation outcome at the 144-hour endpoint. The simplified MC and LMSP did not reproduce the HMS profile. The paper's interpretation is that microbial diversity/relative loads and interactions matter; it does not demonstrate that the plant mixture alone caused the result.
+
+### Endpoint values transcribed from Table 3
+
+| Starter | Final microbial load (CFU/g as table heading) | Mash pH | Titratable acidity (% lactic acid) | Reducing sugar (mg/g) | Ethanol (ml/100 g fermented mash) |
+|---|---:|---:|---:|---:|---:|
+| LMSN | 1.52 × 10² ± 58 | 6.3 | Not detected | 71 ± 0.1 | 0.24 ± 0.01 |
+| LMSP | 1.4 × 10⁴ ± 249 | 5.4 | 0.06 ± 0.01 | 48 ± 0.21 | 1.2 ± 0.01 |
+| MC | 1.5 × 10⁵ ± 325 | 5.5 | 0.05 ± 0.002 | 51 ± 1.02 | 1.13 ± 0.1 |
+| HMS | 4.14 × 10⁵ ± 553 | 4.78 | 0.22 ± 0.01 | 17 ± 0.12 | 3.1 ± 0.02 |
+
+The table gives initial loads of 1.03 × 10³ ± 215 (LMSP), 1.7 × 10³ ± 267 (MC) and 5.49 × 10⁷ ± 874 (HMS); the LMSN initial cell is shown as a dash. Preserve the article's units and endpoint exactly. The reported ethanol is a mass-normalized mash result, not % alcohol by volume and not directly comparable to beverage ABV reported in other studies.
+
+### Source-quality and interpretation flags
+
+1. **No time-course:** the reported comparison is at 144 hours (six days). It is not a fermentation curve and does not establish the full traditional household maturation duration.
+2. **Replication unclear:** the accessible methods do not state the number or nature of biological replicates behind the reported ± values. The paper mentions a t-test and p<0.05 but does not provide a sufficiently transparent replicate design or complete statistical output in the accessible text.
+3. **Herb-count discrepancy:** abstract describes 13 herb ingredients, while the results state 14 herbal species. Table 1 visibly contains 14 entries; Table 2 is a selected “minimum requirement” list of traditional interpretations, not a full second inventory. Keep 13/14 discrepancy open.
+4. **Taxonomic resolution:** *Mucor* sp., *Saccharomycopsis* sp. and *Saccharomyces* sp. are genus-level identifications in this paper. Do not infer species or link them to SRC-148, SRC-152, SRC-164 or SRC-165 isolates.
+5. **Method/substrate comparability:** HMS is a household starter, while LMS/MC were constructed under laboratory conditions with sterilized starch and selected isolates. The comparison does not isolate the causal contribution of individual herbs, nor prove that a three-member consortium is universally inferior in every process.
+6. **Interpretive claim vs measured result:** the authors discuss possible roles for diversity and relative microbial loads; individual plant antimicrobial/nutritional mechanisms were not tested in this experiment. Ethnomedicinal assertions in Table 1 are local interpretations, not clinical evidence.
+7. **Locality:** “various localities of Mising populated areas” is the only sample-location description. No named village or district pin is justified.
+8. **Citation cross-reference:** the reference list cites Kardong et al. (2012) SRC-136, but that bibliographic relationship does not prove that the 2017 experimental batch or starter was identical to the 2012 study's material.
+
+### Reconciled conclusion
+
+SRC-167 is the strongest directly accessible experimental comparison of traditional household Po:ro starter against a simplified laboratory consortium in this source set. Its central result is narrow but useful: under the study's laboratory setup and 144-hour endpoint, the household starter achieved higher reported ethanol and acidity, lower pH and reducing sugar, and a distinct sensory description than the selected three-genus consortium. It does **not** identify the full household microbiome, establish a standard recipe, identify the isolates to species, or resolve the 2011 SRC-139/SRC-140 gaps. No new source ID, taxon, locality, or canonical recipe record is warranted by this audit.
+
