@@ -588,3 +588,16 @@ The article discusses both Poro and Nogin Apong but does not allocate individual
 - SRC-172: 31 taxa in general ÉPOP from Sivasagar; no subtype allocation.
 
 These are four separate source-specific inventories and must not be added together or merged as a single canonical recipe. The 2023 article's table is now fully recoverable from its publisher PDF, but it does not solve SRC-148's separate 51-taxon table gap.
+
+
+## 26. SRC-170 versus SRC-172 — Poro-specific Apob and general Sivasagar ÉPOP comparison (2026-11-12)
+
+A source-faithful pairwise comparison was made between Pawe & Gogoi (2013; SRC-170) and Mili & Sundriyal (2023; SRC-172). The inventories are not equivalent study populations: SRC-170's 28 taxon-level entries are explicitly labelled as Poro Apob ingredients and come from fieldwork in Lakhimpur and Sonitpur; SRC-172's 31 Table 1 taxa are general Mising ÉPOP from Sivasagar, with no allocation to Poro versus Nogin.
+
+Four names are exact lexical matches after removing author citations and punctuation: *Lygodium flexuosum*, *Piper longum*, *Psidium guajava*, and *Saccharum officinarum*. “Scoperia dulcis” (SRC-170) / *Scoparia dulcis* (SRC-172) is a plausible spelling correspondence, not an exact match, and is not merged.
+
+The four exact matches differ in recorded use-part detail: *Piper longum* is dry inflorescence in SRC-170 versus leaf in SRC-172; *Psidium guajava* is leaf versus leaf/young shoot; *Lygodium flexuosum* is stem & leaf versus foliar part/young shoot; *Saccharum officinarum* is leaf in both. Shared names do not establish equivalent ingredient preparation.
+
+This comparison is not evidence that the taxa are common to all Mising households, that Poro and Nogin share one recipe, or that any species is more prevalent. The studies are separated by district, date and variant-resolution. SRC-172's sourcing categories cannot be projected onto SRC-170's Poro villages. A row-level pairwise file is stored at research/assam/src170-src172-epop-pairwise-crosswalk-2026-11-12.csv; detailed comparison at research/assam/src170-src172-epop-comparison-2026-11-12.md.
+
+No taxonomic synonyms, canonical plants, localities, or recipe records were merged. No new source ID was required.
