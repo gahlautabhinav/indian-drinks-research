@@ -892,3 +892,12 @@
 - Located the current Assam Science Society official website. It confirms the Society publishes journals and provides a public contact route (gsass2014@gmail.com; +91-6001399315), but the visible files/archives page does not list historical JASS issues. This is a verified enquiry route, not proof of holdings.
 - No full texts for SRC-139/SRC-140 or Kardong thesis recovered; no new scientific findings or source IDs added.
 - Sources: https://www.avfu.ac.in/sbthub/publications.html ; https://gauhati.ac.in/publications/influence-of-break-up-on-fusion-of-1213c-208207pb-system-6027/ ; https://assamsciencesociety.in/about ; https://assamsciencesociety.in/information/download ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf .
+
+
+## 12 November 2026 — Journal index coverage and Bulletin volume cross-check
+
+- Checked OpenAlex's journal record for *Journal of the Assam Science Society* (ISSN 0587-1921). It recognises the journal but exposes only three works in its current page, dated 1970, 1980 and 1995; SRC-139 and other 2011 works are not represented there. Treat this as index coverage limitation, not evidence of non-publication.
+- Confirmed Dibrugarh University's bibliography lists SRC-140 in *Bulletin of Life Sciences* Vol. XVI (2011). An independent Assam down town University faculty profile cites a separate Vol. XVI article in the same journal as 2011. Dibrugarh's archive also exposes Vol. XVIII, March 2012, ISSN 0971-5746; this confirms journal identity/continuity but not SRC-140's contents.
+- Exact-title and author/title searches for Kardong's thesis did not surface a Shodhganga/NDLTD record in the available public results. The CSIR-NEIST award list remains bibliographic evidence of award/title/guide only; no claim that the thesis is undeposited or inaccessible is made.
+- Updated the Kardong acquisition audit with index-coverage limitations and Bulletin volume cross-check. No new source IDs, results, taxa, isolates or locality records added.
+- Sources: https://openalex.org/sources/S4393915592 ; https://adtu.in/teaching-faculties/TWpJPQ%3D%3D/.html ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/03/file206.pdf ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf ; https://neist.res.in/publication/are11123.pdf .
