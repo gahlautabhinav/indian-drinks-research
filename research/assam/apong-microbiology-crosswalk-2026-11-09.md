@@ -601,3 +601,22 @@ The four exact matches differ in recorded use-part detail: *Piper longum* is dry
 This comparison is not evidence that the taxa are common to all Mising households, that Poro and Nogin share one recipe, or that any species is more prevalent. The studies are separated by district, date and variant-resolution. SRC-172's sourcing categories cannot be projected onto SRC-170's Poro villages. A row-level pairwise file is stored at research/assam/src170-src172-epop-pairwise-crosswalk-2026-11-12.csv; detailed comparison at research/assam/src170-src172-epop-comparison-2026-11-12.md.
 
 No taxonomic synonyms, canonical plants, localities, or recipe records were merged. No new source ID was required.
+
+
+## 27. SRC-173 — Yein et al. (2022): Majuli 21-entry general Epop inventory
+
+Yein et al. (2022), *Biosciences Biotechnology Research Asia* 19(2):497–500, DOI 10.13005/bbra/3003, report a field survey in Majuli during September–December 2021. They identify rural households involved in beverage manufacture as primary information sources, say plants were collected from nearby villages and forests, and state that more than 20 villages were visited. The paper says “three months” while giving September–December dates; respondent count, full village list, plant-by-village matrix and voucher accession numbers are absent.
+
+Table 1 contains 21 Epop starter-culture plant entries with scientific name, family, local name, plant part and traditional-use statements. The source-faithful transcription is `research/assam/src173-yein-et-al-2022-majuli-21-taxon-epop-inventory.csv`; audit: `research/assam/src173-yein-et-al-2022-majuli-21-taxon-epop-audit-2026-11-12.md`. The article discusses both Po:ro and Nogin Apong, but does not allocate Table 1 taxa to either variant. Preserve this as general Mising Epop evidence.
+
+Source strings are retained, including “Centala acciatica,” “Hydrocotyl rotundifolia(Roxb);”, “Occimum sunctum,” family labels “Laurels” and “Dogbanes,” and the assignment of *Vitex negundo* to Lamiaceae. The *Lygodium japonicum* row lists leaves as plant part but says root and leaves in its use text; *Zingiber officinale* is listed as “Bulb.” Traditional ethnomedicinal statements are recorded as reported beliefs, not clinical efficacy or safety evidence.
+
+### Current Mising inventory set
+
+- SRC-148: 51 general Epop taxa, Jorhat; Table 1 transcription still unavailable.
+- SRC-170: 28 taxon-level entries explicitly for Poro Apob, Lakhimpur/Sonitpur.
+- SRC-171: 11 dicot entries explicitly for Nogin/Nogjin Epop, Sonitpur; not a complete recipe.
+- SRC-172: 31 general ÉPOP taxa, Sivasagar; variant not allocated.
+- SRC-173: 21 general Epop entries, Majuli; variant not allocated.
+
+These are source-specific inventories with different geographic scope and selection criteria; do not sum them or treat them as a canonical formula. No canonical plant, synonym, village link or recipe record was created.
