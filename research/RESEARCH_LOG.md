@@ -901,3 +901,13 @@
 - Exact-title and author/title searches for Kardong's thesis did not surface a Shodhganga/NDLTD record in the available public results. The CSIR-NEIST award list remains bibliographic evidence of award/title/guide only; no claim that the thesis is undeposited or inaccessible is made.
 - Updated the Kardong acquisition audit with index-coverage limitations and Bulletin volume cross-check. No new source IDs, results, taxa, isolates or locality records added.
 - Sources: https://openalex.org/sources/S4393915592 ; https://adtu.in/teaching-faculties/TWpJPQ%3D%3D/.html ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/03/file206.pdf ; https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf ; https://neist.res.in/publication/are11123.pdf .
+
+
+## 2026-11-12 — Primary-document acquisition request kit prepared
+
+- Created `research/assam/primary-document-acquisition-request-kit-2026-11-12.md` with tailored request templates for Dibrugarh University/Lakshminath Bezbaroa Library and Assam Science Society, plus a follow-up tracking checklist.
+- The university request specifies Kardong's 2011 PhD thesis, SRC-139 (*Journal of Assam Science Society* 52(2):1–6), SRC-140 (*Bulletin of Life Sciences* Vol. XVI), and the complete technical file for UGC project F. No. 32-617/2006(SR), including strain-identification and assay annexures.
+- The Society request asks whether it or a former editor/archive holds JASS 52(2), 2011, and requests the issue masthead or referral to the current custodian.
+- Contact details are limited to published institutional routes. The kit explicitly states that no request has been sent and no holdings are assumed.
+- Evidence safeguards preserve source spellings and prohibit inferring experimental results, microbial taxa, localities or grant-publication links from bibliographic metadata.
+- Next: send the requests through the listed official channels, record responses and access conditions, then inspect any received primary documents before changing source records or scientific claims.
