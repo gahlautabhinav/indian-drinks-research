@@ -946,3 +946,16 @@
 - Created `research/assam/src148-borkotoky-2014-sampling-and-microbiology-method-audit-2026-11-12.md` and added section 23 to `research/assam/apong-microbiology-crosswalk-2026-11-09.md`.
 - No new source IDs, taxa, strain records, village-specific microbial records or canonical recipes were added. Both files were fetched back and checked after their commits.
 - Primary pages: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/60/ ; https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/61/ .
+
+
+## 12 November 2026 — SRC-171 Nogin Epop ethnobotanical inventory and variant reconciliation
+
+- Registered Sarma & Devi (2016), Tropical Plant Research 3(3):662–672, DOI 10.22271/tpr.2016.v3.i3.087 as SRC-171 after checking the full source register; no duplicate source existed.
+- Recovered Table 3's 11 dicot taxa explicitly used for Nogjin/Nogin Epop: Clerodendrum infortunatum, Coriandrum sativum, Costus speciosus, Cuscuta reflexa, Flemingia strobilifera, Hibiscus rosa-sinensis, Lippia javanica, Polygonum hydropiper, P. microcephalum, Tinospora cordifolia and Zanthoxylum nitidum.
+- Confirmed the wider survey covered 17 Mising villages in Sonitpur district during 2013–2015 and interviewed 194 villagers. Herbarium specimens were reportedly submitted to Tezpur University Herbarium (TUH), but voucher accession numbers and Epop-specific village allocations are not supplied.
+- Preserved a table-level Costus discrepancy: the part-used column says leaf while the use/mode text says root dried and powdered. Lippia javanica has no Mishing vernacular name in the table.
+- Compared inventories without merging them: SRC-148 reports 51 general Epop taxa with subtype unresolved; SRC-170 reports 28 taxon-level names for Po:ro Apob; SRC-171 reports 11 dicot taxa for Nogin/Nogjin Epop and is not a complete mixed dicot/monocot recipe.
+- Flagged, but did not merge, SRC-170/SRC-171 spelling candidates Coctus speciosa / Costus speciosus and Zenthoxylum nitidum / Zanthoxylum nitidum pending botanical-authority review.
+- Created research/assam/src171-sarma-devi-2016-nogin-epop-11-taxon-inventory.csv and research/assam/src171-sarma-devi-2016-nogin-epop-audit-2026-11-12.md; added SRC-171 to sources/source_register.csv and section 24 to the Apong microbiology/ethnobotany crosswalk.
+- No canonical plant records, accepted-name merges, village-level occurrence claims or complete Nogin recipe were created. The SRC-148 51-row Table 1 remains an image-transcription acquisition gap.
+- Primary source: https://doi.org/10.22271/tpr.2016.v3.i3.087 ; full text: https://www.researchgate.net/publication/312069738_Role_of_dicot_angiosperms_in_the_livelihood_of_Mishing_community_in_Sonitpur_district_Assam_India .
