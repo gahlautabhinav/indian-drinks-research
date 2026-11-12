@@ -541,3 +541,17 @@ Key clarifications:
 - SRC-162 is a separate mixed-community starter collection. The 12 samples labelled xaj/apong/suzen are not mapped by sample to community, district or beverage subtype; no result can be assigned specifically to Mising Po:ro.
 - SRC-167 explicitly studies Po:ro Apong/Saimod, but gives its household-starter-derived Mucor sp., Saccharomycopsis sp. and Saccharomyces sp. isolates no codes or sequence accessions. No isolate bridge to SRC-148/SRC-164 is established.
 - No new source IDs, microbial taxa, localities or canonical beverage records were added. Next: request sample registers and isolate notebooks from the relevant research groups and obtain SRC-167's strain identifiers.
+
+
+
+## 23. SRC-148 — primary-page sampling and method audit (2026-11-12)
+
+The printed January 2014 issue's pages 60–61 were re-inspected. The methods place the repeated survey in Mising-dominated areas of **Jorhat district** and say prepared Epop/Epop-pitha and prepared Apong were collected **mostly** from Sirum, Budubari, Boloma, Bhomoraguri and Arunamukh. Plant collections are dated April–June 2011 and 2012. “Mostly” does not provide a sample count or prove that every microbial sample came from every named village; no village-level isolate or beverage record is created.
+
+The microbiology method explicitly says microorganisms were isolated **from Epop** by serial dilution. It used violet red bile glucose agar for Enterobacteriaceae (30°C, 48 h), MRS + 1% calcium carbonate for LAB (30°C, 24–72 h), and streptomycin-supplemented Sabouraud dextrose agar for yeasts/moulds (28°C, 48 h). Yeasts and moulds were identified by colony/microscopic characters and simple tests; the authors state identification was to the group or lowest possible genus. No strain codes, sequence accessions or readable isolate-to-village table were recovered.
+
+The reported three *Saccharomyces* species and one species each of *Mucor* and *Rhizopus* therefore remain Epop starter-culture findings. The paper describes both Nogin and Po:ro processes, but does not allocate these taxa to either subtype. The reported absence of Enterobacteriaceae/LAB is a negative culture result bounded by the sampled Epop, media and incubation conditions; it is not proof that bacteria are absent from all Apong stages. The 118 × 10^7 viable yeast/mould cells/mL figure is a source-specific original-culture count, not subtype- or species-resolved and not a finished-beverage count.
+
+Detailed audit: `research/assam/src148-borkotoky-2014-sampling-and-microbiology-method-audit-2026-11-12.md`. Primary pages: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/60/ and https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/61/.
+
+No new source ID, taxa, strain record, village-specific microbial record or canonical recipe was added.
