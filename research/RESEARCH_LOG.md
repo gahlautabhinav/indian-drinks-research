@@ -922,3 +922,15 @@
 - Preserved the abstract/results discrepancy of 13 versus 14 herb species, genus-level isolate identifications, unspecified household localities and the limited comparability of household HMS with sterilized laboratory starch-based preparations.
 - Added the full-text interpretation to `research/assam/apong-microbiology-crosswalk-2026-11-09.md` and created `research/assam/src167-kardong-2017-poro-apong-microbial-consortium-audit-2026-11-12.md`. SRC-167 already exists; no duplicate source, taxa, locality or canonical recipe records were created.
 - Next: seek supplementary/sample provenance behind the starter studies and distinguish any microbial evidence explicitly linked to Po:ro from Apong/Apop samples whose subtype is unspecified.
+
+
+## 2026-11-12 — Mising Apong starter microbiology provenance audit
+
+- Compared the primary and follow-on records for SRC-148, SRC-162, SRC-164 and SRC-167; created `research/assam/mising-apong-starter-microbiology-provenance-audit-2026-11-12.md`.
+- Clarified that SRC-148's reported starter-culture taxa are not allocated to Po:ro versus Nogin, despite both processes being described in the paper.
+- Found an unresolved isolate-code inconsistency in SRC-164: six initial Mising codes are listed, but the selected molecular pair includes MIC5X, which is absent from that six-code list.
+- Cross-checked follow-on accession evidence: Nath et al. (2019) explicitly says its isolate table is reproduced from Parasar et al. (2017) and records MIB4X as `Wickerhamomyces anomalus`, KM603602; Parasar et al. (2020) records MIC5X as `Rhodotorula taiwanensis`, LC011412. These are follow-on analyses, not independent household sampling.
+- Clarified that SRC-162 is a separate mixed-community starter collection without a sample-to-community/district/subtype matrix; no yeast findings can be assigned specifically to Mising Po:ro.
+- SRC-167 remains the only explicitly Po:ro-specific experimental consortium comparison, but its three consortium isolates have no reported strain codes or accessions. No bridge to SRC-148/SRC-164 is established.
+- Updated the Apong microbiology crosswalk. No new source IDs, taxa, localities or canonical recipe records were added.
+- Next: obtain sample registers and isolate notebooks from the relevant authors/institutions, especially the SRC-164 Mising sample register and SRC-167 consortium isolate codes.
