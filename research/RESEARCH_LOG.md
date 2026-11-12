@@ -911,3 +911,14 @@
 - Contact details are limited to published institutional routes. The kit explicitly states that no request has been sent and no holdings are assumed.
 - Evidence safeguards preserve source spellings and prohibit inferring experimental results, microbial taxa, localities or grant-publication links from bibliographic metadata.
 - Next: send the requests through the listed official channels, record responses and access conditions, then inspect any received primary documents before changing source records or scientific claims.
+
+
+## 2026-11-12 — SRC-167 Po:ro Apong experimental interpretation audit
+
+- Reopened the Dibrugarh University-hosted full text of Kardong, Pegu & Ghose Guha (2017), already registered as SRC-167.
+- Confirmed it explicitly studies Po:ro apong/Saimod and compares household-made starter (HMS) with a selected three-genus laboratory consortium (Mucor sp., Saccharomycopsis sp., Saccharomyces sp.) and herbal/starch laboratory preparations.
+- Transcribed the 144-hour Table 3 endpoint values into a dedicated audit. HMS has the highest reported ethanol (3.1 ± 0.02 ml/100 g fermented mash) and titratable acidity (0.22 ± 0.01% lactic acid), lowest pH (4.78) and reducing sugar (17 ± 0.12 mg/g) among the compared starters.
+- Clarified that this is not an ABV percentage, not a fermentation time series, and not comparable directly with beverage % v/v values. The article does not report a sufficiently clear biological replicate design.
+- Preserved the abstract/results discrepancy of 13 versus 14 herb species, genus-level isolate identifications, unspecified household localities and the limited comparability of household HMS with sterilized laboratory starch-based preparations.
+- Added the full-text interpretation to `research/assam/apong-microbiology-crosswalk-2026-11-09.md` and created `research/assam/src167-kardong-2017-poro-apong-microbial-consortium-audit-2026-11-12.md`. SRC-167 already exists; no duplicate source, taxa, locality or canonical recipe records were created.
+- Next: seek supplementary/sample provenance behind the starter studies and distinguish any microbial evidence explicitly linked to Po:ro from Apong/Apop samples whose subtype is unspecified.
