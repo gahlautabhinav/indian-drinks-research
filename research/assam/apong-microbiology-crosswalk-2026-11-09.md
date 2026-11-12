@@ -555,3 +555,18 @@ The reported three *Saccharomyces* species and one species each of *Mucor* and *
 Detailed audit: `research/assam/src148-borkotoky-2014-sampling-and-microbiology-method-audit-2026-11-12.md`. Primary pages: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/60/ and https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/61/.
 
 No new source ID, taxa, strain record, village-specific microbial record or canonical recipe was added.
+
+
+## 24. SRC-171 — Sarma & Devi (2016): Nogin/Nogjin Epop dicot inventory
+
+Sarma & Devi (2016), Tropical Plant Research 3(3):662–672, DOI 10.22271/tpr.2016.v3.i3.087, reports a 2013–2015 ethnobotanical survey across 17 Mising villages in Sonitpur district with 194 villagers interviewed. Table 3 is explicitly for dicot plants used in Epop preparation for Nogjin Apong and lists 11 taxa: *Clerodendrum infortunatum*, *Coriandrum sativum*, *Costus speciosus*, *Cuscuta reflexa*, *Flemingia strobilifera*, *Hibiscus rosa-sinensis*, *Lippia javanica*, *Polygonum hydropiper*, *P. microcephalum*, *Tinospora cordifolia* and *Zanthoxylum nitidum*. The source-faithful 11-row transcription is research/assam/src171-sarma-devi-2016-nogin-epop-11-taxon-inventory.csv; detailed audit is research/assam/src171-sarma-devi-2016-nogin-epop-audit-2026-11-12.md.
+
+The 11 are a dicot subset only; the paper explicitly says both dicots and monocots are used in Nogin Epop. No Epop-specific respondent denominator or plant-to-village allocation is supplied. The broader study reports herbarium specimens submitted to Tezpur University Herbarium (TUH), but no voucher accession numbers were recovered. Table 3's *Costus* row lists leaf in the part-used column but says root in the use/mode text; the blank vernacular field for *Lippia javanica* remains blank.
+
+### Variant inventory comparison
+
+- SRC-148: 51 Epop plant species, both beverage processes described, but no Po:ro/Nogin allocation; its Table 1 still needs image-based transcription.
+- SRC-170: 28 taxon-level names in a Po:ro-specific Apob table (27 numbered rows; two *Thelypteris* names share row 25 and serial 26 is absent).
+- SRC-171: 11 Nogin/Nogjin-specific dicot taxa, not a full mixed dicot/monocot inventory.
+
+Two possible spelling correspondences between SRC-170 and SRC-171 are flagged, not merged: “Coctus speciosa” vs *Costus speciosus*, and “Zenthoxylum nitidum” vs *Zanthoxylum nitidum*. Retain each source's original string pending botanical-authority verification. The inaccessible SRC-148 table means no systematic subset claim against its 51 taxa is yet justified. No canonical recipe or accepted-name merges created.
