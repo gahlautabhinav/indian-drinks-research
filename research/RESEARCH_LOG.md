@@ -981,3 +981,14 @@
 - Kept the inference bounded: SRC-170 is explicitly Poro Apob and covers Lakhimpur/Sonitpur; SRC-172 is general Mising ÉPOP in Sivasagar and does not allocate taxa to Poro/Nogin. Shared names do not establish one recipe, household prevalence or common collection geography.
 - Created research/assam/src170-src172-epop-pairwise-crosswalk-2026-11-12.csv and research/assam/src170-src172-epop-comparison-2026-11-12.md; added section 26 to the Apong crosswalk. No new source ID, canonical taxon, synonym or recipe record was created.
 - Next: pursue image-level recovery of SRC-148's missing 51-taxon Table 1, keeping it distinct from SRC-172's complete but separate inventory.
+
+
+## 12 November 2026 — SRC-173 Yein et al. (2022) Majuli Epop 21-entry inventory
+
+- Registered Yein et al. (2022), *Biosciences Biotechnology Research Asia* 19(2):497–500, DOI 10.13005/bbra/3003, as SRC-173 after checking the source register.
+- Inspected the publisher-hosted PDF and transcribed all 21 Table 1 entries into research/assam/src173-yein-et-al-2022-majuli-21-taxon-epop-inventory.csv.
+- Field scope: Majuli district, September–December 2021; households involved in manufacture are described as primary sources; authors state more than 20 villages were visited and plants were collected from nearby villages/forests. No informant count, full village list, plant-by-village matrix or voucher accessions are given.
+- Preserved the internal duration discrepancy (“three months” versus September–December), printed spellings/family labels, and table ambiguity for Lygodium japonicum plant part. No taxonomic normalization was applied.
+- Confirmed the table is general Epop and does not allocate entries to Po:ro versus Nogin, despite discussion of both beverages. Traditional ethnomedicinal-use statements are not clinical efficacy or safety evidence.
+- Created the source audit and inventory, added SRC-173 to sources/source_register.csv and section 27 to the Apong crosswalk. No canonical plant, synonym, locality edge or universal recipe record was created.
+- Primary PDF: https://www.biotech-asia.org/pdf/vol19no2/BBRA_Vol_19_No_2_p_497-500.pdf .
