@@ -114,3 +114,31 @@ Do not use shared authorship, similar titles, chronology or institutional biblio
 - SRC-152 final report: https://www.dibru.ac.in/pdf/Devid-Kardong-Report.pdf
 - SRC-136 full text: https://www.researchgate.net/publication/274834679_Evaluation_of_Nutritional_and_Biochemical_aspects_of_Poro_apong_Saimod_-_A_home_made_alcoholic_rice_beverage_of_Mising_tribe_of_Assam_India
 - Dibrugarh University bibliography for SRC-139/SRC-140: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
+
+
+## 10. Journal issue-date and publisher-route verification — 2026-11-12
+
+### SRC-139: 2011 issue year receives independent support
+
+The Dibrugarh University publication volume lists SRC-139 in *Journal of Assam Science Society* 52(2), pp. 1–6, ISSN 0587-1921, as 2011. An independent institutional publication list (Advanced State Biotech Hub, Assam Veterinary and Fishery University) also cites a different article in *J. Assam Sci. Soc.* 52(2), pp. 114–119, as 2011. A Gauhati University publication record identifies another JASS article in Volume 52, Issue 1, as 2011. These independent records make 2011 the better-supported issue-year attribution for SRC-139; the separate profile that calls 52(2) a 2012-edited issue remains a metadata conflict, not enough to overwrite the repeated 2011 citation. Keep 2011 in SRC-139, with the conflict disclosed pending inspection of the issue masthead or original article.
+
+Sources:
+- Dibrugarh University bibliography, PDF lines 5177–5180: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
+- Assam Veterinary and Fishery University publication list: https://www.avfu.ac.in/sbthub/publications.html (lists JASS 52(2), pp. 114–119, 2011)
+- Gauhati University publication record: https://gauhati.ac.in/publications/influence-of-break-up-on-fusion-of-1213c-208207pb-system-6027/ (JASS 52(1), 2011)
+- Conflicting institutional metadata lead: https://www.dibru.ac.in/ (profile search result describing Vol. 52(2) as edited 2012; issue masthead not recovered).
+
+### SRC-140: legacy report URL and journal route
+
+The institutional PDF places a generic legacy Dibrugarh University report URL in a table cell immediately before the SRC-140 citation. Direct attempts to open the HTTP IP URL and an HTTPS/oldweb hostname substitution did not produce a readable report. The table layout does not prove that the URL is a direct link to SRC-140, so it remains an unverified lead and is not used as article evidence.
+
+The current Assam Science Society website confirms the Society publishes journals, provides a files-and-archives page, and publishes the general contact address **gsass2014@gmail.com** and phone **+91-6001399315**. Its visible public archive currently lists four general resources, not historical journal issues. This provides a verified publisher contact route for asking whether the Society retains JASS 52(2), 2011, but does not establish that the Society itself holds the requested issue or that the article appeared there (the university citation remains the bibliographic source).
+
+Sources:
+- Assam Science Society about/contact: https://assamsciencesociety.in/about
+- Society files and archives: https://assamsciencesociety.in/information/download
+- Society home/contact: https://assamsciencesociety.in/
+
+### Current acquisition state
+
+No full text was recovered for SRC-139 or SRC-140 in this pass. No thesis PDF or accessible thesis catalogue record was located. No article contents, enzyme values, mould taxa, strain identifiers or fermentation time-series are inferred. Recommended requests should be sent to both Dibrugarh University/Lakshminath Bezbaroa Library and Assam Science Society, with exact volume, issue, page range and ISSN, and should ask for scans, holding/catalogue identifiers or a referral to the current custodian.
