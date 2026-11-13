@@ -298,7 +298,7 @@ Decision: no Charaideo place row added. SRC-011's two source-reported locality s
 
 ## 2026-11-13 — Dhubri historic Goalpara and Rabha beverage follow-up
 
-Registered SRC-180, the NIPCCD 2022 *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region*, which documents Rabha Kesa mod/Jonga mod, local rice (mai), bakhar starter cake, three-day fermentation and ruhi extraction/dilution. The Rabha entry has no named locality or district allocation; it is community/product/process context only.
+Registered SRC-049, the NIPCCD 2022 *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region*, which documents Rabha Kesa mod/Jonga mod, local rice (mai), bakhar starter cake, three-day fermentation and ruhi extraction/dilution. The Rabha entry has no named locality or district allocation; it is community/product/process context only.
 
 Registered SRC-181, the official Dhubri district history. It states present-day Dhubri was a subdivision of erstwhile Goalpara district and that Goalpara was divided into four districts in 1983; South Salmara-Mankachar separated from Dhubri in 2016. This makes old Goalpara labels geographically ambiguous without a named-village crosswalk.
 
@@ -306,6 +306,6 @@ Rechecked Rabha sources:
 - SRC-102 (2021) names Goalpara district, five unnamed villages, August 2019–January 2020 fieldwork and 150 older participants. Its statement that Dhubri bounds Goalpara to the west is geographic context, not a Dhubri study site.
 - Deka & Sarma (2010) names Dhupdhora, Goalpara district; no current-Dhubri crosswalk was established.
 - SRC-124 (2026) lists Rabha fieldwork in Goalpara and Kamrup, not Dhubri.
-- NIPCCD SRC-180 and statewide summaries do not supply Dhubri locality data.
+- NIPCCD SRC-049 and statewide summaries do not supply Dhubri locality data.
 
 Decision: no place row added. Dhubri remains zero verified beverage-specific place rows. New ASM-GAP-077 asks for original named site registers, current village-code crosswalks and direct Dhubri producer/locality evidence. Do not reassign unnamed Goalpara villages or general Rabha distribution to Dhubri.
