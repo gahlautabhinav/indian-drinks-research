@@ -93,3 +93,18 @@ Sources:
 - SRC-193, Sivasagar DCHB Part B: https://censusindia.gov.in/nada/index.php/catalog/241/download/614/DH_2011_1812_PART_B_DCHB_SIVASAGAR.pdf
 - SRC-194, Charaideo official Mahmora Konwar Gaon village document: https://charaideo.assam.gov.in/sites/default/files/public_utility/Mahmora%20Konwar%20Gaon.pdf
 - SRC-195, Charaideo official district profile: https://charaideo.assam.gov.in/about-district/district-glance
+
+## 2026-11-14 follow-up — doctoral thesis and earlier field-survey retrieval leads
+
+A further literature pass recovered a much more direct route into the original Sivasagar fieldwork:
+
+- **SRC-196 — Dr. Pranami Handique institutional CV:** identifies her PhD thesis as *Traditional Alcoholic Beverages Prepared by Ethnic Communities in Sivasagar District of Assam: Study on Methodology and Composition* (CV states Gauhati University PhD in 2018). The CV publicly lists her professional email. No contact has been made in this research pass.
+- **SRC-198 — 2023 review reference:** cites the Handique thesis as submitted to Gauhati University in 2017 and points to pages 10–70. The CV's 2018 completion year and the review's 2017 citation year differ; retain both source statements until the thesis title page/submission record is recovered. The cited page range is a priority retrieval target, not a substitute for the thesis.
+- **SRC-197 — Handique & Deka (2016), earlier Sivasagar survey:** reports a field survey in nine villages during November 2013–February 2014, interviewing approximately 20–30 people of each of the Ahom, Mising and Deori communities. Its acknowledgements include Mrs. Putoli Konwer and Mrs. Promila Bharali. The accessible article does not name the nine villages or map either informant to a village; it does not identify the 2015 A1/A2 sample sites. These names are research-network leads only.
+
+**Research decision:** the thesis is now the highest-value next retrieval target because it is a doctoral study directly about Sivasagar traditional beverages and has an explicit page range cited by a later review. The earlier survey provides a possible route to field informants but does not resolve the locality crosswalk. No new place row is justified. A2 remains a probable administrative candidate; A1 remains unresolved; Charaideo stays at zero verified beverage-specific place rows.
+
+Sources:
+- SRC-196, institutional CV: https://sibsagargirlscollege.org.in/uploads/department/chemistry/cv_pranami.pdf
+- SRC-197, Handique & Deka (2016) full text: https://www.allsubjectjournal.com/assets/archives/2016/vol3issue1/3-1-88.2.pdf
+- SRC-198, 2023 review and thesis reference: https://www.foodandnutritionjournal.org/volume11number2/biochemical-indices-and-consumption-pattern-of-traditional-alcoholic-beverages-by-tribal-communities-of-north-east-india-a-review/
