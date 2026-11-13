@@ -169,3 +169,28 @@ The three detail pages continue to show the registered indication names, Class 3
 **Retrieval limitation unchanged:** the document rows are visible but their extracted download controls resolve to the generic PDF icon, not the document payload or a stable direct URL. The listed Statement of Case, maps and producer-list PDFs have therefore not been read. Do not infer product specifications, producer localities or mapped boundaries from the document titles or the applicant's Kokrajhar address. Keep ASM-GAP-026 Open.
 
 This recheck confirms a practical request checklist: obtain the three Statements of Case, each original map, each amended map (968 Annexure-9; 969 Annexure-10; 970 Annexure-8), each dated Producers List, the Journal 191 copy and each registration certificate. Compare original and amended maps rather than assuming they are identical.
+
+
+## 2026-11-13 — current-domain heritage comparison and official-register access test
+
+### Current Bodoland GI Heritage pages
+
+The Bodoland GI Products and Handloom Centre Trust now serves its current heritage pages at `bodolandgi.abacusai.app`. Its About page identifies the same Trust and Trust Deed recorded in SRC-119, and says the GI registrations are held by community associations; it lists the Bodo Traditional Brewer's Association as holder for Jou Gwran, Jou Gishi and Maibra Jou Bidwi. The official IP India application-detail pages still show Bodo Geographical Indication (G.I) Board as applicant. This is an unresolved applicant-versus-current-holder discrepancy; do not overwrite official registry fields or infer a transfer without the certificate/current register.
+
+The current product pages add/refresh these **secondary, Trust-published** process claims:
+
+- Jou Gishi: 1–2 days initial Amao/rice stage; transfer to Maldang or bucket with Janta; harvest golden liquid after 5–6 days; pH ~4.21 and 5–6.4% alcohol repeated without measurement methods.
+- Jou Gwran: 3–4 days to jumai, 3–5 days preservation, dilution to Afri, 2–3 hours holding, then three-layer pot distillation for 2–4 hours repeated two to four times. The page repeats ~16.11% alcohol and the unclear claim that more repeated distillation lowers concentration.
+- Maibra Jou Bidwi: half-cooked Maibra rice, Amao, 1–2 days initial stage, 5–7 days until dark juice forms, then a claimed 3 months to one year or longer before harvest. This is a distinct maturation claim not present in the earlier short-form Maibra museum summary. Keep fermentation/juice formation and later maturation separate.
+
+All three pages incorrectly label certificate numbers 648–650 as application numbers; official application IDs remain 968–970. Their self-labelled “Verification Status: VERIFIED” does not convert the pages into official specifications. These accounts are cross-check leads only, not Statements of Case, not a substitute for GI Journal text, and not a basis for changing canonical product/process fields.
+
+### Official document-access test
+
+- The official GI Journal archive still lists Journal 191 with publication/availability date 31-05-2024. The visible download control resolves in extracted browsing to the generic `file-pdf.png` image, not the Journal 191 PDF or its contents.
+- IP India's current Part A register page (last updated 11-11-2026) lists two register PDFs published 02-05-2026: the total registered-GI list and the state-wise list. Opening the document control returns the explicit page status “Currently PDF not available”. Thus the current Part A register cannot presently resolve the registered-proprietor discrepancy through this interface.
+- The official application-detail pages continue to show application IDs 968–970, applicant Bodo Geographical Indication (G.I) Board, certificates 648–650, Class 32, and broad geographical-area field “Assam”. The broad field is not a substitute for the maps or product-specific origin boundary.
+
+### Next retrieval action
+
+Request from IP India/GI Registry and the Bodo Traditional Brewer's Association: (1) each 2022 Statement of Case; (2) original 2022 and amended 19-10-2023 maps; (3) 13-02-2023 producer lists; (4) Journal 191 entries; (5) 2024 certificates and current registered-proprietor confirmation. Ask the Trust/Association to clarify whether its current holder statement reflects a transfer, an association role, or another legal arrangement. Until primary documents arrive, ASM-GAP-026 remains Open; no production locality, recipe, process specification or ingredient requirement is promoted from the heritage pages.
