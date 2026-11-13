@@ -161,3 +161,7 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 - [Eight-study reconciliation audit](research/assam/mising-eight-study-reconciliation-audit-2026-11-13.md) — incorporates SRC-151 and the new Nogin-specific SRC-171 inventory; SRC-172/SRC-173 duplicate IDs are treated as aliases.
 - [SRC-007 expanded Majuli Epop inventory audit](research/assam/src007-yein-2022-21-entry-audit-2026-11-13.md) — expanded Table 1 transcription checked against the publisher PDF.
 - [SRC-170 / SRC-153 Poro-versus-general-ÉPOP comparison](research/assam/src170-src153-epop-comparison-2026-11-13.md) — four first-two-token lexical overlaps, with no variant or taxonomic merging.
+
+
+### Tai-Ahom naming and Luk-Lao update — 13 November 2026
+- [SRC-174 full-text audit: Ananya Saikia (2026), Anandam Vol. 15](research/assam/src174-ananya-saikia-2026-tai-ahom-foodways-audit.md) — new Luk-Lao/Xaj terminology evidence, XajorPitha starter list, and conflicting preparation durations.
