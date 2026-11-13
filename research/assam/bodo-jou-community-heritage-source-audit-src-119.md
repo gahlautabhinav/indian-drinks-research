@@ -57,3 +57,24 @@ The pages describe marriage, ritual, social and welcome-drink contexts. Preserve
 4. Keep Jou Gwran, Jou Gishi and Maibra Jou Bidwi as separate registered records; no synonymy inferred.
 5. Keep ASM-GAP-026 open until readable official Statements of Case, Journal 191 entries and amended maps/producer lists are transcribed and compared.
 6. Do not add locality rows, infer active production from authorised-user addresses, or repeat health claims as clinical findings.
+
+
+## Current-domain and product-page recheck (2026-11-13)
+
+The Trust's current Bodoland GI Heritage site is now served at `bodolandgi.abacusai.app`. Its About page identifies the same Bodoland GI Products and Handloom Centre Trust and the same Trust Deed number (2025/IGR085/4/11) recorded on the earlier domain, so this is treated as a migrated/current version of SRC-119, not a separate independent source. The earlier `bodolandgihandloomcentre.org` pages remain discoverable and contain substantially similar content.
+
+### Updated page-level process claims
+
+- **Jou Gishi:** the current page reports cooked rice cooled under banana leaves, powdered Amao mixed by hand with the ambiguous wording “1:1 kg of rice”, 1–2 days before transfer to an earthen pot/bucket with a conical bamboo sieve (Maldang/Janta), then 5–6 days until golden-yellow liquid is harvested. It repeats pH ~4.21 and 5–6.4% alcohol without a measurement protocol or sample design.
+- **Jou Gwran:** the current page reports 3–4 days to form jumai, 3–5 days preservation, dilution into Afri, 2–3 hours holding, and three-layer pot distillation for 2–4 hours repeated two to four times. It repeats ~16.11% alcohol and says more repeated distillation lowers concentration. This remains internally unclear and is not a general distillation principle or a GI specification.
+- **Maibra Jou Bidwi:** the new current page adds a longer maturation claim: half-cooked Maibra rice, Amao, 1–2 days initial stage, 5–7 days until a dark brownish-red juice forms, but harvest only after 3 months to a year or more. Keep the 5–7-day fermentation/formation stage distinct from the claimed later maturation/storage period. The 1:1 kg wording is ambiguous as written; do not reinterpret it as a ratio.
+
+These are Trust-published heritage descriptions, not the registered Statements of Case and not independent analytical evidence. The pages' health/medicinal claims remain cultural/promotional statements, not clinical evidence. No method row or beverage canonical field was changed on this basis.
+
+### Holder / applicant discrepancy
+
+The current Trust About page says GI registrations are held by five community associations and specifically lists the **Bodo Traditional Brewer's Association** as the holder association for Maibra Jou Bidwi, Jou Gishi and Jou Gwran. By contrast, the official IP India application-detail pages for 968–970 continue to show **Bodo Geographical Indication (G.I) Board** in the applicant field. These fields may describe different procedural roles or a later transfer, but the current evidence does not settle that. Do not replace the official registry applicant field with the Trust's holder statement. Request the registration certificates, current Part A register entry, or an official confirmation of the registered proprietor/association.
+
+The Trust pages continue to label certificate numbers 648, 649 and 650 as “Application No.”; official IP India records show application IDs 968, 969 and 970 and certificates 648, 649 and 650. Treat the current site's “Verification Status: VERIFIED” as its own display label, not independent verification.
+
+No new locality, producer-village, GI boundary or canonical ingredient claim was added. The pages describe BTR/Assam at broad scale only.
