@@ -384,3 +384,10 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Registered SRC-201, Handique & Deka (2016). Full text confirms nine unnamed Sivasagar villages surveyed Nov 2013–Feb 2014 and acknowledges Mrs. Putoli Konwer and Mrs. Promila Bharali. It does not map informants to villages or to the 2015 A1/A2 samples. Treat the names only as leads to the research network; no place inference.
 - Registered SRC-202, the official Government of Assam notification archive listing, whose 4.54 MB linked PDF should contain the new-district notification. The archive page is accessible, but the PDF timed out repeatedly and could not be downloaded; no village-transfer schedule was extracted.
 - Updated ASM-GAP-076 to include SRC-201/SRC-202 and retain the strict crosswalk rule. A2 Mahmora Konwar Gaon / Census code 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No Charaideo place row added.
+
+
+## 2026-11-14 — Charaideo / Handique thesis catalogue and award-list cross-check
+- Registered SRC-204, the Gauhati University 2018 PhD award list. It identifies Pranami Handique, Chemistry, scholar registration number 005263 (2005–2006), guide Prof. Dibakar Chandra Deka, and the exact Sivasagar traditional alcoholic-beverages thesis title; Vice-Chancellor approval is dated 05 March 2018. The accessible PDF copy is hosted on a Bodoland University domain but is a Gauhati University award list.
+- Registered SRC-203, a 2024 bibliographic analysis of Gauhati University Chemistry theses uploaded to Shodhganga (2012–2023), which independently lists Handique's thesis in its Ethnic Community category. It gives no Shodhganga handle or thesis bitstream.
+- Retrieval target is now specific: search INFLIBNET/Shodhganga and GU catalogues using registration no. 005263, Department of Chemistry, guide Prof. Dibakar Chandra Deka, exact title; prioritise pages 10–70. Thesis text and sample register remain unrecovered.
+- Decision unchanged: A2 Mahmora Konwar Gaon / Census code 293217 is a strong candidate only; A1 Bharalisuk unresolved; no Charaideo place row added.
