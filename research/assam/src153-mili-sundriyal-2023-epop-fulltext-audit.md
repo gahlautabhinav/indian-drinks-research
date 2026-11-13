@@ -38,3 +38,11 @@ No complete 15-village list, village-by-taxon matrix, voucher IDs, informant cou
 
 ## Next steps
 Crosswalk the 31 entries against SRC-136, SRC-084, SRC-146 and SRC-061; seek voucher register/field matrix from authors and ARUN/ASSAM herbaria; keep Neog's 2018 presentation separate until its actual two plant identities are retrieved; continue SRC-139/140 original-paper retrieval.
+
+## Expanded source-row inventory and duplicate-ID reconciliation (2026-11-13)
+
+A 14-column source-row transcription has now been merged into the canonical SRC-153 inventory at `research/assam/src153-mili-sundriyal-2023-31-entry-inventory.csv`. It preserves the article's local name, habit, plant part, collection period and qualitative dependency marks for forest, home garden, agricultural field and fallow land, in addition to the original five-column taxon transcription.
+
+The 12 November registration SRC-172 was found to duplicate SRC-153 exactly by title, authors, year and DOI (10.1186/s42779-023-00214-2). SRC-172 is now explicitly marked as an alias only and is not an independent publication. The duplicate inventory/audit files were merged into this canonical SRC-153 record and removed to prevent double-counting.
+
+Primary-PDF verification of Table 1 (printed pp. 6–7) corrected two source-string issues in the expanded CSV: row 19 family is printed `Myrtacaceae` (not the normalized `Myrtaceae`); row 31 is printed `Selaginella sp` (without a trailing period). The four pteridophyte rows remain source-faithful. No taxonomic normalization, accepted-name merge, village link or Poro/Nogin allocation was made. The table is a general ÉPOP inventory, not variant-specific.
