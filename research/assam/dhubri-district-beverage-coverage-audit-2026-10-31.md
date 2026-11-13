@@ -54,7 +54,7 @@ The official Dhubri district history (SRC-181) states that present-day Dhubri wa
 
 ### Additional Rabha beverage source
 
-The NIPCCD Regional Centre, Guwahati report *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region* (2022; SRC-180) documents **Kesa mod/Jonga mod** as a Rabha rice beer. It describes local rice (mai), herbal yeast cake (bakhar), fermentation for three days, extraction using a wooden implement called ruhi, and dilution with water to produce kesa mod. The institute's research-report index identifies the item as "Study on Indigenous Foods 2022".
+The NIPCCD Regional Centre, Guwahati report *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region* (2022; SRC-049) documents **Kesa mod/Jonga mod** as a Rabha rice beer. It describes local rice (mai), herbal yeast cake (bakhar), fermentation for three days, extraction using a wooden implement called ruhi, and dilution with water to produce kesa mod. The institute's research-report index identifies the item as "Study on Indigenous Foods 2022".
 
 However, the Rabha recipe entry gives no named village, district, fieldwork date, informant count or site-to-recipe allocation. It is valuable community/product/process context but cannot be used as Dhubri evidence or as a locality record.
 
@@ -72,7 +72,7 @@ No Dhubri place row is added. The district remains at zero verified beverage-spe
 This is a bounded source and geographic-resolution result, not evidence that Dhubri lacks traditional beverages.
 
 Sources:
-- SRC-180, NIPCCD (2022), *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region*: https://www.spniwcd.wcd.gov.in/archive/download/2zq4zt
+- SRC-049, NIPCCD (2022), *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region*: https://www.spniwcd.wcd.gov.in/archive/download/2zq4zt
 - SRC-181, District Administration, Dhubri, "About Dhubri": https://dhubri.assam.gov.in/index.php/about-us/about-dhubri
 - SRC-102, Das, Rabha & Das (2021): https://environmentandecology.com/wp-content/uploads/2024/08/MS23.pdf
 - SRC-124, Talukdar et al. (2026): https://link.springer.com/article/10.1007/s44187-026-01101-w
