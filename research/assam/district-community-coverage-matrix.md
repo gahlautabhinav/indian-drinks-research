@@ -70,3 +70,7 @@ The eight zero-row districts remain Barpeta, Bajali, Charaideo, Dhubri, Hojai, N
 
 ### Bajali follow-up — 13 November 2026
 The Bajali row remains at **zero beverage-specific place records**. The 2025 Bodo medicinal-plant study (SRC-176) names seven villages and 64 informants; the 2026 rural medicinal-plant study (SRC-177) names three villages and 94 informants. Both are medicinal-knowledge studies and do not document Jou or starter-culture production. The 2011 Barpeta DCHB (SRC-175) confirms Bajali RC/CD Block were within the then-Barpeta district; historical records require a village-level crosswalk. ASM-GAP-075 tracks the remaining direct beverage-evidence task.
+
+
+### Dhubri follow-up — 13 November 2026
+Dhubri remains a zero-place-row district. SRC-180 (NIPCCD 2022) documents Rabha Kesa mod/Jonga mod but gives no locality. SRC-102 (2021) documents Choko in five unnamed Goalpara villages; Deka & Sarma (2010) name Dhupdhora, Goalpara. SRC-181 confirms present Dhubri was part of erstwhile Goalpara until 1983, so historic Goalpara records require village-level crosswalks. SRC-124 (2026) identifies Rabha study districts as Goalpara and Kamrup, not Dhubri. New ASM-GAP-077 tracks named-site retrieval and present-Dhubri producer evidence. No Goalpara source is reassigned to Dhubri.
