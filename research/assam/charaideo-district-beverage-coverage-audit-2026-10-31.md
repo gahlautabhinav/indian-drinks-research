@@ -123,3 +123,20 @@ Sources:
 - SRC-196, institutional CV: https://sibsagargirlscollege.org.in/uploads/department/chemistry/cv_pranami.pdf
 - SRC-197, Handique & Deka (2016) full text: https://www.allsubjectjournal.com/assets/archives/2016/vol3issue1/3-1-88.2.pdf
 - SRC-198, 2023 review and thesis reference: https://www.foodandnutritionjournal.org/volume11number2/biochemical-indices-and-consumption-pattern-of-traditional-alcoholic-beverages-by-tribal-communities-of-north-east-india-a-review/
+
+## 2026-11-14 follow-up — thesis award chronology and university retrieval route
+
+The thesis date discrepancy is now resolved as a likely difference between **submission year** and **degree-award year**, not a contradiction:
+
+- **SRC-198** (2023 review) cites Handique's thesis as submitted to Gauhati University in **2017**, pages 10–70.
+- **SRC-199** (official Sibsagar Girls' College accreditation evidence) records Dr. Pranami Handique's PhD as **2018**. The college's February 2018 newsletter independently states the degree was awarded on **6 February 2018** for the Sivasagar traditional-alcoholic-beverages thesis under Prof. Dibakar Chandra Deka.
+- **SRC-200** (Gauhati University library) reports 6,351 PhD theses held as of 24 June 2024 and 952,524 digitized thesis pages, and links to the University's Shodhganga contributions. The linked Shodhganga index was blocked by access protection in this session; no specific thesis record or full text has been retrieved.
+
+This improves confidence in the thesis metadata and identifies a formal institutional retrieval route, but it does not reveal the nine survey villages or the October 2015 A1/A2 sample-site register. The earlier 2016 article still names nine villages only in aggregate and acknowledges Mrs. Putoli Konwer and Mrs. Promila Bharali without village attribution.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / Census code 293217 remains a strong/probable, unconfirmed candidate. A1 Bharalisuk remains unresolved. No beverage-specific place row is added; Charaideo remains at zero verified beverage-specific place rows.
+
+Sources:
+- SRC-198, 2023 review thesis citation: https://www.foodandnutritionjournal.org/volume11number2/biochemical-indices-and-consumption-pattern-of-traditional-alcoholic-beverages-by-tribal-communities-of-north-east-india-a-review/
+- SRC-199, Sibsagar Girls' College accreditation evidence: https://sibsagargirlscollege.org.in/uploads/iqac/dvv-clarification/2.4.2%20DVV.pdf
+- SRC-200, Gauhati University Library: https://gauhati.ac.in/library/
