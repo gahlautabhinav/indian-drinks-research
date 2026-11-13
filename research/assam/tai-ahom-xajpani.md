@@ -120,3 +120,7 @@ Talukdar et al. (2026; SRC-091) include Ahom fieldwork in Tinsukia and Dibrugarh
 The new study is a recent comparative source, not a census of Xajpani production. Its district-level design does not prove that Xajpani, Koloh pani, Haj pani or every starter-culture variant is present in each district or village. Keep beverage names and starter names distinct, and extract the Ahom-specific tables/results before adding locality claims or reconciling plant lists with earlier studies.
 
 **Source:** https://doi.org/10.1007/s44187-026-01101-w (SRC-091).
+
+## 2026-11-13 — SRC-174 starter-name and process cross-check
+
+Ananya Saikia (2026), Anandam Vol. 15, calls the starter **XajorPitha**, names *Zanthoxylum nitidum*, *Centella asiatica* and *Lygodium microphyllum*, and lists several additional vernacular-only ingredients. The article's beverage text uses “Xaj” and “Luk-Lao” in the same section without defining their relationship. It gives two process durations (5–10 days and 3–5 days) in separate passages. This does not resolve whether XajorPitha is the same starter as Vekur pitha, nor whether Luk-Lao is the same beverage as Xajpani/Kolohpani. Preserve all names source-by-source; see research/assam/src174-ananya-saikia-2026-tai-ahom-foodways-audit.md.
