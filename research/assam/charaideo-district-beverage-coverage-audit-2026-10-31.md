@@ -153,3 +153,19 @@ Registered **SRC-202**, the official Government of Assam archive listing for the
 Sources:
 - SRC-201, Handique & Deka (2016): https://www.allsubjectjournal.com/assets/archives/2016/vol3issue1/3-1-88.2.pdf
 - SRC-202, Government of Assam notification archive: https://igr.assam.gov.in/documents-detail/notification-of-new-districts-majuli-hojai-west-karbi-anglong-charaideo-south-salmara-mankachar-and-biswanth
+
+
+## 2026-11-14 — Handique thesis identity and Shodhganga catalogue confirmation
+
+The thesis retrieval route is now more precisely identified:
+- **SRC-204:** a Gauhati University PhD award-list document identifies Pranami Handique as a Chemistry research scholar, registration number **005263 of 2005–2006**, under guide **Prof. Dibakar Chandra Deka**, with the exact thesis title *Traditional alcoholic Beverages prepared by Ethnic Communities in Sivasagar District of Assam: Study on Methodology and composition*. The list records Vice-Chancellor approval dated 05 March 2018. The PDF copy is hosted on a Bodoland University domain but is explicitly a Gauhati University award list.
+- **SRC-203:** a 2024 bibliographic analysis of Gauhati University Chemistry theses uploaded to Shodhganga during 2012–2023 independently lists Handique's thesis under “Thesis on Ethnic Community.” It does not provide the repository handle or thesis file.
+- The thesis title is therefore not merely a secondary bibliography reference: its author, guide, registration number and award-list entry are independently identifiable. The actual thesis item/bitstream remains unretrieved.
+
+**Next retrieval query keys:** scholar registration number 005263 (2005–2006), Department of Chemistry, guide Prof. Dibakar Chandra Deka, and the exact thesis title. Prioritise Shodhganga/INFLIBNET item metadata and pp. 10–70. Do not infer that a Shodhganga bibliographic listing means the PDF is openly downloadable.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No Charaideo beverage-specific place row is added.
+
+Sources:
+- SRC-203, 2024 Shodhganga bibliographic analysis: https://iosrjournals.org/iosr-jhss/papers/Vol.29-Issue2/Ser-7/B2902071118.pdf
+- SRC-204, Gauhati University PhD award list: https://buniv.edu.in/uploads/2.4.2/42%20SIBANI%20BASUMATARY.pdf
