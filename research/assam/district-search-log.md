@@ -335,3 +335,14 @@ Registered **SRC-185**, the 2011 Census District Handbook for Nalbari. It states
 Also screened statewide Bodo/Rabha reviews (SRC-062, SRC-066), the older broad Assam summaries (SRC-092/SRC-094), and Nalbari medicinal-ethnobotany leads. None supplies a named current-Nalbari beverage locality. Medicinal-plant findings are not used as beverage evidence.
 
 **Decision:** no place row added. Nalbari remains zero beverage-specific place rows. New ASM-GAP-079 tracks retrieval of the 2025 Bodo article's locality schedule, direct current-Nalbari producer evidence and historical Kamrup/Baksa village crosswalks.
+
+
+## 2026-11-14 — South Salmara-Mankachar Rabha Jonga and historical Dhubri follow-up
+
+Full-text screened **SRC-187**, Assam Institute of Research for Tribals and Scheduled Castes (2018), *Exploring the Traditional Health Practices among the Rabhas of Goalpara district*. The report documents traditional Rabha rice beer called Jonga and household consumption, but its methods specify 30 villages in Goalpara (19), Kamrup Rural (6) and Baksa (5), with 300 households overall and fieldwork May–August 2018. The named Goalpara blocks are Balijana, Krishnai, Kuchdhowa, Lakhipur, Matia and Rangjuli. The village table contains no Dhubri or South Salmara-Mankachar field site. Jonga household findings are aggregate, without district/village-level allocation. The report's note that a Rabha Koch section is found in Dhubri is a population-distribution note, not a beverage field site.
+
+Registered **SRC-188**, official South Salmara-Mankachar district profile, which lists 152 revenue villages, two revenue circles (South Salmara part and Mankachar) and three development blocks. Registered **SRC-189**, the official draft district survey report, which states the district was created by bifurcating old Dhubri in 2016 and describes Goalpariya/Deshee speech and broad local ancestry/community references. Neither is a beverage source.
+
+Rechecked related Rabha sources: SRC-017 names Dhupdhora in Goalpara; SRC-049 describes Kesa mod/Jonga mod without a named locality; SRC-102's five Goalpara villages are unnamed; SRC-124 names Goalpara and Kamrup for Rabha fieldwork. None locates Jonga production in present South Salmara-Mankachar. Statewide summaries and South Assam studies do not supply a local site.
+
+**Decision:** no place row added. South Salmara-Mankachar remains zero beverage-specific place rows. Created ASM-GAP-080 for pre-2016 Dhubri village crosswalks and direct current-district producer/locality evidence. Do not transfer Goalpara Jonga or broad Rabha/Goalpariya identity to this district.
