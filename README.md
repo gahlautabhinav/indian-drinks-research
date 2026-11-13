@@ -181,3 +181,8 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 ### Charaideo historical locality crosswalk — 13 November 2026
 - [Charaideo district beverage-coverage audit](research/assam/charaideo-district-beverage-coverage-audit-2026-10-31.md) — full-text SRC-011 extraction identifies Ahom Xajpani sample sites Bharalisuk and Konwergaon (October 2015); current district crosswalk remains unresolved.
 - [ASM-GAP-076](data/research_gaps.csv) — obtain the original field-site register/author confirmation and authoritative village-code/boundary crosswalk before assigning either locality to present-day Charaideo.
+
+
+### Dhubri historical Goalpara and Rabha beverage follow-up — 13 November 2026
+- [Dhubri district beverage-coverage audit](research/assam/dhubri-district-beverage-coverage-audit-2026-10-31.md) — adds NIPCCD's 2022 Rabha Kesa mod/Jonga mod process description and official Dhubri administrative history; no locality is assigned to Dhubri.
+- [ASM-GAP-077](data/research_gaps.csv) — named-site retrieval and village-code crosswalk for historic Goalpara studies, plus current Dhubri producer/locality evidence.
