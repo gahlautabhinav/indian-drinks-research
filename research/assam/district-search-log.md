@@ -391,3 +391,11 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Registered SRC-203, a 2024 bibliographic analysis of Gauhati University Chemistry theses uploaded to Shodhganga (2012–2023), which independently lists Handique's thesis in its Ethnic Community category. It gives no Shodhganga handle or thesis bitstream.
 - Retrieval target is now specific: search INFLIBNET/Shodhganga and GU catalogues using registration no. 005263, Department of Chemistry, guide Prof. Dibakar Chandra Deka, exact title; prioritise pages 10–70. Thesis text and sample register remain unrecovered.
 - Decision unchanged: A2 Mahmora Konwar Gaon / Census code 293217 is a strong candidate only; A1 Bharalisuk unresolved; no Charaideo place row added.
+
+
+## 2026-11-14 — Charaideo / Handique thesis retrieval identifiers
+- SRC-204: Gauhati University 2018 PhD award-list copy identifies Pranami Handique, Chemistry, registration no. 005263 (2005–2006), guide Prof. Dibakar Chandra Deka and the exact Sivasagar alcoholic-beverage thesis title; Vice-Chancellor approval date is 05 March 2018.
+- SRC-203: 2024 bibliographic analysis of Gauhati University Chemistry theses uploaded to Shodhganga independently lists Handique's thesis in the Ethnic Community category; it gives no handle or bitstream URL.
+- Retrieval keys are now exact: registration no. 005263, Chemistry, guide Prof. Dibakar Chandra Deka, exact title. The thesis and its pages 10–70 remain unretrieved. Do not claim that a bibliographic listing proves a public PDF exists.
+- Chronology note: the GU award-list copy gives 05 March 2018 VC approval; the college newsletter separately states 06 February 2018 award. Retain both source-specific statements pending formal degree record.
+- Decision unchanged: A2 Mahmora Konwar Gaon / Census code 293217 remains candidate only; A1 Bharalisuk unresolved; no place row added.
