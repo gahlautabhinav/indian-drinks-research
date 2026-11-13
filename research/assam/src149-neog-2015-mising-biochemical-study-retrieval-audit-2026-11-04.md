@@ -57,3 +57,15 @@ A journal-level metadata lead was recovered through the ISSN 2319-2097 record fo
 - A public 2017–18 institutional report and further exact-title searches did not expose the article or a proceedings record for the 2018 pteridophyte presentation.
 
 **Decision:** retain the source-reported “Volume II” with an explicit verification flag; do not normalize it to Volume IV. Request the 2015 *INTUIT* issue contents/masthead and Neog article from DCB Girls' College Publication Cell / Library, alongside the UGC project final report. For the 2018 seminar, request the invitation/programme, host institution, abstract book and paper copy separately. The two pteridophyte identities remain unknown.
+
+
+## Institutional-repository and journal-sequence retrieval pass (2026-11-13)
+
+A targeted retrieval pass identified the current DCB Girls' College institutional repository as the highest-yield next route for both the *INTUIT* article and the associated UGC project file:
+
+- The official DCB Girls' College Library page states that its institutional repository uses DSpace and contains scanned journal issues, departmental journals/newsletters, digitised faculty articles and research papers, and uploaded theses, minor research project (MRP) reports and dissertations. The public library page does not expose a direct repository URL or public search endpoint. This is a confirmed institutional holding route, not confirmation that SRC-149 is present in the repository.
+- The current official DCB Girls' College site identifies the Publication Cell and has a current notice inviting submissions to *INTUIT*. It does not expose the 2015 back issue in the public page text.
+- DCB's official IQAC coordinator profile lists *INTUIT* Vol. I (2012), Vol. V (2016), Vol. VI (2017) and Vol. XI (2022). A separate DCB faculty-profile search result records an *INTUIT* Vol. II paper in 2013, while another institutional faculty profile records a Vol. IV paper in 2015. These institutional records make the Kakojan profile's “Vol. II (2015)” entry a material volume/year anomaly. Do not silently correct it to Vol. IV or any other volume: the original article first page and issue masthead must settle the citation.
+- The Kakojan College profile's “View Supporting Publication Document” endpoint was rechecked and returned 404. This remains a failed link, not evidence that the underlying article or project report is unavailable.
+
+**Next retrieval action:** use the DCB Girls' College Library/Publication Cell DSpace repository and its back-volume holdings to request/search (1) the 2015 Neog article under title and author variants and (2) the UGC MRP final report and annexures under the exact project title. Request the *INTUIT* issue contents page and masthead as well as the article. Kakojan College's profile supplies an institutional email contact for the author; no request has been sent. Until primary documents are obtained, beverage identities, named sample localities, sample counts, analytical methods, units and results remain unverified. No beverage or locality rows have been added.
