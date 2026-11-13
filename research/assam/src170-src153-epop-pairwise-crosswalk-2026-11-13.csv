@@ -1,4 +1,4 @@
-Source_ID,Source_Row,Scientific_Name_As_Published,Comparison_Status,Matched_Source_ID,Matched_Source_Row,Matched_Scientific_Name_As_Published,Part_Use_SRC170,Part_Use_SRC172,Interpretation
+Source_ID,Source_Row,Scientific_Name_As_Published,Comparison_Status,Matched_Source_ID,Matched_Source_Row,Matched_Scientific_Name_As_Published,Part_Use_SRC170,Part_Use_SRC153,Interpretation
 SRC-170,1,"Areca catechu Burm. f.",No exact match,,,,Root,,"No corresponding SRC-153 taxon."
 SRC-170,2,"Artocarpus heterophylla Lam.",Similar spelling; not merged,SRC-153,18,"Artocarpus heterophyllus Lam",Leaf,Leaf,"Different printed epithets; no synonym inference."
 SRC-170,3,"Capsicum annuam Linn.",No exact match,,,,Fruit,,"No corresponding SRC-153 taxon."
