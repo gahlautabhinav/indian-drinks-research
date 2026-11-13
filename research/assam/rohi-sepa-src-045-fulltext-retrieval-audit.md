@@ -106,3 +106,14 @@ A caution on storage: the authors report visible “small microbes” after ten 
 The principal identity question is now substantially resolved: in this paper, Rohi is the first filtrate and Sepa is the pressed liquid from the residual mash. The remaining open questions are narrower: which village supplied each sample; whether both fractions are produced in every studied village/household; village-specific starter-plant lists; number and independence of household/batch samples; and access to the restricted underlying dataset. ASM-GAP-036 remains Open for those reasons, but no longer treats the Rohi/Sepa extraction distinction as unknown.
 
 **Primary source:** Bhattacharya, B. & Chandra Deka, D. (2026). *Indian Journal of Traditional Knowledge*, 25(9), 914–921. DOI: 10.56042/ijtk.v25i9.23169.
+
+
+## 2026-11-13 — Official OJS endpoint rechecked
+
+The publisher's current OJS article page at or.niscpr.res.in was re-opened. Following its PDF control successfully exposed the eight-page publisher PDF at:
+
+https://or.niscpr.res.in/index.php/IJTK/article/download/23169/6663/158409
+
+The legacy NOPR handle record remains readable, but its old bitstream endpoint returned 404 in this pass. This is a route migration/bitstream issue, not a missing article. The full text and source-specific CSV extractions were already completed in the 2026-11-02 audit section; this recheck does not create a new source or new transcription.
+
+**Do not repeat full-text retrieval.** The unresolved work is sample provenance and field allocation: the article names four study villages and describes home-brewed Rohi/Sepa, but it does not say which village supplied which beverage batch, how many households/batches were sampled, or whether the home-brewed values represent independent batches. The authors state the underlying dataset is available from the corresponding author on reasonable request, subject to participant privacy/ethics. Request only de-identified aggregate sample provenance and field matrix; do not request personal informant data.
