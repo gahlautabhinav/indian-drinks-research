@@ -169,3 +169,20 @@ The thesis retrieval route is now more precisely identified:
 Sources:
 - SRC-203, 2024 Shodhganga bibliographic analysis: https://iosrjournals.org/iosr-jhss/papers/Vol.29-Issue2/Ser-7/B2902071118.pdf
 - SRC-204, Gauhati University PhD award list: https://buniv.edu.in/uploads/2.4.2/42%20SIBANI%20BASUMATARY.pdf
+
+
+## 2026-11-14 — Thesis retrieval narrowed to Gauhati University record identifiers
+
+Two independent catalogue/award sources now identify the Handique thesis:
+- **SRC-204:** Gauhati University's 2018 PhD award list gives Pranami Handique's scholar registration number **005263 (2005–2006)**, Department of Chemistry, guide **Prof. Dibakar Chandra Deka**, and the exact thesis title. The award-list document states Vice-Chancellor approval dated 05 March 2018. The accessible copy is hosted by Bodoland University, but the document itself is headed Gauhati University.
+- **SRC-203:** a 2024 bibliographic study of Gauhati University Chemistry theses uploaded to Shodhganga during 2012–2023 independently lists Handique's thesis under “Thesis on Ethnic Community.” It supplies no item handle or bitstream URL.
+
+This is a material retrieval improvement: the scholar registration number, department, guide and exact title can now be used as catalogue keys. It is not yet the thesis itself. No chapter text, village list or A1/A2 sample-site register has been extracted.
+
+**Administrative chronology caution:** Gauhati University's award-list copy records Vice-Chancellor approval on 05 March 2018, while the college newsletter separately says the degree was awarded on 06 February 2018. These are different source statements; do not collapse them into a single exact award date without the formal degree record. The thesis submission year 2017 and 2018 award process remain broadly compatible.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No Charaideo beverage-specific place row is added.
+
+Sources:
+- SRC-203: https://iosrjournals.org/iosr-jhss/papers/Vol.29-Issue2/Ser-7/B2902071118.pdf
+- SRC-204: https://buniv.edu.in/uploads/2.4.2/42%20SIBANI%20BASUMATARY.pdf
