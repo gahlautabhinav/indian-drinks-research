@@ -282,3 +282,15 @@ The 2026-10-31 Bajali audit already established that the seven-village Bodo ethn
 - **SRC-175:** Census of India 2011 Barpeta District Census Handbook shows Bajali Revenue Circle and Bajali CD Block within the 2011 Barpeta district. This confirms the historical boundary caution; it is not beverage evidence.
 
 Searches combining the named sites with Jou/Jou bishi/Joubidwi/Joufinai/Jougwran and Bodo rice-beer terms found no reliable village-specific beverage source. **No place row was added; Bajali remains zero beverage-specific place rows.** New ASM-GAP-075 tracks direct beverage/producer evidence. Medicinal taxa, including *Musa balbisiana* recorded medicinally in SRC-176, are not imported into the Jou starter inventory. This is a search-status outcome, not evidence of absence.
+
+
+## 2026-11-13 — Charaideo SRC-011 locality crosswalk follow-up
+
+A full-text recheck of SRC-011 (Handique 2017) recovered methods and Table 1 details not represented in the earlier abstract-level screen: six Sivasagar-district villages were sampled in October 2015; the two Ahom samples are labelled A1 Bharalisuk and A2 Konwergaon. The table footnote defines A as Ahom. This is a named historical locality lead, not a current Charaideo place assignment.
+
+Administrative checks:
+- SRC-178, the 2024 Charaideo District Survey Report, says Charaideo was declared on 15 August 2015 and carved out of Sivasagar; the district administration history cites notification No. GAG(B) 27/01/2016. Preserve this declaration/notification distinction.
+- SRC-179, the 2021 Assam PHE annexure, lists Bharali Pukhuri gaon panchayat under Sonari (Mahmora), Charaideo. It is not proof that SRC-011's Bharalisuk is Bharali Pukhuri.
+- Current directory results expose multiple Konwar Gaon/No. 2 Konwar candidates; without a village code, circle, coordinates or field register, Konwergaon cannot be uniquely crosswalked.
+
+Decision: no Charaideo place row added. SRC-011's two source-reported locality strings remain unassigned to the current district pending the field-site register/author clarification and official village-code/boundary crosswalk. New ASM-GAP-076 tracks this. Charaideo remains zero verified beverage-specific place rows; this is a geographic-resolution gap, not evidence of beverage absence.
