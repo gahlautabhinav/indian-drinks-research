@@ -186,3 +186,8 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 ### Dhubri historical Goalpara and Rabha beverage follow-up — 13 November 2026
 - [Dhubri district beverage-coverage audit](research/assam/dhubri-district-beverage-coverage-audit-2026-10-31.md) — adds NIPCCD's 2022 Rabha Kesa mod/Jonga mod process description and official Dhubri administrative history; no locality is assigned to Dhubri.
 - [ASM-GAP-077](data/research_gaps.csv) — named-site retrieval and village-code crosswalk for historic Goalpara studies, plus current Dhubri producer/locality evidence.
+
+
+### Hojai Tiwa Zu and boundary follow-up — 14 November 2026
+- [Hojai district beverage-coverage audit](research/assam/hojai-district-beverage-coverage-audit-2026-11-14.md) — full-text review of the 2024 five-village Tiwa Zu paper and official Hojai administrative chronology; named study villages belong to Nagaon/Morigaon, so no Hojai place row was added.
+- [ASM-GAP-078](data/research_gaps.csv) — obtain original field schedules and current Hojai village-boundary crosswalks, then seek direct producer/locality evidence.
