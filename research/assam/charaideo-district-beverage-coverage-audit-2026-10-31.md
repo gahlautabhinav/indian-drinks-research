@@ -140,3 +140,16 @@ Sources:
 - SRC-198, 2023 review thesis citation: https://www.foodandnutritionjournal.org/volume11number2/biochemical-indices-and-consumption-pattern-of-traditional-alcoholic-beverages-by-tribal-communities-of-north-east-india-a-review/
 - SRC-199, Sibsagar Girls' College accreditation evidence: https://sibsagargirlscollege.org.in/uploads/iqac/dvv-clarification/2.4.2%20DVV.pdf
 - SRC-200, Gauhati University Library: https://gauhati.ac.in/library/
+
+
+## 2026-11-14 — Earlier Handique field network and official notification retrieval
+
+Registered **SRC-201**, Handique & Deka (2016), the full-text *Methodology of rice beer preparation by some ethnic communities residing in Sivasagar District of Assam, India: A survey*. The paper states that fieldwork covered nine villages densely populated by Ahom, Mising and Deori communities from November 2013 to February 2014, with approximately 20–30 people of each community interviewed. It acknowledges Mrs. Putoli Konwer and Mrs. Promila Bharali, among other informants, and describes Ahom Vekur Pitha/Xaj preparation. The accessible paper does not name the nine villages, map either acknowledged informant to a village, or connect them to the October 2015 A1/A2 samples. The names are a research-network lead only; they do not validate either locality spelling.
+
+Registered **SRC-202**, the official Government of Assam archive listing for the new-district notification. The listing exposes a 4.54 MB PDF attachment. The linked PDF timed out repeatedly and could not be downloaded in this pass, so no village-transfer schedule was extracted. The archive listing confirms the document exists; it does not establish any village's transfer or current district.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate, not a confirmed alias. A1 Bharalisuk remains unresolved. No beverage-specific place row is added; Charaideo remains at zero verified beverage-specific place rows.
+
+Sources:
+- SRC-201, Handique & Deka (2016): https://www.allsubjectjournal.com/assets/archives/2016/vol3issue1/3-1-88.2.pdf
+- SRC-202, Government of Assam notification archive: https://igr.assam.gov.in/documents-detail/notification-of-new-districts-majuli-hojai-west-karbi-anglong-charaideo-south-salmara-mankachar-and-biswanth
