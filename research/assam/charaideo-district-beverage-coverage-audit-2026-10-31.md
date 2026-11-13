@@ -50,3 +50,25 @@ Sources:
 - SRC-011, Handique (2017), full text: https://onlinelibrary.wiley.com/doi/full/10.1002/jib.413
 - SRC-178, Charaideo District Survey Report (2024): https://charaideo.assam.gov.in/sites/default/files/public_utility/DRAFT%20DSR%20OF%20CHARAIDEO%20DISTRICT%2016.09.2024_compressed.pdf
 - SRC-179, Assam PHE Annexure VII (2021): https://phe.assam.gov.in/sites/default/files/swf_utility_folder/departments/phed_medhassu_in_oid_3/menu/document/cabinet_notification_on_new_phe_division_creation_04-09-2021_compressed.pdf
+
+
+## 2026-11-14 follow-up — current Konwar Gaon / Bharali Pukhuri administrative leads
+
+A targeted administrative search recovered two additional official records relevant to the SRC-011 locality crosswalk:
+
+- **SRC-190 — District Legal Services Authority, Charaideo (2025):** an official recruitment admit card gives the address “Mahmora Konwar Gaon, P.O.- Bharali Pukhuri, P.S.- Kakotibari, Dist: Charaideo.” This is direct evidence that a present-day Mahmora Konwar Gaon locality is used in official Charaideo address records and is associated with Bharali Pukhuri postal geography.
+- **SRC-191 — Samagra Shiksha Assam (2018):** the Charaideo elementary-education evaluation listing includes “MAJ KONWAR GAON LPS” (School DISE 18290502304) under Charaideo/Sonari and the Jarali Pukhuri cluster. The same dataset separately identifies Bharali Pukhuri-A as a cluster under Charaideo/Sonari.
+- The already-registered **SRC-179** Assam PHE annexure lists Bharali Pukhuri as a gaon panchayat under the Sonari (Mahmora) development block.
+
+These sources strengthen the administrative plausibility of a present-day Charaideo interpretation for SRC-011's **A2 Konwergaon**, but they do not provide a direct historical alias statement, Census village-code equivalence, or evidence that the 2015 sample was collected from this exact Mahmora village. School names, clusters, postal geography, and revenue villages are distinct administrative objects. There may also be more than one Konwar Gaon locality.
+
+For **A1 Bharalisuk**, the new records do not resolve the sample spelling. Bharali Pukhuri is confirmed as a current Charaideo administrative/postal locality, but no authoritative source equates “Bharalisuk” with “Bharali Pukhuri.” Similarity is insufficient.
+
+**Decision:** no beverage-specific place rows added. Charaideo remains at zero verified beverage-specific place rows. Refine ASM-GAP-076: A2 has a stronger but unconfirmed administrative lead; A1 remains unresolved. Do not reassign either SRC-011 sample or create a Charaideo production record until an authoritative village-code/boundary crosswalk or author field-register confirmation is recovered.
+
+Sources:
+- SRC-011, Handique et al. (2017), full text: https://onlinelibrary.wiley.com/doi/full/10.1002/jib.413
+- SRC-178, Charaideo District Survey Report (2024): https://charaideo.assam.gov.in/sites/default/files/public_utility/DRAFT%20DSR%20OF%20CHARAIDEO%20DISTRICT%2016.09.2024_compressed.pdf
+- SRC-179, Assam PHE Annexure VII (2021): https://phe.assam.gov.in/sites/default/files/swf_utility_folder/departments/phed_medhassu_in_oid_3/menu/document/cabinet_notification_on_new_phe_division_creation_04-09-2021_compressed.pdf
+- SRC-190, District Legal Services Authority, Charaideo (2025): https://cdnbbsr.s3waas.gov.in/s3ec053f647cadf56541fb9513cb63ec37/uploads/2025/08/2025081296.pdf
+- SRC-191, Samagra Shiksha Assam, Charaideo-EEs (Final) (2018): https://ssa.assam.gov.in/sites/default/files/swf_utility_folder/departments/ssam_medhassu_in_oid_5/this_comm/Charaideo-EEs%20%28Final%29%2C%202018.pdf
