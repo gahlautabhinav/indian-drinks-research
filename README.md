@@ -196,3 +196,8 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 ### Nalbari Bodo/Rabha beverage and boundary follow-up — 14 November 2026
 - [Nalbari district beverage-coverage audit](research/assam/nalbari-district-beverage-coverage-audit-2026-11-14.md) — full-text screen of Bodo Jou process evidence and a BTR household liquor study, with their actual field-site limits; official 2011 Nalbari boundary context retained.
 - [ASM-GAP-079](data/research_gaps.csv) — obtain the 2025 Bodo rice-beer article's locality schedule, direct current-Nalbari producer evidence and historical Kamrup/Baksa village crosswalks.
+
+
+### South Salmara-Mankachar Rabha Jonga and boundary follow-up — 14 November 2026
+- [South Salmara-Mankachar district beverage-coverage audit](research/assam/south-salmara-mankachar-district-beverage-coverage-audit-2026-11-14.md) — full-text Rabha Jonga report review shows field sites in Goalpara, Kamrup Rural and Baksa, not this district; official district profile and 2016 Dhubri split recorded.
+- [ASM-GAP-080](data/research_gaps.csv) — crosswalk pre-2016 Dhubri villages to current South Salmara-Mankachar and seek direct local producer evidence.
