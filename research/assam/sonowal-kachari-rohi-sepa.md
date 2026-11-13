@@ -28,11 +28,11 @@ The 2023 article reports Rohi, Jhul mod and Madhopurukhor rokh. Their exact syno
 **ID:** `ASM-020-SEP`  
 **Community:** Sonowal Kachari  
 **Starter reported:** Mod pitha  
-**Locality:** Not established from the accessible abstract
+**Field-study scope:** Chaharikota, Teporguri, Bhoralibari and Meslou villages, Dibrugarh district; June 2020–March 2021. Village-to-batch allocation is not reported.
 
-Bhattacharya and Chandra Deka (2026) explicitly name Sepa alongside Rohi and report that both are rice-based fermented alcoholic beverages using Mod pitha. The paper examines physicochemical parameters and antioxidant properties. The repository abstract does not provide Sepa-specific ingredients, equipment, fermentation duration, sample villages, or its exact distinction from Rohi. This dossier does not invent those details.
+Bhattacharya and Chandra Deka (2026) fully describe Sepa as the **second, whitish fraction** obtained from the residual fermented mass after the first Rohi fraction has been filtered off. Water is added to the residue, mixed thoroughly, wrapped in clean cotton cloth and pressed to yield Sepa. It shares the same initial rice–Mod pitha fermentation as Rohi; the paper does not report a separate Sepa starter recipe or separate fermentation vessel/time. The authors describe Sepa as the regular/inferior class in their reported local classification; preserve this as an attributed source claim, not an objective quality judgement.
 
-The article's antioxidant analysis is not proof of clinical benefit. Any medicinal claims require separate evidence.
+The paper reports home-brewed ethanol values of 6.14±0.28% v/v for Rohi and 5.36±0.22% v/v for Sepa; laboratory-brewed values are 7.04±0.28% and 6.72±0.22% respectively. These are study-specific measurements; the paper states determinations were triplicate, but does not establish independent household/batch replication. It also reports pH, carbohydrate, protein, total solids, bitterness and antioxidant/phenolic measures in Tables 2–5. These in-vitro assays do not establish clinical benefits or safety.
 
 ## Geographic confidence and limitations
 
@@ -40,11 +40,18 @@ Rohi has a field-study locality at the Jokai area of Dibrugarh from the 2023 art
 
 ## Open research tasks
 
-1. Retrieve the full text of Bhattacharya and Chandra Deka (2026) and extract only Sepa-specific details.
-2. Compare Rohi and Sepa by substrate, starter recipe, fermentation duration, equipment, filtration, sensory characteristics and cultural use.
-3. Verify whether Jhul mod and Madhopurukhor rokh are local synonyms of Rohi or distinct variants.
-4. Identify exact villages only where explicit source evidence exists.
-5. Keep botanical and cultural claims source-attributed; do not treat antioxidant measurements as clinical outcomes.
+1. Request a de-identified village-to-batch matrix from the authors: which villages contributed home-brewed Rohi and Sepa, how many households/batches, and whether both fractions were obtained from the same batch in each case.
+2. Clarify whether the home-brewed analytical samples represent one household batch or multiple independent batches; technical triplicates are not biological replication.
+3. Obtain voucher/accession details or plant photographs for the five Table 1 entries and clarify which plant parts are mixed into starter versus used to wrap/cover cakes.
+4. Verify whether Jhul mod and Madhopurukhor rokh are local synonyms of Rohi or distinct variants.
+5. Verify current preparation in the four named villages; the 2020–2021 field visits are not proof of present-day production.
+6. Keep botanical and cultural claims source-attributed; do not treat antioxidant measurements as clinical outcomes.
+
+## SRC-045 starter and process summary
+
+Table 1 lists five entries, including rice: *Oryza sativa* (Dhan; grain), *Casearia aculeata* (Khorkhoria pat; leaves), *Cinnamomum bejolghota* (Patihanda; “skins”), *Cyclosorus dentatus* (Saldaokunwi; leaves) and *Cinnamomum tamala* (Tezpat; leaves). The article says the cakes are covered with *Cyclosorus dentatus* leaves while drying and wrapped in *Casearia aculeata* leaves for storage; these functions should remain distinct. No voucher identifiers are reported in the extracted methods.
+
+The 2026 study's four field villages are named above and are already recorded as ASM-PL-113–116. They are study sites, not proof that every village supplied both Rohi and Sepa batches. The paper reports that Rohi may be stored in an earthen Koloh for about a year and Sepa keeps for less time; these are source-reported storage observations, not safety recommendations.
 
 ## Sources
 
