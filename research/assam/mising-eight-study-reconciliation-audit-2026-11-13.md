@@ -88,3 +88,8 @@ The SRC-151/SRC-153 pair retains seven shared binomial keys from the earlier ded
 ## Archive decision
 
 The two CSVs are reversible research aids. Source-row strings are preserved; all uncertainty and variant scope remain attached to the original source. Do not add or merge plant, village, or beverage records solely from these overlaps.
+
+
+## Geographic cross-reference (2026-11-13)
+
+SRC-171's field survey names 17 Sonitpur Mising villages: Dharikati, Khonamukh, Kathani, Rangajan, Rongajan Miri, Baligaon, Sotaimiri, Toupamiri, Bamunipam, Bordikorai, Sikomgaon, Silenighat, Morikhuti, Bokagaon, Kekokoli, Tinighoria and Gudamghat. They are recorded as named ethnobotanical study sites (ASM-PL-119–135), not as village-specific Nogin Apong production sites. The 11-taxon Nogin/Nogjin Epop dicot table has no plant-by-village allocation; ASM-GAP-074 tracks this missing evidence.
