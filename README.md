@@ -171,3 +171,8 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 ### District coverage refresh — 13 November 2026
 - [Updated 35-district coverage matrix](research/assam/district-community-coverage-matrix.md) — reconciles 17 named Sonitpur Mising field-study villages and updated Dibrugarh study-site counts.
 - [SRC-171 village-to-taxon gap](data/research_gaps.csv) — ASM-GAP-074 tracks the missing Nogin Epop plant-by-village matrix and TUH voucher accessions.
+
+
+### Bajali evidence follow-up — 13 November 2026
+- [Bajali district beverage-coverage audit](research/assam/bajali-district-beverage-coverage-audit-2026-10-31.md) — updated with full-text screening of the 2025 seven-village and 2026 three-village medicinal studies; no beverage-place records added.
+- [ASM-GAP-075](data/research_gaps.csv) — direct Jou evidence and producer/locality mapping for ten named Bajali village leads.
