@@ -66,3 +66,7 @@ SRC-171 (Sarma & Devi, 2016) explicitly names 17 Mising villages in Sonitpur dis
 Dibrugarh now has 11 place rows after reconciliation of the two named Deori study villages (SRC-131) and four Sonowal Kachari study villages (SRC-045) with the existing historical/study-area rows. Neither paper supplies a village-to-batch or producer matrix; the rows remain study-site evidence, not a production census.
 
 The eight zero-row districts remain Barpeta, Bajali, Charaideo, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. Recent Bodo (SRC-119), Tai-Ahom (SRC-174) and Deori (SRC-018) sources add process or district-level leads but no new named production localities in this pass. No place row is created from broad “Upper Assam” wording, a GI holder claim, or an unnamed Tinsukia field site.
+
+
+### Bajali follow-up — 13 November 2026
+The Bajali row remains at **zero beverage-specific place records**. The 2025 Bodo medicinal-plant study (SRC-176) names seven villages and 64 informants; the 2026 rural medicinal-plant study (SRC-177) names three villages and 94 informants. Both are medicinal-knowledge studies and do not document Jou or starter-culture production. The 2011 Barpeta DCHB (SRC-175) confirms Bajali RC/CD Block were within the then-Barpeta district; historical records require a village-level crosswalk. ASM-GAP-075 tracks the remaining direct beverage-evidence task.
