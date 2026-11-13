@@ -271,3 +271,14 @@ The district matrix and place register were reconciled after adding the 17 named
 SRC-171's 17 villages are named field-study sites, not proof of current Nogin/Nogjin Apong production in each village. Its 11-taxon Table 3 is a study-level dicot inventory without a plant-by-village matrix. The new place rows ASM-PL-119–135 therefore carry no beverage ID. Dibrugarh's 11 place rows include the SRC-131 Deori and SRC-045 Sonowal study villages, with village-to-batch attribution still unresolved.
 
 The zero-row list remains Barpeta, Bajali, Charaideo, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. This is archive coverage, not evidence of beverage absence.
+
+
+## 2026-11-13 — Bajali village-lead follow-up (SRC-175–177)
+
+The 2026-10-31 Bajali audit already established that the seven-village Bodo ethnomedicinal survey was not beverage evidence. This follow-up recovered its full text and checked the named sites against Jou/Jou bishi/Joubidwi/Joufinai/Jougwran searches rather than repeating broad district searches.
+
+- **SRC-176:** Basumatary et al. (2025), *Ethnobotany Research and Applications* 32:60, DOI 10.32859/era.32.60.1-29. Full text confirms seven Bodo-dominated villages (Chenglimari, Duramari, Mwithabari, Jamguri, Bharegaon, Sonapur, Kathalmurighat), 64 informants, March 2022–March 2024, and 131 medicinal plant taxa. The scope is explicitly medicinal; no beverage/starter methods or producers are documented.
+- **SRC-177:** Das, Chanu & Saha (2026), *Explore* 22(4), 103420, DOI 10.1016/j.explore.2026.100763. Publisher abstract identifies 94 informants and three villages (Doloigaon, Bamakhata, Muguria), fieldwork September 2024–January 2025, and medicinal-plant research only. Full text was not accessible in this pass.
+- **SRC-175:** Census of India 2011 Barpeta District Census Handbook shows Bajali Revenue Circle and Bajali CD Block within the 2011 Barpeta district. This confirms the historical boundary caution; it is not beverage evidence.
+
+Searches combining the named sites with Jou/Jou bishi/Joubidwi/Joufinai/Jougwran and Bodo rice-beer terms found no reliable village-specific beverage source. **No place row was added; Bajali remains zero beverage-specific place rows.** New ASM-GAP-075 tracks direct beverage/producer evidence. Medicinal taxa, including *Musa balbisiana* recorded medicinally in SRC-176, are not imported into the Jou starter inventory. This is a search-status outcome, not evidence of absence.
