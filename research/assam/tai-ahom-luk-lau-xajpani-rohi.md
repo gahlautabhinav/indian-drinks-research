@@ -95,3 +95,12 @@ Source: https://link.springer.com/article/10.1186/s42779-025-00286-2
 - *Aporup Assam* (2022). Assam Tourism. https://publications.assamtourism.gov.in/publications/files/Aporup_Assam_2022.pdf
 
 **Research pass:** 2026-10-23
+
+
+## 2026-11-13 — SRC-174 (Ananya Saikia, Anandam Vol. 15, 2026)
+
+A new full-text qualitative article identifies Luk-Lao as Tai-Ahom rice beer and describes it as a holy drink offered to ancestors during religious ceremonies (printed pp. 167–168). In the same discussion, it separately says “rice wine named xaj” is common among Ahom villages in Upper Assam. The article does not explain whether Xaj and Luk-Lao are synonyms, variants, stages or distinct drinks. This is evidence of current source-level naming overlap, not proof of equivalence.
+
+The article calls the starter XajorPitha and gives a narrative starter-cake process and ingredient list. Three plants are explicitly identified as *Zanthoxylum nitidum*, *Centella asiatica* and *Lygodium microphyllum*; other ingredients remain vernacular-only. The paper reports two inconsistent preparation durations: one account says 5–10 days; a second says 3–5 days before water addition and filtration. It supplies no named village, field dates, informant count, vouchers or laboratory measurements. See the full audit at research/assam/src174-ananya-saikia-2026-tai-ahom-foodways-audit.md.
+
+**Decision:** preserve Luk-Lao and Xaj as separate source strings; do not merge either with Xajpani/Kolohpani/Haj pani, Nam-Lao, Sajpani/Laopani or Rohi. Do not equate XajorPitha with Vekur pitha. No canonical record or locality changed.
