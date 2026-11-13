@@ -346,3 +346,17 @@ Registered **SRC-188**, official South Salmara-Mankachar district profile, which
 Rechecked related Rabha sources: SRC-017 names Dhupdhora in Goalpara; SRC-049 describes Kesa mod/Jonga mod without a named locality; SRC-102's five Goalpara villages are unnamed; SRC-124 names Goalpara and Kamrup for Rabha fieldwork. None locates Jonga production in present South Salmara-Mankachar. Statewide summaries and South Assam studies do not supply a local site.
 
 **Decision:** no place row added. South Salmara-Mankachar remains zero beverage-specific place rows. Created ASM-GAP-080 for pre-2016 Dhubri village crosswalks and direct current-district producer/locality evidence. Do not transfer Goalpara Jonga or broad Rabha/Goalpariya identity to this district.
+
+
+## 2026-11-14 — Charaideo Ahom Xajpani locality crosswalk follow-up
+
+Revisited ASM-GAP-076, concerning SRC-011's October 2015 Ahom Xajpani samples A1 **Bharalisuk** and A2 **Konwergaon**, reported under the paper's Sivasagar district label.
+
+New official administrative evidence registered:
+- **SRC-190**, District Legal Services Authority, Charaideo (2025), records the address Mahmora Konwar Gaon, P.O. Bharali Pukhuri, P.S. Kakotibari, Charaideo.
+- **SRC-191**, Samagra Shiksha Assam (2018), lists Maj Konwar Gaon LPS (DISE 18290502304) under Charaideo/Sonari, Jarali Pukhuri cluster, and lists Bharali Pukhuri-A cluster entries in Charaideo/Sonari.
+- **SRC-179**, already registered, lists Bharali Pukhuri GP under the Sonari (Mahmora) development block.
+
+Assessment: the A2 spelling Konwergaon now has a credible present-day Mahmora Konwar Gaon lead, but no source explicitly links the 2015 sample to that specific current revenue village. A1 Bharalisuk remains unmatched; the appearance of Bharali Pukhuri in current records is not enough to establish equivalence. No village-code match, old-to-new boundary schedule, or author field register was recovered in this pass.
+
+Decision: no beverage-specific place row added; Charaideo remains at zero verified beverage-specific place rows. ASM-GAP-076 remains High/Open with a refined split between the A2 probable administrative lead and the unresolved A1 locality. Next retrieval target: Handique et al. author field register / sample-site notebook, followed by 2011 Sivasagar District Census Handbook village directory and the 2015/2016 Charaideo district-formation notification schedule. Do not infer either sample's current district from postal, school-cluster or name similarity.
