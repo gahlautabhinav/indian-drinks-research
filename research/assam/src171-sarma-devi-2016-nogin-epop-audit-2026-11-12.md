@@ -62,3 +62,8 @@ Obtain a high-resolution image/PDF of SRC-148 printed page 61 (Table 1) and tran
 
 - Full article and Table 3: https://www.researchgate.net/publication/312069738_Role_of_dicot_angiosperms_in_the_livelihood_of_Mishing_community_in_Sonitpur_district_Assam_India
 - DOI: https://doi.org/10.22271/tpr.2016.v3.i3.087
+
+
+## District place-register reconciliation (2026-11-13)
+
+The 17 named Sonitpur field-study villages are now recorded as study-site place rows ASM-PL-119–135. Each row is intentionally linked to SRC-171 and Mising community only; beverage IDs remain blank because the article does not allocate the 11 Nogin/Nogjin Epop dicot taxa, Epop-specific informants or starter batches to individual villages. These are not village-level production claims. New gap ASM-GAP-074 tracks the missing plant-by-village matrix and TUH voucher accession numbers.
