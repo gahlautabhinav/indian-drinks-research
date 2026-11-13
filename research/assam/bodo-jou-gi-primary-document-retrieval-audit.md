@@ -194,3 +194,8 @@ All three pages incorrectly label certificate numbers 648–650 as application n
 ### Next retrieval action
 
 Request from IP India/GI Registry and the Bodo Traditional Brewer's Association: (1) each 2022 Statement of Case; (2) original 2022 and amended 19-10-2023 maps; (3) 13-02-2023 producer lists; (4) Journal 191 entries; (5) 2024 certificates and current registered-proprietor confirmation. Ask the Trust/Association to clarify whether its current holder statement reflects a transfer, an association role, or another legal arrangement. Until primary documents arrive, ASM-GAP-026 remains Open; no production locality, recipe, process specification or ingredient requirement is promoted from the heritage pages.
+
+
+## 2026-11-13 — Bodo source-ID deduplication
+
+The 2025 *Journal of Ethnic Foods* article “Methodology of ethnic cereal-based and fruit-based beverages of Bodo community of Assam” has one canonical archive record: **SRC-066** (DOI 10.1186/s42779-025-00286-2). SRC-030 and SRC-123 were duplicate registrations of the same article; SRC-081 had already been marked as a duplicate alias. All three IDs (SRC-030, SRC-081, SRC-123) are now aliases of SRC-066 and must not be counted as independent studies. Their source claims are represented in the canonical SRC-066 entry. New citations, crosswalks and research-gap references should use SRC-066.
