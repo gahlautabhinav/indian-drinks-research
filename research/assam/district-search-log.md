@@ -372,3 +372,9 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Recovered SRC-198, a 2023 review citing the thesis as a 2017 Gauhati University submission, pages 10–70. Year discrepancy with the CV is unresolved; obtain the thesis title page and full text.
 - Recovered SRC-197, Handique & Deka (2016), a nine-village Sivasagar field survey (Nov 2013–Feb 2014) that acknowledges Mrs. Putoli Konwer and Mrs. Promila Bharali. The accessible paper does not name the villages or link informants to the 2015 A1/A2 samples.
 - Decision: thesis and original field register are next priority. A2 Mahmora Konwar Gaon/code 293217 remains probable, not confirmed; A1 Bharalisuk remains unresolved. No place row added.
+
+2026-11-14 — Charaideo / Handique thesis retrieval verification
+- Confirmed the PhD chronology: SRC-198 cites the thesis as submitted in 2017; SRC-199 institutional college records state the degree was awarded 6 February 2018. Treat these as submission and award dates, not a contradiction.
+- SRC-200, Gauhati University Library, reports 6,351 PhD theses and 952,524 digitized thesis pages (as of 24 June 2024) and links to the University's Shodhganga contributions. The repository landing page was access-blocked in this session; no Handique thesis record/full text was recovered.
+- The 2016 Handique & Deka paper (SRC-197) still gives nine unnamed Sivasagar villages and acknowledges Mrs. Putoli Konwer and Mrs. Promila Bharali without village/sample attribution. No place inference.
+- Decision unchanged: A2 code 293217 probable only; A1 Bharalisuk unresolved; no Charaideo place row.
