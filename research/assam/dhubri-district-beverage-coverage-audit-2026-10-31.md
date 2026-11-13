@@ -44,3 +44,35 @@ The 2021 multi-district ethnobotanical compendium reports 32 villages across six
 3. Are there community-held accounts or local-language sources that identify beverage names, preparation practices and current localities?
 
 **Conclusion:** No source reviewed in this pass establishes a beverage-making or consumption locality in present-day Dhubri. This is a bounded literature-search result, not evidence that Dhubri communities lack traditional beverages.
+
+
+## 2026-11-13 follow-up — historic Goalpara crosswalk and Rabha Kesa mod
+
+### Administrative chronology
+
+The official Dhubri district history (SRC-181) states that present-day Dhubri was one of the civil subdivisions of erstwhile Goalpara district, and that Goalpara was divided into four districts in 1983, including Dhubri. It also records the 2016 separation of South Salmara-Mankachar from Dhubri. This establishes why pre-1983 "Goalpara district" references require a village-level crosswalk before they can be assigned to either current Goalpara or Dhubri. It does not establish which old Goalpara beverage-study villages fall inside present Dhubri.
+
+### Additional Rabha beverage source
+
+The NIPCCD Regional Centre, Guwahati report *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region* (2022; SRC-180) documents **Kesa mod/Jonga mod** as a Rabha rice beer. It describes local rice (mai), herbal yeast cake (bakhar), fermentation for three days, extraction using a wooden implement called ruhi, and dilution with water to produce kesa mod. The institute's research-report index identifies the item as "Study on Indigenous Foods 2022".
+
+However, the Rabha recipe entry gives no named village, district, fieldwork date, informant count or site-to-recipe allocation. It is valuable community/product/process context but cannot be used as Dhubri evidence or as a locality record.
+
+### Recheck of Rabha field studies
+
+- **SRC-102 (Das, Rabha & Das 2021):** full text specifies five remote villages in Goalpara district, fieldwork August 2019–January 2020, and 150 older experienced participants. The five villages are not named. The paper notes Dhubri as the western boundary of Goalpara in its district description; that boundary statement is not a claim that any study village was in Dhubri.
+- **Deka & Sarma 2010:** the Rabha starter-herb study identifies Dhupdhora, Goalpara district. It does not provide a Dhubri village or a present-Dhubri boundary crosswalk.
+- **SRC-124 (Talukdar et al. 2026):** the Rabha component is explicitly located in Goalpara and Kamrup districts; its study-area list does not include Dhubri. Its community-level Choko descriptions must not be extended to Dhubri.
+- The 2024 North-East fermented-beverage review and statewide beverage summaries provide no Dhubri field locality.
+
+### Decision and next evidence required
+
+No Dhubri place row is added. The district remains at zero verified beverage-specific place rows. New **ASM-GAP-077** tracks the need for (1) named sites and original field registers for historical Goalpara Rabha studies, (2) official village-code/boundary crosswalks, and (3) current Dhubri community-led or published evidence identifying a beverage, locality and producer/household. Keep Kesa mod/Jonga mod as a Rabha community beverage lead; do not equate every source's Jonga mod, Choko and Kesa mod without further terminology work.
+
+This is a bounded source and geographic-resolution result, not evidence that Dhubri lacks traditional beverages.
+
+Sources:
+- SRC-180, NIPCCD (2022), *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region*: https://www.spniwcd.wcd.gov.in/archive/download/2zq4zt
+- SRC-181, District Administration, Dhubri, "About Dhubri": https://dhubri.assam.gov.in/index.php/about-us/about-dhubri
+- SRC-102, Das, Rabha & Das (2021): https://environmentandecology.com/wp-content/uploads/2024/08/MS23.pdf
+- SRC-124, Talukdar et al. (2026): https://link.springer.com/article/10.1007/s44187-026-01101-w
