@@ -176,3 +176,8 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 ### Bajali evidence follow-up — 13 November 2026
 - [Bajali district beverage-coverage audit](research/assam/bajali-district-beverage-coverage-audit-2026-10-31.md) — updated with full-text screening of the 2025 seven-village and 2026 three-village medicinal studies; no beverage-place records added.
 - [ASM-GAP-075](data/research_gaps.csv) — direct Jou evidence and producer/locality mapping for ten named Bajali village leads.
+
+
+### Charaideo historical locality crosswalk — 13 November 2026
+- [Charaideo district beverage-coverage audit](research/assam/charaideo-district-beverage-coverage-audit-2026-10-31.md) — full-text SRC-011 extraction identifies Ahom Xajpani sample sites Bharalisuk and Konwergaon (October 2015); current district crosswalk remains unresolved.
+- [ASM-GAP-076](data/research_gaps.csv) — obtain the original field-site register/author confirmation and authoritative village-code/boundary crosswalk before assigning either locality to present-day Charaideo.
