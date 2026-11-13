@@ -191,3 +191,8 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 ### Hojai Tiwa Zu and boundary follow-up — 14 November 2026
 - [Hojai district beverage-coverage audit](research/assam/hojai-district-beverage-coverage-audit-2026-11-14.md) — full-text review of the 2024 five-village Tiwa Zu paper and official Hojai administrative chronology; named study villages belong to Nagaon/Morigaon, so no Hojai place row was added.
 - [ASM-GAP-078](data/research_gaps.csv) — obtain original field schedules and current Hojai village-boundary crosswalks, then seek direct producer/locality evidence.
+
+
+### Nalbari Bodo/Rabha beverage and boundary follow-up — 14 November 2026
+- [Nalbari district beverage-coverage audit](research/assam/nalbari-district-beverage-coverage-audit-2026-11-14.md) — full-text screen of Bodo Jou process evidence and a BTR household liquor study, with their actual field-site limits; official 2011 Nalbari boundary context retained.
+- [ASM-GAP-079](data/research_gaps.csv) — obtain the 2025 Bodo rice-beer article's locality schedule, direct current-Nalbari producer evidence and historical Kamrup/Baksa village crosswalks.
