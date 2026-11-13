@@ -309,3 +309,14 @@ Rechecked Rabha sources:
 - NIPCCD SRC-049 and statewide summaries do not supply Dhubri locality data.
 
 Decision: no place row added. Dhubri remains zero verified beverage-specific place rows. New ASM-GAP-077 asks for original named site registers, current village-code crosswalks and direct Dhubri producer/locality evidence. Do not reassign unnamed Goalpara villages or general Rabha distribution to Dhubri.
+
+
+## 2026-11-14 — Hojai Tiwa Zu and administrative crosswalk follow-up
+
+Registered and full-text screened **SRC-182**, Sarma & Konwar (2024), *A Study on Zu, a Traditional Beverage of the Tiwa Community of Assam*. The paper reports five surveyed villages and 80 elderly participants in aggregate. Its methods assign Rahadhala to Nagaon and Ahatguri Bilpara, Kohiguri, Lothabori and Rahadhala (Goxaibori) to Morigaon. It does not identify a Hojai field site. The paper's publisher is Lanka Mahavidyalaya, with an address in Lanka Town, Hojai, but this is not a field-site address. The authors' affiliation is Kalibabor College, Nagaon.
+
+The article documents Zu/Bakhor preparation and distinguishes its described Kesa Zu and distilled Poka mod/Fatika mod forms. Its 20 starter-plant entries and 80 participants are study-level totals without village-by-plant or village-by-informant allocation; none are assigned to Hojai. The 2020 Tiwa study SRC-036 also names villages across Nagaon and Morigaon, not Hojai; locality-level district mapping remains incomplete. SRC-037 likewise reports Tiwa sample work in Nagaon without a named Hojai village.
+
+Registered **SRC-183**, the official Hojai District Disaster Management Plan 2024–2025. It records the subdivision, district declaration, merger on 31 December 2022 and re-notification on 7 September 2023, and lists Hojai, Lanka and Doboka revenue circles. The current Hojai website uses a different district-creation date formulation; preserve source-specific chronology rather than harmonizing without the legal notifications.
+
+**Decision:** no place row added. Hojai remains zero beverage-specific place rows. Created ASM-GAP-078 for author field schedules, village-code/current-boundary crosswalks and direct Hojai producer/locality evidence. Do not assign the Lanka publisher address or generic historical Nagaon labels to present Hojai.
