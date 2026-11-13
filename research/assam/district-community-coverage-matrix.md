@@ -1,15 +1,16 @@
 # Assam district coverage matrix
 
-**Prepared:** 2026-10-23  
+**Prepared:** 2026-11-13 (refreshed)  
 **Data artifact:** `data/assam_district_coverage_matrix.csv`  
 **Purpose:** Establish a transparent archive-presence baseline across the 35 district names listed in the Government of Assam district directory, applying the official rename from Karimganj to Sribhumi. This matrix is not a census of beverage traditions and does not certify that each district has been exhaustively searched.
 
 ## Snapshot
 
 - **35 administrative district rows** in the matrix.
-- **26 districts** have at least one place-register row or a combined regional/study-scope lead.
-- **9 districts** have no relevant place row in the current archive.
-- The archive has **86 Assam place rows** overall, but these repeat some localities across beverages/evidence types and include historical fieldwork, starter-culture sampling, broad study regions, applicant addresses and unresolved localities.
+- **27 districts** have at least one place-register row or a combined regional/study-scope lead.
+- **8 districts** have no relevant place row in the current archive.
+- The archive has **134 Assam place rows** overall. These include named study sites, historical fieldwork, starter-culture sampling and broad study-region leads; they are not all current production locations.
+- The district matrix assigns **124 place-row occurrences** to individual districts; 10 Assam place rows retain combined or unresolved district strings and are not assigned to a single district.
 - A place row is not proof of current production, and absence from the register is not evidence of absence of a beverage tradition.
 
 The matrix distinguishes named locality/study-site evidence, district-level leads, combined regional labels, and districts with no relevant place row in the current archive. The 2026-10-23 refresh adds the ten-village Hill-Tiwa ethnobotanical study scope under West Karbi Anglong (ASM-PL-087; SRC-038); Chu is documented at community level, not assigned to every village. Each row carries source IDs, beverage IDs where available, a caveat and a next research action.
@@ -23,15 +24,13 @@ This is a practical working crosswalk. If a later official reorganization change
 ## Districts with no relevant place row in the current archive
 
 1. Barpeta
-2. Biswanath
-3. Bajali
-4. Charaideo
-5. Darrang
-6. Dhubri
-7. Hojai
-8. Nalbari
-9. South Salmara-Mankachar
-10. Tamulpur
+2. Bajali
+3. Charaideo
+4. Dhubri
+5. Hojai
+6. Nalbari
+7. South Salmara-Mankachar
+8. Tamulpur
 
 These are **archive gaps**, not a finding that those districts lack traditional beverages. They are priority targets for systematic source searches. In particular, do not assign older undivided Karbi Anglong research to West Karbi Anglong without verifying the original field site against the current boundary.
 
@@ -57,4 +56,13 @@ The grouped public-web search pass and its limits are documented in [`district-s
 
 ## Remaining work after transition
 
-This matrix completes the **archive-presence baseline**, but not the external search log. The next maintenance pass can continue searching the ten districts that still have no relevant place row and update the matrix only when evidence is found. The current release gate has passed: archive validation succeeded, the release note is published, and the latest Pages deployment succeeded. Keep unresolved questions open rather than filling them with inference.
+This matrix completes the **archive-presence baseline**, but not the external search log. The next maintenance pass can continue searching the eight districts that still have no relevant place row and update the matrix only when evidence is found. The current release gate has passed: archive validation succeeded, the release note is published, and the latest Pages deployment succeeded. Keep unresolved questions open rather than filling them with inference.
+
+
+## 2026-11-13 refresh — named Sonitpur Mising study sites and Dibrugarh reconciliation
+
+SRC-171 (Sarma & Devi, 2016) explicitly names 17 Mising villages in Sonitpur district—Dharikati, Khonamukh, Kathani, Rangajan, Rongajan Miri, Baligaon, Sotaimiri, Toupamiri, Bamunipam, Bordikorai, Sikomgaon, Silenighat, Morikhuti, Bokagaon, Kekokoli, Tinighoria and Gudamghat—and reports 194 respondents across the 2013–2015 survey. Place rows ASM-PL-119–135 now record these as **named ethnobotanical field-study sites only**. Table 3's 11 Nogin/Nogjin Epop dicot taxa are not allocated by village, so the new rows have no beverage-specific production ID.
+
+Dibrugarh now has 11 place rows after reconciliation of the two named Deori study villages (SRC-131) and four Sonowal Kachari study villages (SRC-045) with the existing historical/study-area rows. Neither paper supplies a village-to-batch or producer matrix; the rows remain study-site evidence, not a production census.
+
+The eight zero-row districts remain Barpeta, Bajali, Charaideo, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. Recent Bodo (SRC-119), Tai-Ahom (SRC-174) and Deori (SRC-018) sources add process or district-level leads but no new named production localities in this pass. No place row is created from broad “Upper Assam” wording, a GI holder claim, or an unnamed Tinsukia field site.
