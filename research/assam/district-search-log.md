@@ -262,3 +262,12 @@ The targeted audit pass is complete for all nine districts that had no place row
 These counts describe the current archive, not the completeness of Assam's beverage traditions. A place row may represent a historical lead, district-level study scope, starter-culture sample, or named field locality; it is not automatically proof of current household production. Darrang's new row is explicitly historical and is not linked to a canonical beverage ID. The eight zero-row districts remain research gaps, not districts where beverage traditions are absent.
 
 **Next phase:** Move from the nine-district screening pass to deeper Assam gap closure and source extraction, while retaining the eight zero-row districts as unresolved. Do not describe Assam as fully complete.
+
+
+## District coverage refresh — 2026-11-13
+
+The district matrix and place register were reconciled after adding the 17 named Sonitpur Mising field-study villages from SRC-171 and aligning Dibrugarh counts with the existing SRC-131 and SRC-045 study-site rows. Current counts: 138 total place-register rows (134 Assam), 35 administrative districts, 27 districts with at least one place row, and 8 zero-row districts. The district matrix contains 124 district-assigned row occurrences; 10 Assam place rows retain combined or unresolved district strings and are not allocated to a single district.
+
+SRC-171's 17 villages are named field-study sites, not proof of current Nogin/Nogjin Apong production in each village. Its 11-taxon Table 3 is a study-level dicot inventory without a plant-by-village matrix. The new place rows ASM-PL-119–135 therefore carry no beverage ID. Dibrugarh's 11 place rows include the SRC-131 Deori and SRC-045 Sonowal study villages, with village-to-batch attribution still unresolved.
+
+The zero-row list remains Barpeta, Bajali, Charaideo, Dhubri, Hojai, Nalbari, South Salmara-Mankachar and Tamulpur. This is archive coverage, not evidence of beverage absence.
