@@ -72,3 +72,24 @@ Sources:
 - SRC-179, Assam PHE Annexure VII (2021): https://phe.assam.gov.in/sites/default/files/swf_utility_folder/departments/phed_medhassu_in_oid_3/menu/document/cabinet_notification_on_new_phe_division_creation_04-09-2021_compressed.pdf
 - SRC-190, District Legal Services Authority, Charaideo (2025): https://cdnbbsr.s3waas.gov.in/s3ec053f647cadf56541fb9513cb63ec37/uploads/2025/08/2025081296.pdf
 - SRC-191, Samagra Shiksha Assam, Charaideo-EEs (Final) (2018): https://ssa.assam.gov.in/sites/default/files/swf_utility_folder/departments/ssam_medhassu_in_oid_5/this_comm/Charaideo-EEs%20%28Final%29%2C%202018.pdf
+
+## 2026-11-14 follow-up — Census-code candidate for SRC-011 A2 and unresolved A1
+
+A new authoritative source pass recovered the 2011 Sivasagar District Census Handbook, Part A (SRC-192) and Part B (SRC-193), plus two current official Charaideo district records (SRC-194 and SRC-195).
+
+### A2 — Konwergaon: strong candidate, not final alias confirmation
+The Part A village directory lists **Konwar Gaon**, 2011 location code **293217** (2001 code **01840100**). It separately lists **Nahar Pukhuri Konwar Gaon** (293145) and **1 No. Konwar Gaon** (292961), so the identifier matters. Part B associates code 293217 with sub-district code **02075 (Mahmora)**. The current Charaideo district administration independently publishes a village-specific document titled **Mahmora Konwar Gaon** under its official village-development scheme (SRC-194), and the current district profile lists Mahmora as a Charaideo revenue circle (SRC-195).
+
+This is a strong administrative candidate for SRC-011's A2 “Konwergaon”: the official name, historical Census code/sub-district and present district usage align. However, no source yet explicitly states that Handique et al.'s “Konwergaon” is the same revenue village as Census code 293217. Keep the alias match probable until the article authors' field register, original sample coordinates or an authoritative local alias record confirms it.
+
+### A1 — Bharalisuk: still unresolved
+“Bharalisuk” does not occur as an exact string in the searchable Sivasagar Census Village Directory. Current Bharali Pukhuri records and the official Mahmora Konwar Gaon document do not establish Bharalisuk as a former name, hamlet or alias of Bharali Pukhuri. No village code can yet be assigned to A1.
+
+**Decision:** no place row added. Charaideo remains at zero verified beverage-specific place rows. ASM-GAP-076 remains High/Open but now has a strong candidate crosswalk for A2 and a separately unresolved A1. Do not represent the 2015 sample as Charaideo production until the exact locality identity is confirmed.
+
+Sources:
+- SRC-011, Handique et al. (2017): https://onlinelibrary.wiley.com/doi/full/10.1002/jib.413
+- SRC-192, Sivasagar DCHB Part A: https://censusindia.gov.in/nada/index.php/catalog/240/download/610/DH_2011_1812_PART_A_DCHB_SIVASAGAR.pdf
+- SRC-193, Sivasagar DCHB Part B: https://censusindia.gov.in/nada/index.php/catalog/241/download/614/DH_2011_1812_PART_B_DCHB_SIVASAGAR.pdf
+- SRC-194, Charaideo official Mahmora Konwar Gaon village document: https://charaideo.assam.gov.in/sites/default/files/public_utility/Mahmora%20Konwar%20Gaon.pdf
+- SRC-195, Charaideo official district profile: https://charaideo.assam.gov.in/about-district/district-glance
