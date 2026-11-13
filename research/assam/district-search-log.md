@@ -378,3 +378,9 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - SRC-200, Gauhati University Library, reports 6,351 PhD theses and 952,524 digitized thesis pages (as of 24 June 2024) and links to the University's Shodhganga contributions. The repository landing page was access-blocked in this session; no Handique thesis record/full text was recovered.
 - The 2016 Handique & Deka paper (SRC-197) still gives nine unnamed Sivasagar villages and acknowledges Mrs. Putoli Konwer and Mrs. Promila Bharali without village/sample attribution. No place inference.
 - Decision unchanged: A2 code 293217 probable only; A1 Bharalisuk unresolved; no Charaideo place row.
+
+
+## 2026-11-14 — Charaideo / Handique earlier survey and district-notification retrieval
+- Registered SRC-201, Handique & Deka (2016). Full text confirms nine unnamed Sivasagar villages surveyed Nov 2013–Feb 2014 and acknowledges Mrs. Putoli Konwer and Mrs. Promila Bharali. It does not map informants to villages or to the 2015 A1/A2 samples. Treat the names only as leads to the research network; no place inference.
+- Registered SRC-202, the official Government of Assam notification archive listing, whose 4.54 MB linked PDF should contain the new-district notification. The archive page is accessible, but the PDF timed out repeatedly and could not be downloaded; no village-transfer schedule was extracted.
+- Updated ASM-GAP-076 to include SRC-201/SRC-202 and retain the strict crosswalk rule. A2 Mahmora Konwar Gaon / Census code 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No Charaideo place row added.
