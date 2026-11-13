@@ -320,3 +320,18 @@ The article documents Zu/Bakhor preparation and distinguishes its described Kesa
 Registered **SRC-183**, the official Hojai District Disaster Management Plan 2024–2025. It records the subdivision, district declaration, merger on 31 December 2022 and re-notification on 7 September 2023, and lists Hojai, Lanka and Doboka revenue circles. The current Hojai website uses a different district-creation date formulation; preserve source-specific chronology rather than harmonizing without the legal notifications.
 
 **Decision:** no place row added. Hojai remains zero beverage-specific place rows. Created ASM-GAP-078 for author field schedules, village-code/current-boundary crosswalks and direct Hojai producer/locality evidence. Do not assign the Lanka publisher address or generic historical Nagaon labels to present Hojai.
+
+
+## 2026-11-14 — Nalbari Bodo/Rabha beverage and boundary follow-up
+
+Full-text screened **SRC-184**, Barmahalia & Basumatary (2025), *Indigenous Knowledge on Jou Fermentation: An Analysis in the Bodo Society* (DOI 10.32474/JAAS.2025.11.000354). It documents Emao starter preparation and Jou Gisi/Jou Bidwi, Maibra Jou and Jou Gwran/Sereb at community/process level. The methods state primary information was obtained from aged Bodo community members but do not identify field districts, villages, informant count or fieldwork dates. Thelemara, Sonitpur appears in a narrow rice-husk process comparison, not as a stated survey locality. No Nalbari locality is identified.
+
+The separate 2025 article *The Use of Rice-Beer in the Bodo Society* by the same authors is listed by Gauhati University as published by Nalbari Commerce College. The accessible record supplies bibliographic metadata but not full text or field locality details. Treat the publisher's Nalbari location as a retrieval lead only, not as a Nalbari study site.
+
+Full-text screened **SRC-186**, Lohita Rabha's 2023 Assam Agricultural University PhD thesis on food security among Bodo and Rabha communities. Although it reports household liquor preparation/use, its actual sampling design is explicit: Udalguri and Baksa districts, four blocks and 20 villages (400 respondents: 204 Bodo, 196 Rabha). Nalbari is only mentioned as a neighbouring district to Baksa in the geography section. No Nalbari evidence is transferred from this thesis.
+
+Registered **SRC-185**, the 2011 Census District Handbook for Nalbari. It states Nalbari was carved from undivided Kamrup in 1985; the certified map identifies Baksa, Barpeta and Kamrup boundaries and part revenue circles under Baksa. Historical Kamrup labels therefore need village-level crosswalks, and old Nalbari area/revenue-circle references need checking against subsequent Baksa transfers.
+
+Also screened statewide Bodo/Rabha reviews (SRC-062, SRC-066), the older broad Assam summaries (SRC-092/SRC-094), and Nalbari medicinal-ethnobotany leads. None supplies a named current-Nalbari beverage locality. Medicinal-plant findings are not used as beverage evidence.
+
+**Decision:** no place row added. Nalbari remains zero beverage-specific place rows. New ASM-GAP-079 tracks retrieval of the 2025 Bodo article's locality schedule, direct current-Nalbari producer evidence and historical Kamrup/Baksa village crosswalks.
