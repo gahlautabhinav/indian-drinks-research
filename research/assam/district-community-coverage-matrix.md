@@ -74,3 +74,7 @@ The Bajali row remains at **zero beverage-specific place records**. The 2025 Bod
 
 ### Dhubri follow-up — 13 November 2026
 Dhubri remains a zero-place-row district. SRC-049 (NIPCCD 2022) documents Rabha Kesa mod/Jonga mod but gives no locality. SRC-102 (2021) documents Choko in five unnamed Goalpara villages; Deka & Sarma (2010) name Dhupdhora, Goalpara. SRC-181 confirms present Dhubri was part of erstwhile Goalpara until 1983, so historic Goalpara records require village-level crosswalks. SRC-124 (2026) identifies Rabha study districts as Goalpara and Kamrup, not Dhubri. New ASM-GAP-077 tracks named-site retrieval and present-Dhubri producer evidence. No Goalpara source is reassigned to Dhubri.
+
+
+### Hojai follow-up — 14 November 2026
+Hojai remains at zero beverage-specific place rows. SRC-182 (Sarma & Konwar 2024) documents Tiwa Zu in five villages explicitly assigned to Nagaon (Rahadhala) and Morigaon (Ahatguri Bilpara, Kohiguri, Lothabori and Rahadhala/Goxaibori); the 80 elderly participants and 20 plant taxa are aggregate study totals, not village allocations. Its Lanka Mahavidyalaya publisher address is not evidence of Hojai fieldwork. SRC-036 (2020) also concerns Nagaon/Morigaon Tiwa villages without a complete village-to-current-district crosswalk. SRC-183 records Hojai's merger/re-notification history and current Hojai, Lanka and Doboka circles. ASM-GAP-078 tracks original field schedules, village-code crosswalks and direct current-Hojai beverage evidence. No neighbouring-district or publisher-address inference is used.
