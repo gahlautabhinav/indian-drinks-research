@@ -166,3 +166,8 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 
 ### Tai-Ahom naming and Luk-Lao update — 13 November 2026
 - [SRC-174 full-text audit: Ananya Saikia (2026), Anandam Vol. 15](research/assam/src174-ananya-saikia-2026-tai-ahom-foodways-audit.md) — new Luk-Lao/Xaj terminology evidence, XajorPitha starter list, and conflicting preparation durations.
+
+
+### District coverage refresh — 13 November 2026
+- [Updated 35-district coverage matrix](research/assam/district-community-coverage-matrix.md) — reconciles 17 named Sonitpur Mising field-study villages and updated Dibrugarh study-site counts.
+- [SRC-171 village-to-taxon gap](data/research_gaps.csv) — ASM-GAP-074 tracks the missing Nogin Epop plant-by-village matrix and TUH voucher accessions.
