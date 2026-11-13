@@ -60,3 +60,8 @@ These are lexical overlaps, not taxonomic synonym counts. They do not prove same
 ## Archive decision
 
 The six-study inventory and lexical crosswalk are research aids only. No canonical plant, village, community or beverage records were created or merged. ASM-GAP-068, ASM-GAP-069 and ASM-GAP-070 remain open for their respective voucher, field-matrix and variant-allocation gaps; ASM-GAP-060 remains open for SRC-170's missing field/voucher metadata and table-numbering clarification.
+
+
+## Superseded comparison snapshot (13 November 2026)
+
+This six-study snapshot remains available for historical reproducibility. The current comparison set is now the eight-study reconciliation in `research/assam/mising-eight-study-reconciliation-audit-2026-11-13.md`, which adds SRC-151 and the explicit Nogin/Nogjin dicot subset SRC-171. Use the eight-study inventory/crosswalk for current Mising comparisons. SRC-172 and SRC-173 are duplicate-registration aliases of SRC-153 and SRC-007, not independent studies.
