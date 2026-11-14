@@ -41,3 +41,10 @@ A separate Assam Legislative Assembly Digital Library item titled “Council of 
 - Retain SRC-202 as the separate IGR/DLRS archive listing whose linked PDF had timed out; do not merge its identity with this recovered GAD-hosted scan.
 - Update ASM-GAP-076 to record the exact legal order and its scope limitation.
 - Keep A1 Bharalisuk and A2 Konwergaon unresolved; no Charaideo beverage-specific place row is justified by this administrative order.
+
+## Addendum — circle-level successor-territory reconciliation (SRC-193, SRC-195, SRC-205, SRC-221)
+
+The official 2011 Sivasagar DCHB Part B (SRC-193) states that the then district had three civil subdivisions — Sivasagar, Nazira and Charaideo — and six revenue circles: Dimow, Sivasagar, Amguri, Nazira, Sonari and Mahmora. The current Sivasagar district profile (SRC-221) lists only Sivasagar Sadar and Nazira Civil subdivisions and four circles: Sivasagar, Amguri, Demow and Nazira. Current Charaideo administrative sources SRC-195/SRC-205 list Sonari and Mahmora under Charaideo. Read together with SRC-220's order that transfers the entire Charaideo Civil Sub-Division, this provides a strong circle-level administrative reconciliation that Sonari and Mahmora are in the Charaideo successor territory.
+
+This strengthens the administrative plausibility of the A2 candidate: SRC-193 identifies 2011 Census village code 293217, Konwar Gaon, under Mahmora, and the locality is now within Charaideo's Mahmora administrative geography. It does **not** prove that the 2015 paper's spelling “Konwergaon” denotes that exact village/code. The name-to-code alias remains unconfirmed; A1 Bharalisuk remains unmatched. The crosswalk is therefore stronger at the district/circle level but still insufficient for a beverage-specific place row.
+
