@@ -258,3 +258,22 @@ Sources: SRC-208, SRC-209, SRC-210; official Jorhat district history (Jorhat car
 The official Jorhat district history (SRC-211) confirms Jorhat was a subdivision of undivided Sibsagar and was carved out as a separate district in 1983. This matters for the Mariani candidate: a 1981 Mariani PS entry can legitimately appear in the Sibsagar District Census Handbook, but a Mariani locality in October 2015 would fall under Jorhat's post-1983 district administration. Therefore the 2017 article's statement that all six samples were collected in Sivasagar district cannot be reconciled with the Mariani A2 candidate without author clarification or the original field register. The source may have a district-label error, the Mariani name may be a false friend, or A2 may refer to another Konwar Gaon such as the Mahmora candidate; none can be selected from the present evidence.
 
 Source: SRC-211 — https://jorhat.assam.gov.in/about-us/history-jorhat
+
+## 2026-11-14 — Six-sample locality audit: D2 Kokilamukh is Jorhat (SRC-212–215)
+
+Re-examined all six locality strings in SRC-011 Table 1 against official administrative/geographic records. The article says its six villages were densely populated by Ahom, Mising and Deori communities in Sivasagar district and reports collection in October 2015. Table 1 names: D1 Kotiori; D2 Kokilamukh; M1 Ligiribari; M2 Majorbari; A1 Bharalisuk; A2 Konwergaon.
+
+| Sample | Exact locality in SRC-011 | New administrative evidence | Assessment |
+|---|---|---|---|
+| D1 | Kotiori | SRC-213 lists Kotiori under Demow block in Sivasagar in a 2017 Assam project village list | Sivasagar context supported; sample household not identified |
+| D2 | Kokilamukh | SRC-212 official Jorhat DCHB explicitly describes Kokilamukh as a village of Jorhat; SRC-212/CGWB records also place Kokilamukh in Jorhat North West | **Direct conflict with the article's blanket Sivasagar district statement**, if exact same village; author/field register clarification required |
+| M1 | Ligiribari | SRC-215 Assam Tourism describes Ligiribari as a village of Desangmukh, 10 km from Sivasagar | Sivasagar context supported, but tourism narrative is not a legal boundary schedule or sample-household proof |
+| M2 | Majorbari | SRC-214 state tribal-village report lists Majorbari under Disangmukh GP, Sivasagar block and subdivision | Sivasagar context supported; sample household/namesake not fully resolved |
+| A1 | Bharalisuk | No exact Census/current locality match; Dulia Bharali Gaon is a separate Teok/Jorhat lead (SRC-208/209) | Unresolved; do not alias by shared word |
+| A2 | Konwergaon | Mahmora Konwar Gaon, Sivasagar code 293217 candidate; alternative Mariani Konwar/Kowar sequence 1981–2011 under Jorhat (SRC-208–211) | Unresolved; Mariani candidate conflicts with 2015 Sivasagar label |
+
+**Interpretation:** the 2017 paper's blanket geographic description cannot currently be accepted as a reliable current-district assignment for all six sites. At least the exact D2 locality name Kokilamukh is independently identified with Jorhat by the official Jorhat District Census Handbook. Possible explanations include an article-level district-label error, a different namesake, a sample-location transcription issue, or a loose/historical district description; none can be selected without the 2015 field register or author clarification. The administrative evidence for D1/M1/M2 is useful but does not prove the exact sample households or beverage production at every named place.
+
+**Decision:** no place rows created. ASM-GAP-076 remains High/Open. Priority is now the original October 2015 sample register/coordinates and author clarification of why Kokilamukh appears in a Sivasagar district sample set. Continue treating A1 and A2 as unresolved; do not retroactively move the beverage tradition to Jorhat or Charaideo from a single analytical sample.
+
+Sources: SRC-011; SRC-208–215.
