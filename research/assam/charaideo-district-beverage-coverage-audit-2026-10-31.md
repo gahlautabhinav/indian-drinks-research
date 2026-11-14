@@ -222,3 +222,13 @@ Direct access to the collection returned an Anubis access-denied page during thi
 **Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added. Next retrieval attempt should use the GU-network-only WebOPAC or direct library request, with registration no. 005263, Chemistry, guide Prof. Dibakar Chandra Deka and exact thesis title. Request pages 10–70 and the October 2015 sample-site notebook/field register.
 
 Source: SRC-207 — https://gauhati.ac.in/library/
+
+## 2026-11-14 — 1981 Sibsagar Village Directory: false-friend locality check (SRC-208)
+
+Screened the official 1981 Sibsagar District Census Handbook, Part XIII-A, Village & Town Directory. Its alphabetical directory lists **Dulia Bharali Gaon** under Teok Police Station, location code **03/6/3/82** (printed p. 67), and a separate **Konwar Gaon** under Mariani Police Station, location code **03/6/4/59** (printed p. 95). The handbook explicitly states that the 1981 Census could not be conducted in Assam and only Part A village/town directory was published.
+
+These are useful historical locality controls, not sample-site matches. “Dulia Bharali Gaon” is not “Bharalisuk”; the shared Bharali string is insufficient to assert an alias. The Mariani “Konwar Gaon” is a separate same-name historical entry and cannot be merged with the 2011 Mahmora “Konwar Gaon” (Census code 293217) without a village-code concordance. The older directory therefore increases the need for exact code/administrative crosswalks rather than resolving either A1 or A2.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / 2011 code 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added. Next: obtain historical 1981-to-2011 village-code concordances and the October 2015 author sample register; do not promote either substring/name match.
+
+Source: SRC-208 — https://censusindia.gov.in/nada/index.php/catalog/32501/download/35682/29651_1981_SIB.pdf
