@@ -104,3 +104,15 @@ The article reports DPPH free-radical inhibition, equivalent vitamin-C antioxida
 ### Decision and next action
 
 Register SRC-227 and attach it to ASM-GAP-076 as related analytical research. Keep the gap High/Open. A2 Mahmora Konwar Gaon / Census code 293217 remains a high-plausibility candidate, not a confirmed alias; A1 Bharalisuk remains unresolved. Request the thesis and original September/October 2015 field and laboratory accession records, asking the authors to explain whether these were separate sampling rounds and to provide a crosswalk of sample labels to village names/coordinates.
+
+## 8. Earlier Ahom Xaj-pani analytical evidence — SRC-105 (2014)
+
+The earlier SRC-105 study by Das, Khawas, Miyaji and Deka (2014), *HPLC and GC-MS analyses of organic acids, carbohydrates, amino acids and volatile aromatic compounds in some varieties of rice beer from northeast India*, includes one Ahom Xaj-pani sample, code **AsB4**, with collection locality **Sibsagar, Assam**. The broader nine-sample study collected samples from four Northeast states during November 2010–February 2011. Table 1 reports the AsB4 alcohol value as 4.12 ± 0.01% and pH as 4.39 ± 0.01; these are sample-specific analytical values.
+
+This is an independent, earlier district-level Xaj-pani record. It does not provide a named village or household, and cannot be used to identify A1 Bharalisuk or A2 Konwergaon from SRC-011. SRC-105's sample code AsB4 is unrelated to SRC-011's A1/A2 labels and SRC-227's S/A/X labels. Do not join samples across papers based on beverage/community alone.
+
+The 2023 review by Bhattacharya and Deka cites Handique's thesis with the page range **10–70** (SRC-203 and SRC-226 retrieval trail). This is a precise page-range lead but not a transcription of the thesis or evidence that those pages contain sample-site names. The review's 2017 thesis-submission citation and the university's 2018 award approval are not inherently inconsistent: submission and award are different events.
+
+The 2021 *Toxicology Reports* article by Deka, Handique and Deka studies Bodo Jou varieties (Joubidwi, Joufinai and Jougwran), not the Ahom–Mising–Deori six-village research series. It provides no Charaideo site evidence and is excluded from this locality crosswalk.
+
+**Decision:** Keep ASM-GAP-076 High/Open. SRC-105 supports historical Sibsagar-district Ahom Xaj-pani evidence only. A1 Bharalisuk remains unresolved; A2 Mahmora Konwar Gaon / Census code 293217 remains a high-plausibility candidate, not a confirmed alias. No new Charaideo beverage-specific place row is justified.
