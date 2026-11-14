@@ -552,3 +552,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Crucial distinction: SRC-011 prints A2 as **“Konwergaon”** and omits “No.2”. Do not automatically expand that label to “No2 Konwar Gaon”. This newly identified Sonari village is now a serious candidate to test against the sample register, not an established A2 match.
 - Registered **SRC-232**, Survey of India 2025 Assam Digital Data Register / Charaideo district administrative map. It depicts the district and three circles (Mahmara, Sapekhati, Sonari), useful for broad spatial context only. It is not village-scale. Note a source discrepancy: the current Charaideo district profile and flood plan state four revenue circles including Nazira part, whereas the Survey of India map describes three; do not use this small-scale map to settle the disputed Nazira boundary.
 - Decision: A2 remains unresolved; keep ASM-GAP-076 High/Open and no beverage-specific place row. A1 remains unresolved.
+
+
+## 2026-11-14 — Current Sivasagar Panchayat village-list namesake control (SRC-233)
+
+- Registered **SRC-233**, Government of Assam Panchayat & Rural Development Department notification **PRD-11030/22/2024-PRD(A)**. The notification partially modifies an earlier 15 October 2024 order and lists Gaon Panchayats with corresponding villages under current Sivasagar District.
+- The Sivasagar section includes the labels **“No.2 Konwar”** and **“2 No. Konwar Gaon”** (PDF extracted lines 682–752). This is an official current-Sivasagar administrative namesake control, distinct from the Charaideo Flood Contingency Plan's **“No2 Konwar Gaon” under Sonari Revenue Circle** (SRC-230).
+- The P&RD notification supplies no Census village codes, coordinates or cadastral map. Do not map its two labels to 2011 codes 292558, 292701 or 292985, and do not treat either as the October 2015 A2 sample locality.
+- Combined interpretation: similar numbered Konwar labels occur in both current Charaideo/Sonari and current Sivasagar administrative records. The unnumbered paper label **“Konwergaon”** cannot be resolved by spelling similarity. Keep ASM-GAP-076 High/Open; no beverage-specific place row; A1 remains unresolved.
+- Next decisive work: obtain official current Sivasagar GP-to-revenue-village code/geometry crosswalk, plus the Sonari Revenue Circle code/map for “No2 Konwar Gaon”; compare both against the October 2015 sample register/coordinates or author confirmation.
