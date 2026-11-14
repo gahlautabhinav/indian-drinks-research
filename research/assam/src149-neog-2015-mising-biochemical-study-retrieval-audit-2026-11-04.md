@@ -69,3 +69,16 @@ A targeted retrieval pass identified the current DCB Girls' College institutiona
 - The Kakojan College profile's “View Supporting Publication Document” endpoint was rechecked and returned 404. This remains a failed link, not evidence that the underlying article or project report is unavailable.
 
 **Next retrieval action:** use the DCB Girls' College Library/Publication Cell DSpace repository and its back-volume holdings to request/search (1) the 2015 Neog article under title and author variants and (2) the UGC MRP final report and annexures under the exact project title. Request the *INTUIT* issue contents page and masthead as well as the article. Kakojan College's profile supplies an institutional email contact for the author; no request has been sent. Until primary documents are obtained, beverage identities, named sample localities, sample counts, analytical methods, units and results remain unverified. No beverage or locality rows have been added.
+
+
+## DCB Girls' College repository route recheck (2026-11-14)
+
+A current official DCB Girls' College library page is now available on the college's current .ac.in domain: https://dcbgirlscollegejorhat.ac.in/library/. It explicitly confirms that the library operates a DSpace institutional repository and web-OPAC, accessible from mobile/computer/laptop. The page says the repository contains scanned departmental journals, magazines and newsletters; digitized manuscripts, faculty articles and research papers; and theses, minor research project (MRP) reports and dissertations. This directly validates the institution as the correct repository/holding route for both the *INTUIT* back issue and the UGC MRP final report. It is registered as SRC-216.
+
+The page does **not** expose a direct IR URL, OAI-PMH endpoint or public catalogue search link in its visible content, and no item-level record for Neog's article or project report was found. Repository existence and collection scope must not be misreported as proof that the specific files are deposited.
+
+The current official DCB IQAC-coordinator profile separately lists *INTUIT* Vol. I (2012), Vol. V (2016), Vol. VI (2017) and Vol. XI (2022): https://dcbgirlscollegejorhat.ac.in/iqac-co-ordinator/. This is consistent with the previously observed issue chronology, but it still does not settle the Kakojan profile's Vol. II (2015) claim. Keep the original citation flagged pending the 2015 issue masthead and article first page.
+
+**Retrieval request particulars:** ask the DCB Girls' College Librarian/Library for (1) *INTUIT* Vol. II, 2015, ISSN 2319-2097, and its contents/masthead; (2) the article “Biochemical investigation of Fermented Rice Product of Mishing Tribe of Jorhat District,” attributed to Mridula Neog in the Kakojan College profile; and (3) the UGC MRP final report and annexures titled “Ethno-biological Investigation and Quality Assessment of Fermented Rice Products of Mishing Tribe of Jorhat District of Assam.” Ask them to search title and author variants in both DSpace IR and web-OPAC, and confirm if any item is restricted to on-campus access. These are separate requested records; do not presume the article is the project report.
+
+No full text, beverage identity, sample design, locality, method, biochemical result or numerical value was recovered in this pass. No beverage or place rows were added.
