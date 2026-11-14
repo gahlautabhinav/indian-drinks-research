@@ -66,3 +66,18 @@ The next retrieval request should ask Gauhati University Library/Department of C
 - Registered **SRC-225** for the first-author academic CV.
 - Preserve the strict separation between the 2013–2014 nine-village survey and the October 2015 six-sample study.
 - Next high-value action: obtain the actual thesis and its underlying field/sample records through Gauhati University, not another round of name-only locality searches.
+
+## 6. Formal university retrieval route (SRC-226)
+
+The official Gauhati University Academic Registrar page states that the office administers doctoral research programmes and exposes links to PhD Award Lists, thesis evaluation, thesis upload and thesis-status query services. It lists the office email **academic@gauhati.ac.in**. This provides a formal institutional channel in addition to the Krishna Kanta Handiqui Library/WebOPAC route (SRC-207).
+
+A targeted request should identify:
+- Scholar: **Pranami Handique**
+- Registration: **005263 (2005–2006)**
+- Department: **Chemistry**
+- Guide: **Prof. Dibakar Chandra Deka**
+- Thesis title: *Traditional Alcoholic Beverages Prepared by Ethnic Communities in Sivasagar District of Assam: Study on Methodology and Composition*
+- Award-list approval date: **05 March 2018** (SRC-204)
+
+Request the catalogue accession/record, full thesis or consultation/reprography access, appendices and field-site schedule, and the October 2015 A1/A2 sample register or accession sheet. This route does not establish that the university will release a digital copy or that the field register is retained. No external contact has been made.
+
