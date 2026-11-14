@@ -399,3 +399,9 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Retrieval keys are now exact: registration no. 005263, Chemistry, guide Prof. Dibakar Chandra Deka, exact title. The thesis and its pages 10–70 remain unretrieved. Do not claim that a bibliographic listing proves a public PDF exists.
 - Chronology note: the GU award-list copy gives 05 March 2018 VC approval; the college newsletter separately states 06 February 2018 award. Retain both source-specific statements pending formal degree record.
 - Decision unchanged: A2 Mahmora Konwar Gaon / Census code 293217 remains candidate only; A1 Bharalisuk unresolved; no place row added.
+
+## 2026-11-14 — Charaideo current revenue-circle directory check (SRC-205)
+- Registered SRC-205, the official Directorate of Land Records “Know Your Circle Offices” directory. It lists Charaideo's current revenue circles as Mahmora, Sonari and Sapekhati, separately from Sivasagar's Demow, Amguri, Sivasagar and Nazira circles.
+- This confirms the present-day administrative hierarchy and that Mahmora is a Charaideo revenue circle. It is not the 2015/2016 village-transfer schedule and does not locate either 2015 sample locality.
+- Updated ASM-GAP-076 references with SRC-205. Decision unchanged: A2 Mahmora Konwar Gaon / Census code 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row added.
+- Next: retrieve the 4.54 MB official district-notification PDF or gazette annexure and the Handique thesis/sample register; do not infer from current circle lists.
