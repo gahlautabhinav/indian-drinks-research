@@ -428,3 +428,8 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - These entries do not resolve the 2015 samples: Dulia Bharali Gaon is not evidence of an alias for Bharalisuk; the shared “Bharali” string is not enough. The Mariani Konwar Gaon is a distinct historical same-name entry and must not be merged with the 2011 Mahmora Konwar Gaon / code 293217 without a historical-to-current code concordance.
 - This adds an important false-friend warning: locality-name matching alone is unsafe for both A1 and A2. The 2011 Mahmora candidate remains probable only; A1 remains unmatched.
 - Next: retrieve 1981-to-2011 village-code concordances and the October 2015 sample-site register / author notebook. No place row added.
+
+## 2026-11-14 — 2011 Jorhat PCA cross-check for 1981 Dulia Bharali Gaon
+- Registered SRC-209, official 2011 Jorhat PCA TV village-level directory. It lists Dulia Bharali Gaon as village code 293808 under Teok sub-district 02079; Jorhat DCHB Part B independently lists the same village/code.
+- This is a strong name-and-administrative-unit continuity lead for SRC-208's 1981 Dulia Bharali Gaon entry under Teok Police Station (03/6/3/82), now in the Jorhat 2011 administrative dataset. It is not a formal old/new location-code concordance and does not identify SRC-011 A1 “Bharalisuk” as this village.
+- Do not assign A1 to Jorhat or Charaideo; original 2015 field register remains necessary. A2 Mahmora Konwar Gaon/code 293217 remains candidate only. No beverage place row added.
