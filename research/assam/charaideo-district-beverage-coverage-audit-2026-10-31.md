@@ -232,3 +232,13 @@ These are useful historical locality controls, not sample-site matches. “Dulia
 **Decision unchanged:** A2 Mahmora Konwar Gaon / 2011 code 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added. Next: obtain historical 1981-to-2011 village-code concordances and the October 2015 author sample register; do not promote either substring/name match.
 
 Source: SRC-208 — https://censusindia.gov.in/nada/index.php/catalog/32501/download/35682/29651_1981_SIB.pdf
+
+## 2026-11-14 — 1981–2011 Teok continuity check for Dulia Bharali Gaon (SRC-209)
+
+Cross-checked SRC-208's 1981 Sibsagar Village Directory against the official 2011 Jorhat PCA TV dataset and Jorhat District Census Handbook Part B. The 1981 directory lists **Dulia Bharali Gaon** under Teok Police Station, location code **03/6/3/82** (printed p.67). The 2011 Jorhat PCA TV directory lists **Dulia Bharali Gaon**, village code **293808**, under Teok sub-district code **02079**; the 2011 Jorhat DCHB Part B also lists the village and code. This is a strong name-and-administrative-unit continuity lead from the 1981 Teok PS entry to the 2011 Teok sub-district village.
+
+Important limit: this is not a formal location-code concordance, and neither census directory calls the village “Bharalisuk.” It does **not** establish that SRC-011's October 2015 A1 sample came from Dulia Bharali Gaon. It only prevents the 1981/2011 Dulia Bharali Gaon record from being confused with the beverage sample locality. No A1 assignment to Jorhat or Charaideo is justified without the original author field register.
+
+**Decision unchanged:** A1 Bharalisuk remains unresolved. A2 Mahmora Konwar Gaon / 2011 Sivasagar code 293217 remains a strong candidate only; no beverage-specific place row is added.
+
+Source: SRC-209 — https://censusindia.gov.in/nada/index.php/catalog/6503
