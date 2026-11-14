@@ -466,3 +466,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - A two-page Assam Legislative Assembly Digital Library PDF with a superficially similar “Council of Ministers Notification 2016” title was inspected and rejected: it is a 18 January 2020 ministerial portfolio-allocation notification, not a district-boundary instrument.
 - Registered **SRC-220** and created `research/assam/src220-charaideo-district-formation-notification-audit-2026-11-14.md`; updated ASM-GAP-076. Decision unchanged: A1 Bharalisuk and A2 Konwergaon unresolved; zero verified Charaideo beverage-specific place rows.
 - Next: obtain the contemporaneous Charaideo Civil Sub-Division village directory/map or 2015 village-membership record; continue seeking Handique's thesis pages 10–70 and October 2015 sample register/coordinates.
+
+## 2026-11-14 — Current Sivasagar / historical Charaideo subdivision cross-source reconciliation (SRC-221)
+
+- Registered the official Sivasagar district profile (last updated 26 November 2022) as **SRC-221**. It lists current Sivasagar subdivisions as Sivasagar (Sadar) and Nazira (Civil), and current revenue circles as Sivasagar, Amguri, Demow and Nazira.
+- Cross-checked this against SRC-193 (2011 Sivasagar DCHB Part B), which describes three subdivisions — Sivasagar, Nazira and Charaideo — and six revenue circles — Dimow, Sivasagar, Amguri, Nazira, Sonari and Mahmora. Current Charaideo profiles/directories SRC-195/SRC-205 list Mahmora and Sonari under Charaideo; SRC-220 legally transferred the whole Charaideo Civil Sub-Division to the new district.
+- This materially strengthens the administrative reconciliation that **Mahmora and Sonari are Charaideo successor territory**, not present-day Sivasagar. Since SRC-193 places Census village code **293217, Konwar Gaon**, under Mahmora, the current-Charaideo plausibility of A2 is stronger than before.
+- Critical limit: this does not prove the 2015 paper's sample spelling **Konwergaon** is an alias for Census village 293217. Similar-name village records remain a risk; A2 is still a candidate, not confirmed. A1 Bharalisuk remains unresolved.
+- Updated ASM-GAP-076 and registered SRC-221. No beverage-specific place row added. Next decisive evidence remains the original 2015 sample register/coordinates or author confirmation of the exact village identities.
+
