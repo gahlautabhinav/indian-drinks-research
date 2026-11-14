@@ -130,3 +130,25 @@ This is now an important candidate to test, but SRC-011 prints A2 simply as **�
 ## 9. SRC-232 — Survey of India Charaideo administrative map
 
 The 2025 Survey of India Assam Digital Data Register contains a Charaideo district map depicting the outer district boundary and internal **Mahmara, Sapekhati and Sonari** circle boundaries. It gives useful district/circle-scale geography for later georeferencing, but does not mark the disputed village or supply village coordinates. The Charaideo district profile and flood plan describe four revenue circles including Nazira part, whereas this Survey of India map depicts three; retain that source discrepancy rather than treating the map as a complete revenue-circle schedule.
+
+
+## 10. SRC-233 — current Sivasagar Panchayat list adds numbered Konwar namesakes
+
+**Official source:** Panchayat & Rural Development Department, Government of Assam, notification **PRD-11030/22/2024-PRD(A)**, *Gaon Panchayats and corresponding villages under Sivasagar District*. URL: https://pnrd.assam.gov.in/sites/default/files/swf_utility_folder/departments/pnrd_uneecopscloud_com_oid_9/menu/document/sivasagar_gp.pdf
+
+The notification says it partially modifies an earlier notification dated 15 October 2024 and publishes corresponding Gaon Panchayat/village lists under **current Sivasagar District** (SRC-233). In the Sivasagar section, the extracted table includes both **“No.2 Konwar”** and **“2 No. Konwar Gaon”** (PDF text around lines 682–752). This adds official present-day Sivasagar namesake controls to the already documented present-day Charaideo/Sonari “No2 Konwar Gaon” in SRC-230.
+
+### Interpretation limits
+
+The P&RD notification is a Panchayat/village association list, not a revenue-village code catalogue or cadastral map. It gives no Census codes or coordinates for these two labels. The table's extracted layout is grouped by Gaon Panchayat, but does not establish which 2011 Census code corresponds to either label. Do not assign them to Census entries 292558 (Dimow), 292701 (Sibsagar), or 292985 (Sonari) without an official code/geometry crosswalk.
+
+The new source confirms that numbered Konwar namesake labels occur in the current Sivasagar administrative list as well as the current Charaideo/Sonari flood plan. It therefore **increases**, rather than reduces, the ambiguity of SRC-011 A2's unnumbered **“Konwergaon”**. It does not establish that A2 was any numbered village, nor that it was outside/inside current Charaideo.
+
+### Updated decision
+
+- A2 remains **unresolved**. Keep the sample's published spelling exactly as printed; do not add or remove a numbered prefix.
+- No beverage-specific Charaideo place row.
+- A1 “Bharalisuk” remains unresolved.
+- Keep ASM-GAP-076 High/Open.
+
+**Next decisive evidence:** obtain the official current Sivasagar GP-to-revenue-village code/geometry crosswalk and the Sonari Revenue Circle code/map for “No2 Konwar Gaon”; then compare those records with the October 2015 sample register/coordinates or obtain direct author confirmation of the sample locality.
