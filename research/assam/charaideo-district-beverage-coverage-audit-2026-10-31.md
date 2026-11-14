@@ -212,3 +212,13 @@ The official 2016 new-district notification and its village-transfer annexure re
 **Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added; Charaideo remains at zero verified beverage-specific place rows.
 
 Source: SRC-206 — https://dlrs.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/menu/document/assam_flood_memorandum_2021.pdf
+
+## 2026-11-14 — Gauhati University Shodhganga collection route (SRC-207)
+
+The official Gauhati University Library page reports 6,351 PhD theses and 952,524 digitized thesis pages as of 24 June 2024, and its Shodhganga link resolves to the University's collection landing page at `https://shodhganga.inflibnet.ac.in/handle/10603/5442`. The same library page says WebOPAC access requires the GU network. This provides a precise institutional repository route for the Handique thesis search, beyond generic Shodhganga queries.
+
+Direct access to the collection returned an Anubis access-denied page during this pass. Search-engine queries using the exact thesis title, registration number 005263, scholar name and supervisor did not surface an individual item handle or bitstream. Therefore SRC-207 establishes the collection route and library holdings only; it does not establish that the thesis is individually indexed or publicly downloadable. No thesis pages, field register or A1/A2 locality crosswalk were recovered.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added. Next retrieval attempt should use the GU-network-only WebOPAC or direct library request, with registration no. 005263, Chemistry, guide Prof. Dibakar Chandra Deka and exact thesis title. Request pages 10–70 and the October 2015 sample-site notebook/field register.
+
+Source: SRC-207 — https://gauhati.ac.in/library/
