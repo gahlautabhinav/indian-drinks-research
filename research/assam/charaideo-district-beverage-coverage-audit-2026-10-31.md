@@ -186,3 +186,13 @@ This is a material retrieval improvement: the scholar registration number, depar
 Sources:
 - SRC-203: https://iosrjournals.org/iosr-jhss/papers/Vol.29-Issue2/Ser-7/B2902071118.pdf
 - SRC-204: https://buniv.edu.in/uploads/2.4.2/42%20SIBANI%20BASUMATARY.pdf
+
+## 2026-11-14 — Current revenue-circle directory cross-check (SRC-205)
+
+Registered **SRC-205**, the current Directorate of Land Records, Government of Assam directory “Know Your Circle Offices.” It lists Charaideo's current revenue circles as **Mahmora, Sonari and Sapekhati**, while Sivasagar is separately listed with **Demow, Amguri, Sivasagar and Nazira**. This provides an official present-day district/circle reference and confirms that “Mahmora” is a current Charaideo revenue circle, not merely a development-block label.
+
+This directory is not the 2015/2016 district-transfer schedule and does not map either SRC-011 sample locality to a current revenue village or circle. It therefore adds administrative context only; it does not strengthen the A1/A2 name crosswalk beyond the existing candidate assessment. The official new-district notification attachment remains the required boundary source, and the thesis/field register remains the required locality source.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added; Charaideo remains at zero verified beverage-specific place rows.
+
+Source: SRC-205 — https://dlrs.assam.gov.in/information-services/assam-land-records-manual-english
