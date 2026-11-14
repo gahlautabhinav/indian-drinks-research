@@ -171,3 +171,34 @@ The 2024 Assam P&RD notification is a schedule of Anchalik Panchayats, Gaon Panc
 ### Decision
 
 A2 remains unresolved; A1 “Bharalisuk” remains unresolved. Keep ASM-GAP-076 High/Open and do not create a beverage-specific Charaideo place row. The next decisive retrieval is an official current Sonari Revenue Circle village-code/map crosswalk for “No2 Konwar Gaon”, plus the October 2015 sample-site register/coordinates or direct author confirmation.
+
+
+## 12. SRC-235 — current LGD mapping places No.2 Konwar under Charaideo GP / Lakuwa block
+
+**Source:** Bharat Survey, *Charaideo district — Panchayats and villages*, with source attribution to the Ministry of Panchayati Raj Local Government Directory (LGD), mirrored via ramSeraph/opendata; stated snapshot date **25 September 2026**. URL: https://bharatsurvey.org/panchayat-directory/assam/charaideo
+
+The current LGD mirror lists **No.2 Konwar** among the four villages under **Charaideo Gaon Panchayat**, in **Lakuwa development block** (SRC-235). The official Charaideo district profile (SRC-195) independently lists Lakwa among the district's development blocks and Sonari among its revenue circles. The 2011 Census DCHB (SRC-234) identifies the village as No.2 Konwar, 2011 PLCN **292985**, with 2001 PLCN **01816600**.
+
+Read with SRC-230, which lists **“No2 Konwar Gaon” under Sonari Revenue Circle**, the records now form a strong administrative continuity chain:
+
+| Administrative record | Name / assignment | Evidential role |
+|---|---|---|
+| 2001 Census code in SRC-234 | 01816600 | Historical predecessor code |
+| 2011 Census DCHB / PCA in SRC-231/SRC-234 | No.2 Konwar — 292985; Sonari sub-district | Named village and code |
+| Current LGD mirror in SRC-235 | No.2 Konwar — Charaideo GP, Lakuwa development block | Current GP/block mapping |
+| Charaideo Flood Contingency Plan SRC-230 | No2 Konwar Gaon — Sonari Revenue Circle | Current revenue-circle occurrence |
+
+**Do not read Lakuwa and Sonari as contradictory assignments.** Lakuwa is the development block / Anchalik Panchayat layer; Sonari is the revenue-circle / Census sub-district layer. The official district profile SRC-195 lists these separately.
+
+### Evidential limits
+
+SRC-235 is a secondary mirror of official LGD data, not a direct portal export. Its district page gives the GP/block placement and village name but does not display the code next to the village in the page text; the code is separately anchored by SRC-231/SRC-234. No cadastral polygon or coordinate-level match was retrieved. The crosswalk to the current administrative locality is therefore strongly supported, but not yet a formal cadastral concordance.
+
+Most importantly, SRC-011 prints the sample locality only as **“Konwergaon”**, without “No.2”. Nothing in SRC-230/231/234/235 establishes that the authors omitted a numbered prefix or that A2 came from this specific village. **Do not promote the A2 sample identity to confirmed.** Obtain the October 2015 sample-site register/coordinates or author confirmation.
+
+### Updated decision
+
+- Current locality continuity for Census No.2 Konwar 292985 is strongly supported.
+- SRC-011 A2 “Konwergaon” remains unresolved pending direct sample-site evidence.
+- A1 “Bharalisuk” remains unresolved.
+- ASM-GAP-076 stays High/Open; no beverage-specific Charaideo place row is added.
