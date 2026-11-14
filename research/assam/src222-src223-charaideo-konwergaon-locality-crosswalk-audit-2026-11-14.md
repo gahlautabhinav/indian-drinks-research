@@ -233,3 +233,14 @@ The 2023 review already registered as SRC-062 cites Handique's thesis as a 2017 
 **Retrieval instruction:** use SRC-204's exact identifiers—file no. **5751**, registration no. **005263 (2005–2006)**, Chemistry, guide Prof. Dibakar Chandra Deka—to request the complete thesis and appendices. Prioritise pp. 10–70, field-survey village/informant schedules, and the October 2015 A1/A2 sample-site register and coordinates. No form was submitted, no login attempted, and no contact was made.
 
 **Decision unchanged:** A1 “Bharalisuk” unresolved; A2 “Konwergaon” unresolved; ASM-GAP-076 High/Open; no beverage-specific Charaideo place row. SRC-236 improves the retrieval pathway, not the sample-to-village evidence.
+
+
+## 15. SRC-237 — thesis-specific Shodhganga listing corroboration
+
+Roy (2024), *Bibliographic Analysis Of Doctoral Thesis In Chemistry Submitted In Shodhganga By Gauhati University* (IOSR-JHSS 29(2), Series 7, pp. 11–18; DOI 10.9790/0837-2902071118), describes its dataset as Gauhati University Chemistry theses uploaded to Shodhganga during 2012–2023. Under “Thesis on Ethnic Community”, it explicitly lists **“Traditional alcoholic beverages prepared by ethnic communities in sivasagar district of assam study on methodology and composition by Handique Pranami”** (p. 17).
+
+This is thesis-specific evidence that the title was represented in a Shodhganga thesis list, not merely evidence that Gauhati University contributes to the repository. It materially improves the retrieval lead. However, Roy's paper is secondary bibliometric work and gives no individual Shodhganga handle, upload date, abstract or direct bitstream link. Direct access to GU's collection handle 10603/5442 returned an Anubis access-denied page in this research session; exact-title/author web searches did not expose the individual item.
+
+**Retrieval decision:** treat the thesis as likely present in the Shodhganga corpus, with item-level access still unresolved. Ask GU Library/INFLIBNET for the exact item handle and bitstream using the thesis title, author Pranami Handique, registration 005263 and examination file 5751 (SRC-204). Prioritise pp. 10–70 and appendices, especially village/informant schedules and the October 2015 A1/A2 sample register/coordinates.
+
+This does not alter the locality decision: A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
