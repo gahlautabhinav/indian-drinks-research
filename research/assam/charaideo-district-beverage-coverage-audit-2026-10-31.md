@@ -200,3 +200,15 @@ Source: SRC-205 — https://dlrs.assam.gov.in/information-services/assam-land-re
 ### Administrative-source discrepancy preserved
 
 A further comparison found an unresolved discrepancy between two current official Assam sources: SRC-205 (Directorate of Land Records “Know Your Circle Offices”) lists **Nazira Revenue Circle under Sivasagar**, while SRC-195 (Charaideo district profile / district-glance page) lists **“Nazira (part)”** among Charaideo's revenue circles. These may reflect different administrative units, partial jurisdiction or a page-maintenance inconsistency; the available pages do not explain the relationship. Do not harmonise them or use either to infer a 2015 village's current district. The primary 2016 notification and village-transfer annexure remain necessary.
+
+## 2026-11-14 — 2021 Assam Flood Memorandum administrative cross-check (SRC-206)
+
+Registered **SRC-206**, the Government of Assam / Assam State Disaster Management Authority *Flood Memorandum to the Ministry of Home Affairs, Government of India, on Assam Floods 2021*. Section 2.5 (printed page 17) gives a district/revenue-circle table for the period 1 June–18 September 2021. It lists Charaideo with three circles — Sonari, Mahmora and Sapekhati — and Sivasagar with five — Sonari, Sivasagar, Nazira, Demow and Amguri.
+
+This source supports the placement of Mahmora and Sapekhati under Charaideo and Nazira under Sivasagar in that 2021 administrative table. However, it also assigns **Sonari to both Charaideo and Sivasagar**, while the current DLRS directory SRC-205 lists Sonari under Charaideo and does not list it under Sivasagar. This is an internal inconsistency in the flood memorandum's table, not a legal boundary schedule. SRC-195's “Nazira (part)” entry remains unexplained. Preserve all source-specific statements; do not infer village-level jurisdiction or retroactively map the 2015 A1/A2 samples from these circle lists.
+
+The official 2016 new-district notification and its village-transfer annexure remain unretrieved; the 4.54 MB attachment is still exposed on the official IGR page but timed out during retrieval. The Handique thesis and field/sample register also remain unrecovered despite exact catalogue keys.
+
+**Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added; Charaideo remains at zero verified beverage-specific place rows.
+
+Source: SRC-206 — https://dlrs.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/menu/document/assam_flood_memorandum_2021.pdf
