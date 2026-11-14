@@ -561,3 +561,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - The P&RD notification supplies no Census village codes, coordinates or cadastral map. Do not map its two labels to 2011 codes 292558, 292701 or 292985, and do not treat either as the October 2015 A2 sample locality.
 - Combined interpretation: similar numbered Konwar labels occur in both current Charaideo/Sonari and current Sivasagar administrative records. The unnumbered paper label **“Konwergaon”** cannot be resolved by spelling similarity. Keep ASM-GAP-076 High/Open; no beverage-specific place row; A1 remains unresolved.
 - Next decisive work: obtain official current Sivasagar GP-to-revenue-village code/geometry crosswalk, plus the Sonari Revenue Circle code/map for “No2 Konwar Gaon”; compare both against the October 2015 sample register/coordinates or author confirmation.
+
+
+## 2026-11-14 — Historical Census code continuity for Sonari No.2 Konwar (SRC-234)
+
+- Registered **SRC-234**, the official 2011 Sivasagar District Census Handbook, Part A (Village and Town Directory).
+- Its Lakwa CD Block village directory lists **“No.2 Konwar”**, 2011 PLCN **292985**, alongside the 2001 PLCN **01816600**. This independently corroborates the Census village identity/code already surfaced in SRC-231 and provides a 2001-to-2011 location-code continuity trail.
+- This does **not** supply coordinates, a village polygon, a current revenue-village number, or a formal alias statement connecting the Census entry to the Charaideo Flood Contingency Plan's “No2 Konwar Gaon” under Sonari Revenue Circle (SRC-230). It also does not connect either name to SRC-011's unnumbered A2 “Konwergaon”.
+- Additional precision from SRC-233: the 2024 P&RD notification is a Sivasagar-district Anchalik Panchayat/GP/village schedule. Its Sivasagar section contains several similar but distinct labels, including “No.2 Konwar”, “1 No. Konwar”, “2 No. Konwar Gaon” and “1 No. Konwargaon”. Do not treat these as one locality or map them to Census codes from name similarity alone.
+- Decision unchanged: A2 unresolved; A1 unresolved; ASM-GAP-076 High/Open; no Charaideo beverage-specific place row. Next step remains current Sonari revenue-village geometry/code retrieval and the original 2015 sample register/author clarification.
