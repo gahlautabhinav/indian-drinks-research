@@ -512,3 +512,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Checked the 2021 Deka/Handique/Deka paper (DOI 10.1016/j.toxrep.2021.06.013): it concerns Bodo Jou/Joubidwi/Joufinai/Jougwran, a different beverage/community study, and supplies no Charaideo locality evidence. It is not added as a Charaideo source.
 - ASM-GAP-076 remains High/Open. A2 Mahmora Konwar Gaon/code 293217 remains a high-plausibility candidate, not a confirmed alias; A1 Bharalisuk remains unresolved. No Charaideo beverage-specific place row added.
 - Next decisive retrieval remains the Handique thesis and original field/sample records: determine whether September and October represent distinct collection rounds, recover the village schedules, and map the two papers’ sample codes without conflating them.
+
+## 2026-11-14 — Earlier district-level Ahom Xaj-pani analytical evidence (SRC-105)
+
+- Re-examined the full text of Das, Khawas, Miyaji and Deka (2014), already registered as **SRC-105** and audited in `research/assam/src-105-biochemical-sample-audit.md`.
+- Table 1 identifies sample **AsB4** as Ahom **Xaj-pani**, collected in **Sibsagar, Assam**. The study collected nine samples across four Northeast states during November 2010–February 2011; it reports analytical triplicates, not multiple independent Sibsagar households.
+- This predates Handique's 2015 work and confirms an earlier district-level analytical record for Ahom Xaj-pani. It does not identify a village, producer, household, sample site or link to Bharalisuk/Konwergaon. It is not evidence that AsB4 came from either 2015 sample locality.
+- The 2023 Bhattacharya & Deka review cites Handique's PhD thesis as a 2017 submission and points to pages 10–70 (SRC-203/SRC-226 trail). This is a useful retrieval target only; the review does not reproduce the thesis field schedule. The 2018 university award-list approval date (SRC-204) is consistent with submission in 2017 and award in 2018.
+- The 2021 Deka et al. Toxicology Reports paper is a separate Bodo Jou study (Joubidwi/Joufinai/Jougwran), not a follow-up of the Ahom–Mising–Deori six-village sample series; exclude it from Charaideo locality inference.
+- Updated ASM-GAP-076 to cite SRC-105. No new place row or beverage identity created. A1 remains unresolved; A2 Mahmora Konwar Gaon/code 293217 remains high-plausibility but unconfirmed.
