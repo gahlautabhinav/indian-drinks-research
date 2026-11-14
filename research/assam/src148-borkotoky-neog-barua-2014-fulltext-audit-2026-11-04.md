@@ -92,3 +92,14 @@ The FlipHTML5 issue was reopened page by page rather than relying on the search-
 The issue's page-navigation links were followed to the article pages, but the accessible text rendition does not provide a legible image or machine-readable row content for Table 1. A container-side direct retrieval attempt was also unavailable in this research session, so no image/OCR transcription was possible. The table remains the single blocking item for the 51-entry inventory. The 51 count remains an author-reported aggregate only; no species rows or reconstructed list were added.
 
 **Next decisive route:** obtain a high-resolution scan of printed page 60 (and any continuation of Table 1) from the original January 2014 Issue 7, the journalboard/issue custodian, or Kakojan College's herbarium/library holdings. Request the full table page, not a secondary list, and preserve source spelling and row order during transcription.
+
+
+## 2026-11-14 targeted page navigation: Table 1 location and evidence boundary
+
+The FlipHTML5 navigation was followed directly to the article's printed pages 59, 60 and 61:
+
+- Page 59 confirms the article abstract's aggregate claim of 51 plant species used in Mising Epop/Epoppitha and distinguishes Nogin from Po:ro/Saimod: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/59/
+- Page 60 contains the methodology and results paragraph. It names Sirum, Budubari, Boloma, Bhomoraguri and Arunamukh as the five main collection villages; says plant collection occurred in April, May and June of 2011 and 2012; describes voucher preparation and deposition at Kakojan College Herbarium; and states 51 species, 39 genera and 31 families. The paragraph explicitly directs the reader to **Table 1**, but the page's accessible text rendition does not expose the table cells: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/60/
+- Page 61 continues with starter and beverage preparation, microbiology and biochemical findings; it does not expose the missing Table 1 plant rows: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/61/
+
+This recheck narrows the missing item: Table 1 is associated with the page-60 results section, not a plant list that can be inferred from the page-59 abstract or page-61 methods/results narrative. The platform's text version remains insufficient for row-level transcription. No species list is added. Request a high-resolution scan of printed page 60 from the issue custodian or Kakojan College; if Table 1 continues onto an adjacent printed page, obtain that page as well.
