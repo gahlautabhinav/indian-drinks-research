@@ -475,3 +475,14 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Critical limit: this does not prove the 2015 paper's sample spelling **Konwergaon** is an alias for Census village 293217. Similar-name village records remain a risk; A2 is still a candidate, not confirmed. A1 Bharalisuk remains unresolved.
 - Updated ASM-GAP-076 and registered SRC-221. No beverage-specific place row added. Next decisive evidence remains the original 2015 sample register/coordinates or author confirmation of the exact village identities.
 
+## 2026-11-14 — Charaideo A2 Mahmora Konwar Gaon crosswalk strengthened (SRC-222/SRC-223)
+
+- Registered **SRC-222**, the official Charaideo AAGY scheme page. Its village project list includes the exact title “Mahmora Konwar Gaon (Entry Point Activities)”.
+- Registered **SRC-223**, an official 2025 Office of the Chief Judicial Magistrate, Charaideo admit card. It records a current address as “Mahmora Konwar Gaon P/O- Bharali Pukhuri P/S-Kakotibari Dist: Charaideo”.
+- These are independent current Charaideo administrative/address records. Together with SRC-193's 2011 Census village “Konwar Gaon” code 293217 under Mahmora, they materially strengthen A2's match to the current Mahmora Konwar Gaon locality.
+- Chronology correction: SRC-011's sample collection occurred in October 2015; SRC-220's district-formation notification is dated 25 January 2016. Therefore the paper's “Sivasagar district” label is compatible with a sample from the then-Sivasagar Charaideo Civil Sub-Division. This is not the contradiction previously implied by treating the new district as already notified in August 2015.
+- Assessment: A2 “Konwergaon” → Mahmora Konwar Gaon / Census code 293217 is a **high-plausibility candidate, not confirmed alias**. None of the new sources explicitly links the paper's sample spelling to that Census code or sample household.
+- A1 “Bharalisuk”: exact spelling and variants “Bharali Suk/Sukh” did not yield an authoritative matching locality. Do not equate it with Bharali Pukhuri, the GP/postal/education cluster, or Dulia Bharali Gaon.
+- Created `research/assam/src222-src223-charaideo-konwergaon-locality-crosswalk-audit-2026-11-14.md`; updated ASM-GAP-076. No Charaideo beverage-specific place row added.
+- Next decisive evidence: Handique's October 2015 field/sample register and thesis pp. 10–70, or written author confirmation of exact A1/A2 village identities and coordinates. Ask specifically whether A2 is Census code 293217 and what precise locality A1 “Bharalisuk” denotes.
+
