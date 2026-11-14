@@ -486,3 +486,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Created `research/assam/src222-src223-charaideo-konwergaon-locality-crosswalk-audit-2026-11-14.md`; updated ASM-GAP-076. No Charaideo beverage-specific place row added.
 - Next decisive evidence: Handique's October 2015 field/sample register and thesis pp. 10–70, or written author confirmation of exact A1/A2 village identities and coordinates. Ask specifically whether A2 is Census code 293217 and what precise locality A1 “Bharalisuk” denotes.
 
+
+## 2026-11-14 — Handique thesis-author and earlier field-survey retrieval trail (SRC-197/SRC-225)
+
+- Re-opened the full text of SRC-197, Handique & Deka (2016), the earlier survey of nine unnamed Sivasagar villages conducted November 2013–February 2014. The article records approximately 20–30 interviewees per community and acknowledges seven key informants, including Mrs. Putoli Konwer and Mrs. Promila Bharali.
+- These names are **research-network leads only**. SRC-197 does not name the nine villages, map informants to villages, or connect any informant to the October 2015 A1/A2 samples. In particular, “Promila Bharali” is not evidence that A1 “Bharalisuk” is Bharali Pukhuri or Dulia Bharali Gaon; “Putoli Konwer” is not evidence that A2 is Mahmora Konwar Gaon.
+- Registered **SRC-225**, the first author's college-hosted academic CV. It independently confirms the PhD thesis title “Traditional Alcoholic Beverages Prepared by Ethnic Communities in Sivasagar District of Assam: Study on Methodology and Composition” and states PhD award in 2018. It does not contain the thesis, village list, sample register or coordinates.
+- Added a focused audit: `research/assam/src197-src225-handique-early-survey-thesis-author-trail-audit-2026-11-14.md`. The earlier 2013–2014 survey is kept separate from the six-site October 2015 metal-profile sampling.
+- ASM-GAP-076 remains High/Open. A2 Mahmora Konwar Gaon / Census code 293217 remains a high-plausibility candidate, not a confirmed alias; A1 Bharalisuk remains unresolved. No beverage-specific place row added.
+- Next decisive step: retrieve the full Gauhati University thesis (registration 005263; Chemistry; guide Prof. Dibakar Chandra Deka), especially pp. 10–70, appendices, field-site schedule and October 2015 sample register/coordinates. If the university cannot provide the thesis publicly, use its WebOPAC/library request route and ask for the original field/sample records.
