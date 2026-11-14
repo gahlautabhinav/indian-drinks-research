@@ -108,3 +108,25 @@ The similar “No2” prefix is not sufficient to connect the flood-plan label t
 A2 remains **unresolved among multiple namesakes**. Mahmora code 293217 is a plausible candidate, but not uniquely preferred or confirmed. The Sonari flood-plan listing establishes only that a current Charaideo administrative locality with a near-identical name exists. It does not identify the 2015 sample. Keep ASM-GAP-076 High/Open, do not add a beverage-specific Charaideo place row, and retain A1 “Bharalisuk” as unresolved.
 
 **Next evidence request:** obtain the Sonari Revenue Circle village code/map for “No2 Konwar Gaon” and, above all, Handique's October 2015 sample-site register/coordinates or author confirmation of the exact A2 village.
+
+
+## 8. Census village 292985 — strong Sonari continuity lead, but not yet the A2 sample match
+
+### Official Census record (SRC-231)
+
+The official Census of India 2011 PCA C.D.-block catalogue for undivided Sivasagar district lists **“No.2 Konwar” — village code 292985 — under sub-district code 02074 (Sonari)**. This must be distinguished from two other similarly named entries:
+
+- **No.2 Konwer Gaon — 292701**, Sibsagar sub-district 02071;
+- **No.2 Konwar — 292558**, Dimow sub-district 02070.
+
+### Official current Charaideo record (SRC-230)
+
+The Charaideo Flood Contingency Plan 2024–25 explicitly lists **“No2 Konwar Gaon” under Sonari Revenue Circle**. Matching the distinctive “No2 Konwar” name and Sonari administrative unit creates a strong continuity lead from the 2011 Census village 292985 to the current flood-plan locality. It is stronger than a shared surname or broad-district match, but it is still not a formal revenue-village code notification, coordinate match or cadastral alias statement.
+
+### What this does — and does not — establish for A2
+
+This is now an important candidate to test, but SRC-011 prints A2 simply as **“Konwergaon”**, without the “No.2” qualifier. No source currently establishes that the paper abbreviated the numbered village name, or that the field team meant this Sonari site rather than another Konwar/Konwer village. Do not silently add “No.2” to the published sample locality. A2 remains **unresolved**, with No.2 Konwar Gaon / 292985 now a strong administrative candidate for cross-checking against the sample register, alongside other namesakes. The original October 2015 field/sample register, coordinates or author confirmation remains decisive.
+
+## 9. SRC-232 — Survey of India Charaideo administrative map
+
+The 2025 Survey of India Assam Digital Data Register contains a Charaideo district map depicting the outer district boundary and internal **Mahmara, Sapekhati and Sonari** circle boundaries. It gives useful district/circle-scale geography for later georeferencing, but does not mark the disputed village or supply village coordinates. The Charaideo district profile and flood plan describe four revenue circles including Nazira part, whereas this Survey of India map depicts three; retain that source discrepancy rather than treating the map as a complete revenue-circle schedule.
