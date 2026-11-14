@@ -410,3 +410,9 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Compared SRC-205 (Directorate of Land Records current “Know Your Circle Offices” directory) with SRC-195 (Charaideo district profile). SRC-205 lists Nazira Revenue Circle under Sivasagar; SRC-195 lists “Nazira (part)” among Charaideo revenue circles.
 - The pages do not explain whether this reflects partial jurisdiction, differing administrative units or a stale page. Preserve the discrepancy; do not resolve by inference or use either page to place the 2015 Bharalisuk/Konwergaon samples.
 - The official 2016 district notification and village-transfer schedule remain the controlling retrieval target. ASM-GAP-076 remains High/Open; A2 candidate only, A1 unresolved; no place row added.
+
+## 2026-11-14 — SRC-206 2021 flood memorandum cross-check
+- Registered SRC-206, the Assam State Disaster Management Authority / Government of Assam Flood Memorandum 2021. Section 2.5 (printed p.17) lists Charaideo circles Sonari, Mahmora and Sapekhati; Sivasagar circles Sonari, Sivasagar, Nazira, Demow and Amguri.
+- The table duplicates Sonari across both districts, unlike SRC-205's current DLRS directory, which assigns Sonari to Charaideo only. It does list Nazira under Sivasagar, consistent with SRC-205 and inconsistent with SRC-195's “Nazira (part)” Charaideo entry. Do not resolve these page-level discrepancies by inference.
+- Official 2016 district notification / transfer schedule still not retrieved; the 4.54 MB official PDF attachment times out. Handique thesis and field register remain unrecovered despite exact registration and title keys.
+- ASM-GAP-076 remains High/Open. A2 Mahmora Konwar Gaon / Census code 293217 remains candidate only; A1 Bharalisuk unresolved. No beverage-specific place row added.
