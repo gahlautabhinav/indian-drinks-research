@@ -405,3 +405,8 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - This confirms the present-day administrative hierarchy and that Mahmora is a Charaideo revenue circle. It is not the 2015/2016 village-transfer schedule and does not locate either 2015 sample locality.
 - Updated ASM-GAP-076 references with SRC-205. Decision unchanged: A2 Mahmora Konwar Gaon / Census code 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row added.
 - Next: retrieve the 4.54 MB official district-notification PDF or gazette annexure and the Handique thesis/sample register; do not infer from current circle lists.
+
+## 2026-11-14 — Charaideo / Sivasagar current circle-directory discrepancy
+- Compared SRC-205 (Directorate of Land Records current “Know Your Circle Offices” directory) with SRC-195 (Charaideo district profile). SRC-205 lists Nazira Revenue Circle under Sivasagar; SRC-195 lists “Nazira (part)” among Charaideo revenue circles.
+- The pages do not explain whether this reflects partial jurisdiction, differing administrative units or a stale page. Preserve the discrepancy; do not resolve by inference or use either page to place the 2015 Bharalisuk/Konwergaon samples.
+- The official 2016 district notification and village-transfer schedule remain the controlling retrieval target. ASM-GAP-076 remains High/Open; A2 candidate only, A1 unresolved; no place row added.
