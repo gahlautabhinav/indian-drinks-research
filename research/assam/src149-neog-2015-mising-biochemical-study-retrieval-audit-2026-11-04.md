@@ -82,3 +82,15 @@ The current official DCB IQAC-coordinator profile separately lists *INTUIT* Vol.
 **Retrieval request particulars:** ask the DCB Girls' College Librarian/Library for (1) *INTUIT* Vol. II, 2015, ISSN 2319-2097, and its contents/masthead; (2) the article “Biochemical investigation of Fermented Rice Product of Mishing Tribe of Jorhat District,” attributed to Mridula Neog in the Kakojan College profile; and (3) the UGC MRP final report and annexures titled “Ethno-biological Investigation and Quality Assessment of Fermented Rice Products of Mishing Tribe of Jorhat District of Assam.” Ask them to search title and author variants in both DSpace IR and web-OPAC, and confirm if any item is restricted to on-campus access. These are separate requested records; do not presume the article is the project report.
 
 No full text, beverage identity, sample design, locality, method, biochemical result or numerical value was recovered in this pass. No beverage or place rows were added.
+
+
+## INTUIT Volume II / III chronology cross-check (2026-11-14)
+
+Two independent bibliographic records now strengthen the volume/year discrepancy assessment:
+
+1. **SRC-217 — Anek Lal Barman institutional CV:** lists an INTUIT article in **Volume II, 2013**, ISSN 2319-2097. The record is a faculty CV, not the issue itself: https://dimoriacollegeonline.co.in/attendence/upload/cv/1671715660.pdf
+2. **SRC-218 — scanned INTUIT Volume III issue:** the issue masthead itself states **Volume III, 2014**, ISSN 2319-2097, and identifies DCB Girls' College IQAC as publisher. The PDF is hosted by Chandrakamal Bezbaruah College: https://ckbteok.com/lib_resp/uploads/10254.pdf
+
+Together with the DCB institutional record of Volume IV (2015) previously identified in the audit, the evidence indicates a plausible consecutive sequence: Vol. II (2013), Vol. III (2014), Vol. IV (2015). This makes the Kakojan faculty profile's “Vol. II (2015)” entry for Neog's biochemical paper a strong bibliographic anomaly and a likely volume/year transcription error. **Do not silently correct it to Volume IV**: the Neog article's own first page and the original issue masthead have not been retrieved. The article might have been mis-entered in either its volume or year field, and only the primary item can resolve it.
+
+The next request to DCB Library/Publication Cell should therefore explicitly search both **INTUIT Volume II (2013)** and **Volume IV (2015)**, as well as a title/author search across all back volumes. Request the original article first page, issue masthead and contents page. No sample data, beverage identity, methods or biochemical values are added from these journal chronology sources.
