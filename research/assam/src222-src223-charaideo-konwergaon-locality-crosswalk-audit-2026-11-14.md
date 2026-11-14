@@ -152,3 +152,22 @@ The new source confirms that numbered Konwar namesake labels occur in the curren
 - Keep ASM-GAP-076 High/Open.
 
 **Next decisive evidence:** obtain the official current Sivasagar GP-to-revenue-village code/geometry crosswalk and the Sonari Revenue Circle code/map for “No2 Konwar Gaon”; then compare those records with the October 2015 sample register/coordinates or obtain direct author confirmation of the sample locality.
+
+
+## 11. SRC-234 — 2001-to-2011 Census location-code continuity for No.2 Konwar
+
+**Official source:** Office of the Registrar General & Census Commissioner, India, *District Census Handbook — Sivasagar District, Part A (Village and Town Directory)*. URL: https://censusindia.gov.in/nada/index.php/catalog/240/download/610/DH_2011_1812_PART_A_DCHB_SIVASAGAR.pdf
+
+The official 2011 DCHB's Lakwa CD Block village directory lists **No.2 Konwar**, 2011 Permanent Location Code Number (PLCN) **292985**, and its 2001 PLCN **01816600** (SRC-234). This is a useful historical continuity check: the 2011 Census entry is not merely a search-catalogue transcription; the district handbook itself prints the village name and both location codes.
+
+### Boundary of the inference
+
+This is a 2001-to-2011 Census code lineage, **not** a current revenue-village concordance. It does not provide coordinates or a village polygon, and it does not formally establish that the 2024–25 Charaideo flood-plan entry “No2 Konwar Gaon” under Sonari Revenue Circle (SRC-230) is the same cadastral unit. Even if that administrative continuity is later proven, the paper's A2 label remains the unnumbered **“Konwergaon”**; no evidence yet shows the authors omitted a “No.2” prefix.
+
+### Precision note on SRC-233
+
+The 2024 Assam P&RD notification is a schedule of Anchalik Panchayats, Gaon Panchayats and villages under **Sivasagar District**. In its Sivasagar section it contains several distinct similar labels, including **“No.2 Konwar”**, **“1 No. Konwar”**, **“2 No. Konwar Gaon”** and **“1 No. Konwargaon”** (SRC-233, PDF lines 682–786). These are separate printed entries in the schedule, not one interchangeable alias cluster. The notification does not provide Census codes or geometry for them. Their presence confirms that name-only matching is unsafe; it does not identify A2.
+
+### Decision
+
+A2 remains unresolved; A1 “Bharalisuk” remains unresolved. Keep ASM-GAP-076 High/Open and do not create a beverage-specific Charaideo place row. The next decisive retrieval is an official current Sonari Revenue Circle village-code/map crosswalk for “No2 Konwar Gaon”, plus the October 2015 sample-site register/coordinates or direct author confirmation.
