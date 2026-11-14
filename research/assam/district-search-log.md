@@ -433,3 +433,10 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Registered SRC-209, official 2011 Jorhat PCA TV village-level directory. It lists Dulia Bharali Gaon as village code 293808 under Teok sub-district 02079; Jorhat DCHB Part B independently lists the same village/code.
 - This is a strong name-and-administrative-unit continuity lead for SRC-208's 1981 Dulia Bharali Gaon entry under Teok Police Station (03/6/3/82), now in the Jorhat 2011 administrative dataset. It is not a formal old/new location-code concordance and does not identify SRC-011 A1 “Bharalisuk” as this village.
 - Do not assign A1 to Jorhat or Charaideo; original 2015 field register remains necessary. A2 Mahmora Konwar Gaon/code 293217 remains candidate only. No beverage place row added.
+
+## 2026-11-14 — A2 alternative: Mariani Konwar/Kowar Gaon and 2015 district-label check
+- SRC-208 (1981 Sibsagar DCHB) lists Konwar Gaon under Mariani Police Station, code 03/6/4/59.
+- Registered SRC-210 (official 2001 Jorhat Village Directory) lists Konwar Gaon, code 01904800, under Mariani tehsil.
+- SRC-209 (official 2011 Jorhat PCA TV) lists Kowar Gaon, code 294090, under Mariani sub-district 02081. The 1981→2001→2011 chain is plausible on name and administrative sequence, with Konwar→Kowar spelling variation, but no formal code-concordance/alias document was found.
+- Critical constraint: Jorhat was carved from undivided Sibsagar in 1983. SRC-011 says its six samples were collected in October 2015 in Sivasagar district. Therefore the Mariani candidate would conflict with the paper's district label if that label is used strictly. Do not assume the label is loose or historical.
+- A2 remains unresolved between Mahmora Konwar Gaon (2011 Sivasagar code 293217) and the Mariani Konwar/Kowar chain (1981 03/6/4/59 → 2001 01904800 → 2011 294090). A1 Bharalisuk remains unresolved. No beverage place row added. Decisive next evidence: original October 2015 sample-site register/coordinates and author clarification of district terminology.
