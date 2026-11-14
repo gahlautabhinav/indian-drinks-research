@@ -244,3 +244,12 @@ This is thesis-specific evidence that the title was represented in a Shodhganga 
 **Retrieval decision:** treat the thesis as likely present in the Shodhganga corpus, with item-level access still unresolved. Ask GU Library/INFLIBNET for the exact item handle and bitstream using the thesis title, author Pranami Handique, registration 005263 and examination file 5751 (SRC-204). Prioritise pp. 10–70 and appendices, especially village/informant schedules and the October 2015 A1/A2 sample register/coordinates.
 
 This does not alter the locality decision: A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
+
+
+## 16. SRC-197 — named 2013–2014 informants do not resolve A1/A2
+
+A page-by-page re-audit of Handique & Deka's complete four-page 2016 survey confirms that fieldwork took place in **nine unnamed Sivasagar villages** from November 2013 to February 2014. Approximately 20–30 people of each of the Ahom, Mising and Deori communities were interviewed. The acknowledgements identify seven key informants: **Mrs. Putoli Konwer; Mrs. Promila Bharali; Mrs. Budhbori Gogoi; Mr. Himanjal Deori; Mrs. Rukmini Mili; Mrs. Nirmala Deori; and Mrs. Dipali Mili**.
+
+The surnames **Konwer** and **Bharali** resemble SRC-011's October 2015 sample labels **Konwergaon** and **Bharalisuk**. This is not a valid alias inference. The 2016 paper does not give the informants' village, community, household or sample IDs; it does not state that either informant supplied the 2015 samples; and the 2013–2014 survey predates the October 2015 collection. A surname is not a place identifier.
+
+**Research consequence:** the earlier survey's original field notebook, interview schedule or informant register may be a useful retrieval route because it could associate Putoli Konwer and Promila Bharali with named villages. Even if that mapping is recovered, a separate record is still required to connect either person/household to the 2015 A1/A2 sample. No sample assignment is made; A1 and A2 remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
