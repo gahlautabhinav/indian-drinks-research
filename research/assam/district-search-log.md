@@ -534,3 +534,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - **Decision correction:** A2 is unresolved among multiple namesakes; remove any wording that implies Mahmora code 293217 is the uniquely strongest or high-confidence alias. Do not create a Charaideo place row. Need the 2015 sample register/coordinates, or a 2021 election sector map/crosswalk, to identify the exact locality.
 - A1 Bharalisuk remains unresolved. No evidence in this pass identifies it as a village or alias.
 - Next action: compare all candidate village codes (292701, 292961, 293217, and relevant nearby Konwar-named entries) against the October 2015 sample location and Charaideo's 2016 transfer boundary; request the Zone 5/Sector 16 map from the Sivasagar Election Office only if it helps locate the sector footprint. Keep ASM-GAP-076 High/Open and all place rows unchanged.
+
+
+## 2026-11-14 — Charaideo Sonari “No2 Konwar Gaon” locality control (SRC-230)
+
+- Registered **SRC-230**, the official Charaideo District Flood Contingency Plan 2024–25.
+- Its affected-village table explicitly lists **“No2 Konwar Gaon” under Sonari Revenue Circle**. This is an additional current Charaideo/Sonari-side near-exact namesake relevant to the A2 spelling audit.
+- The document does **not** supply a Census village code, coordinates, map, or alias statement. Do not equate this flood-plan locality with Census **1 No. Konwar Gaon (292961)**, **No.2 Konwer Gaon (292701)**, **Konwar Gaon (293217)**, or another entry solely from similar wording. It may be a separately named settlement/locality or an administrative label requiring a revenue-map crosswalk.
+- Decision: A2 remains unresolved among multiple namesakes; Mahmora code 293217 is not uniquely preferred. No Charaideo beverage-specific place row added. A1 Bharalisuk remains unresolved.
+- Next useful retrieval: obtain the Sonari Revenue Circle village map/LGD or revenue-village code for “No2 Konwar Gaon”, then compare with the October 2015 field register/coordinates. The sample register remains decisive.
