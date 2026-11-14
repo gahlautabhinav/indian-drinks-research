@@ -587,3 +587,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - The row marks the work **Done** and names external examiners **Prof. Jyolirekha G. Handique (Dibrugarh University)** and **Dr. Tarasankar Pal (IIT Kharagpur)**. The award list states Vice-Chancellor approval dated **05 March 2018**.
 - This provides a precise retrieval key beyond title-only searches. It does **not** expose the thesis PDF, appendices, field-site schedule, or October 2015 sample register. Keep A1/A2 unresolved and do not infer sample locality from examiners or university identifiers.
 - Retrieval target: Gauhati University thesis/library or examination/degree records using file no. 5751 and registration no. 005263; request the thesis and especially pages 10–70, appendices, field schedule, sample-site register and coordinates. No contact has been made.
+
+
+## 2026-11-14 — Gauhati University thesis retrieval route checked (SRC-236)
+
+- Checked the current official Academic Registrar page. It links to the PhD award-list archive, a dedicated **Query Thesis Status** form, and a separate **Upload digital copy of thesis** workflow. The upload page is for depositing a thesis, not downloading one; the query form is an institutional status route, not a publicly indexed thesis repository.
+- Checked the official K.K. Handiqui Library page: it reports 6,351 PhD theses and 952,524 digitized thesis pages as of 24 June 2024, describes GU as a major Shodhganga contributor, and explicitly restricts its SOUL Web OPAC to users on the GU network.
+- Registered these service pages as **SRC-236**. The 2023 review already registered as SRC-062 cites Handique's thesis as a 2017 submission, pages 10–70. This is a secondary bibliographic pointer only; no thesis bitstream or individual Shodhganga record was recovered.
+- Exact retrieval identifiers remain SRC-204: file no. **5751**, registration no. **005263 (2005–2006)**, Chemistry, guide Prof. Dibakar Chandra Deka. The next request should ask the library/Academic Registrar for the complete thesis and appendices, especially pp. 10–70, plus the field-survey village list and October 2015 A1/A2 sample register/coordinates.
+- No form was submitted, no login attempted, and no email or author contact was made. A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no Charaideo beverage-specific place row is added.
