@@ -196,3 +196,7 @@ This directory is not the 2015/2016 district-transfer schedule and does not map 
 **Decision unchanged:** A2 Mahmora Konwar Gaon / Census village 293217 remains a strong candidate only; A1 Bharalisuk remains unresolved. No beverage-specific place row is added; Charaideo remains at zero verified beverage-specific place rows.
 
 Source: SRC-205 — https://dlrs.assam.gov.in/information-services/assam-land-records-manual-english
+
+### Administrative-source discrepancy preserved
+
+A further comparison found an unresolved discrepancy between two current official Assam sources: SRC-205 (Directorate of Land Records “Know Your Circle Offices”) lists **Nazira Revenue Circle under Sivasagar**, while SRC-195 (Charaideo district profile / district-glance page) lists **“Nazira (part)”** among Charaideo's revenue circles. These may reflect different administrative units, partial jurisdiction or a page-maintenance inconsistency; the available pages do not explain the relationship. Do not harmonise them or use either to infer a 2015 village's current district. The primary 2016 notification and village-transfer annexure remain necessary.
