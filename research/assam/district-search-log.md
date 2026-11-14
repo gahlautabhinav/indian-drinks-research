@@ -596,3 +596,12 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - Registered these service pages as **SRC-236**. The 2023 review already registered as SRC-062 cites Handique's thesis as a 2017 submission, pages 10–70. This is a secondary bibliographic pointer only; no thesis bitstream or individual Shodhganga record was recovered.
 - Exact retrieval identifiers remain SRC-204: file no. **5751**, registration no. **005263 (2005–2006)**, Chemistry, guide Prof. Dibakar Chandra Deka. The next request should ask the library/Academic Registrar for the complete thesis and appendices, especially pp. 10–70, plus the field-survey village list and October 2015 A1/A2 sample register/coordinates.
 - No form was submitted, no login attempted, and no email or author contact was made. A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no Charaideo beverage-specific place row is added.
+
+
+## 2026-11-14 — Thesis-specific Shodhganga listing corroborated (SRC-237)
+
+- Found Roy, Alakesh (2024), “Bibliographic Analysis Of Doctoral Thesis In Chemistry Submitted In Shodhganga By Gauhati University” (IOSR-JHSS 29(2), Series 7, pp. 11–18; DOI 10.9790/0837-2902071118).
+- The paper describes its dataset as Gauhati University Chemistry theses uploaded to Shodhganga during 2012–2023, then explicitly lists Handique Pranami's *Traditional alcoholic beverages prepared by ethnic communities in Sivasagar district of Assam: study on methodology and composition* under “Thesis on Ethnic Community” (p. 17).
+- This is the first thesis-specific secondary corroboration found that the Handique thesis title appears in Shodhganga's thesis corpus. It strengthens the retrieval route beyond the generic GU collection page. It does **not** provide the individual Shodhganga item handle, upload date, abstract or bitstream.
+- Direct opening of the GU collection handle 10603/5442 returned an Anubis access-denied page; exact-title and author searches did not expose the item record. Do not claim the thesis PDF or pp. 10–70 have been recovered. Registered SRC-237 and added it to ASM-GAP-076.
+- Next: use Shodhganga's title-list record as an exact item-search lead; request the item handle/bitstream via GU Library/INFLIBNET if direct access remains blocked. The exact thesis retrieval identifiers remain file no. 5751 and registration no. 005263 (SRC-204). A1/A2 remain unresolved; no beverage-specific Charaideo place row.
