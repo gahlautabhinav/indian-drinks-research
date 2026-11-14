@@ -81,3 +81,26 @@ A targeted request should identify:
 
 Request the catalogue accession/record, full thesis or consultation/reprography access, appendices and field-site schedule, and the October 2015 A1/A2 sample register or accession sheet. This route does not establish that the university will release a digital copy or that the field register is retained. No external contact has been made.
 
+## 7. SRC-227 — Handique et al. (2020), follow-on antioxidant/phenolic study
+
+Full text (author-uploaded): https://www.researchgate.net/publication/339117011_Antioxidant_Properties_and_Phenolic_Contents_of_Traditional_Rice-Based_Alcoholic_Beverages_of_Assam_India
+
+DOI: https://doi.org/10.1007/s40009-020-00903-5
+
+The methods state that freshly prepared samples were collected from **six different villages in Sivasagar district in September 2015**. The sample groups are:
+- S1 and S2 — Deori Sujen
+- A1 and A2 — Mising Apong
+- X1 and X2 — Ahom Xaj
+
+The article reports DPPH free-radical inhibition, equivalent vitamin-C antioxidant activity, total phenolic content and RP-HPLC identification of six phenolic compounds. It gives a second analytical view of the same broad three-community/six-village research programme associated with SRC-011.
+
+### Critical reconciliation limits
+
+1. **Month discrepancy:** SRC-011 says its six villages were sampled in **October 2015**; SRC-227 says the antioxidant/phenolic samples were collected in **September 2015**. The papers may describe separate collection rounds, or one month may be a reporting error. Without the thesis, notebooks or author clarification, do not claim that the physical samples are identical.
+2. **Sample-code collision:** SRC-227 uses **A1/A2 for Mising Apong** and **X1/X2 for Ahom Xaj**. SRC-011 uses A1/A2 for the Ahom Xajpani sample pair. The labels are paper-specific and must never be merged by code alone.
+3. **No village names:** SRC-227 again says six villages but does not name them or map its codes to localities. It does not identify Bharalisuk or Konwergaon and does not independently strengthen the Mahmora alias hypothesis.
+4. **No new place rows:** This article is analytical evidence for beverage types and sample design, not village-level locality evidence.
+
+### Decision and next action
+
+Register SRC-227 and attach it to ASM-GAP-076 as related analytical research. Keep the gap High/Open. A2 Mahmora Konwar Gaon / Census code 293217 remains a high-plausibility candidate, not a confirmed alias; A1 Bharalisuk remains unresolved. Request the thesis and original September/October 2015 field and laboratory accession records, asking the authors to explain whether these were separate sampling rounds and to provide a crosswalk of sample labels to village names/coordinates.
