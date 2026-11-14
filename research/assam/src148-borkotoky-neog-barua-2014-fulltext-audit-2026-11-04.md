@@ -79,3 +79,16 @@ The FlipHTML5 page-level text is now independently retrievable at printed pages 
 The Kakojan College faculty profile for co-author Mridula Neog separately records a 2018 ICSSR-sponsored two-day national-seminar presentation titled “Qualitative Phytochemical Analysis of two Pteridophytic Plant species used traditionally by Tribes of Assam in Starter Culture preparation of rice beer fermentation” (27–28 April 2018). The public profile does not name the host institution or provide the paper, abstract, plant identities, voucher details or results. It is a separate lead, not evidence that the two species are included in SRC-148's 51-species inventory. Targeted public search did not retrieve the presentation or proceedings. Source profile: https://www.kakojancollege.edu.in/singlefaculty.php?slno=91.
 
 **Decision:** retain the 51-species figure as an author-reported aggregate only. Do not create species-level rows until Table 1 is visually transcribed and cross-checked. Keep the 2018 pteridophyte paper separate under ASM-GAP-067.
+
+
+## Page-image and page-text recheck (2026-11-14)
+
+The FlipHTML5 issue was reopened page by page rather than relying on the search-result excerpt:
+
+- Printed page 59 reproduces the article title/authors, the claim of 51 starter-plant species, and the two Apong varieties (Nogin and Po:ro/Saimod): https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/59/
+- Printed page 60 gives the survey and collection details: five named villages (Sirum, Budubari, Boloma, Bhomoraguri and Arunamukh), plant collection in April–June 2011 and 2012, voucher preparation, and stated deposition in the Kakojan College Herbarium. It reports 51 species, 39 genera and 31 families and refers to Table 1, but the extracted page text still omits the table rows: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/60/
+- Printed page 61 exposes the starter and beverage methods, plus references to Tables 2–4. It confirms the source-specific Nogin account (4–8 starter cakes/kg rice; 3–4 days) and Po:ro account (15–20 days followed by banana-leaf-lined bamboo-frame water percolation). The page text does not expose Table 1: https://fliphtml5.com/ntyj/brxv/The_Exalted_Edition/61/
+
+The issue's page-navigation links were followed to the article pages, but the accessible text rendition does not provide a legible image or machine-readable row content for Table 1. A container-side direct retrieval attempt was also unavailable in this research session, so no image/OCR transcription was possible. The table remains the single blocking item for the 51-entry inventory. The 51 count remains an author-reported aggregate only; no species rows or reconstructed list were added.
+
+**Next decisive route:** obtain a high-resolution scan of printed page 60 (and any continuation of Table 1) from the original January 2014 Issue 7, the journalboard/issue custodian, or Kakojan College's herbarium/library holdings. Request the full table page, not a secondary list, and preserve source spelling and row order during transcription.
