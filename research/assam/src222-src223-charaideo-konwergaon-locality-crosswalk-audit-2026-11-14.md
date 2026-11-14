@@ -202,3 +202,21 @@ Most importantly, SRC-011 prints the sample locality only as **“Konwergaon”*
 - SRC-011 A2 “Konwergaon” remains unresolved pending direct sample-site evidence.
 - A1 “Bharalisuk” remains unresolved.
 - ASM-GAP-076 stays High/Open; no beverage-specific Charaideo place row is added.
+
+
+## 13. SRC-204 — exact Gauhati University thesis-award identifiers recovered
+
+A re-examination of the Gauhati University PhD award-list PDF (SRC-204) yields the complete administrative row for Pranami Handique:
+
+- **File no.:** 5751
+- **Research Scholar registration:** 005263 (2005–2006)
+- **Department:** Chemistry
+- **Guide:** Prof. Dibakar Chandra Deka, Gauhati University
+- **Thesis title:** “Traditional alcoholic Beverages prepared by Ethnic Communities in Sivasagar District of Assam: Study on Methodology and composition”
+- **Status:** marked “Done” in the award list
+- **External examiners:** Prof. Jyolirekha G. Handique (Dibrugarh University) and Dr. Tarasankar Pal (IIT Kharagpur)
+- **University approval date:** 05 March 2018
+
+This is a retrieval advance: requests can now identify both the examination file and the scholar registration rather than relying on title-only catalogue searches. The document is an award-list copy hosted on a Bodoland University domain, not the thesis itself. It contains no field-site schedule, appendix, village list, coordinates, or October 2015 sample register. It therefore changes the **retrieval pathway**, not the A1/A2 locality assessment.
+
+**Next decisive request:** obtain the thesis and appendices from Gauhati University using file no. 5751 / registration no. 005263, prioritising pp. 10–70, field survey schedules, village/informant tables, and the October 2015 A1/A2 collection register. No author or university contact has been made. A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 stays High/Open; no beverage-specific Charaideo place row is added.
