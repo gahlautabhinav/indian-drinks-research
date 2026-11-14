@@ -416,3 +416,9 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - The table duplicates Sonari across both districts, unlike SRC-205's current DLRS directory, which assigns Sonari to Charaideo only. It does list Nazira under Sivasagar, consistent with SRC-205 and inconsistent with SRC-195's “Nazira (part)” Charaideo entry. Do not resolve these page-level discrepancies by inference.
 - Official 2016 district notification / transfer schedule still not retrieved; the 4.54 MB official PDF attachment times out. Handique thesis and field register remain unrecovered despite exact registration and title keys.
 - ASM-GAP-076 remains High/Open. A2 Mahmora Konwar Gaon / Census code 293217 remains candidate only; A1 Bharalisuk unresolved. No beverage-specific place row added.
+
+## 2026-11-14 — Gauhati University Shodhganga collection route for Handique thesis
+- Opened the official Gauhati University Library page. It reports 6,351 PhD theses and 952,524 digitized thesis pages as of 24 June 2024 and links to the university's Shodhganga collection at `https://shodhganga.inflibnet.ac.in/handle/10603/5442`. Its WebOPAC requires access from the GU network. Registered this institutional route as SRC-207.
+- Direct Shodhganga access returned an Anubis access-denied page. Exact-title, scholar-name, registration-number (005263) and supervisor searches still did not return an individual Handique item handle or bitstream. SRC-207 proves the collection route/holdings, not that the thesis is indexed or downloadable.
+- Next practical retrieval step: GU-network WebOPAC or a library request keyed by registration no. 005263, Chemistry, guide Prof. Dibakar Chandra Deka and exact thesis title; request thesis pages 10–70 plus the October 2015 field/sample-site register.
+- Decision unchanged: A2 Mahmora Konwar Gaon / Census code 293217 remains a strong candidate only; A1 Bharalisuk unresolved; no Charaideo beverage-specific place row added.
