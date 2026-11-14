@@ -242,3 +242,13 @@ Important limit: this is not a formal location-code concordance, and neither cen
 **Decision unchanged:** A1 Bharalisuk remains unresolved. A2 Mahmora Konwar Gaon / 2011 Sivasagar code 293217 remains a strong candidate only; no beverage-specific place row is added.
 
 Source: SRC-209 — https://censusindia.gov.in/nada/index.php/catalog/6503
+
+## 2026-11-14 — A2 Mariani alternative and 2015 district-label inconsistency (SRC-210)
+
+A fresh historical cross-check reveals a second plausible “Konwergaon” candidate. The official 1981 Sibsagar Village & Town Directory lists **Konwar Gaon** under **Mariani Police Station**, location code **03/6/4/59** (SRC-208; printed p.95). The official 2001 Jorhat Village Directory lists **Konwar Gaon**, code **01904800**, under Mariani tehsil (SRC-210). The official 2011 Jorhat PCA TV directory lists **Kowar Gaon**, code **294090**, under Mariani sub-district code **02081** (SRC-209). Name plus administrative continuity makes these a plausible 1981→2001→2011 chain, with an orthographic shift Konwar→Kowar; however, no formal code-concordance/alias document has been located.
+
+This candidate creates a material source-level geography issue: the 2017 paper says its six village samples were collected in October 2015 in **Sivasagar district** (SRC-011), but Mariani had been part of Jorhat district since Jorhat was carved out of undivided Sibsagar in 1983. Thus, if A2 were the Mariani Konwar/Kowar Gaon, the paper's district label would be geographically inaccurate or used loosely/historically. This cannot be assumed. The alternative 2011 Sivasagar candidate **Konwar Gaon, code 293217, Mahmora sub-district** remains plausible as well, but is also unconfirmed.
+
+**Decision:** retain both A2 candidates as alternatives only: (1) Mahmora Konwar Gaon, Sivasagar code 293217; (2) Mariani Konwar/Kowar Gaon, 1981 code 03/6/4/59 → 2001 code 01904800 → 2011 code 294090, Jorhat. Neither is assigned to the 2015 sample. A1 Bharalisuk remains unresolved. No beverage-specific place row is added. The next decisive evidence is the October 2015 sample-site register/coordinates and author clarification of the “Sivasagar district” wording.
+
+Sources: SRC-208, SRC-209, SRC-210; official Jorhat district history (Jorhat carved from undivided Sibsagar in 1983): https://jorhat.assam.gov.in/about-us/history-jorhat; SRC-011: https://onlinelibrary.wiley.com/doi/10.1002/jib.413
