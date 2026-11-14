@@ -84,3 +84,27 @@ The first three are especially relevant exact/near-exact name candidates. The fo
 Mahmora Konwar Gaon / code **293217** remains plausible because SRC-222/SRC-223 and the district-transfer order SRC-220 place a current locality of that name in Charaideo successor territory. But the Census catalogue now shows that the spelling is not unique within undivided Sivasagar. The 2021 election sector list adds another Sivasagar-side “KONWERGAON” lead, with no village-code mapping. Therefore A2 is **unresolved among multiple namesakes**; do not label Mahmora as the strongest/high-confidence match until sample coordinates, the original field register or an author confirmation narrows it.
 
 No Charaideo beverage-specific place row is added. A1 Bharalisuk remains unresolved. The next decisive evidence is the 2015 sample-site register/coordinates; alternatively obtain the Sivasagar Election Office's Zone 5/Sector 16 map and compare its footprint with the Census village candidates and the 2016 Charaideo transfer boundary.
+
+
+## 7. SRC-230 — Charaideo flood-plan locality: “No2 Konwar Gaon” under Sonari
+
+**Official source:** District Disaster Management Authority, Charaideo, *Flood Contingency Plan 2024–25*, Government of Assam. URL: https://charaideo.assam.gov.in/sites/default/files/public_utility/CONTINGENCY.pdf
+
+The affected-village table explicitly records **“No2 Konwar Gaon”** and assigns it to **Sonari Revenue Circle** (SRC-230; PDF text extraction around page 4 / lines 135 in the indexed copy). This is a new official Charaideo-side locality lead and materially widens the A2 namesake problem: the sample spelling “Konwergaon” cannot be uniquely assigned to Mahmora merely because the latter is an established current Charaideo locality.
+
+### Limits and non-equivalences
+
+The flood plan is an emergency-management list, not a Census/revenue-village directory. It supplies no Census code, coordinates, village boundary, or statement that “No2 Konwar Gaon” is an alias of any 2011 Census entry. In particular, do **not** silently equate it with:
+
+- No.2 Konwer Gaon — Census code 292701, Sibsagar sub-district 02071;
+- 1 No. Konwar Gaon — Census code 292961, Sonari sub-district 02074;
+- Konwar Gaon — Census code 293217, Mahmora sub-district 02075;
+- No.2 Konwar — Census code 292558, Dimow sub-district 02070 (a separate entry).
+
+The similar “No2” prefix is not sufficient to connect the flood-plan label to any of these. The exact revenue code and spatial footprint must be obtained from Sonari Revenue Circle or an official village map. Note also that the official 2011 catalogue lists **No.2 Konwar (292558)** under Dimow, not Sonari; this is another namesake and must not be confused with the flood-plan locality.
+
+### Revised decision
+
+A2 remains **unresolved among multiple namesakes**. Mahmora code 293217 is a plausible candidate, but not uniquely preferred or confirmed. The Sonari flood-plan listing establishes only that a current Charaideo administrative locality with a near-identical name exists. It does not identify the 2015 sample. Keep ASM-GAP-076 High/Open, do not add a beverage-specific Charaideo place row, and retain A1 “Bharalisuk” as unresolved.
+
+**Next evidence request:** obtain the Sonari Revenue Circle village code/map for “No2 Konwar Gaon” and, above all, Handique's October 2015 sample-site register/coordinates or author confirmation of the exact A2 village.
