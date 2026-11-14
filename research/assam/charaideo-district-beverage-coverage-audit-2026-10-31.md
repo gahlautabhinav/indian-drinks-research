@@ -252,3 +252,9 @@ This candidate creates a material source-level geography issue: the 2017 paper s
 **Decision:** retain both A2 candidates as alternatives only: (1) Mahmora Konwar Gaon, Sivasagar code 293217; (2) Mariani Konwar/Kowar Gaon, 1981 code 03/6/4/59 → 2001 code 01904800 → 2011 code 294090, Jorhat. Neither is assigned to the 2015 sample. A1 Bharalisuk remains unresolved. No beverage-specific place row is added. The next decisive evidence is the October 2015 sample-site register/coordinates and author clarification of the “Sivasagar district” wording.
 
 Sources: SRC-208, SRC-209, SRC-210; official Jorhat district history (Jorhat carved from undivided Sibsagar in 1983): https://jorhat.assam.gov.in/about-us/history-jorhat; SRC-011: https://onlinelibrary.wiley.com/doi/10.1002/jib.413
+
+### Administrative chronology control — SRC-211
+
+The official Jorhat district history (SRC-211) confirms Jorhat was a subdivision of undivided Sibsagar and was carved out as a separate district in 1983. This matters for the Mariani candidate: a 1981 Mariani PS entry can legitimately appear in the Sibsagar District Census Handbook, but a Mariani locality in October 2015 would fall under Jorhat's post-1983 district administration. Therefore the 2017 article's statement that all six samples were collected in Sivasagar district cannot be reconciled with the Mariani A2 candidate without author clarification or the original field register. The source may have a district-label error, the Mariani name may be a false friend, or A2 may refer to another Konwar Gaon such as the Mahmora candidate; none can be selected from the present evidence.
+
+Source: SRC-211 — https://jorhat.assam.gov.in/about-us/history-jorhat
