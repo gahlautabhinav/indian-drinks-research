@@ -220,3 +220,16 @@ A re-examination of the Gauhati University PhD award-list PDF (SRC-204) yields t
 This is a retrieval advance: requests can now identify both the examination file and the scholar registration rather than relying on title-only catalogue searches. The document is an award-list copy hosted on a Bodoland University domain, not the thesis itself. It contains no field-site schedule, appendix, village list, coordinates, or October 2015 sample register. It therefore changes the **retrieval pathway**, not the A1/A2 locality assessment.
 
 **Next decisive request:** obtain the thesis and appendices from Gauhati University using file no. 5751 / registration no. 005263, prioritising pp. 10–70, field survey schedules, village/informant tables, and the October 2015 A1/A2 collection register. No author or university contact has been made. A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 stays High/Open; no beverage-specific Charaideo place row is added.
+
+
+## 14. SRC-236 — official Gauhati University thesis-retrieval services checked
+
+The current Gauhati University Academic Registrar page links to three relevant services: the periodic PhD award-list archive, a dedicated **Query Thesis Status** form, and an **Upload digital copy of thesis** workflow. The upload workflow is for depositing a thesis; it is not a public download service. The status form is an institutional route, but its fields/results were not inspected and no assumption is made that it supports a public search by file number.
+
+The official K.K. Handiqui Library page reports **6,351 PhD theses** and **952,524 digitized thesis pages** as of 24 June 2024, says GU is a major Shodhganga contributor, and states that SOUL Web OPAC access requires being on the GU network. This explains why a public catalogue search may not expose a thesis record; it does not prove that Handique's thesis has a public Shodhganga bitstream.
+
+The 2023 review already registered as SRC-062 cites Handique's thesis as a 2017 submission and specifies **pp. 10–70**. This is a bibliographic lead, not access to those pages. No individual thesis record or bitstream was recovered in this pass.
+
+**Retrieval instruction:** use SRC-204's exact identifiers—file no. **5751**, registration no. **005263 (2005–2006)**, Chemistry, guide Prof. Dibakar Chandra Deka—to request the complete thesis and appendices. Prioritise pp. 10–70, field-survey village/informant schedules, and the October 2015 A1/A2 sample-site register and coordinates. No form was submitted, no login attempted, and no contact was made.
+
+**Decision unchanged:** A1 “Bharalisuk” unresolved; A2 “Konwergaon” unresolved; ASM-GAP-076 High/Open; no beverage-specific Charaideo place row. SRC-236 improves the retrieval pathway, not the sample-to-village evidence.
