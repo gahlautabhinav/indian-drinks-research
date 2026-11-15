@@ -613,3 +613,11 @@ Assessment: this makes Mahmora Konwar Gaon / Census village 293217 a strong cand
 - The acknowledgements name seven key informants: **Mrs. Putoli Konwer, Mrs. Promila Bharali, Mrs. Budhbori Gogoi, Mr. Himanjal Deori, Mrs. Rukmini Mili, Mrs. Nirmala Deori and Mrs. Dipali Mili**.
 - The names Putoli Konwer and Promila Bharali resemble the 2015 sample locality labels **Konwergaon** and **Bharalisuk**, respectively. This is a lead for retrieving the earlier field notebook, not a place match: the paper does not identify the informants' villages or communities, does not map them to sample IDs, and predates the October 2015 collection in SRC-011. Surname similarity cannot establish either A1 or A2.
 - Updated SRC-197's evidential limits and ASM-GAP-076's retrieval requirements. The correct next document to seek is the 2013–2014 village/informant schedule and any cross-reference to the October 2015 sampling campaign. No locality or beverage-specific place row added.
+
+
+## 2026-11-15 — INFLIBNET IndCat added as a second Handique thesis discovery route (SRC-238)
+
+- Checked the official INFLIBNET IndCat thesis catalogue. Its overview states that the union thesis database includes metadata imported from Shodhganga, that Shodhganga records are also available in IndCat, and that IndCat metadata records link back to Shodhganga for full-text access.
+- The public page exposes free-text and exact-search controls. This is a useful alternative discovery route because Roy (2024), SRC-237, independently lists Handique Pranami's thesis among Gauhati University Chemistry theses uploaded to Shodhganga.
+- The catalogue overview itself is not an item-level result. Exact-title searching did not yield a recoverable Handique record or item handle in this pass; no thesis PDF/bitstream or field schedule was accessed. Registered the catalogue route as SRC-238 and added it to ASM-GAP-076.
+- Next retrieval step: query IndCat's free-text/exact search for the exact title, author variants (“Pranami Handique”, “Handique Pranami”), registration no. 005263 and file no. 5751; if a record appears, capture its metadata and follow its Shodhganga link. Do not infer locality from the catalogue entry. A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; no beverage-specific Charaideo place row.
