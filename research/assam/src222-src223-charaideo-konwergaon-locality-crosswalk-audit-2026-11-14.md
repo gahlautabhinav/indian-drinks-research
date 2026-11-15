@@ -253,3 +253,14 @@ A page-by-page re-audit of Handique & Deka's complete four-page 2016 survey conf
 The surnames **Konwer** and **Bharali** resemble SRC-011's October 2015 sample labels **Konwergaon** and **Bharalisuk**. This is not a valid alias inference. The 2016 paper does not give the informants' village, community, household or sample IDs; it does not state that either informant supplied the 2015 samples; and the 2013–2014 survey predates the October 2015 collection. A surname is not a place identifier.
 
 **Research consequence:** the earlier survey's original field notebook, interview schedule or informant register may be a useful retrieval route because it could associate Putoli Konwer and Promila Bharali with named villages. Even if that mapping is recovered, a separate record is still required to connect either person/household to the 2015 A1/A2 sample. No sample assignment is made; A1 and A2 remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
+
+
+## 17. SRC-238 — INFLIBNET IndCat provides a second thesis-discovery route
+
+The official INFLIBNET **IndCat — Union Catalogue of Theses** overview states that its thesis database contains metadata for doctoral theses submitted to Indian universities and that records available in Shodhganga are also available in IndCat. IndCat provides metadata and links users to Shodhganga for full-text access. The page exposes both free-text and exact-search controls (SRC-238).
+
+This is a useful alternative route for locating Handique's thesis because SRC-237 independently reports the title in a study of Gauhati University Chemistry theses uploaded to Shodhganga. However, the IndCat overview page is not an item-level record. No Handique-specific result, Shodhganga handle, bitstream, abstract or thesis contents were recovered in this pass. Do not claim the thesis has been accessed.
+
+**Next retrieval action:** search IndCat using the exact title, author variants **Pranami Handique** / **Handique Pranami**, registration **005263**, and examination file **5751**. If an item appears, preserve the full metadata and follow its Shodhganga link. The target remains the full thesis and appendices, especially the village/informant schedules and October 2015 A1/A2 sample-site register/coordinates.
+
+**Decision unchanged:** A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
