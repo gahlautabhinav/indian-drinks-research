@@ -264,3 +264,26 @@ This is a useful alternative route for locating Handique's thesis because SRC-23
 **Next retrieval action:** search IndCat using the exact title, author variants **Pranami Handique** / **Handique Pranami**, registration **005263**, and examination file **5751**. If an item appears, preserve the full metadata and follow its Shodhganga link. The target remains the full thesis and appendices, especially the village/informant schedules and October 2015 A1/A2 sample-site register/coordinates.
 
 **Decision unchanged:** A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
+
+
+## 18. SRC-239 — Handique institutional CV confirms thesis title and supplies seminar-proceedings leads
+
+The Sibsagar Girls' College Department of Chemistry faculty CV for Dr. Pranami Handique states that she received a Gauhati University PhD in **2018** and gives the thesis title as **“Traditional alcoholic beverages prepared by ethnic communities in Sivasagar district of Assam: Study on methodology and composition”** (SRC-239). This independently corroborates the title and award year already recorded in SRC-204 and SRC-237. It is institutional profile material, not the thesis text or a repository item record.
+
+### New research leads: three seminar presentations
+
+The CV lists the following presentations:
+
+1. **“Physicochemical characterization of rice beers prepared in Sivasagar district of Assam”** — DHSK College, 21–22 January 2019.
+2. **“Volatile components in traditional rice beers of Assam, India”** — Diphu Government College, 14–15 March 2020.
+3. **“Physicochemical and Antioxidant capacity profile of traditional alcoholic beverages of Assam, India”** — Bodoland University, 15–16 May 2020.
+
+These titles are useful retrieval leads for conference programmes, abstracts and proceedings. They could reveal whether the same research programme used a consistent sample design or documented additional locality information. But the CV gives no abstracts, sample codes, named villages, households or coordinates. Do **not** assume that any of these presentations reused the October 2015 A1/A2 samples in SRC-011; a title referring to Sivasagar does not identify a locality.
+
+### IndCat precision correction
+
+The official IndCat thesis page says Shodhganga records are represented in IndCat and that an individual record can link to Shodhganga for full-text access. The IndCat FAQ clarifies that IndCat itself supplies **bibliographic details and holdings only**, not full-text documents (SRC-238; official FAQ https://indcat.inflibnet.ac.in/index.php/main/faq). The search controls are visible, but no Handique item-level record or handle was recovered in this pass. Search-engine queries did not surface one; the interactive catalogue form was not submitted, so this should not be reported as a completed IndCat database search.
+
+**Next actions:** retrieve the three named seminar programmes/abstract books, and separately conduct an actual IndCat exact-title/author search. Preserve any sample-code and village statements with page-level citations. Request the original thesis/appendices and field/sample register independently.
+
+**Decision unchanged:** A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
