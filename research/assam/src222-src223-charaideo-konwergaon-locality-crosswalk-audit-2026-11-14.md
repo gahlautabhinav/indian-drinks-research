@@ -287,3 +287,20 @@ The official IndCat thesis page says Shodhganga records are represented in IndCa
 **Next actions:** retrieve the three named seminar programmes/abstract books, and separately conduct an actual IndCat exact-title/author search. Preserve any sample-code and village statements with page-level citations. Request the original thesis/appendices and field/sample register independently.
 
 **Decision unchanged:** A1 “Bharalisuk” and A2 “Konwergaon” remain unresolved; ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is added.
+
+
+## 19. SRC-240–SRC-241 — New Handique research-programme evidence, but no A1/A2 locality resolution
+
+### SRC-240: 2019 starter-culture study
+
+The full text of Pranami Handique's 2019 article **“Microbial Enumeration and Analysis of Antioxidant Activity of Starter Cultures Used for Rice Beer Preparation Unique to Some Ethnic Communities of Assam, India”** reports comparative analyses of three starter-culture types: Deori **Sujen fero** (SCS), Mising **Apop** (SCA) and Ahom **Xaj pitha** (SCX). Its sample-collection statement says starter-culture samples of each community were collected from **three different villages of Sivasagar district** (SRC-240). It reports microbial enumeration and antioxidant measures, including DPPH radical-scavenging effects of 80.63% (SCS), 55.47% (SCA) and 87.69% (SCX), and total phenolic contents of 17.96, 31.94 and 17.80 mg GAE/g dry weight respectively.
+
+**Important limitations:** the article does not name the villages, map samples to villages or households, provide coordinates, or enumerate the plant ingredients in the sampled starter cakes. The wording does not unambiguously show whether each community's starter was sampled in three villages or whether the three community samples collectively came from three villages. Do not create a three-village list or community-by-village matrix from this sentence. The study concerns starter-culture assays; it is not a direct beverage profile or producer-prevalence survey. It does not establish that these samples are identical to SRC-011's October 2015 samples or SRC-227's September 2015 samples.
+
+### SRC-241: recovered 2017 seminar proceedings entry
+
+An official college-hosted PDF contains the proceedings/programme of the UGC-sponsored national seminar **“Recent Trends in Chemistry towards Utilisation of Natural Resources and Constraints with Special Reference to North-East India”**, held at Jagiroad College on **30–31 August 2017**, ISBN **978-81-940053-5-3**. The programme's third technical session on **31 August 2017** lists **Pranami Handique** presenting **“Antioxidant capabilities and phenolic contents of traditional rice beers of Assam, India”** (SRC-241). This is a verified event/presentation record and is separate from the three 2019–2020 presentations listed in SRC-239.
+
+The recovered programme entry supplies no abstract, sample codes, sample collection date, village names, producer/household details or coordinates. The seminar venue is not a beverage field site. Do not assume the presentation used SRC-011's October 2015 A1/A2 samples; retrieve a separate abstract or manuscript before making that connection.
+
+**Research consequence:** both sources strengthen the documented history of Handique's Assam rice-beverage research and supply targeted retrieval leads. Neither resolves A1 “Bharalisuk” or A2 “Konwergaon”. ASM-GAP-076 remains High/Open; no beverage-specific Charaideo place row is justified.
