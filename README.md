@@ -180,6 +180,7 @@ The dashboard requires no Node build step or backend. It uses browser-side CSV p
 
 ### Charaideo historical locality crosswalk — 13 November 2026
 - [Charaideo district beverage-coverage audit](research/assam/charaideo-district-beverage-coverage-audit-2026-10-31.md) — full-text SRC-011 extraction identifies Ahom Xajpani sample sites Bharalisuk and Konwergaon (October 2015); current district crosswalk remains unresolved.
+- [SRC-271 Charaideo market ethnobotany screen](research/assam/charaideo-district-beverage-coverage-audit-2026-10-31.md) — 2026 survey of 62 edible plants across six named markets is retained as a non-beverage fieldwork lead only; no starter-culture or beverage-production inference.
 - [ASM-GAP-076](data/research_gaps.csv) — obtain the original field-site register/author confirmation and authoritative village-code/boundary crosswalk before assigning either locality to present-day Charaideo.
 
 
