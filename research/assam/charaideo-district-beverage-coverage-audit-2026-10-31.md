@@ -630,3 +630,13 @@ A 2024 *Journal of Bioresources* paper by Surajeet Konwar and colleagues reports
 **Scope exclusion:** the article documents 68 ethnomedicinal plants and medicinal uses only. Its objective, methods, results and tables do not document rice beer, alcoholic fermentation, starter cakes or beverage preparation. Do not use its plant inventory as a beverage starter list or its fifteen villages as beverage-production locations. The authors note that some respondents were reluctant to share traditional knowledge; any follow-up must be consent-led and respect confidentiality and community control. No beverage-specific place row is added; ASM-GAP-076 remains High/Open.
 
 Source: SRC-274, Konwar et al. (2024), *Journal of Bioresources* 12(2):72–77, https://doi.org/10.5281/zenodo.14892099 .
+
+## 2026-11-16 follow-up — Charaideo field-visit acknowledgement in Mising ÉPOP study (SRC-275)
+
+Mili and Sundriyal (2023) is a directly relevant Mising Apong/ÉPOP starter-culture study: its abstract reports 31 plant species and its results document starter-culture ingredients and preparation. The formal methods, however, specify an extensive survey of 15 randomly selected villages in Sivasagar district and two intensive study villages, Majorbari and Ligiribari. The acknowledgements separately thank villagers of **Gumutha, Ramnagar and Balikuthi of Charaideo** for support during field visits.
+
+This is a material Charaideo field-engagement lead, but the article does not explain what support those three Charaideo villages provided, whether any were among the 15 survey villages, whether ÉPOP/Apong was prepared or observed there, or whether any of the 31 recorded starter plants came from Charaideo. The study's formal methods and map remain Sivasagar-focused. An acknowledgement is not proof of beverage production or sample provenance.
+
+**Repository treatment:** register SRC-275 and retain the three Charaideo village names as an author-clarification lead only. Do not create Charaideo beverage/place rows, and do not assign the paper's 31-plant starter inventory to these villages. The corresponding author is Rajiv Mili (email printed in the article). Ask specifically what the Charaideo visits involved, their dates, whether Apong/ÉPOP preparation or starter ingredients were documented there, and whether any Charaideo observations/field notes can be cited with community permission. ASM-GAP-076 remains High/Open; A1 Bharalisuk and A2 Konwergaon remain unresolved.
+
+Source: SRC-275, Mili & Sundriyal (2023), *Journal of Ethnic Foods* 10:47, https://doi.org/10.1186/s42779-023-00214-2 .
