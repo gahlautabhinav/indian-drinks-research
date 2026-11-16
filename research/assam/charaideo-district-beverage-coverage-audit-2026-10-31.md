@@ -322,3 +322,19 @@ Two administrative controls were recovered:
 **Repository action (2026-11-16):** registered SRC-242 (research paper), SRC-243 (Assam Gazette Hachara control) and SRC-244 (NHM Assam Hahchara Manipuri Gaon address control); added the cross-study locality distinction to ASM-GAP-076. No Charaideo place row was created.
 
 Sources: SRC-242 https://doi.org/10.14233/ajchem.2020.22883 ; SRC-243 https://tcp.assam.gov.in/sites/default/files/swf_utility_folder/departments/dtcp_medhassu_in_oid_4/this_comm/sl.no_16_sivasagar.pdf ; SRC-244 https://nhm.assam.gov.in/sites/default/files/swf_utility_folder/departments/nhm_lipl_in_oid_6/latest/finalccchshortlisted_0.pdf .
+
+## 2026-11-16 follow-up — 2010 field survey published in 2012 (SRC-245)
+
+Recovered and reviewed the full text of Das, Deka & Miyaji (2012), *Methodology of rice beer preparation and various plant materials used in starter culture preparation by some tribal communities of North-East India: A survey*, *International Food Research Journal* 19(1):101–107.
+
+The methods state that fieldwork ran from September to December 2010 across villages and rural areas in Assam, Nagaland and Arunachal Pradesh. Areas were selected because traditional rice-beer preparation was known to occur; producers (mostly women) were interviewed about starter cakes, plants, fermentation and use, and nearby fields/forests were visited for plant collection.
+
+The Ahom subsection explicitly states that the study was carried out in **“Sibasagar district”** and documents **Xaj pani/Koloh pani** and **Vekur Pitha**. It lists the source's Ahom starter plants and describes its own preparation sequence. This is an independent historical source for Ahom Xajpani documentation in the Sivasagar study geography. However, the article does **not** name the Ahom villages, identify households or informants, provide coordinates, or allocate plant collections to individual villages. Its Ahom plant list is therefore a study-level list, not a Charaideo inventory.
+
+The same article explicitly locates its Mising Apong field subsection in **Lakhimpur district** and its Deori Sujen field information in **Lakhimpur district**. Those sections must not be transferred to Sivasagar or Charaideo merely because the paper is a multi-community Assam survey.
+
+**Charaideo decision:** the source adds independent historical district-level corroboration for Ahom Xajpani, but no village-level evidence. The historical “Sibasagar district” label cannot be projected onto present-day Charaideo without the original field-site names and a boundary/code crosswalk. It does not resolve SRC-011's A1 Bharalisuk or A2 Konwergaon sample labels. No Charaideo beverage-specific place row is added; ASM-GAP-076 remains High/Open.
+
+**Repository action (2026-11-16):** registered SRC-245 in `sources/source_register.csv`; added the evidence and attribution limits to ASM-GAP-076 in `data/research_gaps.csv`; appended this source audit. No place or beverage row was created.
+
+Source: SRC-245 — https://www.ifrj.upm.edu.my/19%20%2801%29%202011/%2814%29IFRJ-2011-137%20Deka.pdf . Full text: methods pp. 102–103; Ahom Xajpani section pp. 103–104; Mising and Deori locality statements pp. 104–105.
