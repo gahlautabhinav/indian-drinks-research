@@ -451,3 +451,14 @@ Keep the following distinct: current Charaideo No.2 Konwar Gaon (Census 292985);
 **Repository action (2026-11-16):** registered SRC-256 as an official government-hosted administrative namesake control; appended its caveats to ASM-GAP-076; added the source and distinct candidate warning to this audit. No A1/A2 match was asserted and no place row was added.
 
 Source: SRC-256 — https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/horticulture_medhassu_in_oid_5/menu/document/District%20Irrigation%20Plan%2C%20Sivasagar_0.pdf ; relevant text: Khelwa block Annexure XII, PDF lines 4021–4039.
+
+
+## 2026-11-16 follow-up — accession-level boundary for the six-district Xaj-pitha study
+
+A closer extraction of SRC-255 (Keot et al. 2020) confirms the public sequence-deposit statement: the single representative composite sample from **Titabar Subdivision, Jorhat** is deposited as SRA BioProject **PRJNA597963** and MG-RAST **mgm4556318.3**. The methods describe 60 household starter samples in 12 unnamed clusters (two clusters per each of six districts), pooled five-at-a-time into 12 cluster composites (two per district); only one Titabar/Jorhat composite was selected for whole-genome shotgun sequencing. Thus PRJNA597963 is not a public sample-level deposit of all 60 starters or all 12 composites. The accessible paper provides no sample/BioSample accession crosswalk for the unnamed clusters, and the attempted NCBI/ENA record lookups did not expose a usable sample register in this pass.
+
+This reinforces the geographic limit: although Sivasagar is one of the six source-era district labels, there is no named village or cluster schedule with which to identify a current Charaideo sample. The Titabar metagenome is explicitly Jorhat, not Charaideo. Do not use PRJNA597963 to assign the other five district composites or infer A1/A2.
+
+**Repository action (2026-11-16):** SRC-255 was amended with the exact SRA and MG-RAST identifiers and the single-composite limitation; ASM-GAP-076 was checked for the same distinction; this audit was appended. No place or beverage row was added.
+
+Source: SRC-255, primary full text https://pmc.ncbi.nlm.nih.gov/articles/PMC6977804/ ; SRA project PRJNA597963.
