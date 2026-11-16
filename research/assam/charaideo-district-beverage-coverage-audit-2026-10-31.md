@@ -536,3 +536,13 @@ The AsB2 conflict is now recorded more precisely: the 2019 chapter transcription
 **Repository actions (2026-11-16):** SRC-262 and SRC-263 added; ASM-GAP-076 source references updated; dossier appended. No Charaideo place row added. A1 Bharalisuk and A2 Konwergaon remain unresolved.
 
 Sources: SRC-262, https://onlinelibrary.wiley.com/doi/full/10.1002/jib.211 ; SRC-263, https://www.tandfonline.com/doi/full/10.1080/10942912.2015.1104695 ; SRC-248, https://onlinelibrary.wiley.com/doi/full/10.1002/jib.134 ; SRC-260, DOI https://doi.org/10.1201/9781351048644-5 and third-party transcription.
+
+## 2026-11-16 follow-up — official MoFPI summary for the 2009–2012 rice-beer process project
+
+SRC-264 registers the Ministry of Food Processing Industries' official completed-project summary for “Quality improvement of traditional method of rice beer preparation by the tribal people of North-East India”, implemented by Tezpur University's Department of Food Engineering & Technology under Prof. S. C. Deka. The summary gives a two-year duration and total funding of Rs 77.548 lakh. Reported outcomes include new starter cakes, a new preparation methodology, improvements to traditional production technology for each tribe, laboratory standardisation and a sensory acceptability score of 7.43/9. This is useful confirmation of the scope and outputs of the earlier 12/MFPI/R&D/2009 project already listed in the Tezpur completion archive (SRC-246/247).
+
+The MoFPI summary is an administrative project-outcome document, not the missing detailed final report or Enclosure-II. It gives no field sampling frame, village names, household producers, community-by-site allocation, collection dates, coordinates or sample-to-locality register. It therefore adds no Charaideo locality evidence and cannot resolve SRC-011 A1 Bharalisuk or A2 Konwergaon. Keep this 2009–2012 process-improvement project distinct from the later 97/MFPI/R&D/2012 microflora project and its incomplete nine-page completion report (SRC-258).
+
+**Repository actions (2026-11-16):** SRC-264 added to the source register and linked in ASM-GAP-076. Gap remains High/Open. No Charaideo beverage-specific place row added.
+
+Source: SRC-264, official MoFPI completed-project summary, https://www.mofpi.gov.in/sites/default/files/completed_projects_12.03.2018.pdf .
