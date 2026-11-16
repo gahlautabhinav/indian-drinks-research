@@ -473,3 +473,14 @@ The publisher/PMC record confirms that Supplementary file 1 is a 22.3 KB DOCX, b
 **Repository action (2026-11-16):** this audit note records the Bio-protocol extraction as a retrieval lead and preserves the explicit non-independent status of that page. SRC-251 remains the primary article; no new source row or geographic claim is created.
 
 Sources: SRC-251, https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/ ; Bio-protocol methods extraction, https://bio-protocol.org/exchange/minidetail?id=4774677&type=30 .
+
+
+## 2026-11-16 follow-up — Tezpur completion archive and the 2014 starter-cake comparison
+
+The live Tezpur University Project Completion Reports index lists “Studies on functional properties of the dominant microflora found in rice beer of Assam” under Nov-2020, with project number 97/MFPI/R&D/2012 dated 18 February 2013 and Prof. S. C. Deka as PI. This confirms an archive entry for the project, but the accessible index does not expose the completion report file, field schedule, sample register, village names, household records, or coordinates. It therefore does not resolve any Sivasagar/Charaideo site. The archive entry is now separately registered as SRC-257; SRC-249 remains the official project-register evidence for the project's funding and duration. Do not treat the archive listing as if the report itself was retrieved.
+
+A second adjacent Tezpur publication, Das, Khawas, Miyaji & Deka (2014), “Effect of various microbial starters for amylolytic fermentation on some quality attributes of rice beer” (*International Food Research Journal* 21(6):2443–2450), compares nine starter cakes from Northeast Indian tribal communities in laboratory preparations. The accessible ResearchGate abstract reports physicochemical, biochemical and microbiological comparison, but provides no village list or sample-to-community/locality crosswalk. Tezpur's own publication list confirms the bibliographic record. This is useful for fermentation-process context, not geographic attribution; no Charaideo locality is inferred and no beverage-place row is added.
+
+**Repository action (2026-11-16):** SRC-257 added to the source register; this audit note appended. No research-gap status was downgraded and ASM-GAP-076 remains High/Open.
+
+Sources: SRC-257, https://www.tezu.ernet.in/project_reports/project_completion_reports.htm ; SRC-249, https://www.tezu.ernet.in/dfpt/research/R%20n%20d%20areas.pdf ; Tezpur publication list, https://www.tezu.ernet.in/dfpt/publications/Journals.html ; 2014 article abstract, https://www.researchgate.net/publication/288757744_Effect_of_various_microbial_starters_for_amylolytic_fermentation_on_some_quality_attributes_of_rice_beer .
