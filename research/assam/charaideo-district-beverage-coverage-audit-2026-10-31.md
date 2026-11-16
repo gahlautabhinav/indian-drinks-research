@@ -592,3 +592,13 @@ The records do not establish that the combat-food beverage was rice beer, identi
 **Repository actions (2026-11-16):** SRC-268–SRC-270 added; ASM-GAP-076 linked to all three; dossier updated. No locality assignment made.
 
 Sources: SRC-267–SRC-270; Tezpur archive https://www.tezu.ernet.in/project_reports/project_completion_reports.htm ; JRF notice https://www.tezu.ernet.in/ProjectWalkin/DoRD-FET-SCD-20-201-4597-A-SCD.pdf ; DRDO closed-project list https://www.drdo.gov.in/drdo/sites/default/files/er_project_status_documents/Closed%2017-18.pdf ; Duary CV https://www.tezu.ernet.in/dfpt/people/faculty_homepage/Mr.%20Raj%20Kumar%20Duary_files/CV_RK%20Duary.pdf .
+
+## 2026-11-16 follow-up — recent Charaideo market ethnobotany source screened (SRC-271)
+
+A 2026 peer-reviewed Pleione article by Pranati Gogoi documents 62 edible plant species marketed/consumed in Charaideo and names six field markets visited between January 2025 and January 2026: Sapekhati, Begenabari, Sonari, Mathurapur, Kanubari and Namtola. It reports vendor discussions with free and prior informed consent and voucher deposition at the Sonari College Botany Department herbarium. This is a useful recent local ethnobotanical fieldwork/contact route and a source for local plant-market context.
+
+**Scope exclusion:** the paper is not a beverage study. Its reference to fermentation concerns bamboo-shoot pickling/food use, not alcoholic fermentation; the 62 edible plants cannot be reclassified as rice-beer starter ingredients without independent beverage-specific evidence. The six markets are survey sites, not beverage-production localities. No Charaideo beverage-specific place row is added; SRC-011 A1 Bharalisuk and A2 Konwergaon remain unresolved.
+
+**Repository action (2026-11-16):** SRC-271 added to the source register and linked to ASM-GAP-076 strictly as a non-beverage local fieldwork lead. Gap remains High/Open.
+
+Source: SRC-271, Gogoi (2026), *Pleione* 20(1):33–42, https://doi.org/10.26679/pleione.20.1.2026.033-042 .
