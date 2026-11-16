@@ -415,3 +415,26 @@ Deb, Das, Adak & Khan (2020), *Traditional rice beer depletes butyric acid-produ
 **Repository action (2026-11-16):** clarified SRC-251's supplementary-file access status and exact publisher object URL; registered SRC-253 as a separate human-consumption study; added the distinction and retrieval action to ASM-GAP-076; appended this audit. No Charaideo beverage-specific place row was created.
 
 Sources: SRC-251 publisher Version of Record https://link.springer.com/article/10.1007/s13205-019-1702-z ; supplement object https://static-content.springer.com/esm/art%3A10.1007%2Fs13205-019-1702-z/MediaObjects/13205_2019_1702_MOESM1_ESM.docx ; SRC-253 primary full text https://pmc.ncbi.nlm.nih.gov/articles/PMC7266887/ .
+
+
+## 2026-11-16 follow-up — independent 2016 and 2020 Ahom Xaj-pitha sample designs (SRC-254–255)
+
+### SRC-254 — Titabar household starter samples (2014 field collection; 2016 publication)
+
+Bora, Keot, Das, Sarma & Barooah (2016), *Metagenomics analysis of microbial communities associated with a traditional rice wine starter culture (Xaj-pitha) of Assam, India*, *3 Biotech* 6:153, DOI 10.1007/s13205-016-0471-1, states that five Xaj-pitha samples from rural Ahom households were collected in **Titabar Sub-division, Jorhat district**, on 20 August 2014. The paper prints coordinates **26.60°N, 94.20°E** for the Titabar Sub-division; this is a sub-division-level locator, not an individual household or village coordinate. Table 1 lists five starter sample codes (ABT-S4J3, ABT-S5J3, ABT-S6J3, ABT-S7J3 and ABT-S8J3). The samples were pooled for metagenomic analysis. The article describes the resulting fermentation liquor as rohi, decanted and diluted with water to serve as xaj.
+
+**Geographic decision:** Titabar is in Jorhat district, not Charaideo. This paper adds no Charaideo locality and no village names. Do not turn the coordinate into a point for all five households, and do not treat its five sample codes as village names.
+
+### SRC-255 — six-district Ahom starter-culture survey (2020)
+
+Keot, Bora, Kangabam & Barooah (2020), *Assessment of microbial quality and health risks associated with traditional rice wine starter Xaj-pitha of Assam, India: a step towards defined and controlled fermentation*, *3 Biotech* 10:64, DOI 10.1007/s13205-020-2059-z, reports 60 Xaj-pitha starter samples from Ahom rural households across six upper-Brahmaputra districts: **Sivasagar, Jorhat, Dibrugarh, Tinsukia, Dhemaji and Lakhimpur**. The design selected two clusters per district (12 total) and five samples per cluster. Five starters from each cluster were pooled into one composite, producing two composite samples per district. A representative composite from **Titabar Sub-division, Jorhat** was selected for Illumina shotgun metagenomics.
+
+The article does not name the 12 clusters or individual villages, nor map a cluster to a named locality. Its map is district-level, not a household-site register. The 60 starter samples should not be misdescribed as 60 finished-beverage batches or 60 independent metagenomic samples. The six-district scope includes historical Sivasagar, but without cluster names/coordinates and a current-boundary crosswalk, no Sivasagar sample can be assigned to present-day Charaideo. Do not merge this dataset with SRC-254's 2014 Titabar collection or SRC-011's A1/A2 analytical beverage samples.
+
+### Charaideo decision and repository action
+
+These two papers show that Ahom Xaj-pitha research in the region includes a Jorhat/Titabar household dataset and a separate six-district clustered starter-culture survey. They strengthen the source history but do not identify a Charaideo village. No beverage or place row is created; ASM-GAP-076 remains High/Open and SRC-011 A1 Bharalisuk/A2 Konwergaon remain unresolved.
+
+**Repository action (2026-11-16):** registered SRC-254 and SRC-255 in the source register; added their sample designs and geographic limits to ASM-GAP-076; appended this audit. No Charaideo place row was added.
+
+Sources: SRC-254 https://doi.org/10.1007/s13205-016-0471-1 ; SRC-255 https://doi.org/10.1007/s13205-020-2059-z .
