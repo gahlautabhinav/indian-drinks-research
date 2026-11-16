@@ -367,3 +367,30 @@ This is independent analytical corroboration that Ahom Xaj-pani was sampled in t
 **Repository action (2026-11-16):** registered SRC-248 in `sources/source_register.csv`, added its limits to ASM-GAP-076 in `data/research_gaps.csv`, and appended this audit. No place or beverage row was created.
 
 Source: SRC-248 — https://doi.org/10.1002/jib.134 ; full text https://onlinelibrary.wiley.com/doi/full/10.1002/jib.134 . Table 1 and Materials/Methods; sample collection November 2010–February 2011.
+
+
+## 2026-11-16 follow-up — Tezpur dominant-microflora project and related 2019 studies (SRC-249–252)
+
+### Project identity and administrative summary
+
+The official Tezpur University Department of Food Engineering and Technology project register (SRC-249) lists **“Studies on functional properties of the dominant microflora found in rice beer of Assam”** as a completed project led by Prof. S. C. Deka, funded by MoFPI, sanctioned at Rs 46.02 lakh and running 2013–2015. This independently corroborates the Tezpur University project-completion archive entry SRC-246 and MoFPI grant record SRC-247. The same departmental list separately identifies an ASTEC-funded 2013–2015 project, **“Generation of a standardized technology for production of rice wine from rice varieties of northeast India”**; do not merge its outputs with the MoFPI project without documentary linkage.
+
+The TERI/MDoNER *Study of Studies* final report (SRC-250) summarises the microflora project's outcomes: isolation and characterisation of lactic-acid bacteria; identification of *Lactobacillus pentosus, Pediococcus pentosaceus, Lactobacillus casei* and *Lactobacillus plantarum*; ethanol-tolerant *Saccharomyces cerevisiae* and *S. bayanus*; a standardised preparation method; fuzzy sensory evaluation; and an improvised preparation technology using selected microbes and *Albizia* extracts reportedly submitted for patent. The report cites Das et al. (2019) on microbiota/metabolites and Deb et al. (2020) on gut microbiota effects. This is a secondary summary, not the underlying completion report. No village schedule, sample matrix or patent number is provided.
+
+### Separate 2019 Assam-wide microbiota study — SRC-251
+
+Das, Deb, Adak & Khan (2019), *Exploring the microbiota and metabolites of traditional rice beer varieties of Assam and their functionalities*, *3 Biotech* 9:174, DOI 10.1007/s13205-019-1702-z, reports 27 rice-beer samples from nine unnamed Assam villages. Triplicate samples were pooled by location into nine composites. Table 1 identifies three Mishing samples (RB01 Poro Apong; RB02–RB03 Nogin Apong), three Ahom samples (RB04–RB06 Xaaj) and three Bodo samples (RB07–RB09 Joubishi). The article reports alcohol, antioxidant and phenolic measures, 16S microbial diversity and GC–MS metabolite profiles.
+
+Crucial retrieval issue: the main article points to Supplementary Table S1 for sample-location details and S2 for rice substrates/herbs in starter cakes. The online version states that supplementary material is available to authorised users; those files were not recovered in this pass. Thus the nine village names and Ahom RB04–RB06 locality mapping remain unknown. The study is authored from IASST/Cotton University and acknowledges a DBT Unit of Excellence project; it must not be assumed to be the same dataset as Tezpur University's MoFPI-funded project or the later SRC-252 Tezpur article. Its sample IDs are independent of SRC-011 A1/A2 and every other study's A1/A2 codes.
+
+### Related Tezpur LAB paper — SRC-252
+
+Das, Das, Miyaji & Deka (2019), *Growth and metabolic characterization of four lactic acid bacteria species isolated from rice beer prepared in Assam, India*, *Access Microbiology* 1:e000028, DOI 10.1099/acmi.0.000028, is a separate Tezpur-affiliated publication. The publisher record reports four LAB species—*L. casei, P. pentosaceus, L. pentosus* and *L. plantarum*—and strain-level functional tests. It does not expose village names, sample count, community, beverage variety or coordinates in the accessible article record. Although thematically aligned with the MFPI microflora project, an explicit grant acknowledgement linking this article to project 97/MFPI/R&D/2012 was not verified; keep that relationship unproven.
+
+### Charaideo decision and next retrieval step
+
+These records strengthen the Assam rice-beer microbiology bibliography, but none supplies a named Charaideo site. SRC-251's nine-village supplement is now a high-priority retrieval target because it explicitly contains sample-location and starter-material schedules. Request Supplementary Table S1 and S2 from the corresponding author/publisher, and separately request the Tezpur MFPI final report with annexed field/sample registers. Do not assign the three Ahom Xaaj composites to Charaideo or Sivasagar without the missing location table. Do not conflate SRC-251 RB04–RB06 with SRC-011 A1/A2 or SRC-252's strain identifiers.
+
+**Repository action (2026-11-16):** registered SRC-249–252 in `sources/source_register.csv`; appended their evidence and attribution limits to ASM-GAP-076 in `data/research_gaps.csv`; added this audit section. No beverage or place row was created. ASM-GAP-076 remains High/Open.
+
+Sources: SRC-249 https://www.tezu.ernet.in/dfpt/research/R%20n%20d%20areas.pdf ; SRC-250 https://www.teriin.org/sites/default/files/2024-01/Study%20of%20Studies%202022-Final%20Report.pdf ; SRC-251 https://doi.org/10.1007/s13205-019-1702-z ; SRC-252 https://doi.org/10.1099/acmi.0.000028 .
