@@ -621,3 +621,12 @@ Deb et al. (2020) report a human gut-microbiota study involving 134 volunteers: 
 **Dataset separation:** this is a different cohort and data namespace from SRC-251's nine-village rice-beer sample study (MG-RAST mgp85043). Do not merge sample codes, infer shared villages or treat volunteer recruitment sites as production sites. The article's supplementary material is labelled available to authorised users; no locality schedule was recovered. It adds no Charaideo evidence and no beverage-specific place row is justified. ASM-GAP-076 remains High/Open.
 
 Source: SRC-273, Deb et al. (2020), *3 Biotech* 10:283, https://doi.org/10.1007/s13205-020-02280-8 .
+
+
+## 2026-11-16 follow-up — Charaideo Ahom/Bodo ethnomedicinal fieldwork source screened (SRC-274)
+
+A 2024 *Journal of Bioresources* paper by Surajeet Konwar and colleagues reports interviews, participant observation and focus-group discussions with 58 Ahom and Bodo informants across fifteen named Charaideo villages during January 2023–May 2024. The listed sites include Bengenabari, Tiok Habi, Dulakharia, Dhuniapather, Ratanpur, Jalaha, Likson Gaon, Nabari, Kakotibari, Mahmora Konwar Gaon, Sonari, Shyam Gaon, Betijan, Pohusungi Gaon and Mathurapur. The corresponding author is affiliated with Sonari College's Botany Department. This is a geographically precise, recent fieldwork/contact lead for a separately consented beverage study.
+
+**Scope exclusion:** the article documents 68 ethnomedicinal plants and medicinal uses only. Its objective, methods, results and tables do not document rice beer, alcoholic fermentation, starter cakes or beverage preparation. Do not use its plant inventory as a beverage starter list or its fifteen villages as beverage-production locations. The authors note that some respondents were reluctant to share traditional knowledge; any follow-up must be consent-led and respect confidentiality and community control. No beverage-specific place row is added; ASM-GAP-076 remains High/Open.
+
+Source: SRC-274, Konwar et al. (2024), *Journal of Bioresources* 12(2):72–77, https://doi.org/10.5281/zenodo.14892099 .
