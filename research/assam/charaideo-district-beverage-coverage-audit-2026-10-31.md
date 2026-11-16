@@ -394,3 +394,24 @@ These records strengthen the Assam rice-beer microbiology bibliography, but none
 **Repository action (2026-11-16):** registered SRC-249–252 in `sources/source_register.csv`; appended their evidence and attribution limits to ASM-GAP-076 in `data/research_gaps.csv`; added this audit section. No beverage or place row was created. ASM-GAP-076 remains High/Open.
 
 Sources: SRC-249 https://www.tezu.ernet.in/dfpt/research/R%20n%20d%20areas.pdf ; SRC-250 https://www.teriin.org/sites/default/files/2024-01/Study%20of%20Studies%202022-Final%20Report.pdf ; SRC-251 https://doi.org/10.1007/s13205-019-1702-z ; SRC-252 https://doi.org/10.1099/acmi.0.000028 .
+
+
+## 2026-11-16 follow-up — publisher supplementary-object recovery and separate 2020 consumption study (SRC-253)
+
+### SRC-251 supplement: exact object located, payload not yet inspected
+
+A direct publisher Version-of-Record page was opened for Das, Deb, Adak & Khan (2019), *Exploring the microbiota and metabolites of traditional rice beer varieties of Assam and their functionalities* (SRC-251). Unlike the earlier pass, the page exposes a direct **Supplementary file 1 (DOCX, 22.3 kB)** link. Exact object URL:
+
+https://static-content.springer.com/esm/art%3A10.1007%2Fs13205-019-1702-z/MediaObjects/13205_2019_1702_MOESM1_ESM.docx
+
+The paper's methods explicitly say Supplementary Table S1 contains the village/sample-location details and Supplementary Table S2 contains rice substrates and starter-cake herbs. The publisher binary endpoint returned an unsupported `application/octet-stream` response to the available retrieval interface. Therefore the object is now precisely located, but the DOCX itself has **not** been downloaded or read and no village names or ingredient rows are transcribed. This is a more precise retrieval status than saying the supplement is unavailable. Next step is to obtain the exact object through a browser/institutional download and inspect S1/S2; then crosswalk each locality to its source-era and current district before considering any place row.
+
+### Separate 2020 human-consumption study — SRC-253
+
+Deb, Das, Adak & Khan (2020), *Traditional rice beer depletes butyric acid-producing gut bacteria Faecalibacterium and Roseburia along with fecal butyrate levels in the ethnic groups of Northeast India*, *3 Biotech* 10:283, DOI 10.1007/s13205-020-02280-8, was reviewed from the primary PMC full text. It recruited 134 volunteers (67 Ahom and 67 Bodo) from three unnamed locations per community and compared drinkers with non-drinkers. The study concerns human fecal microbiota/metabolites, not beer production. The main article does not name the six locations; Online Resource 1 lists MG-RAST sample identifiers, not production villages. Its MG-RAST project IDs are mgp85400 and mgp85176. Keep this study separate from SRC-251's rice-beer sample dataset (MG-RAST mgp85043), and do not treat the 2020 participant sites as beverage production localities.
+
+**Charaideo decision:** no new named Charaideo locality was found. SRC-253 adds no production-site evidence and does not resolve SRC-011 A1 Bharalisuk or A2 Konwergaon. SRC-251's direct supplement object is now located but still unread. No beverage or place row is created; ASM-GAP-076 remains High/Open.
+
+**Repository action (2026-11-16):** clarified SRC-251's supplementary-file access status and exact publisher object URL; registered SRC-253 as a separate human-consumption study; added the distinction and retrieval action to ASM-GAP-076; appended this audit. No Charaideo beverage-specific place row was created.
+
+Sources: SRC-251 publisher Version of Record https://link.springer.com/article/10.1007/s13205-019-1702-z ; supplement object https://static-content.springer.com/esm/art%3A10.1007%2Fs13205-019-1702-z/MediaObjects/13205_2019_1702_MOESM1_ESM.docx ; SRC-253 primary full text https://pmc.ncbi.nlm.nih.gov/articles/PMC7266887/ .
