@@ -580,3 +580,15 @@ The linked 20-201.pdf could not be retrieved in this pass: the university host t
 **Repository actions (2026-11-16):** SRC-267 added and linked to ASM-GAP-076; dossier updated. No Charaideo beverage-specific place row added. A1 Bharalisuk and A2 Konwergaon remain unresolved.
 
 Source: SRC-267, Tezpur University official Project Completion Reports archive, https://www.tezu.ernet.in/project_reports/project_completion_reports.htm (August 2021 entry; linked PDF 20-201.pdf).
+
+## 2026-11-16 follow-up — DRDO provenance and administrative discrepancy for the combat-food project
+
+The Tezpur archive's August 2021 completion-report entry (SRC-267) is now corroborated by two additional records. SRC-269 is Tezpur University's June 2014 JRF recruitment notice: it explicitly describes “Quality improvement of a traditional probiotic beverage of North-East India as a combat food” as DRDO-sponsored, names Prof. S. C. Deka and the Department of Food Engineering & Technology, and gives a CV deadline of 1 July 2014 and interview date of 7 July 2014. SRC-268 is the official DRDO closed-project list (entry 49), which identifies the same title, PI Sankar Chandra Deka, Tezpur University Food Engineering & Technology, and DFRL as monitoring laboratory; it reports a project value of 21.27 and duration of three years. SRC-270, Raj Kumar Duary's Tezpur-hosted CV, independently lists the project as DRDO-funded and gives Rs 18.30 lakh, naming Duary as Co-PI.
+
+These sources resolve the funder and project identity more strongly than the title alone: this is a DRDO project, not one of the two MoFPI rice-beer projects. There is an administrative discrepancy: DRDO's closed-project list reports 21.27 and three years, while the Co-PI CV reports Rs 18.30 lakh; the project-code strings also differ slightly between the archive, DRDO/CV records. Preserve the source-specific forms and amounts; obtain the original sanction/closure order before reconciling them.
+
+The records do not establish that the combat-food beverage was rice beer, identify its local name or communities, or provide sample counts, producer villages, households, collection dates or coordinates. The JRF recruitment venue at Tezpur is not a field sample locality. The completion report PDF at https://www.tezu.ernet.in/project_reports/2021/20-201.pdf remains inaccessible/timeouts; no scientific contents are claimed. Do not merge its data with SRC-258 or the 12/MFPI/R&D/2009 project. No Charaideo beverage-specific place row is added; SRC-011 A1 Bharalisuk and A2 Konwergaon remain unresolved.
+
+**Repository actions (2026-11-16):** SRC-268–SRC-270 added; ASM-GAP-076 linked to all three; dossier updated. No locality assignment made.
+
+Sources: SRC-267–SRC-270; Tezpur archive https://www.tezu.ernet.in/project_reports/project_completion_reports.htm ; JRF notice https://www.tezu.ernet.in/ProjectWalkin/DoRD-FET-SCD-20-201-4597-A-SCD.pdf ; DRDO closed-project list https://www.drdo.gov.in/drdo/sites/default/files/er_project_status_documents/Closed%2017-18.pdf ; Duary CV https://www.tezu.ernet.in/dfpt/people/faculty_homepage/Mr.%20Raj%20Kumar%20Duary_files/CV_RK%20Duary.pdf .
