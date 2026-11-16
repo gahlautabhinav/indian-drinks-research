@@ -570,3 +570,13 @@ The TERI compendium also contains a separate Health & Nutrition entry for the sa
 **Repository actions (2026-11-16):** SRC-266 added and linked to ASM-GAP-076; dossier updated. The source register, gap and dossier were re-fetched and verified after commit.
 
 Source: SRC-266, TERI/MDoNER *Study of Studies: Final Report (Part B)*, https://www.teriin.org/sites/default/files/2024-01/Study%20of%20Studies%202022-Final%20Report.pdf (Health & Nutrition, pp. 728–729; Agriculture & Allied, pp. 55–56).
+
+## 2026-11-16 follow-up — separate Tezpur probiotic-beverage project completion report located
+
+The official Tezpur University Project Completion Reports archive lists another relevant but distinct project: “Quality Improvement of a Traditional Probiotic Beverage of North East India as Combat Food”, project ERIP/ER/1203059/M/01/1511 dated 28 January 2014, PI Dr. Sankar Chandra Deka, filed under August 2021. The archive title hyperlink resolves to https://www.tezu.ernet.in/project_reports/2021/20-201.pdf. This is not the 12/MFPI/R&D/2009 traditional rice-beer process project and not the 97/MFPI/R&D/2012 microflora project. SRC-267 records it as a separate report-retrieval lead.
+
+The linked 20-201.pdf could not be retrieved in this pass: the university host timed out and the alternate web route reported the file inaccessible. Therefore no report contents are claimed. The archive entry alone does not identify the beverage, communities, sample counts, field sites, villages, households or coordinates. It must be read before deciding whether it bears on rice beer or Charaideo. Do not merge it with the other Tezpur datasets on the basis of the shared PI alone.
+
+**Repository actions (2026-11-16):** SRC-267 added and linked to ASM-GAP-076; dossier updated. No Charaideo beverage-specific place row added. A1 Bharalisuk and A2 Konwergaon remain unresolved.
+
+Source: SRC-267, Tezpur University official Project Completion Reports archive, https://www.tezu.ernet.in/project_reports/project_completion_reports.htm (August 2021 entry; linked PDF 20-201.pdf).
