@@ -1,8 +1,10 @@
 (() => {
   "use strict";
   const OWNER = "gahlautabhinav/indian-drinks-research";
-  const RAW = "https://raw.githubusercontent.com/" + OWNER + "/main/";
-  const ADMIN_MAP = "https://livingatlas.esri.in/server/rest/services/LivingAtlas/IND_AdminBoundary/MapServer";
+  const RAW = ""; // same-origin: Pages redeploys on data/research commits; raw.githubusercontent.com took 3-7 s per CSV
+  /* Simplified snapshots of the Esri India Living Atlas admin boundaries (scripts/fetch_boundaries.py);
+     the live service sends ~41 MB for the state layer alone and fails intermittently. */
+  const geoSlug = (name) => name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   const $ = (s) => document.querySelector(s);
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
@@ -196,13 +198,13 @@
   function goDistrict(d) { state.level = "district"; state.geoDistrict = d; renderGazetteer(); styleDistrictSelection(); }
 
   /* ---------- Leaflet map: the polygon is the control ---------- */
-  async function fetchAdminGeoJSON(layer, where = "1=1") {
-    const params = new URLSearchParams({ where, outFields: "*", returnGeometry: "true", outSR: "4326", f: "geojson" });
-    const r = await fetch(ADMIN_MAP + "/" + layer + "/query?" + params.toString());
-    if (!r.ok) throw new Error("Boundary service returned " + r.status);
-    const data = await r.json(); if (data.error) throw new Error(data.error.message || "Boundary service query failed");
-    return data;
+  async function fetchGeo(path) {
+    const r = await fetch("assets/geo/" + path);
+    if (!r.ok) throw new Error("Boundary file " + path + " returned " + r.status);
+    return r.json();
   }
+  const statesGeo = fetchGeo("states.json"); // starts now, in parallel with the CSV load
+  statesGeo.catch(() => {});
   const Z = { z1: "#121518", z2: "#1a1d20", z3: "#23272a", z4: "#2e3337", z6: "#555b5f", z7: "#7a8084", z8: "#a3a69f", lamp: "#f2eee4" };
   function stateHasRows(name) { return state.places.some(p => p.State === name) || state.beverages.some(b => b.State === name); }
   /* The Living Atlas district layer carries pre-2016 names and boundaries; the archive uses current names. */
@@ -219,7 +221,7 @@
     state.map = L.map(el, { zoomControl: true, scrollWheelZoom: false, minZoom: 3, maxZoom: 10, preferCanvas: false, attributionControl: false }).setView([22.8, 82.2], 4);
     L.control.scale({ metric: true, imperial: false, position: "bottomleft" }).addTo(state.map);
     $("#map-back").addEventListener("click", goIndia);
-    fetchAdminGeoJSON(1).then(data => {
+    statesGeo.then(data => {
       state.stateLayer = L.geoJSON(data, { style: stateStyle, onEachFeature: (f, layer) => {
         const name = f.properties.state || "State / UT", has = stateHasRows(name);
         layer.bindTooltip(name + (has ? "" : " · no archive entry"), { sticky: true, direction: "auto" });
@@ -242,7 +244,7 @@
     if (!state.map) return;
     $("#map-status").textContent = "Loading district boundaries for " + st + "…";
     try {
-      const data = await fetchAdminGeoJSON(2, "state='" + st.replace(/'/g, "''") + "'");
+      const data = await fetchGeo("districts/" + geoSlug(st) + ".json");
       if (state.geoState !== st) return;
       if (state.districtLayer) state.map.removeLayer(state.districtLayer);
       if (state.stateLayer) state.map.removeLayer(state.stateLayer);

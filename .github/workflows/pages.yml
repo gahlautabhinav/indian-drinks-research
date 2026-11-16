@@ -3,12 +3,14 @@ name: Deploy Fieldnotes to GitHub Pages
 on:
   push:
     branches: [main]
-    # Deploy only when the website shell or its assets change.
-    # Research/data content is fetched by assets/app.js from raw.githubusercontent.com,
-    # so ordinary archive commits do not need a new Pages deployment.
+    # assets/app.js reads CSVs and dossiers from this same Pages site,
+    # so data and research commits redeploy too.
     paths:
       - "index.html"
       - "assets/**"
+      - "data/**"
+      - "sources/**"
+      - "research/**"
       - ".nojekyll"
       - "CNAME"
       - ".github/workflows/pages.yml"

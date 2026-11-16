@@ -20,8 +20,8 @@ Every claim is tied to a source ID, geographic confidence is tracked separately 
 
 ## Operating Context
 
-- Data lives in `data/*.csv` and `sources/source_register.csv`; dossiers in `research/<state>/*.md`. The dashboard fetches them from `raw.githubusercontent.com` on `main`, so it always reflects the pushed archive.
-- Static site on GitHub Pages, no build step. Leaflet for the India map; boundaries from the Survey of India / Esri India Living Atlas admin-boundary service (state layer 1, district layer 2). Marked renders dossiers.
+- Data lives in `data/*.csv` and `sources/source_register.csv`; dossiers in `research/<state>/*.md`. The dashboard fetches them from its own GitHub Pages deployment, which redeploys on every data or research commit to `main`.
+- Static site on GitHub Pages, no build step. Leaflet for the India map; boundaries are simplified snapshots in `assets/geo/` of the Survey of India / Esri India Living Atlas admin-boundary service (state layer 1, district layer 2), refreshed by `scripts/fetch_boundaries.py`. Marked renders dossiers.
 - Primary task flow, confirmed: **explore by place first**. India → state → district → beverage records → dossier. Record inspection and archive-wide patterns are secondary.
 - Used at a desk, long sessions, usually alongside a ChatGPT window and the GitHub repo.
 
