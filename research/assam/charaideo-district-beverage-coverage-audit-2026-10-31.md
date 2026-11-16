@@ -277,3 +277,16 @@ Re-examined all six locality strings in SRC-011 Table 1 against official adminis
 **Decision:** no place rows created. ASM-GAP-076 remains High/Open. Priority is now the original October 2015 sample register/coordinates and author clarification of why Kokilamukh appears in a Sivasagar district sample set. Continue treating A1 and A2 as unresolved; do not retroactively move the beverage tradition to Jorhat or Charaideo from a single analytical sample.
 
 Sources: SRC-011; SRC-208–215.
+
+
+## 2026-11-16 follow-up — SRC-011 bibliographic correction and exact-title thesis search
+
+The publisher full text and an independent U.S. EPA HERO bibliographic record were rechecked. The correct author sequence for SRC-011 is **Pranami Handique, Anamika Kalita Deka and Dibakar Chandra Deka**; the previous source-register author string “Handique, J. G.” was incorrect. The paper is *Journal of the Institute of Brewing* 123(2), 284–288 (2017), DOI 10.1002/jib.413. The repository's SRC-011 row has been corrected and expanded to capture its actual sample design and locality table.
+
+The publisher methods confirm six villages sampled in October 2015, with two samples per community. The article explicitly defines A as Ahom, M as Mising and D as Deori. Its Table 1 maps **A1 → Bharalisuk** and **A2 → Konwergaon**. These are confirmed sample labels/localities in the article; they are **not yet confirmed matches to present-day Charaideo revenue villages**, and the paper gives no coordinates, producer names or field-register entries. The other four sample localities and the article's blanket Sivasagar label continue to require the cross-source checks already recorded above.
+
+A further exact-title/author-variant web search was run for Handique's Gauhati University thesis using the title variants, author name and registration number 005263. It surfaced the already-registered institutional CV (SRC-239), the 2018 Gauhati University award-list copy (SRC-204/SRC-238 context), and the bibliographic analysis (SRC-203), but **no individual IndCat/ Shodhganga thesis item handle or downloadable bitstream**. SRC-238 remains a catalogue route only. The thesis, pp. 10–70, appendices and October 2015 sample-site register remain unrecovered.
+
+**Repository action (2026-11-16):** corrected the SRC-011 authorship and expanded its claims/limitations in `sources/source_register.csv`. No new source ID was created because this is the already-registered DOI. No beverage or place row was added. Keep ASM-GAP-076 High/Open; A1 remains unresolved, and A2 remains an unconfirmed candidate among same-name localities. Charaideo remains at zero verified beverage-specific place rows.
+
+Cross-checks: SRC-011 publisher full text https://onlinelibrary.wiley.com/doi/full/10.1002/jib.413 ; independent bibliographic record https://hero.epa.gov/reference/4268761/ ; SRC-239 institutional CV https://sibsagargirlscollege.org.in/uploads/department/chemistry/cv_pranami.pdf ; SRC-238 IndCat route https://indcat.inflibnet.ac.in/index.php/main/theses .
