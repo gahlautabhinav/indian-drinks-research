@@ -558,3 +558,15 @@ The same 2016 publisher article states that its four plant-leaf specimens were c
 **Repository actions (2026-11-16):** SRC-263 limitation updated with the final-report citation; SRC-264 MoFPI URL corrected; SRC-265 added as an unrecovered final-report lead; ASM-GAP-076 linked to SRC-265. No Charaideo beverage-specific place row added.
 
 Sources: SRC-263, https://www.tandfonline.com/doi/full/10.1080/10942912.2015.1104695 ; SRC-264, https://www.mofpi.gov.in/sites/default/files/completed_projects_10.04.2017.pdf ; SRC-265, bibliographic citation within SRC-263.
+
+## 2026-11-16 follow-up — TERI/MDoNER synopsis of the 2009–2012 Tezpur project recovered
+
+SRC-266 records the MDoNER-commissioned TERI *Study of Studies: Final Report (Part B)*, which contains a dedicated synopsis of the Tezpur University project “Quality Improvement of Traditional Method of Rice Beer Production by the Tribal People of North-East India”. The compendium identifies Tezpur University as implementing institution, classifies the project as covering more than one state and gives 2012 as the completion year. Its objectives include standardising traditional rice-beer preparation; biochemical characterisation of starter plants; microbiological and biochemical characterisation of rice beer collected from different tribal belts; and testing tapioca roots as an alternative substrate. The Agriculture & Allied section separately summarises process and starter-culture findings. This materially corroborates that the final report cited in SRC-263/SRC-265 is the same 12/MFPI/R&D/2009 project listed in the Tezpur completion archive (SRC-246) and MoFPI summary (SRC-264).
+
+This is a synopsis, not the underlying final report. It gives no village names, sample counts, household producers, collection dates, coordinates or community-by-site allocation. “More than one state” is not a field-site list and cannot establish any Charaideo sample. The actual final report and appendices remain unrecovered. Keep it distinct from the later 97/MFPI/R&D/2012 microflora project (SRC-258).
+
+The TERI compendium also contains a separate Health & Nutrition entry for the same final report (pp. 728–729) and an Agriculture & Allied entry (pp. 55–56). The existence of two sector entries is not evidence of two different project datasets. No Charaideo beverage-specific place row is added; A1 Bharalisuk and A2 Konwergaon remain unresolved.
+
+**Repository actions (2026-11-16):** SRC-266 added and linked to ASM-GAP-076; dossier updated. The source register, gap and dossier were re-fetched and verified after commit.
+
+Source: SRC-266, TERI/MDoNER *Study of Studies: Final Report (Part B)*, https://www.teriin.org/sites/default/files/2024-01/Study%20of%20Studies%202022-Final%20Report.pdf (Health & Nutrition, pp. 728–729; Agriculture & Allied, pp. 55–56).
