@@ -602,3 +602,13 @@ A 2026 peer-reviewed Pleione article by Pranati Gogoi documents 62 edible plant 
 **Repository action (2026-11-16):** SRC-271 added to the source register and linked to ASM-GAP-076 strictly as a non-beverage local fieldwork lead. Gap remains High/Open.
 
 Source: SRC-271, Gogoi (2026), *Pleione* 20(1):33–42, https://doi.org/10.26679/pleione.20.1.2026.033-042 .
+
+## 2026-11-16 follow-up — corresponding-author retrieval route for SRC-251 (SRC-272)
+
+The official IASST faculty profile for Prof. Mojibur R. Khan (SRC-272) publishes an institutional address and professional email contact. The 2019 rice-beer microbiota article SRC-251 identifies Khan as its corresponding author. This creates a direct, official route to request the original 22.3 KB supplementary DOCX, specifically Table S1 (nine village/sample identities) and Table S2 (rice varieties and starter-cake herbs), plus any underlying field-site register or collection metadata needed to interpret the Ahom Xaaj composites RB04–RB06.
+
+The article's PMC page confirms that the supplementary file is 22.3 KB and identifies it as a DOCX, but labels it available to authorised users. The publisher-hosted file and the NCBI PMC supplementary-material API were not retrievable through the current research interface in this pass; do not claim the DOCX has been downloaded or that PMC's supplementary API includes this specific article. SRC-272 is a contact-route record only: no email has been sent, no reply or field register has been received, and no locality is established.
+
+**Next action:** send a concise scholarly request to the corresponding author for the supplement and, if available, the sample-to-village key/field schedule; ask specifically whether any of the three Ahom Xaaj samples RB04–RB06 were collected in villages now within Charaideo, and request the source-era district/village names as recorded at collection. Retain all sample codes and source spellings unchanged until documentation arrives. No Charaideo beverage-specific place row is added; ASM-GAP-076 remains High/Open.
+
+Sources: SRC-251, https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/ ; SRC-272, https://iasst.gov.in/faculty-profile/?id=25 .
