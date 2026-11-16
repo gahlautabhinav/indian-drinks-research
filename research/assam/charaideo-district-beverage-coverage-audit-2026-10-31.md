@@ -352,3 +352,18 @@ The official Ministry of Food Processing Industries completed-project summary in
 **Repository action (2026-11-16):** registered SRC-246 (Tezpur University archive entry) and SRC-247 (official MoFPI project summary); updated ASM-GAP-076 with the report-retrieval lead. No beverage/place row was created.
 
 Sources: SRC-246 — https://webopac.tezu.ernet.in/project_reports/project_completion_reports.htm ; SRC-247 — https://www.mofpi.gov.in/sites/default/files/completed_projects_27.02.2017.pdf .
+
+
+## 2026-11-16 follow-up — independent 2010–2011 Ahom Xaj-pani analytical sample (SRC-248)
+
+Recovered the full text of Das, Khawas, Miyaji & Deka (2014), *HPLC and GC-MS analyses of organic acids, carbohydrates, amino acids and volatile aromatic compounds in some varieties of rice beer from northeast India*, *Journal of the Institute of Brewing* 120:244–252, DOI 10.1002/jib.134.
+
+Table 1 identifies Assam sample **AsB4** as **Xaj-pani**, community **Ahom**, collected in **Sibasagar, Assam**. The methods state that the nine rice-beer varieties from four Northeast states were collected between November 2010 and February 2011 from locations involved in rice-beer preparation, in triplicate, and labelled according to local names. AsB4 is reported at 4.12% alcohol and pH 4.39. The paper provides detailed biochemical measurements, including a high lactic-acid result for this sample.
+
+This is independent analytical corroboration that Ahom Xaj-pani was sampled in the historical Sibsagar study geography before the October 2015 SRC-011 study. However, the 2014 article gives **no village, household, producer, coordinates or field register** for AsB4. Its code is distinct from SRC-011's A1/A2 and must not be merged with those samples. The broad historical district label cannot be projected onto present-day Charaideo without a site-level crosswalk.
+
+**Charaideo decision:** SRC-248 strengthens historical district-level documentation of Ahom Xaj-pani, but does not identify a Charaideo production locality and does not resolve A1 Bharalisuk or A2 Konwergaon. No beverage-specific place row is added; ASM-GAP-076 remains High/Open.
+
+**Repository action (2026-11-16):** registered SRC-248 in `sources/source_register.csv`, added its limits to ASM-GAP-076 in `data/research_gaps.csv`, and appended this audit. No place or beverage row was created.
+
+Source: SRC-248 — https://doi.org/10.1002/jib.134 ; full text https://onlinelibrary.wiley.com/doi/full/10.1002/jib.134 . Table 1 and Materials/Methods; sample collection November 2010–February 2011.
