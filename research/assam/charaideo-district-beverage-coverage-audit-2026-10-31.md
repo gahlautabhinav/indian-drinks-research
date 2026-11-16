@@ -546,3 +546,15 @@ The MoFPI summary is an administrative project-outcome document, not the missing
 **Repository actions (2026-11-16):** SRC-264 added to the source register and linked in ASM-GAP-076. Gap remains High/Open. No Charaideo beverage-specific place row added.
 
 Source: SRC-264, official MoFPI completed-project summary, https://www.mofpi.gov.in/sites/default/files/completed_projects_12.03.2018.pdf .
+
+## 2026-11-16 follow-up — bibliographic recovery lead for the 2009–2012 Tezpur final report
+
+A full-text check of the publisher-hosted Das et al. (2016) plant-leaf study (SRC-263) exposed a previously underused reference-list entry: “Final Report of the R&D project ‘Quality Improvement of Traditional Method of Rice Beer Production by the Tribal People of North-East India’”, submitted to the Ministry of Food Processing Industries by Tezpur University, Assam. This is a direct bibliographic citation to the final report for the separate 12/MFPI/R&D/2009 process-improvement project, and confirms that the report existed and was being cited by 2016. It is a stronger retrieval lead than the public MoFPI project summary (SRC-264) or the Tezpur archive index alone.
+
+The report itself has not been recovered. The citation does not provide a URL, report date, pagination, author/editor, enclosure list or field-site details. Do not assume it contains village-level schedules; inspect the full report and every appendix before using any place information. Keep it distinct from the nine-page 97/MFPI/R&D/2012 microflora completion report (SRC-258). The corrected SRC-264 link points to the MoFPI “Project Summary: 5” PDF dated 10 April 2017. SRC-265 records the cited final-report artifact as an unrecovered source lead.
+
+The same 2016 publisher article states that its four plant-leaf specimens were collected from Tezpur University's botanical gardens, which remains laboratory plant-material evidence rather than natural harvesting or beverage-production geography. No Charaideo locality is established; A1 Bharalisuk and A2 Konwergaon remain unresolved.
+
+**Repository actions (2026-11-16):** SRC-263 limitation updated with the final-report citation; SRC-264 MoFPI URL corrected; SRC-265 added as an unrecovered final-report lead; ASM-GAP-076 linked to SRC-265. No Charaideo beverage-specific place row added.
+
+Sources: SRC-263, https://www.tandfonline.com/doi/full/10.1080/10942912.2015.1104695 ; SRC-264, https://www.mofpi.gov.in/sites/default/files/completed_projects_10.04.2017.pdf ; SRC-265, bibliographic citation within SRC-263.
