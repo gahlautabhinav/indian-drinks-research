@@ -462,3 +462,14 @@ This reinforces the geographic limit: although Sivasagar is one of the six sourc
 **Repository action (2026-11-16):** SRC-255 was amended with the exact SRA and MG-RAST identifiers and the single-composite limitation; ASM-GAP-076 was checked for the same distinction; this audit was appended. No place or beverage row was added.
 
 Source: SRC-255, primary full text https://pmc.ncbi.nlm.nih.gov/articles/PMC6977804/ ; SRA project PRJNA597963.
+
+
+## 2026-11-16 follow-up — independent extraction confirms the nine-location design of SRC-251
+
+A searchable methods extraction on Bio-protocol reproduces the SRC-251 sampling statement: 27 rice-beer samples (Poro Apong, Nogin Apong, Xaaj and Joubishi) were collected from nine Assam villages; triplicates from each location were pooled in equal quantities to create nine location-level composites. It explicitly points to Supplementary Table S1 for village/sample locations and Table S2 for rice substrates and starter-cake herbs. This is useful as a discovery/access route, but it is an extraction of the same 2019 paper, not independent field evidence: https://bio-protocol.org/exchange/minidetail?id=4774677&type=30 .
+
+The publisher/PMC record confirms that Supplementary file 1 is a 22.3 KB DOCX, but direct retrieval of the Springer static-content object failed in this pass; neither S1 nor S2 has been read. Consequently, no village names, sample-to-village assignments, rice varieties, or herb lists are transcribed here. The nine-village design is confirmed; the nine identities remain unverified until the supplement itself is obtained and inspected. The study's three Ahom Xaaj samples (RB04–RB06) remain a separate code namespace from SRC-011 A1/A2 and SRC-227 samples. No locality or beverage-place row is added.
+
+**Repository action (2026-11-16):** this audit note records the Bio-protocol extraction as a retrieval lead and preserves the explicit non-independent status of that page. SRC-251 remains the primary article; no new source row or geographic claim is created.
+
+Sources: SRC-251, https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/ ; Bio-protocol methods extraction, https://bio-protocol.org/exchange/minidetail?id=4774677&type=30 .
