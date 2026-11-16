@@ -303,3 +303,22 @@ The same paper gives a study-level Ahom Vekur Pitha/Xaj Pitha ingredient list: *
 **Repository action (2026-11-16):** expanded the existing SRC-201 source-register record with the seven informants, the Ahom starter ingredient list and process details, and explicit attribution limits. Updated ASM-GAP-076 to add the informant-network lead while retaining High/Open. No new source ID, beverage-place row or Charaideo production claim was created.
 
 Source: SRC-201, Handique & Deka (2016), full text https://www.allsubjectjournal.com/assets/archives/2016/vol3issue1/3-1-88.2.pdf . Relevant sections: methods (nine-village survey), §3.3.1–3.3.2 (Ahom Vekur Pitha/Xaj), acknowledgements (key informants), pp. 337–340.
+
+
+## 2026-11-16 follow-up — independent Ahom Xajpani sample localities (SRC-242–244)
+
+Recovered the full text of Goswami et al. (2020), *Assessment of Traditional Rice Beer Quality Manufactured by Different Ethnic Tribes of Assam, India*, Asian Journal of Chemistry 32(12), 3029–3034, DOI 10.14233/ajchem.2020.22883. Table 4 names two Ahom Xajpani samples:
+- A1 — **Manipuri Gaon**, household **Bikram Phukan**
+- A2 — **Hachara**, household **Birinchi Dehingia**
+
+The article's sample-collection section states that Xajpani and Apong were collected from Sivasagar district, while Karbi Hor samples were collected from Karbi Anglong. This is an independent, named-locality Ahom Xajpani study. Its A1/A2 sample codes are a separate namespace from Handique et al. (2017; SRC-011) and Handique et al. (2020; SRC-227). Never merge them.
+
+Two administrative controls were recovered:
+- **SRC-243:** the Government of Assam Gazette Extraordinary dated 16 December 2014 lists **Hachara** among villages in the Sivasagar Master Plan area under Sivasagar Circle. This supports the Sivasagar administrative context of the 2020 article's exact Hachara label.
+- **SRC-244:** an official NHM Assam candidate list (2019) records the address **Hahchara Manipuri Gaon, P.O. Hahchara, P.S. Cherekpar, District Sivasagar**. This is a plausible administrative/name-context match for the article's shorter “Manipuri Gaon” label, but it is not a formal alias or Census-code concordance.
+
+**Charaideo decision:** neither locality is transferred to Charaideo. The 2020 article itself places its samples in Sivasagar district, and the administrative evidence recovered so far is Sivasagar-side. These records provide an important independent control against over-assigning all Ahom Xajpani samples from older Sivasagar research to present-day Charaideo. They do not resolve SRC-011's distinct 2015 localities Bharalisuk and Konwergaon. No Charaideo beverage-specific place row is added.
+
+**Repository action (2026-11-16):** registered SRC-242 (research paper), SRC-243 (Assam Gazette Hachara control) and SRC-244 (NHM Assam Hahchara Manipuri Gaon address control); added the cross-study locality distinction to ASM-GAP-076. No Charaideo place row was created.
+
+Sources: SRC-242 https://doi.org/10.14233/ajchem.2020.22883 ; SRC-243 https://tcp.assam.gov.in/sites/default/files/swf_utility_folder/departments/dtcp_medhassu_in_oid_4/this_comm/sl.no_16_sivasagar.pdf ; SRC-244 https://nhm.assam.gov.in/sites/default/files/swf_utility_folder/departments/nhm_lipl_in_oid_6/latest/finalccchshortlisted_0.pdf .
