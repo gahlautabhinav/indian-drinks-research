@@ -290,3 +290,16 @@ A further exact-title/author-variant web search was run for Handique's Gauhati U
 **Repository action (2026-11-16):** corrected the SRC-011 authorship and expanded its claims/limitations in `sources/source_register.csv`. No new source ID was created because this is the already-registered DOI. No beverage or place row was added. Keep ASM-GAP-076 High/Open; A1 remains unresolved, and A2 remains an unconfirmed candidate among same-name localities. Charaideo remains at zero verified beverage-specific place rows.
 
 Cross-checks: SRC-011 publisher full text https://onlinelibrary.wiley.com/doi/full/10.1002/jib.413 ; independent bibliographic record https://hero.epa.gov/reference/4268761/ ; SRC-239 institutional CV https://sibsagargirlscollege.org.in/uploads/department/chemistry/cv_pranami.pdf ; SRC-238 IndCat route https://indcat.inflibnet.ac.in/index.php/main/theses .
+
+
+## 2026-11-16 follow-up — 2013–2014 survey informant register lead (SRC-201)
+
+A page-by-page recheck of the full four-page Handique & Deka (2016) survey paper recovered a more precise fieldwork lead. The paper states that nine unnamed villages were surveyed from November 2013 to February 2014; approximately 20–30 people of each of the Ahom, Mising and Deori communities, mostly women, were interviewed. Researchers observed starter and beverage preparation and collected plant specimens with local assistance.
+
+The acknowledgement names seven key informants: **Mrs. Putoli Konwer; Mrs. Promila Bharali; Mrs. Budhbori Gogoi; Mr. Himanjal Deori; Mrs. Rukmini Mili; Mrs. Nirmala Deori; and Mrs. Dipali Mili.** The surnames Konwer and Bharali resemble the 2015 sample locality labels Konwergaon and Bharalisuk, but the article does not map either person to a village, community or the later sample. This is a research-network lead only; do not infer that the informants are the sample producers, or that the place names derive from their surnames.
+
+The same paper gives a study-level Ahom Vekur Pitha/Xaj Pitha ingredient list: *Oldenlandia corymbosa, Lygodium japonicum, Hydrocotyle sibthorpioides, Centella asiatica, Cissampelos pareira, Piper nigrum, Naravelia felvica, Actinodaphne obovata, Lygodium flexuosum, Leucas aspera, Zanthoxylum nitidum, Clerodendrum viscosum, Scoparia dulcis* and *Artocarpus integrifolia*. It describes Sali rice powder and an approximate 1:50 starter-to-rice-powder ratio, starter cakes of about 15–35 g, and 4–6 days of summer fermentation for Xajpani. These details are useful process/ethnobotanical evidence, but the paper does not allocate plants, recipes or informants to individual villages. Preserve original spellings; do not silently taxonomically correct names without voucher checks.
+
+**Repository action (2026-11-16):** expanded the existing SRC-201 source-register record with the seven informants, the Ahom starter ingredient list and process details, and explicit attribution limits. Updated ASM-GAP-076 to add the informant-network lead while retaining High/Open. No new source ID, beverage-place row or Charaideo production claim was created.
+
+Source: SRC-201, Handique & Deka (2016), full text https://www.allsubjectjournal.com/assets/archives/2016/vol3issue1/3-1-88.2.pdf . Relevant sections: methods (nine-village survey), §3.3.1–3.3.2 (Ahom Vekur Pitha/Xaj), acknowledgements (key informants), pp. 337–340.
