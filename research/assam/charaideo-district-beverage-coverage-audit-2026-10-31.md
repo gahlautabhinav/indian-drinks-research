@@ -338,3 +338,17 @@ The same article explicitly locates its Mising Apong field subsection in **Lakhi
 **Repository action (2026-11-16):** registered SRC-245 in `sources/source_register.csv`; added the evidence and attribution limits to ASM-GAP-076 in `data/research_gaps.csv`; appended this source audit. No place or beverage row was created.
 
 Source: SRC-245 — https://www.ifrj.upm.edu.my/19%20%2801%29%202011/%2814%29IFRJ-2011-137%20Deka.pdf . Full text: methods pp. 102–103; Ahom Xajpani section pp. 103–104; Mising and Deori locality statements pp. 104–105.
+
+## 2026-11-16 follow-up — Tezpur University / MoFPI project-completion report retrieval route (SRC-246–247)
+
+A more specific archival lead was recovered for the broader Northeast rice-beer research programme. Tezpur University's official Project Completion Reports archive lists **“Quality Improvement of Traditional Method of Rice Beer Production by the Tribal People of Northeast India”**, project reference **12/MFPI/R&D/2009 dated 26 February 2010**, with **Prof. S. C. Deka** as Principal Investigator. The listing appears under September 2020 in the university archive (SRC-246).
+
+The official Ministry of Food Processing Industries completed-project summary independently identifies the project as implemented by Tezpur University's Department of Food Engineering & Technology, gives a two-year duration and reports project outputs including new starter cakes, a new preparation methodology and laboratory standardization/quality improvement (SRC-247).
+
+**Important access distinction:** the Tezpur archive page exposes the project listing, but the underlying final-report file/bitstream was not exposed in the accessible page text during this pass. The MoFPI document is an administrative project summary, not the full completion report. Neither source provides the village schedule, community-to-site sampling matrix, coordinates or household identities in the material reviewed here. Therefore the final report has **not** been claimed as recovered or read.
+
+**Why this matters for Charaideo:** this project may contain fieldwork schedules or annexes behind some of the published Northeast rice-beer survey literature. It is a high-value retrieval target, but until the report and its field-site appendix are obtained, it contributes no named Charaideo locality and does not resolve SRC-011 A1 Bharalisuk or A2 Konwergaon.
+
+**Repository action (2026-11-16):** registered SRC-246 (Tezpur University archive entry) and SRC-247 (official MoFPI project summary); updated ASM-GAP-076 with the report-retrieval lead. No beverage/place row was created.
+
+Sources: SRC-246 — https://webopac.tezu.ernet.in/project_reports/project_completion_reports.htm ; SRC-247 — https://www.mofpi.gov.in/sites/default/files/completed_projects_27.02.2017.pdf .
