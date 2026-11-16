@@ -438,3 +438,16 @@ These two papers show that Ahom Xaj-pitha research in the region includes a Jorh
 **Repository action (2026-11-16):** registered SRC-254 and SRC-255 in the source register; added their sample designs and geographic limits to ASM-GAP-076; appended this audit. No Charaideo place row was added.
 
 Sources: SRC-254 https://doi.org/10.1007/s13205-016-0471-1 ; SRC-255 https://doi.org/10.1007/s13205-020-2059-z .
+
+
+## 2026-11-16 follow-up — current Sivasagar Konwergaon namesake control (SRC-256)
+
+A government-hosted **Sivasagar District Irrigation Plan 2016–2020**, prepared by NABARD Consultancy Services and hosted on an Assam Government domain, was checked for the bare A2 spelling “Konwergaon”. Annexure XII, the Khelwa Development Block plan, lists **“Konwergaon” under Cherekapar Gram Panchayat, Khelwa Development Block, Sivasagar district** (PDF text lines 4033–4035; printed pp. 127–128). The same Khelwa annexure separately lists **“Konwargaon” under Lachit GP** (line 4021) and **“Konwar gaon” under Hahchara GP** (line 4039). These are additional namesake controls in the planning geography of Sivasagar district.
+
+This is important because the exact spelling in SRC-011 A2 is not unique. The plan postdates Charaideo's formation and identifies its planning geography as Sivasagar, but it is an irrigation-beneficiary schedule, not a Census village directory or cadastral register. It gives no village codes, coordinates, household identities or link to the 2015 beverage sample. Therefore it **does not identify A2** and cannot be used to move the sample to current Sivasagar either. It does show why the bare spelling cannot be mapped to the current Charaideo No.2 Konwar Gaon (292985) without the original field register.
+
+Keep the following distinct: current Charaideo No.2 Konwar Gaon (Census 292985); Sivasagar No.2 Konwar Gaon (292701); Mahmora Konwar Gaon (293217); and the SRC-256 Cherekapar-GP “Konwergaon” / other Khelwa spellings. A1 Bharalisuk remains unresolved. No Charaideo beverage-specific place row is created.
+
+**Repository action (2026-11-16):** registered SRC-256 as an official government-hosted administrative namesake control; appended its caveats to ASM-GAP-076; added the source and distinct candidate warning to this audit. No A1/A2 match was asserted and no place row was added.
+
+Source: SRC-256 — https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/horticulture_medhassu_in_oid_5/menu/document/District%20Irrigation%20Plan%2C%20Sivasagar_0.pdf ; relevant text: Khelwa block Annexure XII, PDF lines 4021–4039.
