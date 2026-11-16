@@ -612,3 +612,12 @@ The article's PMC page confirms that the supplementary file is 22.3 KB and ident
 **Next action:** send a concise scholarly request to the corresponding author for the supplement and, if available, the sample-to-village key/field schedule; ask specifically whether any of the three Ahom Xaaj samples RB04–RB06 were collected in villages now within Charaideo, and request the source-era district/village names as recorded at collection. Retain all sample codes and source spellings unchanged until documentation arrives. No Charaideo beverage-specific place row is added; ASM-GAP-076 remains High/Open.
 
 Sources: SRC-251, https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/ ; SRC-272, https://iasst.gov.in/faculty-profile/?id=25 .
+
+
+## 2026-11-16 follow-up — separate Ahom/Bodo human-consumption microbiome cohort screened (SRC-273)
+
+Deb et al. (2020) report a human gut-microbiota study involving 134 volunteers: 67 Ahom and 67 Bodo participants recruited from three unnamed locations per community. The article identifies the consumed beverages as Ahom Xaaj and Bodo Joubishi and reports separate MG-RAST project identifiers mgp85400 and mgp85176. This is relevant contextual evidence that Xaaj and Joubishi were consumed by the respective groups in the study cohort, but the paper's principal sample collection concerns human fecal/blood specimens, not beverage production. The three recruitment locations are not named in the main article and cannot be used as beverage-production localities.
+
+**Dataset separation:** this is a different cohort and data namespace from SRC-251's nine-village rice-beer sample study (MG-RAST mgp85043). Do not merge sample codes, infer shared villages or treat volunteer recruitment sites as production sites. The article's supplementary material is labelled available to authorised users; no locality schedule was recovered. It adds no Charaideo evidence and no beverage-specific place row is justified. ASM-GAP-076 remains High/Open.
+
+Source: SRC-273, Deb et al. (2020), *3 Biotech* 10:283, https://doi.org/10.1007/s13205-020-02280-8 .
