@@ -620,3 +620,18 @@ Source strings are retained, including “Centala acciatica,” “Hydrocotyl ro
 - SRC-173: 21 general Epop entries, Majuli; variant not allocated.
 
 These are source-specific inventories with different geographic scope and selection criteria; do not sum them or treat them as a canonical formula. No canonical plant, synonym, village link or recipe record was created.
+
+
+## 18. SRC-139/SRC-140 thesis acquisition follow-up — 2026-11-17
+
+A CSIR–North East Institute of Science and Technology institutional publication/achievement PDF independently confirms that **Dr Devid Kardong's PhD thesis was awarded by Dibrugarh University in 2011**, under guide Dr T. C. Bora. The exact title printed is “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam.” This confirms the thesis bibliographically; the institutional PDF is not the thesis and provides no methods, results, isolate tables or fermentation measurements.
+
+The title spelling “Chaimod(PO:RO)” is retained verbatim. Do not harmonize it silently with “Saimod” in SRC-139 or the “Po:ro (Sai-mod)” wording in SRC-152.
+
+The same institutional record confirms the thesis year and guide, but does not establish that SRC-139, SRC-140 and SRC-152 are identical datasets or chapters of the thesis. The 2011 journal articles remain separate records pending full-text acquisition.
+
+**Acquisition audit:** `research/assam/kardong-thesis-and-2011-papers-acquisition-audit-2026-11-17.md`
+
+**New institutional source:** https://neist.res.in/publication/are11123.pdf
+
+**Archive decision:** No new microbial taxa, village names, fermentation timepoints or household production records are added. The next request should target the thesis full text, the complete *Journal of Assam Science Society* 52(2) 2011 issue, *Bulletin of Life Sciences* Vol. XVI (2011), and the complete technical annexures/raw tables for UGC project F. No. 32-617/2006(SR). The 2017 SRC-167 consortium (*Mucor* sp. + *Saccharomycopsis* sp. + *Saccharomyces* sp.) is not linked to SRC-152's AY-3/AY-4/FY-10 codes by the available evidence.
