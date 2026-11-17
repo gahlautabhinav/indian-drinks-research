@@ -686,3 +686,12 @@ ASM-GAP-120 now includes retrieval of these materials. No beverage-specific plac
 Dibru College's Department of Education publication listing records a 2023 chapter by Jadovananda Taye titled **“Education and Development: A Study on the Mising Women of Ram Nagar Village of Charaideo District, Assam”**, in *Locating Tribal Women in India: Cultural, Social & Literary Perspectives*, second edition, Sanskruti Publication, ISBN 978-81-960127-1-7 (SRC-284). Unlike the 2014/2017/2018 works whose titles use historical Sivasagar district wording, this title explicitly identifies Ram Nagar Village as being in present-day Charaideo. This strengthens the locality's administrative cross-reference and gives another contemporary village-specific Mising study to retrieve.
 
 The college page provides bibliographic metadata, not the chapter text or its methods/results. It contains no beverage evidence. SRC-284 therefore does not establish Apong preparation, consumption, ritual use or production, and no beverage-specific place row is added. ASM-GAP-120 now tracks retrieval of this 2023 chapter alongside the earlier Ramnagar corpus.
+
+### Ramnagar current-district cross-check strengthened — SRC-285 and SRC-286 (17 November 2026)
+
+Two additional official Assam records independently corroborate a present-day Charaideo locality named Ramnagar:
+
+- The 2018 Samagra Shiksha Axom school listing records **770 NO. RAMNAGAR LPS**, UDISE 18290522102, under Charaideo district, Sonari block and Udoipur-A cluster (SRC-285).
+- A 2024 District Legal Services Authority, Charaideo recruitment document contains a locality-address occurrence **“Ramnagar, PO Deepling, PS Kakotibari, Charaideo”** (SRC-286). The individual’s identity and all personal details are deliberately excluded from the archive.
+
+Together with the Dibru College institutional profile (SRC-282), which locates Ramnagar Village in Charaideo and associates it with PO Deepling (Bhojo), these records strengthen the current-district geographic identification of the Ramnagar referenced in the Mising research bibliography. They do not constitute a formal revenue-village alias/boundary certificate and do not establish that the school catchment, address locality and every historical “Ramnagar Village” field site are coterminous. Crucially, neither administrative source contains beverage evidence. No Ramnagar beverage-specific place row or Apong claim is created.
