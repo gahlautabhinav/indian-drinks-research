@@ -104,3 +104,24 @@ For the thesis, ask for the accession/catalogue record and whether a print copy,
 ### Evidence boundary and next decision
 
 This is an **acquisition pathway**, not a recovery of the missing primary sources. No new article content, thesis content, experimental result, page range or isolate identity is added. SRC-139 and SRC-140 remain High/Open under ASM-GAP-062. The next meaningful evidence update requires a catalogue hit, a librarian holdings response, an inter-library loan/document-delivery result, or an original scan.
+
+
+## 8. New institutional cross-check: Dibrugarh University NAAC research-publication volume
+
+A fresh retrieval of the university's official NAAC self-study report provides a stronger, line-addressable bibliographic cross-check than the earlier search-result excerpt. The PDF cover identifies the document as the 2011–2015 assessment-period Self Study Report, Volume III-B [Research Publications], submitted October 2016; the legacy file URL contains “Volume-II-B”, so retain the cover's printed volume designation and note the URL/cover discrepancy rather than silently correcting either.
+
+In the Department of Life Sciences research-publication table (PDF text lines 5164–5180), the university lists:
+
+- SRC-140: Devid Kardong, Kaushal Sood, R.N.S. Yadav and T.C. Bora, “Amyolytic activity of mold isolated from Epop used by the Mising tribe of Assam, India in preparation of alcoholic Rice beer,” *Bulletin of Life Sciences*, Vol. XVI, ISSN 0971-5746 (2011). The table does not show a page range.
+- SRC-139: D. Kardong, “Studies on the Changes of certain Parameters during fermentation of Saimod using Epop: The Traditional Starter for Preparation of Alcoholic beverage by Mishing Tribe of Assam, India,” *Journal of Assam Science Society*, 52(2):1–6, ISSN 0587-1921 (2011).
+
+The same table separately lists the 2012 *Bulletin of Life Sciences* paper and the 2012/2013 *Indian Journal of Traditional Knowledge* Po:ro paper. This reinforces that the two 2011 entries are distinct outputs in the institutional publication record. It does not establish that the articles were published exactly as listed, nor does it expose article text, DOI, abstracts, page range for SRC-140, or experimental content.
+
+The university's official IJTK 11(3) contents PDF independently confirms the later Kardong et al. Po:ro paper at pages 499–504 in July 2012 (the university bibliography labels the year 2013, a metadata discrepancy to preserve). This does not recover either 2011 paper.
+
+**Archive decision:** retain SRC-139 and SRC-140 as High/Open. Update only their bibliographic evidence notes. No fermentation measurements, enzyme activities, isolate identities, taxa, village names or producer records are added. Next acquisition target is now precise: obtain the physical/digital copies of *Journal of Assam Science Society* 52(2) (2011) and *Bulletin of Life Sciences* XVI (2011), using the exact author/title strings and the university publication record as the locator.
+
+### Additional primary institutional sources
+
+- Dibrugarh University NAAC Self Study Report, assessment period 2011–2015, Volume III-B [Research Publications], Department of Life Sciences table, PDF text lines 0–6 and 5164–5193: https://oldweb.dibru.ac.in/wp-content/uploads/2020/05/Volume-II-B-Research-Publication.pdf
+- NIScPR official *Indian Journal of Traditional Knowledge* Vol. 11(3), July 2012 contents, pages 381–384, article at pp. 499–504: https://www.niscpr.res.in/jinfo/IJTK/IJTK%2011%283%29%20%28Contents%29.pdf
