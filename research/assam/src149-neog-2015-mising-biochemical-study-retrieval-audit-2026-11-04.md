@@ -102,3 +102,35 @@ A fresh exact-title and institutional-domain search still did not expose the Neo
 **Refined back-issue search targets:** query the DCB repository/web-OPAC for `Biochemical investigation of Fermented Rice Product`, `Mishing Tribe of Jorhat District`, `Mridula Neog`, and the project title separately. Search INTUIT Volume II (2013), Volume III (2014), and Volume IV (2015), and inspect contents/masthead before assuming the item belongs to any one volume. Ask the library to check non-public DSpace records and physical bound copies if the public catalogue returns no result. Keep the UGC MRP final report, article, and 2018 pteridophyte seminar paper as three distinct records.
 
 No primary article text was recovered in this pass. Beverage identities, localities, sample count, laboratory methods, numerical measurements and project/article relationship remain unverified; no beverage or locality rows were added.
+
+## 2026-11-17 — direct Kakojan College catalogue and librarian route
+
+A targeted check of Kakojan College's own live library system recovered a more specific acquisition route than the previously documented DSpace lead.
+
+The college's official website links its **Central Library Koha OPAC** at https://kakojan-opac.bsmlib.com/. The OPAC page states that the library migrated from SOUL ILMS to Koha in January 2019, maintains a distinct digital-library section using DSpace, and provides reprography. It also states that journals and magazines are for in-library consultation rather than ordinary circulation; external students, research scholars and faculty may request access with written permission from the Principal. This is operationally useful: request a catalogue/holdings search and supervised consultation or lawful scan, not an ordinary book loan.
+
+The public OPAC landing page is accessible, but direct query URLs for the terms `Intuit`, `2319-2097` and `fermented rice` were not retrievable through the current research interface. Therefore no catalogue hit or holding is claimed. The DSpace software is confirmed, but the public-facing DSpace collection endpoint/item record was not exposed in the accessible page.
+
+**Named institutional contact route:** the college's official Librarian Profile PDF identifies Parishmita Hazarika as Librarian, Kakojan College, and lists:
+- Email: parishmitah8@gmail.com
+- Phone: +91 7399554659
+
+The faculty page for Mridula Neog lists her institutional publication attribution, UGC-sponsored MRP title, and public professional contact:
+- Email: mridulaneogkc@gmail.com
+- Phone: +91 9954400612
+
+These are publicly listed professional contacts. No email, call or request has been made.
+
+### Acquisition request: catalogue terms and materials
+
+Ask the Librarian to search Koha, DSpace and physical/departmental back volumes for:
+1. `Intuit` / `INTUIT`, ISSN 2319-2097, Vol. II (claimed 2015 in the Kakojan faculty profile).
+2. `Intuit` / `INTUIT`, Vol. II (2013), Vol. III (2014), and Vol. IV (2015), because independent institutional chronology conflicts with the faculty profile's Vol. II (2015) citation.
+3. Exact article title: `Biochemical investigation of Fermented Rice Product of Mishing Tribe of Jorhat District`; author `Mridula Neog`.
+4. UGC MRP: `Ethno-biological Investigation and Quality Assessment of Fermented Rice Products of Mishing Tribe of Jorhat District of Assam`.
+
+Request the journal masthead and contents page, article first and last pages, complete paper, and the MRP sanction letter, final report, annexures, field schedule, sample register and analytical tables as distinct items. The article's correct volume, issue, pages, co-authors, beverage identities, village/sample allocation and results must be read from the primary item itself.
+
+### Evidence decision
+
+This update adds a verified institutional catalogue, library access conditions and named public librarian/author contact routes. It does **not** recover the paper or MRP report, establish a catalogue holding, or resolve the Vol. II/2015 anomaly. SRC-149 remains High/Open; no beverage-specific data, village production row or biochemical measurement is added.
