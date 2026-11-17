@@ -718,3 +718,15 @@ Explicit geographic details are limited: *Asparagus racemosus* tuberous roots ar
 A further candidate located during the search was Medok & Hazarika (2019), SRC-288, “Religious Belief and Practice of Mising community of Assam: A Study” (*IOSR-JHSS* 24(11), Series 3:13–15; DOI 10.9790/0837-2411031315). Full text was reviewed. Its primary fieldwork is explicitly in five purposively selected, unnamed villages in Jonai subdivision, Dhemaji district; the study focuses on religious transition and rites. The full text contains no Apong reference. It is therefore a useful comparative source on Mising religious change, but not evidence for Ramnagar, Charaideo, or beverage practice. It is registered with this exclusion in the source register and linked to ASM-GAP-120 to prevent accidental geographic transfer.
 
 The 2014 Ramnagar chapter in the Dibru College 2014 collection (ISBN 978-93-82283-91-1) remains unrecovered in full text. Search results and institutional bibliographic metadata confirm its title and publication details only; no claim about its findings, Apong, or ritual offerings is accepted until the chapter itself is obtained.
+
+### 2014 Mosaic edition metadata corroborated; Ramnagar chapter still not recovered (17 November 2026)
+
+The bibliographic identity of the missing collection is now independently corroborated by additional institutional records:
+
+- Dibru College's institutional profile for editor Mitali Baruah states that she jointly edited *Mosaic: A Collection of Research Articles*, published by the college IQAC in 2014, ISBN 978-93-82283-91-1.
+- The Government of Assam's RUSA State Higher Education Plan 2014–17 independently lists Rupasree Dutta's separate chapter “Search for the root in Rita Chaudhuri's Makam” in *Mosaic*, edited by M. Baruah and J. Phukan, Dibru College, 2014, pp. 194–199, with the same ISBN (SRC-289).
+- Other institutional publication profiles independently identify additional contributions to the same ISBN edition, confirming it is a multi-author research collection rather than a journal issue.
+
+This gives us a reliable edition-level fingerprint and one known chapter page range, but **not** the page range or text of Jadovananda Taye's Ramnagar chapter. No inference about adjacency, Apong, or ritual content is justified. The collection's title and publisher are established; acquisition is still the bottleneck.
+
+A historical publisher directory entry identifies Kaustubh Prakashan at Milan Nagar, Dibrugarh, and provides a publisher contact route, but it is an old third-party author-maintained listing and has not been verified as current. Treat it only as a lead; use Dibru College IQAC/library as the primary institutional acquisition route. No one has been contacted and no document has been obtained yet.
