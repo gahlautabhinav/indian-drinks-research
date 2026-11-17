@@ -67,3 +67,40 @@ For SRC-139, specifically request the full methods and every fermentation timepo
 - Dibrugarh University ETD discovery tools: https://www.dibru.ac.in/ETD-discovery-tools
 - Assam Science Society profile/history of journal naming: https://aipsn.net/2017/09/11/assam-science-society/
 - Assam Science Society current downloads: https://assamsciencesociety.in/information/download
+
+
+## 7. Second acquisition route: Lakshminath Bezbaroa Library
+
+A further targeted check of Dibrugarh University's official library records identifies a practical institutional route that was not documented in the first pass.
+
+The Lakshminath Bezbaroa Library (LNB Library) is the university's central library. Its official page exposes a Web OPAC and library contact section:
+https://www.dibru.ac.in/lnb-library
+
+Dibrugarh University's 2023 Self Study Report states that the library's automated catalogue includes a **Serials Holding Database** alongside book and thesis databases. Its 2021–22 Annual Quality Assurance Report also documents serial-service cataloguing and the library's Web OPAC. These records establish that a serials-holdings search is an appropriate next step for *Journal of Assam Science Society* 52(2) (2011) and *Bulletin of Life Sciences* Vol. XVI (2011); they do not establish that either specific issue is held.
+
+The university's library documentation records **inter-library loan** and paid **reprography for books and periodicals**. This means the request can ask the library to (a) search its serials holdings by exact title, ISSN and volume/year; (b) check bound back volumes and any departmental holdings; and (c) if not held, attempt inter-library loan/document delivery or identify a holding institution. The 2016 Shodhganga guidelines also state that the university planned an ETD lab to digitise older theses, while its 2020–21 AQAR records that retrospective digitisation had not yet started at that reporting date. Treat the thesis digitisation status as historical evidence, not a statement of current status.
+
+**Named library contact:** Dibrugarh University teaching material by Deputy Librarian and Shodhganga Coordinator Dr. Utpal Das lists:
+- Email: utpaldas@dibru.ac.in
+- Library email: library@dibru.ac.in
+- Phone: 0373 2370230
+- Mobile: 8486140679
+
+Source: https://www.dibru.ac.in/pdf/Understandingshodhgangaandbasicsofplagiarism.pdf
+
+This is a publicly listed professional contact route. No message has been sent and no holdings confirmation has been received.
+
+### Exact catalogue/request strings
+
+Use all of these separately, because journal title variants and serial records may differ:
+
+- `Journal of Assam Science Society` — ISSN 0587-1921 — volume 52, issue 2 — 2011.
+- `JASS` — volume 52, issue 2 — 2011 (abbreviation lead only; verify the serial record's title history).
+- `Bulletin of Life Sciences` — ISSN 0971-5746 — volume XVI — 2011.
+- `Devid Kardong` — thesis title as printed in the CSIR–NEIST award listing: “Studies on Microbiological and Biochemical aspects of Chaimod(PO:RO): A Traditional Alcoholic Beverage of Mishing Tribes of Assam” — Dibrugarh University — 2011.
+
+For the thesis, ask for the accession/catalogue record and whether a print copy, department copy, submitted CD or retrospective digitisation scan exists. Do not assume that the thesis was uploaded to Shodhganga simply because the university had a repository agreement.
+
+### Evidence boundary and next decision
+
+This is an **acquisition pathway**, not a recovery of the missing primary sources. No new article content, thesis content, experimental result, page range or isolate identity is added. SRC-139 and SRC-140 remain High/Open under ASM-GAP-062. The next meaningful evidence update requires a catalogue hit, a librarian holdings response, an inter-library loan/document-delivery result, or an original scan.
