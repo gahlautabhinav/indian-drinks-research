@@ -133,3 +133,43 @@ This is a nomenclatural crosswalk, not specimen authentication. The accepted nam
 ## 10. Cross-study interpretation correction
 
 The 11 SRC-151 overlaps and 7 SRC-153 overlaps are exact-name-string matches after removal of author abbreviations and punctuation, not synonym-resolved totals. Family disagreement for *Scoparia dulcis* is taxonomic-framework history; *Hydrocotyle sibthorpioides* is consistently Araliaceae in the current Kew treatment. These overlaps should be used as a research prioritization signal, not a claim of uniform use across Mising villages.
+
+
+## 11. Primary-PDF and herbarium retrieval re-audit (19 November 2026)
+
+The full article PDF was re-read at line/page level. This confirms a more actionable institutional retrieval path than the earlier audit recorded.
+
+### Fieldwork and sample
+
+The Methods section (pp. 1362–1363) states that the ethnobotanical survey took place in **three randomly selected villages in Majuli district from April to October 2024**. The village names are not printed. Data came from **28 informants aged 40–70**, with special emphasis on elderly women involved in Apong preparation. The reported collection methods are semi-structured interviews, informal discussions and transect field walks. Plant material is described collectively as collected with local informants from forests, agricultural fields and home gardens; the paper does not link a given taxon to a village, informant, household or collection habitat.
+
+### Herbarium deposit is stated, but accession-level evidence is absent
+
+The Plant collection and identification paragraph (p. 1363) explicitly says that herbarium sheets were prepared and submitted to the **herbarium of Jengraimukh College**. This corrects the earlier shorthand that the paper merely lacked voucher data: it does report an institutional submission. However, no herbarium acronym, accession/catalogue number, collector number, specimen label, collection date per taxon, sheet image or public catalogue is supplied. The article therefore supports a concrete repository lead, not proof that 48 individually traceable sheets are currently held or accessible.
+
+A 2024–25 official Jengraimukh College prospectus lists Porishmita Borah in the Department of Botany as Assistant Professor and Head of Department (new archive source SRC-293). This is a relevant institutional route for requesting the herbarium register and sheet access, but it does not establish current staffing or specimen custody. No contact has been made.
+
+### The repeated Zanthoxylum entries need to remain separate records
+
+The results table contains 48 numbered records. Rows 20 and 33 both print *Zanthoxylum oxyphyllum* Edgew. (accepted by Kew POWO in Rutaceae), but the table assigns different vernacular names and quantitative values:
+
+| Row | Published vernacular label | Plant part | RFC | UV |
+|---:|---|---|---:|---:|
+| 20 | Prothoma | Leaves | 0.7 | 0.6 |
+| 33 | Mejenga | Leaves | 0.9 | 1.1 |
+
+The article defines RFC as FC/N and reports N=28. The separate values therefore represent separately tabulated citation/use records in the authors' analysis, but they do not reveal whether informants distinguish two local forms, whether separate specimens were collected, or whether one taxon was accidentally duplicated under two names. The values should not be combined or used to claim 48 unique botanical species. The safest archive representation is 48 source rows, 47 unique printed binomial strings, and one unresolved repeated-binomial pair. Keep both raw records and ask for the informant-by-vernacular-name matrix, field photographs and herbarium sheets for rows 20 and 33.
+
+Kew POWO accepts *Zanthoxylum oxyphyllum* Edgew. in Rutaceae and lists it as native to Assam among other regions. That confirms the nomenclatural status and regional plausibility of the name, not the identity of the Majuli specimens or the relationship between Prothoma and Mejenga.
+
+### Scope and remaining evidence gap
+
+The article's stated objective is to identify plants incorporated into E’pob starter-cake preparation. Its 48-row list is not split into separate Po:ro and Nogin plant inventories, nor are taxa assigned to the three surveyed villages. The methods and results give no village-level informant counts or batch/household matrix. Keep the list attached to E’pob generally and do not create village-specific production edges or variant-specific plant-use claims.
+
+Other source-level taxonomic flags remain as recorded in the SRC-161 taxonomic review: genus-only “Tinospora Miers”; the *Achasma loroglossum* / *Etlingera loroglossa* nomenclatural resolution alongside the published Scytosiphonaceae family anomaly; and source spellings “Paderia”, “Guilandian” and “Termalia”. Accepted-name reconciliation does not authenticate the physical specimens. The repeated Zanthoxylum rows are now explicitly treated as two reported ethnobotanical records pending herbarium review.
+
+**Revised next request:** obtain the three village names and per-village informant counts; the 28-informant plant/vernacular-name dataset; the Jengraimukh College herbarium accession catalogue and sheet images; and the two Zanthoxylum field records (Prothoma/Mejenga) with collection numbers and determination notes. Request a plant-by-village and plant-by-household occurrence matrix, but do not presume the 48 taxa differ between Po:ro and Nogin.
+
+**Primary article:** https://www.researchgate.net/publication/404971872_DOCUMENTATION_OF_ETHNOBOTANICAL_PLANTS_USED_IN_THE_PREPARATION_OF_APONG_A_TRADITIONALLY_PREPARED_RICE_BEER_BY_THE_MISHING_TRIBAL_COMMUNITY_OF_MAJULI_DISTRICT (Methods pp. 1362–1363; RFC/UV methods p. 1364; inventory pp. 1364–1365).  
+**Institutional retrieval lead:** https://jengraimukhcollege.org/wp-content/uploads/2024/11/Prospectus-JMC-2024-25.pdf.  
+**Taxonomic authority:** https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:775920-1.
