@@ -83,3 +83,39 @@ The article says determinations were repeated three times and values are mean ±
 1. Arjun, J.; Verma, A. K.; Prasad, S. B. (2014), *International Food Research Journal* 21(2):463–470, full-text reproduction: https://www.academia.edu/76485333/Method_of_preparation_and_biochemical_analysis_of_local_tribal_wine_Judima_an_indegenous_alcohol_used_by_Dimasa_tribe_of_North_Cachhar_Hills_district_of_Assam_India
 2. Cotton University Department of Zoology, Dr Akalesh Kumar Verma faculty bibliography, item 123, independently lists the citation and publisher PDF URL: https://zoology.cottonuniversity.ac.in/facultyprofile?p=SEVxSkN5azBUVE03cFZ5NFNvNmpiZz09
 3. NEHU Annual Report 2013–2014, bibliography also lists the 2014 paper: https://nehu.ac.in/public/uploads/NEHU_Annual_Report_2013-14.pdf
+
+
+## 8. Author and institution acquisition route (2026-11-19)
+
+### Author identity and publication-year discrepancy
+
+A publicly accessible professional CV identifies the paper's first author as **Dr Jashodeb Arjun**. It records him as Associate Professor, Department of Zoology, Lumding College from September 1986 to August 2021, then Associate Professor at Silapathar Science College from September 2021 to March 2023, and Professor, Department of Zoology, Royal Global University from April 2023 onward. The CV lists a public professional email: **jashodeb@gmail.com**. It also lists the Judima paper but gives the year as **2012**, whereas the Cotton University faculty bibliography, NEHU Annual Report 2013–14 and journal citation give **2014** (IFRJ 21(2):463–470). This is a bibliographic discrepancy, not evidence of a separate 2012 paper; retain 2014 as the journal citation and record the CV's 2012 entry as unresolved until the author or issue masthead confirms it.
+
+The Lumding College NIRF 2022 submission independently lists Jashodeb Arjun among its Zoology faculty, with joining date 02-09-1987 and current-institution status for the reporting period. His CV's 1986 start date differs by about one year; this employment-date discrepancy is not material to the specimen evidence, but is preserved rather than reconciled by inference.
+
+### Lumding College collection and library route
+
+The college's current official website lists a Central Library with OPAC and reprographic services, four current journal subscriptions, 30 bound volumes of periodicals, and a named librarian (Ms Pritishmita Thakuria). It also publishes the general institutional contact lumdingcollege@yahoo.in and helpline 03674-263375. A separate Digital Library landing page links NDLI, N-LIST, e-PG Pathshala and Shodhganga, but currently displays zero publication records. These facilities establish an appropriate institutional enquiry route; they do **not** prove that the JA-1–JA-4 specimens, old laboratory books, or the 2014 journal issue remain in the college's custody.
+
+The current Zoology Department page lists its present faculty but not Jashodeb Arjun, consistent with his CV's departure in 2021. It does not list a public departmental herbarium or voucher catalogue. Therefore address the first request to Dr Arjun as the paper's author and separately copy the college Principal / Zoology HOD / Librarian for a search of departmental and library records. No email or phone call has been made in this research pass.
+
+### Exact acquisition request
+
+Ask Dr Arjun and Lumding College to confirm or provide, if retained:
+
+1. A voucher register crosswalk for **JA-1, JA-2, JA-3 and JA-4** to the four paper taxa (*Piper betle*, *Buddleja asiatica*, *Hedyotis scandens*, *Acacia pennata*), including specimen labels, collection date, locality, collector number, plant part, identifier and current storage location.
+2. Original field notebook / site list showing which rural localities were visited, dates, interviewee counts by site, and whether the 100 interviewees were all Judima producers or knowledge holders.
+3. Beverage sample and batch register: number of samples/batches, source household or market, collection dates, storage and transport, batch-to-assay mapping, and whether samples were pooled.
+4. Original laboratory worksheets and microbial culture protocol supporting Table 2, including media, incubation conditions, dilution scheme, count units, organism identification (if any), and replicate structure.
+5. Any retained starter cake, plant material or Judima sample, if ethically and practically appropriate; do not assume archived biological material exists.
+6. The final published issue PDF or offprint and clarification why the CV lists 2012 while the journal and other bibliographies list 2014.
+
+**Evidence boundary:** these are leads and a document-request plan, not a claim that the institution still holds the vouchers or raw records. ASM-GAP-061 remains Open until a direct response or original records establish the missing information.
+
+### Sources added
+
+- Dr Jashodeb Arjun professional CV (appointments, public email, publication list): https://mntrc.in/wp-content/uploads/2024/07/015%20Acd%20Edtr%20Prof%20Jashodeb.pdf
+- Lumding College NIRF 2022 submission (faculty roster): https://www.lumdingcollege.org/old/NIRF.pdf
+- Lumding College Central Library page (OPAC, reprography, holdings summary, librarian and contact): https://lumdingcollege.org/library.php
+- Lumding College Digital Library: https://lumdingcollege.co.in/dlibrary.php
+- Lumding College Zoology Department page: https://www.lumdingcollege.org/department-profile.php?did=20
