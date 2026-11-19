@@ -100,3 +100,38 @@ The totals **51, 36, 31 and 20 are not directly comparable prevalence estimates*
 - ResearchGate full-text record (retrieval copy): https://www.researchgate.net/publication/407534109_Ethnobotanical_documentation_of_medicinal_plants_and_traditional_fermented_foods_of_the_Mishing_community_in_Jorhat_district_of_Assam_India
 - SRC-148 issue reproduction: https://fliphtml5.com/ntyj/brxv/
 - SRC-153 publisher article: https://doi.org/10.1186/s42779-023-00214-2
+
+
+## 7. Primary-PDF re-audit and archive corrections (19 November 2026)
+
+The publisher-hosted PDF was retrieved and checked directly (Ethnobotany Research and Applications 34:75; DOI 10.32859/era.34.75.1-31). It corrects several statements in the 9 November audit:
+
+### Ten villages are named in the paper
+
+Page 4, Data collection and field survey, names the ten visited villages: **Charighoria, Upor Kareng, Kalbari, Neulgaon, Bormukoli, Bahfalla, Borpomua gaon, Kumarbari gaon, Jengrai Chapori and Kawaimari Bonoria Mishing Gaon**. The article says the team visited them in the first week of every month for 12 consecutive months during March 2024–2025. Preserve the PDF spellings here; earlier archive registrations vary slightly (for example, “Bor pomua”, “Jeng rai” and “Kawoimari”). This is a study-site list, not proof that both beverages are made in every listed village.
+
+The same methods section reports 50 informants and later gives 17 men and 33 women. It describes purposive/snowball selection, interviews and targeted group discussions, but no village-by-informant table and no separate Po:ro/Nogin respondent counts. It also says informants' identity, residence, credentials and tribal group were recorded; that statement does not mean those records are published or available to the archive.
+
+### Beverage and starter allocation remains unresolved
+
+The paper describes Po:ro Apong and Nogin Apong separately. The Po:ro section lists 20 starter-related plant names. Its conclusion says 20 plant species were used in starter cultures for beverages “such as Po:ro and Nogin Apong” collectively, and the Apop section says Apoppitha is used for both. No cross-tabulation identifies which of the 20 taxa are used for which beverage, which informants use them, or where. Do not label the list Po:ro-exclusive or project it onto all ten villages.
+
+Process detail is now verified from the PDF: Po:ro uses partly burnt paddy husk/straw ash mixed with boiled rice and powdered starter, fermentation in a fumigated earthen pot for about one or two weeks depending on starter quantity and season, then water extraction through a cone-shaped bamboo Ta:suk lined with banana leaves and paddy straw. Nogin is described as cooked rice plus powdered Apop, fermented in an earthen pot for 7–10 days, then mixed with water, stirred and sieved. Apop is explicitly described as starter culture for both forms. These are article-reported process accounts, not universal timings.
+
+### Voucher and laboratory limits
+
+Pages 5–6 state that voucher specimens were not collected or deposited in any recognised herbarium because of technical/logistical issues; no herbarium accession numbers or acronyms can be supplied. The discussion/limitations also state that microbial diversity in the fermented foods and beverages was not investigated in laboratory conditions. Do not present the article as a microbiological validation study.
+
+### Duplicate source IDs
+
+SRC-069, SRC-160 and SRC-219 have the same title, seven authors and DOI. They are duplicate registrations of **one article**, not three independent studies. SRC-069 is the earliest archive registration and is retained as the canonical source; SRC-160 and SRC-219 remain aliases for backward reference. Their repeated citation must not inflate study counts or evidence weight.
+
+### Botanical transcription correction
+
+The publisher PDF page 24 prints the 19th taxon in the Po:ro list as *Phlogacanthus thyrsiformis*. The prior SRC-160 source-row transcription had *Phlogacanthus thyrsiflorus*. The eight-study source-row inventory and exact-name crosswalk have been corrected to the PDF spelling. This is a source-transcription correction only; no herbarium voucher exists to validate the botanical determination.
+
+### Revised archive decision and next evidence request
+
+The ten village names are now recovered; no new village-production edges are justified. Keep ASM-GAP-069 Open for the still-missing anonymised village/informant/beverage/plant matrix, local plant names and parts used, batch counts, field photographs and author-confirmed identifications. No voucher accessions can be requested for specimens that the paper says were never collected/deposited; request field photographs or any retained reference material instead. Do not contact authors without explicit user instruction.
+
+**Primary evidence:** publisher PDF https://ethnobotanyjournal.org/index.php/era/article/download/7814/2403/80765 (study villages and fieldwork pp. 4–5; voucher statement p. 5; Po:ro/Nogin/Apop methods pp. 23–26; conclusion p. 30).
