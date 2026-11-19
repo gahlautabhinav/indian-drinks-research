@@ -75,3 +75,61 @@ Assam down town University's current faculty profile lists Radali Duarah's 2019�
 Therefore, the DBT-funded JRF position is only a biographical lead. It cannot currently be linked to the rice-beer thesis, SRC-155, SRC-154 or SRC-151. Do not describe it as a DBT-funded rice-beer project unless a project title, grant record, PI confirmation or report explicitly connects them.
 
 Source: ADTU faculty profile, Working Experience and Research sections: https://adtu.in/teaching-faculties/T0RNNA==/assistant-professor.html (accessed 2026-11-04).
+
+
+## 2026-11-19 — AAU thesis and Neog 2018 pteridophyte presentation retrieval update
+
+### AAU thesis identity and status
+
+Assam Agricultural University's official Knowledge Bank links postgraduate-thesis abstract volumes I–XI and identifies Volume VIII as 2020–21. The official Volume VIII PDF lists **“Bioactivity of medicinal plants used in traditional rice beer starter cultures of Assam” by Radali Duarah**, in Food Science and Nutrition, printed pages 350–351. The section is under Ph.D. (Home Science); the abstract names Dr. Mridula Saikia Barooah as major adviser.
+
+The abstract states:
+- Six major communities were considered for starter-culture plant documentation.
+- Semi-structured interviews with experienced local men and women were conducted in three districts: Sibsagar, Nagaon and Bongaigaon.
+- It reports 36 Mising starter plants, 27 Ahom, 13 Deori, 20 Tiwa, and seven each for Bodo and Rabha; 51 plants total across communities.
+- Twelve plants were selected for laboratory screening: *Curcuma longa*, *Sphaerostepheras unitus* (source spelling), *Polygonum hydropiper*, *Drymaria cordata*, *Psidium guajava*, *Cinnamomum bejolghota*, *Zanthoxylum nitidium* (source spelling), *Elsholtzia blanda*, *Rubus hexagonus*, *Vitex negundo*, *Justicia gendarussa* and *Scoparia dulcis*.
+
+**Retrieval result:** the official public AAU item is an abstract compilation, not the dissertation. Exact-title and author searches did not surface a full-text thesis or repository handle. The existing AAU Library/Krishikosh consultation route remains a route to pursue, not proof that this item is deposited there.
+
+**Identity safeguard:** this AAU thesis is by Radali Duarah. It is not Mridula Neog's 2018 seminar paper, and the shared subject/adviser-name overlap does not prove shared samples or project identity.
+
+### Mridula Neog's 2018 ICSSR presentation
+
+Kakojan College's official faculty profile for Mridula Neog records a paper presented at an **ICSSR-sponsored two-day National Seminar**, 27–28 April 2018, with the exact title:
+
+> “Qualitative Phytochemical Analysis of two Pteridophytic Plant species used traditionally by Tribes of Assam in Starter Culture preparation of rice beer fermentation”
+
+The public profile confirms presenter, title, sponsor description, seminar duration and dates. It does **not** name the host institution, organisers, proceedings, abstract, paper text, the two species, plant parts, communities, collection localities, vouchers or analytical results.
+
+The profile's “View Supporting Publication Document” link currently resolves to a 404 response. Targeted exact-title web searches did not locate a proceedings volume, abstract, full paper or independently indexed copy. Previous checks of Kakojan College's public 2017–18 and 2018–19 activity records did not identify the ICSSR seminar or its host. Do not infer that Kakojan College hosted the seminar merely because Neog is a Kakojan faculty member.
+
+### Later Mising ÉPOP pteridophyte evidence — separate study, not a proxy for 2018
+
+Mili and Sundriyal's 2023 *Journal of Ethnic Foods* article (SRC-153; DOI 10.1186/s42779-023-00214-2) explicitly reports **four pteridophytes** within its 31-species Mising ÉPOP inventory in Sivasagar district.
+
+The article's narrative identifies:
+- *Pteris semipinnata* L. and *Dryopteris filix-mas* (L.) Schott among commonly collected herbaceous starter ingredients;
+- *Selaginella* sp. in the discussion of plants collected in bright daylight or morning;
+- *Cyclosorus extensa* Nees as a bunch sprayed on freshly prepared cakes to help prevent undesirable fungal infestation.
+
+The article reports a 15-village survey in Sivasagar and in-depth work in Majorbari and Ligiribari; it does not provide a taxon-to-village matrix or voucher accession IDs in the accessible article text. Preserve the article's own name usage; do not automatically equate *Cyclosorus extensa* with *Thelypteris extensa* or harmonise names without voucher-based taxonomic review.
+
+**Critical limit:** this 2023 four-pteridophyte set is not evidence that any of these were the two species in Neog's 2018 presentation. No species identity can currently be assigned to the 2018 title.
+
+### Outstanding acquisition requirements
+
+1. Full Radali Duarah PhD thesis, including full methods, appendices, raw assay tables and plant authentication/voucher register.
+2. 2018 ICSSR seminar host institution, organiser, proceedings/abstract, and the original Neog paper or presentation.
+3. Exact identities of the two pteridophyte species in Neog's 2018 work.
+4. Whether Neog's two species overlap with the later 2023 Mising ÉPOP pteridophyte set, and whether either work used the same plant samples or communities.
+5. Voucher accessions, collectors, collection dates, named villages and taxon-to-village allocation for the relevant studies.
+
+**Requests not yet sent:** AAU / College of Community Science should be asked for Duarah's full thesis, appendices, field questionnaire, village list, sample counts, authentication/voucher register and raw assay tables. Mridula Neog / Kakojan College should be asked for the 2018 paper/presentation, seminar brochure/proceedings, host and organiser, both species names, plant parts, collection details, voucher IDs, analytical methods, controls, replicates and results. No email or phone contact has been made.
+
+**Safeguards:** keep SRC-151, the AAU thesis abstract, SRC-154, SRC-155, Neog's 2018 presentation and SRC-153 as separate records. Do not add the 2018 plants to an inventory until the primary paper or reliable author/institutional confirmation identifies them. Plant-extract in-vitro assays are not finished-beverage tests, clinical evidence, or proof of human health benefits or food safety. No beverage-place rows or taxon-to-village rows are justified by this retrieval pass.
+
+**Sources checked:**
+- AAU Knowledge Bank: https://aau.ac.in/knowledge_bank
+- AAU Post Graduate Thesis 2020–21, Volume VIII, pp. 350–351: https://aau.ac.in/assets/files/thesis/vol-VIII-2020-21.pdf
+- Kakojan College, Mridula Neog faculty profile: https://www.kakojancollege.edu.in/singlefaculty.php?slno=91
+- Mili & Sundriyal (2023): https://doi.org/10.1186/s42779-023-00214-2
