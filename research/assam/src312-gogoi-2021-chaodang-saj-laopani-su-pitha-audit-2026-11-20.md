@@ -1,0 +1,210 @@
+# SRC-312 — Gogoi (2021): Chaodang Saj/Laopani and Su-pitha field survey
+
+**Audit date:** 20 November 2026  
+**Citation:** Girish Gogoi (2021), “Traditional knowledge on preparation of starter culture cakes and rice-beers by Chaodang community of upper Assam, India,” *Emergent Life Sciences Research* 7(1):63–75. DOI: 10.31783/elsr.2021.716375.  
+**Publisher landing page:** https://emergentresearch.org/index.php/ELSR/article/view/153  
+**Full publisher PDF:** https://emergentresearch.org/index.php/ELSR/article/download/153/131/265  
+**Published:** 23 June 2021; fieldwork January–June 2020.
+
+## 1. Research design and locality evidence
+
+The author reports a field survey in ten villages in Baghchung Development Block, Jorhat district, Assam. Eight key persons, mainly experienced older men and women, were interviewed in each village: **80 traditional knowledge holders in total**. The villages were selected randomly. Prior informed consent was obtained from knowledge holders, village heads (Gaon Burha) and/or Gaon Panchayat presidents. The author says the preparation processes were recorded and photographed with permission, plant samples were collected and identified using botanical references, and GPS coordinates were recorded for each village.
+
+The ten named villages are:
+
+1. Habungia Gaon
+2. Jamuguri Gaon
+3. Kumar Chaodang Gaon
+4. Borbheta Gaon
+5. Kebang Gaon
+6. Baghmoria Gaon
+7. Timtimia Gaon
+8. Lojonia Gaon
+9. Ujani Nonoi Gaon
+10. Khoriachuk Gaon
+
+The paper includes a sampling-area map (Figure 1), but the coordinates are not tabulated in the extracted text. It does not provide an individual household or informant ID crosswalk to a specific recipe. These ten villages are therefore survey localities for the Chaodang starter/beverage tradition; the paper does not establish that every rice variety, every starter plant, or every process variant occurred in every village.
+
+The author describes Chaodang populations beyond Jorhat in other Upper Assam districts, but this study's ten-village sample is specifically from Baghchung Development Block, Jorhat. Do not extend the ten-village sample to Golaghat, Sivasagar, Lakhimpur or Dibrugarh.
+
+## 2. Names and product boundaries
+
+The paper describes the beverage as **Saj or Laopani** for the Chaodang community, made using starter cakes called **Su-pitha / Modor-pitha**. It separately names two extraction stages:
+
+- **Rohi mod** — the first extraction from the fermented rice mass.
+- **Choka mod** — the second extraction after adding more water to the remaining fermented mass; described as white, more turbid and lower in alcohol than the first extraction.
+
+These names should not be collapsed into synonyms. In this archive, the canonical beverage row is Saj (Chaodang); Laopani is retained as a source-used alternate label, while Rohi mod and Choka mod are documented as extraction fractions/variants. Do not merge this Chaodang Laopani with Ahom Sajpani or other communities' Laopani without independent terminology evidence.
+
+## 3. Rice varieties
+
+The paper reports three rice categories used in Saj preparation:
+
+- Bora rice (sticky/glutinous rice)
+- Chakuwa rice
+- Normal rice, identified as Sali variety
+- Sometimes a mixture of all three
+
+The article qualitatively ranks Bora rice beverage most favourably for taste, sweetness, yellow colour and aroma; a mixture is described as next best; Chakuwa is described as having high alcohol concentration; normal Sali rice as paler, slightly bitter and lower in alcohol. These are qualitative author-reported sensory observations, not measured alcohol percentages or controlled comparative chemistry.
+
+## 4. Su-pitha / Modor-pitha starter preparation
+
+The source describes the following process:
+
+1. Starter plants are collected from homestead gardens, tea gardens, private forests, roadsides, riversides, agricultural fields and natural forests.
+2. *Amblovenatum opulentum* is described as the largest-quantity plant and is sun-dried first: 1–2 days in summer or 3–4 days in winter. Other plant materials are generally kept fresh because drying them makes pounding difficult.
+3. Normal Sali rice is soaked for 3–4 hours, drained for about one hour and washed.
+4. Rice and plant materials are pounded together in a **Dheki** (wooden mortar).
+5. The mixture is sieved through a bamboo sieve and then a finer metal sieve, repeatedly, until powdered.
+6. Clean water is added to make a paste. Round cakes of about 2.5 cm diameter are formed.
+7. Each fresh cake is coated with powder from a selected old Su-pitha cake, which serves as the back-slopping inoculum.
+8. Cakes are covered above and below with paddy straw for four days in summer or six days in winter. The source describes a white surface growth.
+9. Cakes are air-dried for 2–3 hours, then placed on a bamboo frame called **Dhua chang** or a bamboo sieve over the kitchen fire. Smoke/heat dries them in 2–3 days.
+10. The dried starter cakes are ready for use or storage; the paper reports usual storage of 2–3 months.
+
+The paper does not give exact mass ratios for the 81 plant species, nor does it provide a standardized recipe for every village. Do not turn this description into a universal formula.
+
+## 5. Saj / Laopani fermentation and extraction
+
+The article reports:
+
+1. Wash and cook the selected rice variety. Bora rice is cooked in boiling-water steam, as described by the author.
+2. Spread the cooked rice on banana leaves and cool for about one hour.
+3. Crush Su-pitha and mix at **3–5 starter cakes per kg of rice**.
+4. Cover the inoculated rice with banana leaves and allow an initial fermentation of **1–2 days in summer** or **3–4 days in winter**.
+5. Transfer the fermented mixture to a smoked and dried earthen pot and continue fermentation for **5–7 days**.
+6. Add approximately **1.5 litres of clean water per kg of rice** to the pot. After 12 hours, pour off or sieve the first extraction, called **Rohi mod**.
+7. Add approximately **1 litre of water to the remaining fermented mass per kg**, mix and sieve a second time to obtain **Choka mod**.
+8. The paper describes Choka mod as white, more turbid and lower in alcohol. The remaining solid mass is reported as animal feed.
+
+The paper says the process is kept away from citrus plants because the author reports they can make the product sour. This is a reported traditional practice, not a controlled experiment proving a general citrus-avoidance mechanism.
+
+**No alcohol concentration was measured or reported** for Saj, Rohi mod or Choka mod in this field survey. Do not import alcohol percentages from Bodo Emao/Jou papers or other communities.
+
+## 6. Plant diversity in Su-pitha
+
+The publisher PDF reports **81 plant species in 47 families** in Table 1 and the body text. The paper states:
+- 50 species were common to all ten surveyed villages.
+- The remaining 31 were not common to all villages.
+- One village used as many as 61 species.
+- The 81 taxa are the total documented across the ten-village Jorhat sample, not 81 species in every starter cake.
+- Plant parts recorded include leaves (46 species), whole plants (19), fronds (6), leaves and bark (2), young shoots (2), and several other part categories.
+
+### Source-transcribed botanical names
+
+The following is a transcription of the publisher PDF's Table 1 botanical-name column. Printed spellings are retained rather than silently corrected:
+
+1. *Phlogacanthus thyrsiflorus*
+2. *Thunbergia grandiflora*
+3. *Cyathula prostrata*
+4. *Centella asiatica*
+5. *Cryptolepis sinensis*
+6. *Alstonia scholaris*
+7. *Lasia spinosa*
+8. *Epipremnum aureum*
+9. *Hydrocotyle sibthorpioides*
+10. *Elephantopus scaber*
+11. *Calyptocarpus vialis*
+12. *Blechnum orientale*
+13. *Stenochlaena palustris*
+14. *Ananas comosus*
+15. *Cannabis sativa*
+16. *Merremia umbellata*
+17. *Argyreia argentea*
+18. *Cheilocostus speciosus*
+19. *Solena amplexicaulis*
+20. *Croton caudatus*
+21. *Croton tiglium*
+22. *Desmodium laxiflorum*
+23. *Spatholobus* sp.
+24. *Rhynchosia aurea*
+25. *Flemingia strobilifera*
+26. *Dicranopteris linearis*
+27. *Callicarpa macrophylla*
+28. *Leucas aspera*
+29. *Clerodendrum infortunatum*
+30. *Callicarpa arborea*
+31. *Litsea cubeba*
+32. *Cinnamomum bejolghota*
+33. *Cinnamomum tamala*
+34. *Litsea salicifolia*
+35. *Legazpia polygonoides* (spelling as printed)
+36. *Lindernia ruellioides*
+37. *Lycopodium clavatum*
+38. *Cuphea carthagenensis*
+39. *Magnolia pterocarpa*
+40. *Magnolia mannii*
+41. *Sida cordifolia*
+42. *Melastoma malabathricum*
+43. *Osbeckia nepalensis*
+44. *Cissampelos sympodialis*
+45. *Streblus asper*
+46. *Artocarpus heterophyllus*
+47. *Ficus hispida*
+48. *Psidium guajava* (table spelling)
+49. *Eurya nitida*
+50. *Phyllanthus niruri*
+51. *Piper nigrum*
+52. *Piper betle*
+53. *Piper longum*
+54. *Scoparia dulcis*
+55. *Oryza sativa*
+56. *Saccharum officinarum*
+57. *Persicaria hydropiper*
+58. *Polygonum hastatosagittatum*
+59. *Polygonum muricatum*
+60. *Ardisia arborea*
+61. *Pteris semipinnata*
+62. *Naravelia zeylanica*
+63. *Rubus paniculatus*
+64. *Mussaenda frondosa*
+65. *Oldenlandia diffusa*
+66. *Coffea bengalensis*
+67. *Mussaenda roxburghii*
+68. *Ixora polyantha*
+69. *Hedyotis scandens*
+70. *Paederia foetida*
+71. *Zanthoxylum nitidum*
+72. *Lygodium microphyllum*
+73. *Lygodium flexuosum*
+74. *Smilax ovalifolia*
+75. *Solanum torvum*
+76. *Symplocos grandiflora*
+77. *Amblovenatum opulentum*
+78. *Pouzolzia zeylanica*
+79. *Leea indica*
+80. *Curcuma longa*
+81. *Zingiber officinale*
+
+The article's table is a source transcription, not a taxonomic validation. It does not provide voucher accession numbers, an herbarium deposition crosswalk, or a village-by-village presence matrix. Botanical names should be taxonomically checked against current references before being used for scientific plant records.
+
+**Safety and evidence boundary:** the paper's designation “medicinal plants” is an ethnobotanical description. It does not establish clinical efficacy, safe oral doses or safety of every listed species. Some listed taxa (including *Croton tiglium* and *Cannabis sativa*) warrant specialist toxicological and legal review. The list is not a recipe or a recommendation to ingest or cultivate any plant. The article does not state that every plant is used in every cake or every village.
+
+## 7. Internal count discrepancy
+
+The publisher-hosted PDF's abstract, Table 1 and body state **81 species**. A secondary Academia.edu text/metadata extraction displays “51 plants” in an abstract excerpt, likely a transcription/indexing error. The original publisher PDF is the controlling source for the archive entry, but the mismatch is retained in ASM-GAP-131 for clarification. The audit does not use the secondary “51” count.
+
+## 8. Cultural and current-practice claims
+
+The author reports Saj/Laopani preparation for Bihu, ritual functions, birth and marriage ceremonies, and offerings to ancestors. The paper also reports declining knowledge/availability of some plant species and that some younger people are less familiar with them. These are author-reported findings from the 2020 field survey, not a current 2026 prevalence survey.
+
+The article makes health, energy and “hallucination” statements about Saj. These are not clinical findings and should not be repeated as established effects. It also mentions historical prices for starter cakes and rice beer; these are 2020-era observations and are not current market prices.
+
+## 9. Repository changes
+
+- Added SRC-312 to `sources/source_register.csv`.
+- Added ASM-039-SAJ to `data/beverages.csv`, scoped to the Chaodang community and the ten surveyed Jorhat villages.
+- Added ASM-GAP-131 to `data/research_gaps.csv` for GPS recovery, village-level plant matrices, voucher records, terminology confirmation and the 81/51 secondary metadata discrepancy.
+- No separate canonical beverage records were created for Rohi mod and Choka mod; they remain extraction variants pending community terminology validation.
+- No plant-use or safety recommendations were created.
+
+## 10. Next research actions
+
+1. Recover the Figure 1 GPS locations or ask the author for the original coordinate sheet/GIS layer.
+2. Request village-wise plant-use matrices, plant voucher/accession details and photographs/field notebook references.
+3. Confirm current Chaodang terminology for Saj, Laopani, Rohi mod and Choka mod with community knowledge holders.
+4. Verify whether Su-pitha and Modor-pitha are synonyms, variants or locality-specific names; the paper prints both but does not give a detailed distinction.
+5. Conduct a new consent-led survey before claiming present-day prevalence, market activity or village-level production.
+6. If laboratory alcohol/chemistry data are needed, commission independent sampling and analysis; this article provides no quantitative ethanol values.
+
+**Conclusion:** SRC-312 is a high-value field source because it names ten survey villages, reports 80 key informants and prior informed consent, records GPS use, and documents a detailed Chaodang starter and beverage process. It also records a remarkably broad plant inventory. Its limits are the absence of village-specific recipes, GPS coordinate table, plant voucher identifiers and measured beverage chemistry. Keep the full 81-taxon list at source level until those provenance gaps are resolved.
