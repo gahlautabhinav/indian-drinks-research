@@ -17,7 +17,7 @@ The chapter's table associates:
 - **Karbi:** Zu (rice beer).
 - **Kuki:** Zu (rice beer).
 - **Baite:** Remalu's Baitui and Bumong's Baitui (rice beers).
-- **Hrangkol:** Saphak Zunak and Zuhning (rice beer table labels); the table also has an anomalous “Pork fat” row with rice substrate.
+- **Hrangkol:** the extracted table appears to list “Saphak Zunak” and “Zuhning” as rice beer, followed by an anomalous “Pork fat / Rice” row. Cross-checking SRC-305 shows Saphak is fermented pork fat, not a beverage; therefore “Saphak Zunak” is treated as a likely table-layout/transcription ambiguity, not a confirmed compound beverage name. Zunak is separately listed as a North Cachar Hills rice beer in SRC-097, but its community is not resolved by the accessible abstract.
 - **Vaiphee:** Bekanthu (soybean), Sathu (pork/beef fat), Tuithuok (bamboo shoot), Sithu (sesame), Ankam thu (mustard leaf), Aithu (crab). These are fermented foods, not alcoholic beverages.
 - **Khelma:** beverage/product not known in table.
 
@@ -46,7 +46,7 @@ The process heading is “Nduijao bung.” Biron rice is cooked, sometimes with 
 **Critical cross-source issue:** this is a finished-beverage process absent from SRC-109, but the starter is called Nduhi rather than Nduiyi. Do not replace the 2017 starter recipe or assert synonymy without confirmation.
 
 ### Zunak and Zuhing / Zuhning (Hrangkol table attribution)
-Biron rice is cooked and mixed with Humao, then kept 7–8 days in a gourd or an earthen pot with a lower outlet. The liquid emerging from the lower opening is called Zuhing; residual rice is called Zunak and is served after mixing with water. The opening table lists Saphak Zunak and Zuhning under Hrangkol, but the process text does not restate the community. The liquid and residual rice are distinct outputs; whether Zuhing is a separately consumed beverage remains unresolved.
+Biron rice is cooked and mixed with Humao, then kept 7–8 days in a gourd or an earthen pot with a lower outlet. The liquid emerging from the lower opening is called Zuhing; residual rice is called Zunak and is served after mixing with water. The extracted opening table appears to list “Saphak Zunak” and Zuhning under Hrangkol, but SRC-305 explicitly identifies Saphak as fermented pork fat among Hrangkol (and Sathu among Vaipei). The 2009 article abstract separately lists Zunak as a North Cachar Hills rice beer, without community attribution in the accessible excerpt. Treat the apparent “Saphak Zunak” row as a table alignment/transcription issue until the original print page is inspected. The process text does not restate the community. The liquid and residual rice are distinct outputs; whether Zuhing is a separately consumed beverage remains unresolved.
 
 ### Remalu's Baitui (Baite)
 The chapter describes Remalu's Chol starter: local crop seeds called Remalu are soaked, placed in a Khamulua basket to sprout for three days, sun-dried and mixed with wet rice into a paste. For Baitui, Biron rice is ground, soaked overnight, husk removed by sieving, mixed with starter and lukewarm water, stirred with Hetatang, poured into an Um/Lao vessel, sealed and kept near the fireplace for three days. The plant/crop identity and the relationship between Um and Lao are not supplied.
@@ -67,7 +67,7 @@ No fieldwork dates, villages, sample counts, named producers, interview schedule
 - Added SRC-304 with the full-text chapter and explicit limitations.
 - Added provisional beverage records ASM-033-JUH, ASM-034-DEK, ASM-035-ZUN, ASM-036-ZUH, ASM-037-RMB and ASM-038-BMB.
 - Added ASM-MTH-042–047 for source-specific processes, including a separate 2011 Nduijao-bung account under existing ASM-026-NDJ; did not replace its 2017 Nduiyi starter recipe.
-- Added ASM-GAP-124 (High/Open) for terminology, source overlap, starter identity and locality validation.
+- Added ASM-GAP-124 (High/Open) for terminology, source overlap, starter identity and locality validation. Added SRC-305 (Das & Deka 2012) as a cross-source review and ASM-GAP-125 (High/Open) for the Hrangkol table alignment and Zunak/Zuhing attribution. Updated ASM-035-ZUN to remove the unsupported compound name “Saphak Zunak” and leave community attribution unresolved.
 - No village-level place rows were created; the chapter has no named field localities.
 - Rengmai Naga Bhodka and Cholai; Karbi and Kuki Zu; and other table-only names remain source mentions, not canonical records, pending better identity and method evidence.
 
@@ -80,3 +80,8 @@ No fieldwork dates, villages, sample counts, named producers, interview schedule
 5. Only add locality records after a named field site is explicitly linked to a product and evidence type.
 
 **Archive status:** Full-text reviewed; district-level historical beverage inventory expanded; no village-level distribution or current prevalence inferred.
+
+
+## 8. Cross-source correction entered on 20 November 2026
+
+Das & Deka (2012; SRC-305) explicitly describe **Saphak** as fermented pork fat among Hrangkol and **Sathu** as fermented pork fat among Vaipei (pp. 390–391 in the review's printed pagination). This conflicts with a literal reading of the extracted 2011 table row “Saphak Zunak (rice beer)”. The 2009 Chakrabarty et al. abstract separately lists **Zunak** as a North Cachar Hills rice beer. Accordingly, the archive now records **Zunak** alone and does not treat “Saphak Zunak” as a confirmed compound name. The Hrangkol assignment of Zunak and the relationship between Zuhning (table) and Zuhing (process text) remain unresolved. No Saphak beverage record was created.
