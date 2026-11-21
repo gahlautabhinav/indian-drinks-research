@@ -741,3 +741,48 @@ A response should be archived as correspondence evidence, not treated as taxonom
 - Assam University, Department of Ecology and Environmental Science, official departmental profile and faculty directory: https://www.aus.ac.in/ecology-and-environmental-science/
 
 **Status:** this improves the recovery route for SRC-318 and SRC-312 entry 44, but does not close ASM-GAP-139. No contact has been made and no specimen has been recovered.
+
+
+## 23. Bichikri *Ardisia arborea*: companion study, voucher repository and direct author route (21 November 2026)
+
+### 23.1 A second 2020 study by the same research team gives a stronger herbarium trail
+
+Baidya, Thakur and Devi also published “Ethnomedicinal plants of the sacred groves and their uses by Karbi tribe in Karbi Anglong district of Assam, Northeast India” in *Indian Journal of Traditional Knowledge* 19(2):277–287 (2020), DOI 10.56042/ijtk.v19i2.35375 (SRC-323). It concerns the same Bichikri and Harlong sacred groves and reports a 2017 field survey. Its methods explicitly state that herbarium specimens for each of the 38 ethnomedicinal species were prepared and housed in the **Tezpur University Herbarium, Department of Environmental Science**. Table 1 prints a voucher number for each of those 38 taxa.
+
+This is materially stronger than the general caretaker/Flora of Assam identification method described in the separate 2017–2018 floristic-composition paper (SRC-316). It identifies a named herbarium repository and demonstrates that the team used numbered vouchers for at least the ethnomedicinal subset.
+
+However, *Ardisia arborea* does **not** appear in the companion study's 38-species ethnomedicinal table. This is not evidence that the tree was absent from Bichikri: the paper's scope is medicinally used species, not the complete flora. It does mean that none of the 38 voucher numbers in this companion article can be assigned to the *A. arborea* tree record. The separate floristic paper still gives no accession or explicit voucher-deposition statement for that tree.
+
+### 23.2 The correct question is now specific
+
+The Tezpur University Herbarium is a named repository to query. The enquiry should not merely ask “do you have *Ardisia arborea*?” It should identify the exact source and ask whether any collection was made during the 2017–2018 quadrat/floristic survey for the Bichikri tree reported as *Ardisia arborea* Koord. & Valeton (frequency 2%, abundance 1, density 2 ha⁻¹, basal area 0.09 m² ha⁻¹, IVI 3.33). Request:
+
+1. Field collection number, herbarium accession and collector(s), if any.
+2. Whether the plant was collected with flowers/fruits, photographed in situ, or only identified in the field.
+3. Original field notebook, species checklist, quadrat sheet and GPS/locality record for the individual or quadrat.
+4. Any determination slip, herbarium label, later annotation or taxonomic redetermination.
+5. Whether a living tree, stump, or repeat population can be relocated at Bichikri with the community's permission.
+6. Whether any sheet or image was deposited in another herbarium, including ASSAM or CAL, rather than Tezpur University.
+
+### 23.3 Direct institutional route verified
+
+The 2020 floristic paper names Ashalata Devi as corresponding author and provides the address ashalatadevi12@gmail.com. Tezpur University's current Environmental Science directory separately lists Prof. Kh. Ashalata Devi and institutional email **kh_asha@tezu.ernet.in**. The university's Centre of Excellence team page also lists Dr. Shilpa Baidya and Bijay Thakur among project staff and Prof. Ashalata Devi as Principal Investigator. This is a verified institutional route for an evidence-recovery enquiry (SRC-324), not proof that any individual personally holds the target specimen.
+
+No email, call or specimen request has been made. The next action, if authorised, is a carefully scoped enquiry to the corresponding author and the Tezpur University Herbarium asking for the specific 2017–2018 *A. arborea* field/voucher trace, not a generic request for medicinal plant data.
+
+### 23.4 Revised evidence grade
+
+- **Published occurrence claim:** confirmed as a literature report for Bichikri; the 2020 floristic table reports one individual-equivalent abundance and low frequency/density.
+- **Field identification basis:** caretaker knowledge for routine species names; difficult field identifications checked against *Flora of Assam*. The paper does not describe a voucher for this entry.
+- **Voucher evidence for this exact tree:** not recovered. The companion Karbi ethnomedicinal paper has voucher-numbered specimens for its 38 medicinal taxa, but *A. arborea* is not among them.
+- **Repository lead:** Tezpur University Herbarium, Department of Environmental Science, now explicitly identified by the companion paper.
+- **Taxonomic status:** retain the source determination *Ardisia arborea* Koord. & Valeton, but mark it **unverified field determination / Assam literature report pending voucher traceability**. Do not upgrade it to a confirmed range extension or replace it with *A. colorata*, *Reissantia arborea* or another taxon.
+
+### References
+
+- Baidya, S., Thakur, B. & Devi, A. (2020). Ethnomedicinal plants of the sacred groves and their uses by Karbi tribe in Karbi Anglong district of Assam, Northeast India. *Indian Journal of Traditional Knowledge* 19(2):277–287. DOI: https://doi.org/10.56042/ijtk.v19i2.35375. Full text: https://pdfs.semanticscholar.org/f558/87942939352301b0c4cafc76191a2d46d63e.pdf
+- Tezpur University, Department of Environmental Science faculty directory: https://www.tezu.ernet.in/contact/denvsc.html
+- Tezpur University, DST Centre of Excellence team: https://www.tezu.ernet.in/denvsc/coe/team.html
+- Baidya et al. (2020), floristic composition paper (SRC-316): https://doi.org/10.22271/tpr.2020.v7.i2.035
+
+**Limit:** no specimen has been retrieved or inspected and no institution or author has been contacted. The repository route is now specific, but the *A. arborea* identification remains open.
