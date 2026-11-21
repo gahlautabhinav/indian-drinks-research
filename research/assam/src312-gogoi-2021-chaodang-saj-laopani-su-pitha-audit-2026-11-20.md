@@ -668,3 +668,42 @@ The Mising paper creates a concrete second herbarium enquiry route: Assam Univer
 - USDA GRIN Taxonomy, *Cissampelos sympodialis*: https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=484486
 
 **Limit:** the 2018 paper's general herbarium-method statement does not establish that the cited row has a retrievable, correctly determined voucher. No enquiry has been made to Assam University or the authors. The Chaodang and Mising traditions remain distinct records; do not merge their plant-use claims or community knowledge.
+
+
+## 21. Herbarium-catalogue cross-check: separating similar names from actual specimen evidence (21 November 2026)
+
+### 21.1 BSI Indian Virtual Herbarium is a real route, not a positive identification
+
+The Botanical Survey of India describes the Indian Virtual Herbarium as a searchable digital collection of dried-plant specimens. Its label metadata can include scientific name, collector, collection number, collection date, herbarium region and locality, and the portal covers BSI collections including the Eastern Regional Centre herbarium ASSAM at Shillong and the Central National Herbarium CAL. This is the correct kind of source for a voucher-led follow-up because it exposes specimen-level metadata and images rather than only a checklist name.
+
+A targeted web-index search in this pass did **not** return a verifiable BSI specimen for either *Cissampelos sympodialis* or *Ardisia arborea*. The live portal could not be reliably opened by the web reader during this pass. Therefore the portal is logged as a discovery route (SRC-320), not as evidence that either taxon is represented in its holdings. A direct manual search by accepted name, source spelling, collector and Assam state remains outstanding.
+
+### 21.2 NEHU Dhemaji digitisation gives a useful Ardisia comparator, but it is a different species
+
+An NEHU-hosted digitisation PDF, “Digital images of herbarium vouchers of flora of Dhemaji district Assam, NE India,” publishes label-style metadata and specimen images for regional collections. Its *Ardisia* entry is ** *Ardisia colorata* Roxb.**, accession 12465, field number 267, collected 14 January 2014 from Poba Reserve Forest. It is not *Ardisia arborea* Koord. & Valeton (SRC-312 entry 60).
+
+This is useful because it demonstrates a local, accession-bearing route for examining Ardisia material from Dhemaji and supplies a concrete regional comparison. It does not authenticate the Chaodang plant, and it must not be used to substitute *A. colorata* for the printed *A. arborea*. The compilation also contains apparent metadata/transcription inconsistencies in other entries, so any future comparison should be checked against the original sheet and accession register, not just the extracted PDF text.
+
+### 21.3 A misleading search hit: *Reissantia arborea* is not *Ardisia arborea*
+
+A search of the MNHN vascular-plant catalogue by collector A.C. Chatterjee returned an Assam collection identified as *Reissantia arborea* (Roxb.) Hara, locality transcribed as “Jvia” (MNHN-P-P00534394). This is a different genus from *Ardisia*. The shared specific epithet “arborea” is not a taxonomic match and does not corroborate the SRC-312 *Ardisia arborea* determination. This is logged specifically to prevent a false positive in later name searches.
+
+The same MNHN catalogue separately records the type of *Cissampelos sympodialis* Eichler as Gardner 1234, Alagoas, Brazil, 1839 (P00745162; a second catalogue record P00745163 is also listed). This is consistent with the eastern-Brazil range treatment in POWO, but it is type material, not an Assam occurrence. The catalogue search did not reveal an Assam *C. sympodialis* voucher in this pass.
+
+### 21.4 Updated determination status and next retrieval actions
+
+- **SRC-312 entry 44 — *Cissampelos sympodialis*:** two Assam ethnobotanical papers use the same name/near-matching vernacular label, but neither accessible row supplies a retrievable species-level voucher. The type and current range evidence remain Brazilian. Status stays **unresolved identification / possible repeated misapplication or vernacular-name mapping**; do not call it an Assam range extension.
+- **SRC-312 entry 60 — *Ardisia arborea*:** the Bichikri paper remains a published Assam literature-level report without accessible voucher details. The NEHU Dhemaji voucher is *A. colorata*, not *A. arborea*. The MNHN Assam hit is *Reissantia arborea*, not *Ardisia arborea*. Status stays **conflicting Assam report; voucher identity unresolved**.
+- **BSI/ASSAM and CAL:** search the Indian Virtual Herbarium manually for exact names and spelling variants, then request label images for any plausible Assam/Jorhat/Dhemaji record. Do not treat search-index absence as proof of no specimen.
+- **Assam University:** seek the Mising survey's *Cissampelos* collector number, sheet image, locality and determiner, and verify whether the stated deposited material can be retrieved.
+- **NEHU:** use accession 12465 only as a local *Ardisia* comparison; request original image/label if taxonomically relevant, not as a substitute for SRC-312 material.
+
+### References added
+
+- Botanical Survey of India, Indian Virtual Herbarium: https://ivh.bsi.gov.in/
+- NEHU, “Digitization of Herbarium: Digital images of herbarium vouchers of flora of Dhemaji district Assam, NE India”: https://nehu.ac.in/public/uploads/Digitization_of_Herbarium_compressed.pdf
+- MNHN catalogue, A.C. Chatterjee Assam collections: https://science.mnhn.fr/all/list?recordedBy=Chatterjee%2C+A.C.
+- MNHN type specimen *Cissampelos sympodialis* P00745162: https://science.mnhn.fr/institution/mnhn/collection/p/item/p00745162
+- Kew POWO, *Ardisia arborea*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:586735-1/general-information
+
+**Limit:** no Assam/Jorhat voucher for either target species has been recovered in this pass; no author, herbarium or institution has been contacted. The new sources improve the search path and eliminate two name-confusion traps, but they do not settle either identification.
