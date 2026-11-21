@@ -930,3 +930,16 @@ Kew POWO now accepts *Ardisia assamica* M.Baruah and gives its native range as A
 **Next specimen-led actions:** obtain the full article and type-material details; request original SRC-312 plant photographs, collection labels and herbarium accessions from the author; request the Bichikri tree-quadrat sheet and any specimen/photo from the Tezpur team; ask a Primulaceae specialist to compare all material against the 2025 diagnosis and the relevant Assam taxa. No author or institution has been contacted.
 
 **Evidence grade:** peer-reviewed new-species description and current Kew taxonomic acceptance; strong regional taxonomic comparator, but no direct determination of either unresolved field record.
+
+
+## 28. Voucher-backed Assam *Ardisia pedunculosa* record (2025) — regional comparator (21 November 2026)
+
+A second 2025 Gauhati University publication by Manash Baruah and Nilakshee Devi reports *Ardisia pedunculosa* Wall. as an addition to the flora of Assam: “*Ardisia pedunculosa* Wall. (Primulaceae): extended distribution and addition to the flora of Assam, India,” *Vegetos*, DOI 10.1007/s42535-025-01523-4 (SRC-329). The publisher abstract says the species had previously been known from Meghalaya, Arunachal Pradesh and Bangladesh and is newly reported for Assam, with a detailed description and photographs.
+
+A contemporaneous report quoting lead author Manash Baruah and describing the field finding states that the plants were located during an April 2024 floristic survey in tropical moist deciduous forest in Bherjan Borajan Padumoni Wildlife Sanctuary, Tinsukia district; the researchers checked the identification against national and international herbarium databases and deposited a voucher at Gauhati University Botanical Herbarium (GUBH). The report says six plants were observed, along forest roadsides in semi-shaded locations. These are secondary-report details and should be checked against the paper and GUBH accession register before treating them as specimen metadata. Kew POWO now accepts *A. pedunculosa* and includes Assam in its native range.
+
+This record is valuable for two reasons: it is a recent Assam occurrence supported by a reported deposited voucher, and it supplies a concrete herbarium target (GUBH) for a future specimen-led comparison. It is not *A. arborea*, does not identify SRC-312 entry 60, and does not prove that the Bichikri *A. arborea* observation is a misidentification. The sanctuary locality is Tinsukia, not Jorhat or West Karbi Anglong. Do not use the species as a substitute for either unresolved field record.
+
+**Follow-up:** obtain the full Vegetos paper and GUBH accession/collector number, collection date, exact locality/coordinates, determiner and high-resolution sheet/field photographs. Ask whether the same herbarium has any *Ardisia* accessions from the Bichikri or Jorhat study localities. Any comparison should be made by a Primulaceae specialist using fertile specimens and current keys. No author or herbarium has been contacted.
+
+**Evidence grade:** peer-reviewed Assam distributional record; voucher deposition is reported by contemporaneous secondary coverage but accession number not yet independently verified.
