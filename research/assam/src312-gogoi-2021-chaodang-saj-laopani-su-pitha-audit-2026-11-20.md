@@ -272,3 +272,49 @@ POWO also places *Blechnum orientale* and *Stenochlaena palustris* in Aspleniace
 - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17059900-1 (12); https://powo.science.kew.org/taxon/17223880-1 (13); https://powo.science.kew.org/taxon/12322-2 (14); https://powo.science.kew.org/taxon/306087-2 (15)
 - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:270596-1 (16 synonym); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77163301-1 (accepted name); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60454727-2 (17)
 - https://powo.science.kew.org/taxon/77074291-1 (18 synonym); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60469691-2 (accepted name); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:294042-1 (19); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:342252-1 (20)
+
+
+## 13. Taxonomic reconciliation tranche 2 — Table 1 entries 21–40 (21 November 2026)
+
+**Method:** source spellings are retained. POWO status and family are nomenclatural cross-references only; they do not verify the Chaodang specimen. “Accepted” means accepted in the current Kew Plants of the World Online (POWO) backbone at the time checked.
+
+| No. | SRC-312 printed name | POWO status / accepted-name treatment | POWO family | Archive decision |
+|---:|---|---|---|---|
+| 21 | *Croton tiglium* | Accepted | Euphorbiaceae | Retain source spelling; no nomenclatural change indicated |
+| 22 | *Desmodium laxiflorum* | Synonym of *Sohmaea laxiflora* | Fabaceae | Record accepted-name cross-reference; retain printed name |
+| 23 | *Spatholobus* sp. | Genus-level identification only; no species epithet supplied | Fabaceae (genus placement) | Do not infer *S. suberectus* or any other species; voucher/photo needed |
+| 24 | *Rhynchosia aurea* | Accepted | Fabaceae | Retain source spelling |
+| 25 | *Flemingia strobilifera* | Accepted | Fabaceae | Retain source spelling |
+| 26 | *Dicranopteris linearis* | Accepted | Gleicheniaceae | Retain source spelling |
+| 27 | *Callicarpa macrophylla* | Accepted | Lamiaceae | Retain source spelling |
+| 28 | *Leucas aspera* | Accepted | Lamiaceae | Retain source spelling |
+| 29 | *Clerodendrum infortunatum* | Accepted | Lamiaceae | Retain source spelling |
+| 30 | *Callicarpa arborea* | Accepted | Lamiaceae | Retain source spelling |
+| 31 | *Litsea cubeba* | Accepted | Lauraceae | Retain source spelling |
+| 32 | *Cinnamomum bejolghota* | Accepted | Lauraceae | Retain source spelling |
+| 33 | *Cinnamomum tamala* | Accepted | Lauraceae | Retain source spelling |
+| 34 | *Litsea salicifolia* | Accepted | Lauraceae | Retain source spelling |
+| 35 | *Legazpia polygonoides* | Synonym of *Torenia polygonoides* (already recorded in tranche 1) | Linderniaceae | Cross-reference only; retain printed name |
+| 36 | *Lindernia ruellioides* | POWO's spelling *Lindernia ruelloides* is a synonym of *Bonnaya ruelloides*; POWO notes alternative regional authorities that accept *Lindernia ruellioides*. | Linderniaceae | Preserve exact paper spelling; flag spelling/backbone variation rather than force correction |
+| 37 | *Lycopodium clavatum* | Accepted | Lycopodiaceae | Retain source spelling; POWO species record includes accepted subspecies |
+| 38 | *Cuphea carthagenensis* | Accepted; POWO lists Assam among introduced areas, not native range | Lythraceae | Taxon is nomenclaturally accepted, but its presence in the field inventory is not evidence of native status; possible introduced/naturalised occurrence needs local specimen confirmation |
+| 39 | *Magnolia pterocarpa* | Accepted | Magnoliaceae | Retain source spelling |
+| 40 | *Magnolia mannii* | Accepted | Magnoliaceae | Retain source spelling |
+
+### Tranche 2 interpretation
+
+Two clear name-level changes occur in this tranche: *Desmodium laxiflorum* is treated by POWO as a synonym of *Sohmaea laxiflora*, and the source's *Lindernia ruellioides* is associated with POWO's *Lindernia ruelloides* synonym record under *Bonnaya ruelloides*. The latter is not a simple typo correction: POWO itself records regional works that used the spelling *Lindernia ruellioides* under an alternative taxonomy. Keep the source spelling and record the alternative treatment.
+
+The *Spatholobus* entry is only “sp.”; the fact that POWO recognises *Spatholobus suberectus* as a species does not justify assigning that epithet to this specimen. A genus-level entry must remain genus-level until a voucher, photograph or diagnostic description supports identification.
+
+*Cuphea carthagenensis* is accepted by POWO, but POWO records Assam as an introduced range. This is a biogeographic caution, not a reason to remove it from the ethnobotanical list: an introduced plant may be locally available and used. The paper's record does not establish when or how it arrived, whether it is naturalised at the collection sites, or the identity of the actual specimen.
+
+### POWO records consulted
+
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:343631-1 (21); https://powo.science.kew.org/taxon/491862-1 (22; synonym to *Sohmaea laxiflora*)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:519185-1 (illustrates accepted *Spatholobus suberectus*; not an identification of source's “sp.”); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326398-2 (24); https://powo.science.kew.org/taxon/495307-1 (25); https://powo.science.kew.org/taxon/17245530-1 (26)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861393-1 (27); https://powo.science.kew.org/taxon/449314-1 (28); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:862159-1/general-information (29); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861250-1 (30)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465621-1 (31); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463310-1 (32); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463718-1 (33); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:466007-1 (34)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:805232-1 (36; synonym and alternative regional treatments); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:304307-2 (37); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:72326-2 (38); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554815-1 (39); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:20011705-1 (40)
+
+**Scope limit:** tranche 2 covers entries 21–40 only. It does not validate the plant specimens, reproduce the full vernacular-name and plant-part columns, or reconcile all family labels in the original Table 1. Entries 41–81 remain pending.
