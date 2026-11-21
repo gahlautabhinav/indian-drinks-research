@@ -434,3 +434,28 @@ A source-faithful CSV transcription has been added at `data/assam/src312-chaodan
 ### What this resolves and what remains open
 
 The original family, vernacular and plant-part columns are now available for systematic audit. The article states that 46 taxa contribute leaves, 19 whole plants, six fronds, two leaves and barks, two young shoots, and one each for the remaining listed part-combinations/categories. This aggregate count should be independently recomputed from the CSV before being used in analysis. The paper also reports 47 families; the CSV should be checked against that figure and the family frequency narrative. The next QA pass should compare the 81 source rows against the PDF page image, then validate row counts, family totals and plant-part totals programmatically, and finally append modern family/taxonomy fields without altering the source columns.
+
+
+## 17. Table 1 transcription QA — row, family and plant-part reconciliation (21 November 2026)
+
+The committed CSV was fetched back from GitHub and parsed independently. Checks passed: 81 data rows in sequence (1–81), 11 fields per row, no missing row numbers, and 47 distinct source family labels. The 47-family count agrees with the article's narrative.
+
+Plant-part counts also reconcile with the article when the source's capitalisation variants are grouped without changing the raw CSV values:
+
+| Source category | Recomputed count | Article narrative |
+|---|---:|---:|
+| Leaves | 46 | 46 |
+| Whole plants (case-insensitive grouping of “Whole Plants” and “Whole plants”) | 19 | 19 |
+| Fronds | 6 | 6 |
+| Leaves and barks | 2 | 2 |
+| Young shoots | 2 | 2 |
+| Fronds and rhizome | 1 | 1 |
+| Leaves and flowers | 1 | 1 |
+| Leaves and seeds | 1 | 1 |
+| Rhizomes | 1 | 1 |
+| Seeds | 1 | 1 |
+| Soft parts of leaves | 1 | 1 |
+
+**QA outcome:** source family total and plant-part distribution agree with the article's prose. This is a transcription consistency check, not an independent botanical identification. Source family names and plant-part strings remain unmodified in the CSV; normalisation is applied only for aggregate counting.
+
+**Remaining verification:** obtain a high-resolution image/scan of journal page 64 to check exact typography, author citations and vernacular spelling (especially “Chatiyana)” in row 6), and establish whether the single vernacular-name column can be mapped to Chaodang versus Assamese. The article's photographs and stated plant collection do not supply accessible herbarium accession numbers in the material reviewed.
