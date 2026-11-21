@@ -208,3 +208,21 @@ The article makes health, energy and “hallucination” statements about Saj. T
 6. If laboratory alcohol/chemistry data are needed, commission independent sampling and analysis; this article provides no quantitative ethanol values.
 
 **Conclusion:** SRC-312 is a high-value field source because it names ten survey villages, reports 80 key informants and prior informed consent, records GPS use, and documents a detailed Chaodang starter and beverage process. It also records a remarkably broad plant inventory. Its limits are the absence of village-specific recipes, GPS coordinate table, plant voucher identifiers and measured beverage chemistry. Keep the full 81-taxon list at source level until those provenance gaps are resolved.
+
+
+## 11. Targeted botanical-name reconciliation (21 November 2026)
+
+The publisher Table 1 is a faithful source transcription, but several printed names do not map one-to-one to current backbone names. A first-pass check against Kew Plants of the World Online (POWO), Kew Medicinal Plant Names Services (MPNS), and ITIS/GBIF shows why the archive must preserve both the printed name and a separately documented taxonomic interpretation:
+
+| Table 1 entry (as printed) | External taxonomic evidence | Archive treatment |
+|---|---|---|
+| *Legazpia polygonoides* (entry 35; Linderniaceae) | Kew POWO treats *Legazpia polygonoides* as a synonym of accepted *Torenia polygonoides*. POWO gives Assam within the accepted taxon's native range. | Preserve the printed name in the source transcription; add *Torenia polygonoides* as a taxonomic cross-reference only. Do not imply the original field specimen has been re-examined. |
+| *Polygonum hastatosagittatum* (entry 58; Polygonaceae) | Kew POWO treats this as a synonym of *Persicaria hastatosagittata*. | Preserve the printed name; record the POWO accepted-name mapping as a nomenclatural crosswalk, not a new species observation. |
+| *Coffea bengalensis* (entry 66; Rubiaceae) | Kew MPNS identifies *Coffea benghalensis* B.Heyne ex Roth as the accepted name, while its medicinal-name record also captures “Coffea bengalensis” as a name used in a medicinal source. | Treat the source spelling as a name-resolution issue. Do not silently correct the row until the original specimen/photo or a taxonomic specialist confirms the intended taxon. |
+| *Amblovenatum opulentum* (entry 77; Thelypteridaceae) | ITIS and GBIF/Checklist Bank currently display *Amblovenatum opulentum* as accepted; Kew POWO instead lists it as a synonym of *Thelypteris opulenta*. | Explicit backbone disagreement. Retain the source name and record both treatments; defer a canonical accepted name until a chosen fern checklist/backbone and specimen determination are documented. |
+
+These checks do **not** validate the underlying field identifications. The paper says plant samples were collected and identified with the help of Hooker, Kanjilal and Bor, and acknowledges additional assistance with identification, but it publishes no voucher accession numbers or specimen-to-name crosswalk. A nomenclatural match cannot replace a voucher determination. The family labels in Table 1 should also remain source-transcribed until a full 81-row family audit is completed.
+
+Sources checked: Kew POWO pages for *Legazpia polygonoides* and *Polygonum hastatosagittatum*; Kew MPNS and POWO pages for *Coffea benghalensis*; ITIS and GBIF/Checklist Bank records for *Amblovenatum opulentum*. The competing treatments are recorded rather than forced into a single taxonomy.
+
+**Result:** this is a targeted reconciliation of four names, not a complete taxonomic audit of all 81 rows and not a correction of the original field inventory. The remaining 77 entries, all family assignments, vernacular-name spellings and specimen identities still require systematic review and (where possible) voucher access.
