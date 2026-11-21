@@ -318,3 +318,51 @@ The *Spatholobus* entry is only “sp.”; the fact that POWO recognises *Spatho
 - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:805232-1 (36; synonym and alternative regional treatments); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:304307-2 (37); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:72326-2 (38); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554815-1 (39); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:20011705-1 (40)
 
 **Scope limit:** tranche 2 covers entries 21–40 only. It does not validate the plant specimens, reproduce the full vernacular-name and plant-part columns, or reconcile all family labels in the original Table 1. Entries 41–81 remain pending.
+
+
+## 14. Taxonomic reconciliation tranche 3 — Table 1 entries 41–60 (21 November 2026)
+
+**Method:** POWO (Kew) used as the primary nomenclatural and distribution backbone. Printed names are preserved. Accepted-name and range statements do not validate the original field specimens or establish that the plants were collected at the study villages.
+
+| No. | SRC-312 printed name | POWO status / accepted-name treatment | POWO family | Archive decision |
+|---:|---|---|---|---|
+| 41 | *Sida cordifolia* | Accepted | Malvaceae | Retain printed name |
+| 42 | *Melastoma malabathricum* | Accepted | Melastomataceae | Retain printed name |
+| 43 | *Osbeckia nepalensis* | Accepted | Melastomataceae | Retain printed name; POWO also recognises infraspecific treatment |
+| 44 | *Cissampelos sympodialis* | Accepted, but POWO gives native range as eastern Brazil only | Menispermaceae | Major geographic anomaly for an Assam field inventory; do not replace with *Cissampelos pareira* or another species without specimen evidence. Flag for voucher/photo and author confirmation |
+| 45 | *Streblus asper* | Accepted | Moraceae | Retain printed name |
+| 46 | *Artocarpus heterophyllus* | Accepted | Moraceae | Retain printed name |
+| 47 | *Ficus hispida* | Accepted | Moraceae | Retain printed name |
+| 48 | *Psidium guajava* | Accepted | Myrtaceae | Retain printed name |
+| 49 | *Eurya nitida* | Accepted | Pentaphylacaceae | Retain printed name; accepted infraspecific taxa exist, but source gives no subspecies |
+| 50 | *Phyllanthus niruri* | Accepted by POWO; native range Tropical & Subtropical America, with no India in its native range | Phyllanthaceae | Major geographic/taxonomic anomaly. Indian taxonomic literature states true *P. niruri* does not occur in India; older Indian usages often represent *P. amarus*, *P. fraternus* or *P. debilis*. Retain source label but flag as likely misidentification requiring specimen review |
+| 51 | *Piper nigrum* | Accepted | Piperaceae | Retain printed name |
+| 52 | *Piper betle* | Accepted; POWO lists Assam as introduced range | Piperaceae | Retain; local occurrence/use is plausible, but not evidence of native status |
+| 53 | *Piper longum* | Accepted; POWO lists Assam in native range | Piperaceae | Retain printed name |
+| 54 | *Scoparia dulcis* | Accepted; POWO lists Assam as introduced range | Plantaginaceae | Retain; do not describe as native to Assam on this evidence |
+| 55 | *Oryza sativa* | Accepted | Poaceae | Retain; cultivated crop entry, not a wild-plant occurrence claim |
+| 56 | *Saccharum officinarum* | Accepted; native range New Guinea, introduced into Assam | Poaceae | Retain; distinguish introduced crop cultivation from native flora |
+| 57 | *Persicaria hydropiper* | Accepted; POWO lists Assam within native range | Polygonaceae | Retain printed name |
+| 58 | *Polygonum hastatosagittatum* | Synonym of *Persicaria hastatosagittata* (already recorded in tranche 1) | Polygonaceae | Cross-reference only; preserve printed form |
+| 59 | *Polygonum muricatum* | Synonym of *Persicaria breviochreata* | Polygonaceae | Cross-reference only; preserve printed form |
+| 60 | *Ardisia arborea* | Accepted, but POWO gives native range as Jawa only | Primulaceae | Geographic anomaly for Assam; require voucher/photo and author confirmation. Do not substitute a superficially similar Assam *Ardisia* species |
+
+### High-priority identity flags from tranche 3
+
+Three records deserve more than routine synonym mapping:
+
+1. **Entry 44 — *Cissampelos sympodialis*.** POWO accepts this name but places its native range in eastern Brazil. That is a strong biogeographic mismatch for a Jorhat ethnobotanical survey. It could reflect a misidentification, a transcription error, a cultivated/introduced plant not captured by POWO's range data, or an unusual occurrence; the current paper provides no voucher accession to decide. Keep the printed name and mark the identity unresolved.
+2. **Entry 50 — *Phyllanthus niruri*.** POWO's true *P. niruri* is American. A review of the Indian herbaceous *Phyllanthus* complex states that true *P. niruri* does not occur in India and that older Indian reports under this name commonly refer to *P. amarus*, *P. fraternus* and/or *P. debilis*. The Chaodang source's entry therefore cannot safely be accepted as a confirmed Indian *P. niruri* without a voucher or diagnostic image. This is not permission to automatically relabel it as *P. amarus*.
+3. **Entry 60 — *Ardisia arborea*.** POWO accepts the name but gives Jawa as its native range. The Assam record is therefore anomalous and needs a specimen-level check. Other *Ardisia* species are native to Assam, but none should be substituted based on genus alone.
+
+There are also useful introduced/native distinctions: POWO lists *Piper betle*, *Scoparia dulcis* and *Saccharum officinarum* as introduced in Assam, whereas *Piper longum* and *Persicaria hydropiper* are included in the Assam native range. These distribution labels describe POWO's biogeographic treatment, not the source's precise collection sites or cultivation status.
+
+### POWO and taxonomic references consulted
+
+- https://powo.science.kew.org/taxon/563600-1 (41); https://powo.science.kew.org/taxon/570989-1 (42); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:574126-1 (43)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:580453-1 (44); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:856662-1 (45); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1 (46); https://powo.science.kew.org/taxon/852981-1 (47); https://powo.science.kew.org/taxon/600841-1 (48)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828758-1 (49); https://powo.science.kew.org/taxon/194900-2 (50)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:682369-1 (51); https://powo.science.kew.org/taxon/680605-1 (52); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:682031-1 (53); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:230902-2 (54); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:316812-2 (55); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:419977-1 (56); https://powo.science.kew.org/taxon/77069479-1 (57); https://powo.science.kew.org/taxon/696113-1 (59); https://powo.science.kew.org/taxon/586735-1 (60)
+- Indian *Phyllanthus* identity literature: https://pmc.ncbi.nlm.nih.gov/articles/PMC3932249/; see also https://staff.cimap.res.in/PublicationFiles%5CPlanta_Med_2008_74_296%E2%80%93301..pdf
+
+**Scope limit:** tranche 3 covers entries 41–60 only. It does not authenticate any specimen, reproduce the paper's complete vernacular-name/plant-part columns or reconcile all family labels. Entries 61–81 remain pending.
