@@ -366,3 +366,51 @@ There are also useful introduced/native distinctions: POWO lists *Piper betle*, 
 - Indian *Phyllanthus* identity literature: https://pmc.ncbi.nlm.nih.gov/articles/PMC3932249/; see also https://staff.cimap.res.in/PublicationFiles%5CPlanta_Med_2008_74_296%E2%80%93301..pdf
 
 **Scope limit:** tranche 3 covers entries 41–60 only. It does not authenticate any specimen, reproduce the paper's complete vernacular-name/plant-part columns or reconcile all family labels. Entries 61–81 remain pending.
+
+
+## 15. Taxonomic reconciliation tranche 4 — Table 1 entries 61–81 (21 November 2026)
+
+**Method:** Kew Plants of the World Online (POWO) is used as the primary nomenclatural backbone. The source spellings remain intact. POWO accepted-name mappings and distribution data are cross-references, not determinations of the original Chaodang specimens.
+
+| No. | SRC-312 printed name | POWO status / accepted-name treatment | POWO family | Archive decision |
+|---:|---|---|---|---|
+| 61 | *Pteris semipinnata* | Accepted; Assam included in native range | Pteridaceae | Retain source name |
+| 62 | *Naravelia zeylanica* | Synonym of *Clematis zeylanica* | Ranunculaceae | Cross-reference; retain printed name |
+| 63 | *Rubus paniculatus* | Accepted; Assam included in native range | Rosaceae | Retain source name; distinguish it from homonymous illegitimate names under other authors |
+| 64 | *Mussaenda frondosa* | Accepted; Assam included in native range | Rubiaceae | Retain source name |
+| 65 | *Oldenlandia diffusa* | Synonym of *Scleromitrion diffusum* in current POWO treatment; some authorities retain the older combination | Rubiaceae | Preserve printed name and note alternative taxonomy |
+| 66 | *Coffea bengalensis* | Source spelling/name-resolution issue; Kew recognises *Coffea benghalensis* as accepted | Rubiaceae | Do not silently respell; original specimen/photo needed |
+| 67 | *Mussaenda roxburghii* | Accepted; Assam included in native range | Rubiaceae | Retain source name |
+| 68 | *Ixora polyantha* | Accepted; POWO describes native range as western India and Vietnam | Rubiaceae | Retain source name; the regional record is not enough to prove the Jorhat specimen |
+| 69 | *Hedyotis scandens* | Synonym of *Dimetia scandens*; Indian taxonomic revision and other authorities retain *Hedyotis scandens* under alternative treatment | Rubiaceae | Preserve printed name and alternative-taxonomy note |
+| 70 | *Paederia foetida* | Accepted; Assam included in native range | Rubiaceae | Retain source name |
+| 71 | *Zanthoxylum nitidum* | Accepted; Assam included in native range | Rutaceae | Retain source name |
+| 72 | *Lygodium microphyllum* | Accepted; Assam included in native range | Schizaeaceae | Retain source name |
+| 73 | *Lygodium flexuosum* | Accepted; Assam included in native range | Schizaeaceae | Retain source name |
+| 74 | *Smilax ovalifolia* | Accepted; Assam included in native range | Smilacaceae | Retain source name |
+| 75 | *Solanum torvum* | Accepted; POWO lists Assam as introduced range | Solanaceae | Retain source name; do not infer native status |
+| 76 | *Symplocos grandiflora* | Synonym of *Symplocos macrophylla* subsp. *grandiflora*; accepted subspecies' native range includes Assam | Symplocaceae | Cross-reference; retain printed name |
+| 77 | *Amblovenatum opulentum* | Backbone conflict already recorded: ITIS/GBIF accept it; POWO treats it as a synonym of *Thelypteris opulenta* | Thelypteridaceae (source family label to be checked) | Retain source name and record competing fern treatments |
+| 78 | *Pouzolzia zeylanica* | Accepted; Assam included in native range | Urticaceae | Retain source name |
+| 79 | *Leea indica* | Accepted | Vitaceae | Retain source name |
+| 80 | *Curcuma longa* | Accepted; POWO describes it as a cultigen of SW India and lists Assam as introduced range | Zingiberaceae | Retain source name; distinguish cultivated crop from wild native flora |
+| 81 | *Zingiber officinale* | Accepted | Zingiberaceae | Retain source name |
+
+### Tranche 4 interpretation
+
+Four nomenclatural crosswalks are particularly relevant: *Naravelia zeylanica* → *Clematis zeylanica*; *Oldenlandia diffusa* → *Scleromitrion diffusum* (with alternative taxonomic treatments retaining the older combination); *Hedyotis scandens* → *Dimetia scandens* (again with alternative treatments retaining *Hedyotis*); and *Symplocos grandiflora* → *Symplocos macrophylla* subsp. *grandiflora*. The source names remain the primary transcription because taxonomic backbones can differ and no source vouchers are available.
+
+*Solanum torvum* is an accepted name but POWO lists Assam as introduced range. *Curcuma longa* is an accepted cultigen of southwestern India and POWO lists Assam as introduced. Those records are compatible with local cultivation/use and should not be interpreted as proof of wild occurrence. Conversely, *Pteris semipinnata*, *Mussaenda frondosa*, *Mussaenda roxburghii*, *Paederia foetida*, *Zanthoxylum nitidum*, both listed *Lygodium* species, *Smilax ovalifolia* and *Pouzolzia zeylanica* have Assam in their POWO native-range data.
+
+The *Ixora polyantha* entry is accepted by POWO, whose distribution record describes western India and Vietnam. This is not sufficient to reject a Jorhat use record, but it is a reason to request the field photograph/voucher and check local floras rather than assume the specimen identity from the name alone.
+
+### POWO and supporting records consulted
+
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17216390-1 (61); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:711618-1 (62 synonym); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:710211-1 (accepted name)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:738923-1 (63); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:756632-1 (64); https://powo.science.kew.org/taxon/757824-1 (65); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:756798-1 (67); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:754349-1 (68)
+- https://powo.science.kew.org/taxon/752868-1 (69); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:758897-1 (70); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:775896-1 (71)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17143140-1 (72); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17142930-1 (73); https://powo.science.kew.org/taxon/541698-1 (74); https://powo.science.kew.org/taxon/821287-1 (75)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77392232-1 (76 synonym); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:891832-1 (accepted subspecies); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:856264-1 (78); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:870443-1 (79); https://powo.science.kew.org/taxon/796451-1 (80); https://powo.science.kew.org/taxon/798372-1 (81)
+- Kew MPNS *Coffea benghalensis*: https://mpns.science.kew.org/mpns-portal/plantDetail?dbs=wcsCmp&plantId=234772 (name-resolution check)
+
+**Scope limit:** entries 1–81 have now each received a first-pass nomenclatural review across sections 12–15. This is not yet a complete 81-row taxonomic validation: the article's original family, vernacular-name and plant-part columns still need transcription and comparison; original herbarium vouchers/collection labels are still missing; and several names have competing taxonomic treatments. Do not convert this audit into a definitive species checklist or ingredient formulation.
