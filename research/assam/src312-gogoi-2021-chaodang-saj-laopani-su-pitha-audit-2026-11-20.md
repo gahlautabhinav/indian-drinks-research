@@ -636,3 +636,35 @@ An eFlora of India page includes a community identification thread for a *Phylla
 - Indian *Phyllanthus* identity and molecular-marker paper: https://doi.org/10.1055/s-2008-1034314
 
 **Limit:** the LWG voucher is a comparator from a different district and collection event. It does not authenticate SRC-312 entry 50. No communication with LWG or the 2022 authors has occurred; no image or specimen has been requested or inspected beyond the published scan.
+
+
+## 20. Independent Mising ethnobotanical record of *Cissampelos sympodialis* and the “Thupuki-lota” name (21 November 2026)
+
+### 20.1 A second Assam publication uses the same botanical name
+
+Chetia and Das (2018), “Diversity of ethnomedicinal plants used by Mising tribe of Dhemaji district, Assam,” *International Journal of Advanced Research* 6(3):815–825, DOI 10.21474/IJAR01/6736, reports a September 2016–December 2017 survey of Mising medicinal plants. Its methods state that plant specimens with reproductive parts were collected, herbarium specimens prepared and deposited in the Department of Ecology and Environmental Science, Assam University; identification used floristic literature including *Flora of India* and *Flora of Assam*.
+
+In Table 1, the paper lists **“Cissampelos sympodialis Eichl.”**, local name **“Thupuki-lota”**, family Menispermaceae, plant part leaves. The row records a traditional leaf-decoction use for fever. That ethnomedicinal claim is recorded here only as what the paper reports; it is not clinical evidence and is not relevant to beverage safety or efficacy.
+
+The correspondence with SRC-312 is notable: Table 1 entry 44 is printed as *Cissampelos sympodialis* Eichler, vernacular “Saru tubuki lota,” whole plants, in the Chaodang Su-pitha inventory. A separate Assam food blog also writes “Tubuki lota” alongside the same botanical binomial, but that blog is low-grade corroboration and is not used to establish identity.
+
+### 20.2 What the corroboration does and does not resolve
+
+This new source changes the assessment from “no independent Assam use record located” to **“the same botanical name and a closely matching vernacular name are independently published in an Assam ethnobotanical study.”** It therefore weakens the inference that the SRC-312 name is merely an isolated typographic accident.
+
+It does **not** resolve the biogeographic conflict. Kew POWO accepts *C. sympodialis* Eichler as an eastern Brazilian species, and the type specimen record at the Muséum national d'Histoire naturelle is from Alagoas, Brazil (G. Gardner 1234, 1839). USDA GRIN Taxonomy likewise records the species as endemic to Brazil. The Mising study's methods indicate that specimens were collected and herbarium material deposited at Assam University, but the accessible article gives no species-level voucher number or image for this row. The Mising and Chaodang records may share a regional vernacular label or inherited identification, rather than independently confirming the Brazilian species in Assam.
+
+**Revised archive status for entry 44:** retain the exact printed botanical name and author citation; downgrade the claim from “no Assam record” to **“multiple Assam ethnobotanical publications use this name; species-level identity remains unresolved against Brazilian type/range evidence.”** The two publications are not proof of a naturalised Assam population, nor are they proof that the same biological species is used by both communities.
+
+### 20.3 Recovery action
+
+The Mising paper creates a concrete second herbarium enquiry route: Assam University's Department of Ecology and Environmental Science. Request the species-level herbarium register/collector number and sheet for the Mising *Cissampelos sympodialis* “Thupuki-lota” record, including collection locality, date, reproductive condition, determiner and any later redetermination. Ask whether the material is still held and whether a high-resolution image can be shared. In parallel, request the equivalent field/voucher details from the SRC-312 author. A qualified Menispermaceae taxonomist should compare both Assam materials against the Brazilian type concept and common regional congeners before any accepted-name substitution.
+
+### References
+
+- Chetia, D.R. & Das, A.K. (2018). Diversity of ethnomedicinal plants used by Mising tribe of Dhemaji district, Assam. *International Journal of Advanced Research* 6(3):815–825. DOI: https://doi.org/10.21474/IJAR01/6736. Full text: https://www.researchgate.net/publication/324677706_DIVERSITY_OF_ETHNOMEDICINAL_PLANTS_USED_BY_MISING_TRIBE_OF_DHEMAJI_DISTRICT_ASSAM
+- Kew POWO, *Cissampelos sympodialis* Eichler: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:580453-1
+- MNHN type specimen P00745162, G. Gardner 1234, Alagoas, Brazil, 1839: https://science.mnhn.fr/institution/mnhn/collection/p/item/p00745162
+- USDA GRIN Taxonomy, *Cissampelos sympodialis*: https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=484486
+
+**Limit:** the 2018 paper's general herbarium-method statement does not establish that the cited row has a retrievable, correctly determined voucher. No enquiry has been made to Assam University or the authors. The Chaodang and Mising traditions remain distinct records; do not merge their plant-use claims or community knowledge.
