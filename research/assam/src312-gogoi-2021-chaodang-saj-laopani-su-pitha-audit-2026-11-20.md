@@ -830,3 +830,42 @@ Sterile photographs of a canopy or leaf alone may be insufficient for a secure d
 - Baidya et al. (2020), Bichikri/Harlong floristic composition study (SRC-316): https://doi.org/10.22271/tpr.2020.v7.i2.035
 
 **Limit:** neither the historical flora nor the secondary checklist index can identify the Bichikri specimen. No voucher has been recovered, no author has been contacted and no field revisit has been made. The source identification remains unchanged.
+
+
+## 25. Reproducibility audit of the Bichikri *Ardisia arborea* observation (21 November 2026)
+
+### 25.1 What the published quantitative table actually supports
+
+The original PDF of Baidya et al. (2020), SRC-316, has now been checked directly at the methods and table lines. The floristic survey ran for two years (2017–2018). The authors state that 10 m × 10 m tree quadrats (100 sampling units), 5 m × 5 m shrub quadrats (100 units) and 1 m × 1 m herb quadrats (200 units) were randomly laid. Tree girth at breast height was measured; species names were recorded with the help of caretaker knowledge, and samples of plants difficult to identify in the field were identified using *Flora of Assam* (Kanjilal & Bor 1938). The methods do not say that every tree was collected as a herbarium voucher, do not state that *A. arborea* was one of the difficult-to-identify samples, and do not give a specimen accession or determiner for this entry.
+
+Table 1 places *Ardisia arborea* Koord. & Valeton under Primulaceae in the Bichikri tree layer and reports F = 2%, abundance = 1, density = 2 ha⁻¹, basal area = 0.09 m² ha⁻¹ and IVI = 3.33. Given the stated 100 tree sampling units, F = 2% is consistent with occurrence in two quadrats; abundance 1 and density 2 ha⁻¹ are internally consistent with two recorded individuals in the sampled tree layer, subject to the authors' unit conventions. This is a quantitative ecological record, not just a name in a narrative species list.
+
+### 25.2 What cannot be reverse-engineered
+
+The published table does not identify which two quadrats contained the plant, give the coordinates of either tree, provide individual girths, state whether the two records were separate stems or individuals under the authors' counting rule, or provide a photograph/collection number. The basal-area value and IVI cannot be used to reconstruct a unique tree identity or taxonomic diagnosis. Nor can the table establish whether the determination was made from sterile or fertile material.
+
+The paper's general methods refer to samples for difficult field identifications, but the source does not connect any such sample to this species. It would be inaccurate to say categorically that the authors collected no vouchers; the precise conclusion is that **no voucher or specimen-level determination is reported for this particular table entry in the accessible article**.
+
+### 25.3 A better, sharply scoped evidence request
+
+The Tezpur University enquiry should request the following source records for this exact entry, rather than asking only whether the herbarium has the species name:
+
+- Tree-quadrat field sheets for the 2017–2018 Bichikri survey, identifying the two *A. arborea* occurrences if the 2% frequency and abundance values represent two units/individuals.
+- Tree numbers, quadrat IDs, plot layout and GPS coordinates or sketch maps.
+- Individual girth-at-breast-height measurements used in the basal-area calculation.
+- Field photographs showing leaves, branchlets, flowers/fruits and whole-tree habit.
+- Any field collection, temporary sample number, herbarium accession, duplicate sheet or determination slip.
+- The field assistant/caretaker who supplied the name and the botanist who confirmed or entered the identification.
+- Any spreadsheet or calculation workbook used to generate Table 1, to check the two-occurrence interpretation and the rounding of density/basal area/IVI.
+
+If those records do not exist, the publication still supports a Bichikri ecological occurrence report at the authors' stated identification level, but not a voucher-confirmed taxonomic range extension.
+
+### 25.4 Evidence grade after direct methods review
+
+**Grade: published quantitative field observation; species-level voucher unverified.** The table is stronger than an unreferenced secondary checklist because it reports a measured tree-layer occurrence with ecological parameters. It is weaker than a voucher-backed record because the paper does not link the name to a specimen, diagnostic image or determiner. Retain the printed identification and all reported metrics; annotate the specimen-level limitation. Do not silently downgrade the entire occurrence to “unsubstantiated,” and do not upgrade it to “confirmed Assam range extension.”
+
+### References
+
+- Baidya, S., Thakur, B., Malunguja, G. & Devi, A. (2020). Changes of land use land cover and floristic composition in sacred forests of West Karbi Anglong district, Assam, India. *Tropical Plant Research* 7(2):296–308. DOI: https://doi.org/10.22271/tpr.2020.v7.i2.035. Direct PDF: https://www.tropicalplantresearch.com/download/399/35.pdf (methods, pp. 298–299; Table 1, pp. 300–301).
+
+**Limit:** no quadrat sheets, GPS, tree measurements, photographs, specimen or workbook have been recovered. No author or institution has been contacted. The 2%/abundance/density interpretation is a consistency reading of the paper's stated sampling design and formulas, not access to raw data.
