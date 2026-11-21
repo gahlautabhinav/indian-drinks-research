@@ -597,3 +597,42 @@ Kew POWO accepts *Cissampelos sympodialis* Eichler and gives its native range as
 - *Phyllanthus* species overview: https://pmc.ncbi.nlm.nih.gov/articles/PMC3932249/
 
 **Limit:** this is a literature cross-check, not a specimen determination. No new voucher, herbarium accession, field photograph or author response has been recovered. The three identity questions remain open.
+
+
+## 19. Herbarium-grade Assam comparator recovered for the *Phyllanthus* identity problem (21 November 2026)
+
+### 19.1 A decisive regional voucher exists — but it is *P. debilis*, not the SRC-312 plant
+
+Verma et al. (2022), “Extended distribution of *Phyllanthus debilis* (Phyllanthaceae) in North-East India from Assam,” *Flora and Fauna* 28(2):207–211, reports a specimen collected in Harangajao forest, Dima Hasao district, Assam, on 29 March 2017. The authors state that they compared relevant literature and herbarium specimens housed at LWG, examined the plant under a Leica S8 APO stereo microscope, prepared herbarium material and deposited the voucher at the CSIR-National Botanical Research Institute herbarium (LWG).
+
+The paper gives a fully traceable specimen citation: **Rohit Kumar Verma, Vijay Vishnu Wagh & Baleshwar Meena 308481 (LWG)**, collected at 25°06′32″N, 92°58′41″E, 420 m. Figure 2 reproduces the herbarium sheet with accession 308481. This is substantially stronger evidence than an unvouchered regional checklist: it establishes a documented Assam *Phyllanthus* comparator with collection date, coordinates, collector number, repository and morphological description.
+
+The paper's taxonomic discussion is nuanced. It explains that Indian floras historically confused the *P. niruri* complex and that the taxon they identify as *P. debilis* has a complicated nomenclatural history: the name *P. debilis* was treated as a later homonym and replaced by *P. airy-shawii* in one treatment, while other authors synonymised those names under *P. kozhikodianus*. Preserve the 2022 authors' determination as published and separately record the taxonomic treatment; do not treat nomenclatural disagreement as proof the voucher is misidentified.
+
+### 19.2 What this changes for SRC-312 entry 50
+
+SRC-312 Table 1 entry 50 is printed as *Phyllanthus niruri* L., whole plant. The 2022 LWG specimen is from Dima Hasao, not the ten Jorhat Chaodang survey villages; it is a **regional comparator only**. It demonstrates that at least one member of the difficult herbaceous *Phyllanthus* group has a formally documented Assam voucher. It does not show that the Chaodang plant was *P. debilis*, nor that it was *P. amarus*, *P. fraternus* or *P. kozhikodianus*.
+
+A proper re-determination of entry 50 requires the SRC-312 voucher or diagnostic field photographs showing mature flowers, capsules and seeds. The 2022 paper supplies detailed morphological characters and a specimen sheet that can be used as a comparator. If the Chaodang specimen cannot be recovered, the archive should retain the source name with an explicit “identity unresolved; Indian *Phyllanthus* complex” qualification rather than assign a modern species.
+
+### 19.3 Additional Assam occurrence signal for *P. debilis* is not enough to change the record
+
+An eFlora of India page includes a community identification thread for a *Phyllanthus* plant photographed in Kamrup district, Assam, in 2012, with commenters agreeing on *P. debilis*. This is a useful discovery lead but is not equivalent to a curated voucher record or a peer-reviewed taxonomic determination. The 2022 LWG specimen remains the robust regional comparator for this audit.
+
+### 19.4 Updated evidence ranking
+
+| Record | Evidence type | What it establishes | What it does not establish |
+|---|---|---|---|
+| SRC-312 entry 50, *P. niruri* L. | Published Chaodang field survey table; voucher not yet recovered | The author reported this name as a whole-plant ingredient | Modern species identity of the Chaodang material |
+| Verma et al. 2022, 308481 (LWG) | Peer-reviewed Assam collection with coordinates, date, collector number and herbarium sheet | A morphologically examined, vouchered Assam *Phyllanthus* identified by the authors as *P. debilis* | Identity of the separate Jorhat Chaodang ingredient |
+| Baidya et al. 2020 Bichikri flora | Regional floristic inventory | *P. amarus* separately appears in a West Karbi Anglong inventory | Identity of SRC-312 entry 50 |
+| Indian *Phyllanthus* revision/marker literature | Taxonomic and molecular-method references | The historic *P. niruri* usage in India can conceal multiple species | Which species was used by the Chaodang respondents |
+
+### References
+
+- Verma, R.K., Pal, S.K., Meena, B., Tamta, S. & Chaudhary, L.B. (2022). Extended distribution of *Phyllanthus debilis* (Phyllanthaceae) in North-East India from Assam. *Flora and Fauna* 28(2):207–211. DOI: https://doi.org/10.33451/florafauna.v28i2pp207-211. Full text: https://floraandfona.org.in/Uploaded%20Pdf/282/207-211.pdf
+- LWG herbarium specimen cited by the paper: Verma, Wagh & Meena 308481 (LWG), 29 March 2017, Harangajao, Dima Hasao, Assam.
+- India Flora Online / eFlora of India *Phyllanthus* key: https://efloraofindia.com/efi/phyllanthus/
+- Indian *Phyllanthus* identity and molecular-marker paper: https://doi.org/10.1055/s-2008-1034314
+
+**Limit:** the LWG voucher is a comparator from a different district and collection event. It does not authenticate SRC-312 entry 50. No communication with LWG or the 2022 authors has occurred; no image or specimen has been requested or inspected beyond the published scan.
