@@ -915,3 +915,18 @@ Do not compare only leaf silhouettes or use a low-resolution portal thumbnail to
 - Muséum national d'Histoire naturelle (MNHN), Paris. *Ardisia humilis* Vahl, vascular plant specimen P00509979 (MNHN-P-P00509979), collector A.C. Chatterjee, Assam, May 1902, flowering; Herbier E. Drake. https://science.mnhn.fr/institution/mnhn/collection/p/item/p00509979
 
 **Limit:** this specimen is a comparator, not the target plant. It is currently on loan, its locality is only recorded as Assam, and no direct physical inspection or correspondence with MNHN has occurred. No determination in SRC-312 or SRC-316 has been changed.
+
+
+## 27. New Assam Ardisia species described in 2025 — comparator for entry 60 (21 November 2026)
+
+A focused literature search recovered Baruah, Saikia & Devi (2025), “*Ardisia assamica* sp. nov. (Primulaceae—Myrsinoideae) from Assam, India,” *Phytotaxa* 722(1):81–86, DOI 10.11646/phytotaxa.722.1.8 (SRC-328). The paper was published 10 October 2025 by authors affiliated with the Department of Botany, Gauhati University. Its abstract states that the new species is based on material collected in Assam and distinguishes it by a compound cyme inflorescence, triangular sepals with golden-yellow ciliate margins, imbricate petals and non-pentahedral fruits; photographs, phenology and distribution records are provided. It compares the new species with *A. quinquegona* and *A. quinquangularis*.
+
+Kew POWO now accepts *Ardisia assamica* M.Baruah and gives its native range as Assam. This is important because the 1939 *Flora of Assam* predates the new description and therefore cannot contain this taxon under its subsequently published name. It also confirms that Assam's *Ardisia* diversity and diagnostic literature have continued to develop since the historical flora and the earlier 2020 Bichikri study.
+
+**What this changes:** SRC-312 entry 60 (*Ardisia arborea*) should remain a flagged, unresolved identification, but the comparator set for a future specimen review must now include the 2025 Assam taxonomic literature and updated keys—not only the 1939 *Flora of Assam*. If the Chaodang or Bichikri material is recovered, a Primulaceae specialist should compare it against the 2025 diagnosis and regional species, using fertile material and the paper's illustrations.
+
+**What this does not establish:** *A. assamica* is not a synonym of *A. arborea* on the evidence reviewed; no evidence links the new species to the Chaodang Su-pitha plant or the Bichikri quadrat observation. The abstract alone does not provide enough detail to reconstruct the type locality, type collector/accession or the full diagnostic key, and the publisher page indicates the article PDF is subscription-restricted. Do not propose a replacement identification or claim that the SRC-312 plant is *A. assamica*.
+
+**Next specimen-led actions:** obtain the full article and type-material details; request original SRC-312 plant photographs, collection labels and herbarium accessions from the author; request the Bichikri tree-quadrat sheet and any specimen/photo from the Tezpur team; ask a Primulaceae specialist to compare all material against the 2025 diagnosis and the relevant Assam taxa. No author or institution has been contacted.
+
+**Evidence grade:** peer-reviewed new-species description and current Kew taxonomic acceptance; strong regional taxonomic comparator, but no direct determination of either unresolved field record.
