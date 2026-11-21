@@ -869,3 +869,49 @@ If those records do not exist, the publication still supports a Bichikri ecologi
 - Baidya, S., Thakur, B., Malunguja, G. & Devi, A. (2020). Changes of land use land cover and floristic composition in sacred forests of West Karbi Anglong district, Assam, India. *Tropical Plant Research* 7(2):296–308. DOI: https://doi.org/10.22271/tpr.2020.v7.i2.035. Direct PDF: https://www.tropicalplantresearch.com/download/399/35.pdf (methods, pp. 298–299; Table 1, pp. 300–301).
 
 **Limit:** no quadrat sheets, GPS, tree measurements, photographs, specimen or workbook have been recovered. No author or institution has been contacted. The 2%/abundance/density interpretation is a consistency reading of the paper's stated sampling design and formulas, not access to raw data.
+
+
+## 26. Accessioned Assam *Ardisia* comparator recovered: *Ardisia humilis* MNHN-P-P00509979 (21 November 2026)
+
+### 26.1 A digitised specimen record, not just a checklist entry
+
+The Muséum national d'Histoire naturelle (MNHN), Paris, has a digitised vascular-plant specimen record for ** *Ardisia humilis* Vahl**, accession **MNHN-P-P00509979** (SRC-327). The record gives:
+
+- Family: Primulaceae.
+- Verbatim locality: Assam, India.
+- Collector: A.C. Chatterjee.
+- Collection date: May 1902.
+- Phenology: flowering (“fl”).
+- Collection: Herbier E. Drake.
+- A specimen image and determination-history panel are available.
+- MNHN currently marks the specimen as **on loan**.
+
+This is a stronger regional comparator than a distribution checklist because it is an accessioned herbarium object with a digitised image, collector, date, locality and displayed determination. The catalogue does not provide a locality more precise than Assam.
+
+### 26.2 Relevance to the Bichikri *Ardisia arborea* report
+
+This proves that an accessioned *Ardisia* specimen determined as *A. humilis* was collected in Assam by A.C. Chatterjee in 1902. It strengthens the regional reference set for genus-level comparison and gives a real specimen sheet that a specialist could compare against any future Bichikri material.
+
+It does **not** establish that *A. humilis* is the Bichikri tree, that *A. humilis* is synonymous with *A. arborea*, or that the Bichikri name is wrong. It is neither from Bichikri nor Jorhat. The original SRC-312 and Bichikri determinations must remain separate until their own material is examined.
+
+The MNHN record also marks the specimen on loan. Before planning physical comparison, request a high-resolution image of the full sheet and label and confirm the loan status and image-use terms with MNHN. A catalogue determination-history panel is not, by itself, proof of a recent taxonomic redetermination.
+
+### 26.3 New practical comparison protocol
+
+If Tezpur University recovers Bichikri photographs or a voucher, compare them with MNHN-P-P00509979 and the regional *Flora of Assam* key. The comparison should be performed by a qualified Primulaceae specialist and should explicitly record:
+
+1. Whether the MNHN image shows fertile structures and whether those are sufficiently resolved.
+2. Leaf shape, dimensions, margin, venation and visible gland dots.
+3. Inflorescence position and architecture.
+4. Calyx/corolla and fruit characters, where present.
+5. Indumentum and branchlet characters.
+6. Differences between the 1902 Assam specimen's label locality and the Bichikri collection site.
+7. Any determination annotation, determiner name and date in the specimen's full record.
+
+Do not compare only leaf silhouettes or use a low-resolution portal thumbnail to make a species-level identification.
+
+### Reference
+
+- Muséum national d'Histoire naturelle (MNHN), Paris. *Ardisia humilis* Vahl, vascular plant specimen P00509979 (MNHN-P-P00509979), collector A.C. Chatterjee, Assam, May 1902, flowering; Herbier E. Drake. https://science.mnhn.fr/institution/mnhn/collection/p/item/p00509979
+
+**Limit:** this specimen is a comparator, not the target plant. It is currently on loan, its locality is only recorded as Assam, and no direct physical inspection or correspondence with MNHN has occurred. No determination in SRC-312 or SRC-316 has been changed.
