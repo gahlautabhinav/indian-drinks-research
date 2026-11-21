@@ -512,3 +512,40 @@ A defensible follow-up should begin with community-approved, consent-based sampl
 For laboratory work, use independent biological batches (not only technical replicates), appropriate negative/blank controls and validated methods. Characterise fungi/yeasts and bacteria with culture-dependent isolation plus ITS/16S or metagenomic methods; assay amylase/glucoamylase and relevant sugar profiles; quantify fermentation metabolites and ethanol in linked finished batches. If the community wishes to test individual plant contributions, use a separately approved, controlled design with ingredient-omission/add-back comparisons and sensory evaluation under appropriate ethical and safety review. Do not publish a reconstructed formula or claim causality from correlations alone. Benefit-sharing, attribution and control of community knowledge must be agreed before sampling or dissemination.
 
 **Conclusion:** the current evidence supports a traditional multi-plant starter cake with six quantitatively prominent ingredients and an old-starter inoculation step. It does not support a taxon-by-taxon biochemical explanation. The microbiology of Ahom Xaj-pitha and Bodo emao supplies comparative hypotheses only. Direct Su-pitha sampling and linked microbial/enzymatic/chemical analysis remain the critical missing evidence.
+
+## 17. Author and institutional data-retrieval route (21 November 2026)
+
+### 17.1 Author identity and institutional route verified
+
+The publisher's article landing page identifies Girish Gogoi's affiliation as Forest Ecology and Climate Change Division, Rain Forest Research Institute (RFRI), Jorhat, Assam. The current RFRI institutional directory independently lists Dr. Girish Gogoi, Assistant Chief Technical Officer (ACTO) in the Forest Ecology & Climate Change division, with institutional email gogoig@icfre.org and EPABX extension 122. This is the preferred first contact route because it is current institutional directory information, not an inferred or scraped personal address.
+
+RFRI's official contact page lists the Director's office at dir_rfri@icfre.org, telephone +91-376-2305101. This is a fallback for routing an academic records enquiry if the author address does not respond. RFRI's Forest Ecology & Climate Change division page states that the division maintains a herbarium and botanical garden. This makes the institute a plausible first enquiry point for botanical collection records, but it does not prove that SRC-312 specimens were deposited there or that the herbarium holds these vouchers.
+
+### 17.2 Exact requests to send (not yet sent)
+
+1. **Field dataset:** Are the original 2020 field schedules, interview forms, consented plant-use records, GPS waypoint file and village-wise presence/absence matrix still available? Can the ten village sample records be linked to each plant entry without disclosing informant identities or restricted traditional knowledge?
+2. **Botanical vouchers:** Were specimens collected for all or any of the 81 taxa? If so, provide herbarium acronym, accession numbers, collector numbers, collection dates/localities, determiner names and current storage status. Were voucher duplicates deposited elsewhere (e.g. AAU or another regional herbarium)? If no vouchers were prepared, are diagnostic photographs or field notebooks retained?
+3. **Plant table QA:** Can the author verify the vernacular-name transcription (especially the printed Chatiyana) entry), author citations, family assignments, and whether the single vernacular-name column combines Chaodang and Assamese names? Confirm whether the list is aggregate across ten villages and whether every entry was observed in each village (the paper should not be read as a universal village-by-village matrix unless confirmed).
+4. **Starter formulation:** Can the author clarify the six taxa said to be used in larger quantities, the qualitative basis for the relative ranking, whether Amblovenatum opulentum is indeed the maximum-quantity plant, and the actual drying sequence? Are there batch-specific or village-specific variations that may be shared publicly with community approval?
+5. **Microbiology and laboratory records:** Were Su-pitha samples ever cultured or analysed after the 2021 paper? Are there retained starter cakes, isolates, DNA extracts, microscopy records, enzyme assays, photographs or unpublished student theses? If no Chaodang-specific laboratory work exists, can the author recommend an appropriate RFRI/AAU collaborator?
+6. **Traditional knowledge permissions:** What consent terms and community permissions govern any re-use of the 2020 data, photographs, plant-use details or future samples? What attribution, review, benefit-sharing and publication conditions should be followed before any follow-up fieldwork?
+7. **51-versus-81 discrepancy:** Can the author confirm that the publisher's version's 81 taxa/47 families is the intended final dataset, and explain the 51-plant abstract variant appearing in a separate online reproduction? Do not amend the publisher record without author/publisher correction evidence.
+
+### 17.3 Suggested institutional routing
+
+- First: Dr. Girish Gogoi, RFRI Forest Ecology & Climate Change Division — gogoig@icfre.org, EPABX 122.
+- If needed: Director, RFRI — dir_rfri@icfre.org, +91-376-2305101 — request forwarding to the author and guidance on herbarium/sample-record custody.
+- For a future independent microbial study, the 2016 Ahom Xaj-pitha metagenomics paper lists the Department of Agricultural Biotechnology, Assam Agricultural University, Jorhat as its research affiliation. That is a potential technical collaboration route, not evidence that AAU holds Chaodang material or has agreed to collaborate. The 2024 Assam starter mycoflora study is based at AAU's Department of Plant Pathology; its authors and methods may be relevant for designing culture-dependent isolation, but it does not report Chaodang-specific Su-pitha results.
+
+### 17.4 Current status and evidence discipline
+
+No email, phone call, sample request or institutional enquiry has been made by this archive. Public directory listings establish a legitimate contact route only. No field notebook, GPS file, voucher, isolate, culture, DNA extract, sample or unpublished laboratory record has been recovered. The next step is to send a concise, non-commercial scholarly enquiry, request only information that the author and community are authorised to share, and log any response as a new source with its date and provenance. Do not mark ASM-GAP-131 or ASM-GAP-140 resolved until documentary evidence is received and checked.
+
+### Institutional and article URLs
+
+- Publisher author affiliation and abstract: https://emergentresearch.org/index.php/ELSR/article/view/153
+- RFRI current directory (author listing, title, email and extension): https://rfri.icfre.org/directory
+- RFRI official contact: https://rfri.icfre.gov.in/contact-us
+- RFRI Forest Ecology & Climate Change division (herbarium and botanical garden infrastructure): https://rfri.icfre.gov.in/forest-ecology-climate-change
+- AAU-affiliated Ahom Xaj-pitha metagenomics study: https://pmc.ncbi.nlm.nih.gov/articles/PMC4947050/
+- AAU Department of Plant Pathology-affiliated Assam mycoflora study: https://arccjournals.com/journal/asian-journal-of-dairy-and-food-research/DR-1829
