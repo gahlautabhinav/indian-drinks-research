@@ -786,3 +786,47 @@ No email, call or specimen request has been made. The next action, if authorised
 - Baidya et al. (2020), floristic composition paper (SRC-316): https://doi.org/10.22271/tpr.2020.v7.i2.035
 
 **Limit:** no specimen has been retrieved or inspected and no institution or author has been contacted. The repository route is now specific, but the *A. arborea* identification remains open.
+
+
+## 24. Bichikri *Ardisia arborea*: historical Assam key and alternative-species comparison set (21 November 2026)
+
+### 24.1 The 1939 *Flora of Assam* does not list *A. arborea*—but omission is not proof of absence
+
+The historical *Flora of Assam*, Volume III (1939), contains a substantial *Ardisia* treatment (pp. 173–183): a genus description, a dichotomous key and descriptions of numerous regional taxa. It includes *A. humilis*, *A. polycephala*, *A. oxyphylla*, *A. rhynchophylla*, *A. khasiana*, *A. involucrata*, *A. floribunda*, *A. depressa*, *A. pedunculosa*, *A. colorata*, *A. paniculata*, *A. macrocarpa*, *A. crispa*, *A. virens* and *A. odontophylla*. Several entries have Assam locality data. *Ardisia arborea* Koord. & Valeton is not included in this treatment (SRC-325).
+
+The preface is important: the authors explicitly say the flora was not fully comprehensive and omissions of trees, shrubs and herbs could not be avoided. Therefore the absence of *A. arborea* from this 1939 treatment is **not** evidence that the taxon could not occur in Assam. It does establish that the Bichikri name is not a straightforward match to one of the taxa treated in this historical regional key and that several alternative Assam *Ardisia* species must be considered.
+
+### 24.2 The modern regional comparison set is broad
+
+The eFlora of India *Ardisia* index reproduces a BSI Flora of India Checklist distribution table and lists multiple species with Assam distributions, including *A. colorata*, *A. crenata*, *A. depressa*, *A. floribunda*, *A. griffithii*, *A. humilis*, *A. icara*, *A. keenani*, *A. khasiana*, *A. odontophylla*, *A. paniculata*, *A. pedunculosa* and *A. virens* (SRC-326). This is a discovery index, not a specimen record or the primary checklist itself; each candidate must be verified against primary taxonomic sources and voucher material.
+
+The historical key and modern list together show why geographic mismatch alone cannot be used to “correct” the Bichikri plant. A locally plausible *Ardisia* may have been assigned the wrong species name, but the present evidence cannot select among alternatives. The NEHU Dhemaji *A. colorata* voucher (SRC-319) is one regional comparator, not a proposed replacement.
+
+### 24.3 What would resolve the identification
+
+A qualified Myrsinaceae/Primulaceae taxonomist should compare the original Bichikri material (if any) against the historical and current regional keys using, at minimum:
+
+- leaf shape, size, margin, texture, gland dots and venation;
+- indumentum on branchlets, petioles and leaf surfaces;
+- inflorescence position and architecture (axillary/lateral versus terminal; umbels, racemes, corymbs or panicles);
+- calyx and corolla size, shape and punctation;
+- fruit shape, surface, colour and persistent floral structures;
+- a complete collection label, locality, date, collector and accession.
+
+Sterile photographs of a canopy or leaf alone may be insufficient for a secure determination. Any redetermination must be recorded separately from the source's printed *A. arborea* name.
+
+### 24.4 Revised status
+
+- **Bichikri record:** remains a published field determination of *Ardisia arborea* in the 2020 floristic table; it is not voucher-confirmed in the material recovered so far.
+- **Regional alternatives:** several *Ardisia* species are documented in Assam by historical flora and modern checklist-derived sources.
+- **Taxonomic decision:** no replacement name is justified. Preserve *A. arborea* as printed and label the identity **unverified; voucher/photo and reproductive material required**.
+- **Next retrieval action:** ask the Tezpur University team for original quadrat/species sheets, field photographs, collector details, any voucher accession and the person who determined the Bichikri tree. If no specimen exists, ask whether a repeat, community-authorised field visit can locate the tree and collect fertile material under appropriate permits and community consent.
+
+### References
+
+- Kanjilal, U.N., Das, A., Kanjilal, P.C. & De, R.N. (1939). *Flora of Assam*, Vol. III, Caprifoliaceae to Plantaginaceae, *Ardisia* treatment pp. 173–183. https://pahar.in/pahar/Books%20and%20Articles/Indian%20Subcontinent/1939%20Flora%20of%20Assam--Vol%20III%20Caprifoliaceae%20to%20Plantaginaceae%20by%20Kanjilal%20s.pdf
+- eFlora of India, *Ardisia* index and BSI checklist distribution table: https://efloraofindia.com/efi/ardisia/
+- Kew POWO, *Ardisia arborea* Koord. & Valeton: https://powo.science.kew.org/taxon/586735-1
+- Baidya et al. (2020), Bichikri/Harlong floristic composition study (SRC-316): https://doi.org/10.22271/tpr.2020.v7.i2.035
+
+**Limit:** neither the historical flora nor the secondary checklist index can identify the Bichikri specimen. No voucher has been recovered, no author has been contacted and no field revisit has been made. The source identification remains unchanged.
