@@ -552,3 +552,48 @@ No email, phone call, sample request or institutional enquiry has been made by t
 - RFRI Forest Ecology & Climate Change division (herbarium and botanical garden infrastructure): https://rfri.icfre.gov.in/forest-ecology-climate-change
 - AAU-affiliated Ahom Xaj-pitha metagenomics study: https://pmc.ncbi.nlm.nih.gov/articles/PMC4947050/
 - AAU Department of Plant Pathology-affiliated Assam mycoflora study: https://arccjournals.com/journal/asian-journal-of-dairy-and-food-research/DR-1829
+
+
+## 18. Independent Assam floristic cross-check of three flagged taxa (21 November 2026)
+
+This tranche checks whether the three biogeographic flags from Table 1 entries 44, 50 and 60 have any independent Assam-region literature behind them. It does not determine the Chaodang specimens. A published regional report can identify a conflict worth investigating, but a plant name in a checklist or floristic table is not a substitute for a voucher or a re-determination.
+
+### 18.1 Entry 60 — *Ardisia arborea*: an Assam literature record now exists
+
+Baidya, Thakur, Malunguja and Devi (2020), “Changes of land use land cover and floristic composition in sacred forests of West Karbi Anglong district, Assam, India,” *Tropical Plant Research* 7(2):296–308, DOI 10.22271/tpr.2020.v7.i2.035, lists *Ardisia arborea* Koord. & Valeton in the tree inventory for Bichikri sacred forest. The table reports frequency 2%, abundance 1, density 2 ha−1, basal area 0.09 m² ha−1 and IVI 3.33. The study's floristic survey ran in 2017–2018; the Bichikri site is described at 435 m elevation. This is an independent published Assam occurrence report, and it means the SRC-312 name should no longer be described as unsupported by Assam literature.
+
+However, the paper's methods say species names were recorded with the help of caretaker knowledge and difficult specimens were identified using *Flora of Assam* (Kanjilal & Bor 1938); scientific nomenclature was documented according to The Plant List. The accessible article does not provide a voucher accession for the *Ardisia arborea* record or a diagnostic specimen image. Meanwhile, Kew POWO and World Flora Online continue to give the accepted name's native range as Jawa only. The conflict is therefore real at the literature level but unresolved at the specimen level. Possible explanations include a regional misidentification, a taxonomic/backbone issue, an introduction/cultivation event, or a genuine range record not reflected in the backbone. Do not choose among these explanations without material evidence.
+
+**Revised archive status:** downgrade the wording “major geographic anomaly” to **“conflicting Assam floristic report; voucher-level identity unresolved.”** Keep the printed name unchanged. Request the 2017–2018 Bichikri voucher/field photograph or the authors' determination notes, alongside the SRC-312 field material. Do not assume the Bichikri and Jorhat plants are conspecific merely because the same binomial was printed.
+
+### 18.2 Entry 50 — *Phyllanthus niruri*: retain the species-complex caution
+
+The Indian *Phyllanthus* literature continues to support caution rather than a simple Assam range inference. The review “An Overview of Important Ethnomedicinal Herbs of *Phyllanthus* Species” explains that Indian materials historically called *P. niruri* may represent *P. amarus*, *P. fraternus* and/or *P. debilis*, and notes the use of morphological/anatomical characters and molecular markers for discrimination. The 2008 SCAR-marker study likewise treats the Indian “niruri complex” as a genuine identification problem. A separate Assam floristic survey (Baidya et al. 2020) lists *Phyllanthus amarus* in Bichikri sacred forest, showing that at least one of the candidate taxa is recorded regionally; it does not identify the SRC-312 plant.
+
+**Archive decision:** retain *Phyllanthus niruri* as the source's printed determination, but classify the record as a **high-priority species-complex identification requiring diagnostic material**. Do not auto-substitute *P. amarus*, *P. fraternus* or *P. debilis*. A re-determination should inspect mature fruit and seed characters and use an appropriate Indian taxonomic key; molecular markers can be considered where morphology is insufficient and a properly vouchered sample is available.
+
+### 18.3 Entry 44 — *Cissampelos sympodialis*: geographic conflict remains strong
+
+Kew POWO accepts *Cissampelos sympodialis* Eichler and gives its native range as eastern Brazil (Brazil North, Northeast and Southeast). A Brazilian taxonomic study describes it across Brazilian regions and documents diagnostic features used to distinguish it from related *Cissampelos* species. The specimen-level type record at the Muséum national d'Histoire naturelle is from Alagoas, Brazil (collector G. Gardner 1234, 1839). No independent Assam or Indian occurrence record for this exact species was located in this search tranche.
+
+**Archive decision:** retain the printed name but keep the **strong geographic anomaly** flag. Do not replace it with *Cissampelos pareira* or another regional species on plausibility alone. The original voucher, field photograph, or author notebook is essential.
+
+### 18.4 Evidence table and next recovery actions
+
+| SRC-312 entry | New independent evidence | Current confidence in source identification | Next required evidence |
+|---|---|---|---|
+| 44 — *Cissampelos sympodialis* | POWO and Brazilian taxonomic/specimen records support an eastern Brazilian taxon; no Assam report found in this tranche | Low; strong geographic conflict | Original voucher, diagnostic photo, collection label and author determination |
+| 50 — *Phyllanthus niruri* | Indian taxonomic literature documents confusion among *P. amarus*, *P. fraternus* and *P. debilis*; *P. amarus* separately reported at Bichikri | Low at species level; species-complex issue | Mature fruits/seeds, diagnostic key, voucher and expert re-determination; molecular confirmation if warranted |
+| 60 — *Ardisia arborea* | Baidya et al. (2020) lists the same name in Bichikri sacred forest, West Karbi Anglong | Conflicting literature; voucher identity unresolved | Bichikri study voucher/photo and SRC-312 voucher/photo; compare both with regional *Ardisia* material and POWO/WFO concepts |
+
+### References added in this tranche
+
+- Baidya, S., Thakur, B., Malunguja, G. & Devi, A. (2020). Changes of land use land cover and floristic composition in sacred forests of West Karbi Anglong district, Assam, India. *Tropical Plant Research* 7(2):296–308. DOI: https://doi.org/10.22271/tpr.2020.v7.i2.035. Full text: https://www.academia.edu/44388299/Changes_of_land_use_land_cover_and_floristic_composition_in_sacred_forests_of_West_Karbi_Anglong_district_Assam_India
+- Kew POWO, *Ardisia arborea*: https://powo.science.kew.org/taxon/586735-1
+- Kew POWO, *Cissampelos sympodialis*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:580453-1
+- MNHN type specimen, *Cissampelos sympodialis*, P00745162: https://science.mnhn.fr/institution/mnhn/collection/p/item/p00745162
+- Brazilian taxonomic study of *Cissampelos sympodialis*: https://www.scielo.br/j/rbfar/a/XcdpKghf8m9T3TppB7YrdbT/?lang=en
+- Jain et al. (2008), SCAR markers for correct identification of *Phyllanthus* species: https://doi.org/10.1055/s-2008-1034314
+- *Phyllanthus* species overview: https://pmc.ncbi.nlm.nih.gov/articles/PMC3932249/
+
+**Limit:** this is a literature cross-check, not a specimen determination. No new voucher, herbarium accession, field photograph or author response has been recovered. The three identity questions remain open.
