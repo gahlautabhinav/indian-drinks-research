@@ -707,3 +707,37 @@ The same MNHN catalogue separately records the type of *Cissampelos sympodialis*
 - Kew POWO, *Ardisia arborea*: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:586735-1/general-information
 
 **Limit:** no Assam/Jorhat voucher for either target species has been recovered in this pass; no author, herbarium or institution has been contacted. The new sources improve the search path and eliminate two name-confusion traps, but they do not settle either identification.
+
+
+## 22. Assam University herbarium traceability lead for the Mising *Cissampelos* record (21 November 2026)
+
+### 22.1 The co-author and the stated repository are institutionally connected
+
+The 2018 Mising ethnobotanical paper (SRC-318) states that collected plant specimens were prepared as herbarium material and deposited in the Department of Ecology and Environmental Science, Assam University. The department's current official profile lists **Dr. Ajit Kumar Das** as a Professor whose stated areas include plant ecology, phytotaxonomy, ethnobotany and medicinal-plant conservation. Dr. Das is also a co-author of SRC-318. The profile provides his departmental contact details.
+
+This is a materially better enquiry route than a generic university switchboard: the named co-author is currently listed in the department that the paper identifies as the herbarium repository. The department also describes research in ethnobotany and biodiversity conservation. The contact listing is recorded as SRC-322.
+
+### 22.2 What this does not prove
+
+The current faculty listing does not prove that Dr. Das personally collected, determined, curated or can retrieve the *Cissampelos sympodialis* / “Thupuki-lota” specimen. The paper's general statement about depositing herbarium specimens does not, by itself, prove that this specific table row has a surviving accessioned sheet. It also does not resolve whether the published name is taxonomically correct.
+
+No email, telephone call or other enquiry has been sent. No specimen image, register entry or accession number has been obtained.
+
+### 22.3 Exact information to request
+
+The next enquiry should be narrowly framed around the 2016–2017 Mising survey and Table 1's *Cissampelos sympodialis* Eichl. / “Thupuki-lota” entry:
+
+1. Was a specimen collected for this specific entry, and is it held by the department?
+2. What are its herbarium accession number, collector number, collection date and precise locality?
+3. Who identified it, and was the identification checked against reproductive material?
+4. Is a high-resolution image of the complete sheet and label available?
+5. Has the specimen been redetermined or annotated since publication?
+6. If no sheet survives, do field notebooks, collection registers or photographs preserve a traceable record?
+
+A response should be archived as correspondence evidence, not treated as taxonomic confirmation until the sheet or a reliable image and label are examined by a qualified Menispermaceae specialist.
+
+### Reference
+
+- Assam University, Department of Ecology and Environmental Science, official departmental profile and faculty directory: https://www.aus.ac.in/ecology-and-environmental-science/
+
+**Status:** this improves the recovery route for SRC-318 and SRC-312 entry 44, but does not close ASM-GAP-139. No contact has been made and no specimen has been recovered.
