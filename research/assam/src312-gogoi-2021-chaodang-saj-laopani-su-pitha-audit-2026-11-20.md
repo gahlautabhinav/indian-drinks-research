@@ -344,7 +344,7 @@ The *Spatholobus* entry is only “sp.”; the fact that POWO recognises *Spatho
 | 56 | *Saccharum officinarum* | Accepted; native range New Guinea, introduced into Assam | Poaceae | Retain; distinguish introduced crop cultivation from native flora |
 | 57 | *Persicaria hydropiper* | Accepted; POWO lists Assam within native range | Polygonaceae | Retain printed name |
 | 58 | *Polygonum hastatosagittatum* | Synonym of *Persicaria hastatosagittata* (already recorded in tranche 1) | Polygonaceae | Cross-reference only; preserve printed form |
-| 59 | *Polygonum muricatum* | Synonym of *Persicaria breviochreata* | Polygonaceae | Cross-reference only; preserve printed form |
+| 59 | *Polygonum muricatum* Meisn. | Synonym of *Persicaria muricata* (Meisn.) Nemoto; do not confuse with the separately authored *Polygonum muricatum* Maxim. ex Makino, which POWO maps to *Persicaria breviochreata* | Polygonaceae | Cross-reference to *Persicaria muricata*; preserve the exact source author citation and printed form |
 | 60 | *Ardisia arborea* | Accepted, but POWO gives native range as Jawa only | Primulaceae | Geographic anomaly for Assam; require voucher/photo and author confirmation. Do not substitute a superficially similar Assam *Ardisia* species |
 
 ### High-priority identity flags from tranche 3
@@ -362,7 +362,7 @@ There are also useful introduced/native distinctions: POWO lists *Piper betle*, 
 - https://powo.science.kew.org/taxon/563600-1 (41); https://powo.science.kew.org/taxon/570989-1 (42); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:574126-1 (43)
 - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:580453-1 (44); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:856662-1 (45); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1 (46); https://powo.science.kew.org/taxon/852981-1 (47); https://powo.science.kew.org/taxon/600841-1 (48)
 - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828758-1 (49); https://powo.science.kew.org/taxon/194900-2 (50)
-- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:682369-1 (51); https://powo.science.kew.org/taxon/680605-1 (52); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:682031-1 (53); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:230902-2 (54); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:316812-2 (55); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:419977-1 (56); https://powo.science.kew.org/taxon/77069479-1 (57); https://powo.science.kew.org/taxon/696113-1 (59); https://powo.science.kew.org/taxon/586735-1 (60)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:682369-1 (51); https://powo.science.kew.org/taxon/680605-1 (52); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:682031-1 (53); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:230902-2 (54); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:316812-2 (55); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:419977-1 (56); https://powo.science.kew.org/taxon/77069479-1 (57); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:696111-1 (59; *Polygonum muricatum* Meisn. → *Persicaria muricata*); contrast https://powo.science.kew.org/taxon/696113-1 (*Polygonum muricatum* Maxim. ex Makino → *Persicaria breviochreata*); https://powo.science.kew.org/taxon/586735-1 (60)
 - Indian *Phyllanthus* identity literature: https://pmc.ncbi.nlm.nih.gov/articles/PMC3932249/; see also https://staff.cimap.res.in/PublicationFiles%5CPlanta_Med_2008_74_296%E2%80%93301..pdf
 
 **Scope limit:** tranche 3 covers entries 41–60 only. It does not authenticate any specimen, reproduce the paper's complete vernacular-name/plant-part columns or reconcile all family labels. Entries 61–81 remain pending.
@@ -395,6 +395,9 @@ There are also useful introduced/native distinctions: POWO lists *Piper betle*, 
 | 79 | *Leea indica* | Accepted | Vitaceae | Retain source name |
 | 80 | *Curcuma longa* | Accepted; POWO describes it as a cultigen of SW India and lists Assam as introduced range | Zingiberaceae | Retain source name; distinguish cultivated crop from wild native flora |
 | 81 | *Zingiber officinale* | Accepted | Zingiberaceae | Retain source name |
+
+
+**Entry 59 author-citation correction (21 November 2026):** The source table prints *Polygonum muricatum* with author citation **Meisn.** The correct matching POWO record is *Polygonum muricatum* Meisn., treated as a synonym of *Persicaria muricata* (Meisn.) Nemoto. A different name with the same binomial but author citation **Maxim. ex Makino** is treated as a synonym of *Persicaria breviochreata*. The earlier reference list pointed entry 59 to this latter record in error. The archive now uses the Meisner-authored record and retains the contrasting Makino-authored record only to document why author citations cannot be dropped during taxonomic reconciliation. This remains a nomenclatural crosswalk, not specimen authentication.
 
 ### Tranche 4 interpretation
 
