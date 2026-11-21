@@ -459,3 +459,56 @@ Plant-part counts also reconcile with the article when the source's capitalisati
 **QA outcome:** source family total and plant-part distribution agree with the article's prose. This is a transcription consistency check, not an independent botanical identification. Source family names and plant-part strings remain unmodified in the CSV; normalisation is applied only for aggregate counting.
 
 **Remaining verification:** obtain a high-resolution image/scan of journal page 64 to check exact typography, author citations and vernacular spelling (especially “Chatiyana)” in row 6), and establish whether the single vernacular-name column can be mapped to Chaodang versus Assamese. The article's photographs and stated plant collection do not supply accessible herbarium accession numbers in the material reviewed.
+
+
+## 16. Functional-role evidence audit — Su-pitha plant ingredients versus fermentation biology (21 November 2026)
+
+### 16.1 What SRC-312 actually documents
+
+Gogoi (2021) makes four different kinds of statements that must not be collapsed into one:
+
+1. **Relative quantity:** six taxa are explicitly said to be required in larger quantities than the other ingredients: *Amblovenatum opulentum*, *Lygodium microphyllum*, *Lygodium flexuosum*, *Mussaenda frondosa*, *Centella asiatica* and *Hydrocotyle sibthorpioides*. The paper says *A. opulentum* is required in the maximum amount. This is a reported Chaodang formulation observation, not a measured mass/percentage recipe.
+2. **Processing treatment:** *A. opulentum* is sun-dried separately for 1–2 days in summer or 3–4 days in winter. The other plant materials are not dried because the author reports that drying makes them difficult to grind in the dheki. This is a preparation/handling distinction, not proof of a biochemical role.
+3. **Broad attributed functions:** the paper says the 81 taxa have distinct roles and that some are additives, some contribute sweet taste, and some provide “stimulation”. It does **not** map those three functions to individual taxa, define “stimulation”, quantify sensory effects, or provide a plant-omission/add-back experiment. Do not assign these functions to specific CSV rows.
+4. **Starter inoculation and fermentation:** the new cakes are overlaid with powder from selected old Su-pitha, described as the source of yeast/inoculum. The white surface after incubation is described as yeast growth. The paper does not report isolation, sequencing, counts or enzyme assays from Chaodang Su-pitha. Its description of starch conversion (diastase/maltase) and subsequent ethanol/CO2 production (zymase) is a process explanation, not a biochemical measurement in this study.
+
+### 16.2 Plant-level roles: evidence table
+
+| Ingredient(s) | Directly documented by SRC-312 | Not established by SRC-312 |
+|---|---|---|
+| *Amblovenatum opulentum* | Largest relative ingredient quantity; sun-dried separately before grinding; source Table 1 lists fronds | Whether it supplies fermentative microbes, enzymes, sweetness, stimulation, antimicrobial selection or a specific aroma |
+| *Lygodium microphyllum*; *L. flexuosum* | Included among six ingredients used in larger quantity; Table 1 lists fronds | Mechanism or individual contribution to fermentation/sensory outcome |
+| *Mussaenda frondosa* | Included among six ingredients used in larger quantity; Table 1 lists leaves and barks | Mechanism or individual contribution |
+| *Centella asiatica*; *Hydrocotyle sibthorpioides* | Included among six ingredients used in larger quantity; Table 1 lists whole plants | Mechanism or individual contribution |
+| Other 75 taxa | Included in the aggregate starter-cake inventory; generally reported as smaller amounts (two to three leaves/other parts/whole plants, depending on rice amount) | A named functional category for any individual taxon |
+
+**Interpretation:** the only defensible plant-specific roles at present are relative quantity and the *A. opulentum* drying/handling step. The paper's additive/sweetness/stimulation categories remain unassigned community-level statements.
+
+### 16.3 What related Assam microbiology studies can—and cannot—tell us
+
+- **Ahom Xaj-pitha (2016):** a metagenomic study of an Ahom starter reports organisms with amylolytic potential, including *Rhizopus delemar*, *Mucor circinelloides* and *Aspergillus* sp.; it also reports several yeast taxa associated with ethanol production and a diverse bacterial community including lactic-acid bacteria. This is direct microbial evidence for the sampled **Ahom Xaj-pitha**, not Chaodang Su-pitha and not a plant-by-plant mechanism. https://pmc.ncbi.nlm.nih.gov/articles/PMC4947050/
+- **Bodo emao (2021):** shotgun metagenomics reports a fungal-dominated community, especially Rhizopus/Rhizopodaceae, and metabolic modules/enzymes associated with saccharification and related processes. Emao is a distinct Bodo starter. It provides a useful comparative hypothesis for a Chaodang study, not an identification of Su-pitha organisms. https://pmc.ncbi.nlm.nih.gov/articles/PMC8285430/
+- **Assam rice-beer mycobiology (Saikia et al., 2024):** reports 16 yeast isolates and two filamentous fungi from nine starter samples, with identifications including *Aspergillus oryzae*, *A. niger*, *Saccharomyces cerevisiae*, *Saccharomycopsis fibuligera* and *Candida tropicalis*. The accessible abstract does not provide a reliable Chaodang/Su-pitha sample attribution; do not assign these isolates to ASM-039-SAJ. https://doi.org/10.18805/ajdfr.DR-1829
+- **Assam beverage microbiota/metabolites (2019):** the study examines Apong (Mising), Xaaj (Ahom) and Joubishi (Bodo), not Chaodang Saj. It is useful for designing comparative microbial/metabolite work but cannot stand in for a Chaodang batch profile. https://pmc.ncbi.nlm.nih.gov/articles/PMC6458194/
+- **Plant-leaf phytochemistry (2015):** a separate Assam study tests extracts from four plant leaves used in rice-beer starter preparation—*Artocarpus heterophyllus*, *Cinnamomum extensa*, *Oroxylum corymbosum* and *Alpinia malaccensis*—for phytochemical composition and antimicrobial activity. It explicitly describes the leaves as incorporated into starter cakes rather than directly added to the fermentation mash. The result is evidence about those extracts under that study's assay conditions, not proof that these plants control Chaodang Su-pitha microbes or that their extracts are safe/beneficial in beverage consumption. https://doi.org/10.1080/10942912.2015.1104695
+- **2024 Northeast India review:** useful as a secondary map of reported beverage/starter/plant literature, but its compiled therapeutic claims are not Chaodang-specific causal evidence and should be traced to primary sources before use. https://doi.org/10.1155/2024/7769743
+
+### 16.4 Evidence classification for the archive
+
+| Claim class | Current status for Chaodang Su-pitha | Archive treatment |
+|---|---|---|
+| Community-reported ingredient membership | Documented in SRC-312 aggregate Table 1 | Preserve the 81-row transcription; do not infer all taxa occur in every village or batch |
+| Relative ingredient quantity and handling | Documented qualitatively for six taxa and separately for *A. opulentum* | Store as source-reported practice, not a standardized formula |
+| Plant-specific sensory/functional assignment | Not established | Leave unassigned; no inferred sweetness/additive/stimulant labels |
+| Microbial community composition | Not measured in SRC-312 | No organism-level claims for Chaodang Su-pitha |
+| Enzyme activity / starch conversion | Explained conceptually in SRC-312, not assayed | Mark as process rationale, not measured activity |
+| Plant antimicrobial or pharmacological effect in Su-pitha | Not established | Do not transfer results from other starter traditions or extract assays |
+| Finished-beverage chemical/ethanol profile linked to plant composition | Not established by SRC-312 | No numeric composition or plant-causality claims |
+
+### 16.5 Research design needed to resolve the gap
+
+A defensible follow-up should begin with community-approved, consent-based sampling of independent Su-pitha batches from named households/villages, recording the actual ingredient list and approximate proportions for each batch without publishing sensitive knowledge beyond agreed permissions. Preserve linked samples of raw cake, mature cake, mother-starter powder and fermentation stages. Record season, rice variety, cake age, drying/smoking/storage conditions and batch identifiers.
+
+For laboratory work, use independent biological batches (not only technical replicates), appropriate negative/blank controls and validated methods. Characterise fungi/yeasts and bacteria with culture-dependent isolation plus ITS/16S or metagenomic methods; assay amylase/glucoamylase and relevant sugar profiles; quantify fermentation metabolites and ethanol in linked finished batches. If the community wishes to test individual plant contributions, use a separately approved, controlled design with ingredient-omission/add-back comparisons and sensory evaluation under appropriate ethical and safety review. Do not publish a reconstructed formula or claim causality from correlations alone. Benefit-sharing, attribution and control of community knowledge must be agreed before sampling or dissemination.
+
+**Conclusion:** the current evidence supports a traditional multi-plant starter cake with six quantitatively prominent ingredients and an old-starter inoculation step. It does not support a taxon-by-taxon biochemical explanation. The microbiology of Ahom Xaj-pitha and Bodo emao supplies comparative hypotheses only. Direct Su-pitha sampling and linked microbial/enzymatic/chemical analysis remain the critical missing evidence.
