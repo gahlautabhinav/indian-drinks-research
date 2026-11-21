@@ -968,3 +968,21 @@ The abstract confirms ten Assam species but the species list, per-species sample
 **Next actions:** transcribe the full ten-species list and voucher/locality table; record sample sizes and classification metrics with their validation design; determine whether *A. arborea*, *A. colorata*, *A. pedunculosa* and *A. assamica* are represented; if not, do not extrapolate. Seek a collaboration or dataset access only through explicit author/institution permission. No contact made.
 
 **Evidence grade:** peer-reviewed quantitative-method study with author-uploaded full-text PDF accessible; promising supplementary morphometric approach, but not yet validated for the SRC-312 unknown specimen.
+
+
+## 31. Recent *Ardisia* lectotypifications and the role of GUBH/Kew reference collections (21 November 2026)
+
+Two nomenclatural papers from the Gauhati University *Ardisia* research stream are relevant to the taxonomic audit:
+
+1. Baruah & Devi (2025), “Lectotypification of Two Names in the Genus *Ardisia* (Primulaceae, Myrsinoideae),” *Feddes Repertorium* 137(1), DOI 10.1002/fedr.70042 (SRC-332). Its abstract states that lectotypes are designated for *Ardisia icara* and *A. odontophylla* using specimens preserved at Herbarium K (Royal Botanic Gardens, Kew).
+2. Baruah & Devi (2025), “Lectotypification of the Name *Ardisia keenanii* (Primulaceae),” *The Journal of Japanese Botany*, DOI 10.51033/jjapbot.ID0254 (SRC-333). This is a separate nomenclatural act for *A. keenanii*, a name with historical Assam relevance; it should be consulted when interpreting older Assam records and synonymy, not treated as a new field occurrence.
+
+These works demonstrate why name resolution must be separated from specimen identification. Lectotypification fixes the application of a published name by selecting original material as the nomenclatural type; it does not identify an unrelated Chaodang plant or prove the presence of a taxon at a particular locality. The Kew type specimens are nomenclatural reference material, not vouchers for the 2020 Jorhat field survey.
+
+Gauhati University's official Department of Botany page states that its departmental herbarium, GUBH, is accredited to the New York Botanical Garden's Steere Herbarium (SRC-334). This confirms GUBH as an institutional herbarium resource and strengthens the value of the reported modern *A. pedunculosa* and *A. colorata* vouchers as leads. Accreditation does not itself verify any particular accession, guarantee online digitisation, or establish that GUBH holds the missing SRC-312 or Bichikri specimens.
+
+**Taxonomic workflow implication:** for each disputed SRC-312 name, maintain three separate fields: (a) name as printed in the 2021 source; (b) current accepted-name/synonym treatment with its taxonomic backbone and access date; and (c) determination of the actual field voucher, including determiner, herbarium and accession. A lectotypified name may clarify (b), but only a traceable specimen can resolve (c).
+
+**Next actions:** obtain full text and exact lectotype citations/images for SRC-332 and SRC-333; check whether *A. icara*, *A. odontophylla* or *A. keenanii* appear in the EFA study's ten-species reference set; request GUBH accession/collector numbers for the 2025 Tinsukia *A. pedunculosa* and 2025 Abhaypuri *A. colorata* collections; ask whether GUBH holds any historic Jorhat or West Karbi Anglong *Ardisia* material. No institution or author has been contacted.
+
+**Evidence grade:** peer-reviewed nomenclatural abstracts and official university herbarium description; strong name-application and repository-context evidence, not a determination of the unresolved field specimens.
