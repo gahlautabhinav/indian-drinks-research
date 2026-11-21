@@ -226,3 +226,49 @@ These checks do **not** validate the underlying field identifications. The paper
 Sources checked: Kew POWO pages for *Legazpia polygonoides* and *Polygonum hastatosagittatum*; Kew MPNS and POWO pages for *Coffea benghalensis*; ITIS and GBIF/Checklist Bank records for *Amblovenatum opulentum*. The competing treatments are recorded rather than forced into a single taxonomy.
 
 **Result:** this is a targeted reconciliation of four names, not a complete taxonomic audit of all 81 rows and not a correction of the original field inventory. The remaining 77 entries, all family assignments, vernacular-name spellings and specimen identities still require systematic review and (where possible) voucher access.
+
+
+## 12. Taxonomic reconciliation tranche 1 — Table 1 entries 1–20 (21 November 2026)
+
+**Method:** names below are matched against the Royal Botanic Gardens, Kew Plants of the World Online (POWO) backbone. “Accepted” means POWO accepts the name as a taxon; it does not validate the Chaodang field specimen. Families below are POWO's current family placements, not asserted as the article's printed family labels. Source spellings are preserved. Links are direct POWO records.
+
+| No. | SRC-312 printed name | POWO status / accepted-name treatment | POWO family | Archive decision |
+|---:|---|---|---|---|
+| 1 | *Phlogacanthus thyrsiflorus* | Synonym of *Phlogacanthus thyrsiformis* | Acanthaceae | Cross-reference only; retain printed form |
+| 2 | *Thunbergia grandiflora* | Accepted | Acanthaceae | No nomenclatural correction indicated |
+| 3 | *Cyathula prostrata* | Accepted | Amaranthaceae | No nomenclatural correction indicated |
+| 4 | *Centella asiatica* | Accepted | Apiaceae | No nomenclatural correction indicated |
+| 5 | *Cryptolepis sinensis* | Accepted | Apocynaceae | No nomenclatural correction indicated |
+| 6 | *Alstonia scholaris* | Accepted | Apocynaceae | No nomenclatural correction indicated |
+| 7 | *Lasia spinosa* | Accepted | Araceae | No nomenclatural correction indicated |
+| 8 | *Epipremnum aureum* | Accepted | Araceae | No nomenclatural correction indicated |
+| 9 | *Hydrocotyle sibthorpioides* | POWO accepts the Lam name; a different homonymous Colenso name is treated as a synonym of *H. moschata*. The source omits author citation. | Araliaceae for the accepted Lam name | Name string alone is insufficient to resolve the intended nomenclatural author; retain and flag for specimen/author confirmation |
+| 10 | *Elephantopus scaber* | Accepted | Asteraceae | No nomenclatural correction indicated |
+| 11 | *Calyptocarpus vialis* | Accepted | Asteraceae | No nomenclatural correction indicated |
+| 12 | *Blechnum orientale* | Accepted | Aspleniaceae | POWO's current placement is Aspleniaceae; do not assume older fern-family treatments are equivalent |
+| 13 | *Stenochlaena palustris* | Accepted | Aspleniaceae | POWO's current placement is Aspleniaceae; retain source name |
+| 14 | *Ananas comosus* | Accepted | Bromeliaceae | No nomenclatural correction indicated |
+| 15 | *Cannabis sativa* | Accepted | Cannabaceae | Taxonomic status only; no legal or use inference |
+| 16 | *Merremia umbellata* | Synonym of *Camonea umbellata* | Convolvulaceae | Cross-reference only; retain printed form |
+| 17 | *Argyreia argentea* | Accepted | Convolvulaceae | No nomenclatural correction indicated |
+| 18 | *Cheilocostus speciosus* | Synonym of *Hellenia speciosa* | Costaceae | Cross-reference only; retain printed form |
+| 19 | *Solena amplexicaulis* | Accepted | Cucurbitaceae | No nomenclatural correction indicated |
+| 20 | *Croton caudatus* | Accepted | Euphorbiaceae | No nomenclatural correction indicated |
+
+### Tranche 1 exceptions and interpretation
+
+Four entries in this first tranche have explicit POWO name-resolution issues: entry 1 (*Phlogacanthus thyrsiflorus*), entry 9 (*Hydrocotyle sibthorpioides* without author citation), entry 16 (*Merremia umbellata*) and entry 18 (*Cheilocostus speciosus*). Entry 9 is particularly important: POWO's accepted *Hydrocotyle sibthorpioides* Lam. is not the same nomenclatural record as the later homonymous *H. sibthorpioides* Colenso, which POWO synonymises under *H. moschata*. Since SRC-312 gives no author citation and no voucher accession, do not choose between them from the bare binomial alone.
+
+POWO also places *Blechnum orientale* and *Stenochlaena palustris* in Aspleniaceae. Fern family circumscriptions have changed across classifications; this current backbone placement should not be treated as evidence that the article's family column (if transcribed from an older flora) was necessarily an identification error.
+
+**Scope limit:** this tranche covers entries 1–20 only. It does not yet reconcile the article's printed family column, vernacular names or plant parts row by row, and it does not authenticate field specimens. Entries 21–81 remain pending.
+
+### POWO records consulted
+
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:53084-1 (entry 1 synonym); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:53085-1 (accepted name)
+- https://powo.science.kew.org/taxon/117460-3 (2); https://powo.science.kew.org/taxon/60185-1 (3); https://powo.science.kew.org/taxon/1197718-2 (4)
+- https://powo.science.kew.org/taxon/95952-1 (5); https://powo.science.kew.org/taxon/60445977-2 (6); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87418-1 (7); https://powo.science.kew.org/taxon/87014-1 (8)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843698-1 (9 accepted Lam name); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843699-1 (9 Colenso homonym); https://powo.science.kew.org/taxon/202958-1 (10); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:188166-1 (11)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17059900-1 (12); https://powo.science.kew.org/taxon/17223880-1 (13); https://powo.science.kew.org/taxon/12322-2 (14); https://powo.science.kew.org/taxon/306087-2 (15)
+- https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:270596-1 (16 synonym); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77163301-1 (accepted name); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60454727-2 (17)
+- https://powo.science.kew.org/taxon/77074291-1 (18 synonym); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60469691-2 (accepted name); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:294042-1 (19); https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:342252-1 (20)
