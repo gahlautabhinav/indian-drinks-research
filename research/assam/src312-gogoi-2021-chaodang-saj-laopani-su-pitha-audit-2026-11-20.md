@@ -414,3 +414,23 @@ The *Ixora polyantha* entry is accepted by POWO, whose distribution record descr
 - Kew MPNS *Coffea benghalensis*: https://mpns.science.kew.org/mpns-portal/plantDetail?dbs=wcsCmp&plantId=234772 (name-resolution check)
 
 **Scope limit:** entries 1–81 have now each received a first-pass nomenclatural review across sections 12–15. This is not yet a complete 81-row taxonomic validation: the article's original family, vernacular-name and plant-part columns still need transcription and comparison; original herbarium vouchers/collection labels are still missing; and several names have competing taxonomic treatments. Do not convert this audit into a definitive species checklist or ingredient formulation.
+
+
+## 16. Original Table 1 transcription — all 81 entries (21 November 2026)
+
+A source-faithful CSV transcription has been added at `data/assam/src312-chaodang-su-pitha-table1-transcription.csv`. It contains 81 data rows plus a header, with the paper's figure reference, vernacular name, botanical name, author citation, family and plant-part field, alongside source ID, page and transcription-status notes. The accessible full-text rendering places Table 1 on journal page 64.
+
+**Source:** Gogoi, G. (2021), Table 1, “Medicinal plant species used for preparation of Su-pitha,” *Emergent Life Sciences Research* 7(1):64. Full-text accessible copy: https://www.academia.edu/67475828/Traditional_knowledge_on_preparation_of_starter_culture_cakes_and_rice_beers_by_Chaodang_community_of_upper_Assam_India ; publisher landing page: https://emergentresearch.org/index.php/ELSR/article/view/153 ; DOI: https://doi.org/10.31783/elsr.2021.716375.
+
+### Transcription conventions and cautions
+
+- The CSV preserves the table's printed family labels, including *Hydrocotyle sibthorpioides* under Araliaceae, *Blechnum orientale* and *Stenochlaena palustris* under Blechnaceae, and *Amblovenatum opulentum* under Thelypteridaceae. These are source facts, not silently updated to match a modern classification.
+- The source table has one “Vernacular Name” column. Although the article's prose says names were noted in Chaodang and Assamese, the table does not separately label which language each printed vernacular belongs to. The CSV therefore does not invent language-specific columns.
+- The source prints “Chatiyana)” with a closing parenthesis in entry 6; this has been retained as printed pending inspection of the original page image.
+- Author citations and botanical names have separate CSV fields. The transcription is text-based from an accessible full-text rendering; diacritics, spacing and punctuation should be checked against a legible scan before treating it as diplomatic transcription.
+- Plant-part wording is preserved as printed (including singular/plural inconsistencies such as “Whole Plants” / “Whole plants”). No plant part has been inferred.
+- The CSV is an ethnobotanical source transcription, not a recipe, safety assessment, proof of efficacy, or voucher-verified taxonomic determination.
+
+### What this resolves and what remains open
+
+The original family, vernacular and plant-part columns are now available for systematic audit. The article states that 46 taxa contribute leaves, 19 whole plants, six fronds, two leaves and barks, two young shoots, and one each for the remaining listed part-combinations/categories. This aggregate count should be independently recomputed from the CSV before being used in analysis. The paper also reports 47 families; the CSV should be checked against that figure and the family frequency narrative. The next QA pass should compare the 81 source rows against the PDF page image, then validate row counts, family totals and plant-part totals programmatically, and finally append modern family/taxonomy fields without altering the source columns.
