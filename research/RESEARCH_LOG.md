@@ -992,3 +992,13 @@
 - Confirmed the table is general Epop and does not allocate entries to Po:ro versus Nogin, despite discussion of both beverages. Traditional ethnomedicinal-use statements are not clinical efficacy or safety evidence.
 - Created the source audit and inventory, added SRC-173 to sources/source_register.csv and section 27 to the Apong crosswalk. No canonical plant, synonym, locality edge or universal recipe record was created.
 - Primary PDF: https://www.biotech-asia.org/pdf/vol19no2/BBRA_Vol_19_No_2_p_497-500.pdf .
+
+
+## 22 November 2026 — SRC-170 targeted taxonomic authority review
+
+- Reviewed seven likely spelling/name issues in the source-faithful Pawe & Gogoi (2013) Poro Apob inventory against Kew Plants of the World Online.
+- Confirmed authority-level candidates for *Artocarpus heterophyllus*, *Capsicum annuum*, *Hydrocotyle javanica*, *Scoparia dulcis* and *Zanthoxylum nitidum*; documented that POWO places *Hydrocotyle javanica* in Araliaceae and *Scoparia dulcis* in Plantaginaceae, differing from source-published families.
+- Resolved two non-trivial synonym cases: source “Leucus plukenetii” is a likely spelling rendering of *Leucas plukenetii*, a POWO synonym of *Leucas aspera*; source “Coctus speciosa” is a likely rendering of *Costus speciosus*, listed by POWO as a synonym of accepted *Hellenia speciosa*. Older authorities have accepted *Costus speciosus*, so the backbone choice is explicitly documented.
+- Created `research/assam/src170-taxonomic-authority-review-2026-11-22.md` and `research/assam/src170-taxonomic-authority-crosswalk-2026-11-22.csv`.
+- All source-published names/families remain unchanged in the transcription inventory. No accepted-name merge, species deletion, new beverage record, village assignment or specimen-level identification was made. Voucher/collector metadata remain unresolved.
+- Next: obtain SRC-170 collector numbers and BSI Shillong (ASSAM)/Itanagar (ARUN) voucher accessions; then continue the open Assam locality and beverage evidence gaps without transferring general ethnobotanical sites into beverage-production locations.
