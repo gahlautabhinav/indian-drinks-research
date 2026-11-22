@@ -1033,3 +1033,15 @@
 - Verified the current official NERIST Forestry directory, which lists co-author Dr. Awadhesh Kumar as Professor/HoD with adk@nerist.ac.in and extension 6250; it also lists current plant taxonomy/ethnobotany faculty contacts. Added a focused herbarium retrieval request to the SRC-335 audit. No contact was made.
 - Updated `research/assam/src335-dimasa-ethnobotany-judima-juharo-ingredient-audit-2026-11-22.md`; no source register, beverage, plant or locality records changed.
 - Official directory: https://nerist.ac.in/forestry/faculty/ . Publisher full text: https://opensciencepublications.com/fulltextarticles/JPSR-2349-2805-8-206.html .
+
+## 22 November 2026 — SRC-336 Dimasa Judima/Juharo process and name-boundary audit
+
+- Retrieved the full text of Tamang, Thapa, Bhalla and Savitri (2016), “Ethnic Fermented Foods and Beverages of India,” Chapter 2 in *Ethnic Fermented Foods and Alcoholic Beverages of Asia*, DOI 10.1007/978-81-322-2800-4_2. Registered as SRC-336.
+- The chapter's Judima process account explicitly says the residual fermented rice mass, printed “jugap,” is distilled after the liquid Judima is collected to produce Juharo. It distinguishes the collected fermented liquid from the residual-mass distillate.
+- Compared this with SRC-304 (2011), which describes filtering the ferment and boiling/distilling the filtrate, and SRC-138 (2014), which says Juharao is produced by distilling Judimah but does not specify whether the still charge is liquid or residual solids. These are materially different source descriptions; no universal process was selected.
+- Cross-checked Hasnu & Bhattacharjee (2016): “ju-dima” and “ju-haro” are described as two kinds of Ju, with the latter sourer and stronger, but the passage does not explicitly state that ju-haro is distilled. This is retained as a terminology/sensory account, not used to override process-explicit sources.
+- Screened Bose, Teron & Tamuli (2018), a 12-village Karbi Anglong wild-food survey. Its introduction lists Ju, Jumai/Judi, Juhara and Laosa as Dimasa alcoholic-drink names but gives no product definitions or beverage-specific fieldwork. The 12 food-survey villages are not added as beverage localities; the names remain unverified leads.
+- Created `research/assam/src336-tamang-2016-judima-juharo-process-and-name-boundary-audit-2026-11-22.md` and registered SRC-336. No canonical beverage, recipe, locality, starter ingredient or plant record was changed.
+- Next: investigate primary evidence for the Dimasa terms Jumai/Judi and Laosa, and seek producer-level clarification of the Juharo distillation feedstock conflict. No external contact was made.
+
+Primary chapter: https://doi.org/10.1007/978-81-322-2800-4_2 ; full text: https://ndl.ethernet.edu.et/bitstream/123456789/74085/1/2016_Book_EthnicFermentedFoodsAndAlcohol.pdf .
