@@ -75,3 +75,24 @@ No contact has been made.
 
 - Parbo, D., & Kumar, A. (2021). Ethnobotany: The Ethnicity of the Dimasa Kachari, Dima Hasao, Assam, India. *Journal of Plant Science and Research*, 8(2), citation page 207. https://www.opensciencepublications.com/fulltextarticles/JPSR-2349-2805-8-206.pdf
 - Existing comparison sources: SRC-001, SRC-002 and SRC-003; see [Judima geographic coverage and Humao ingredient audit](judima-geography-and-humao-ingredient-audit-2026-11-02.md).
+
+## 7. Original article re-check and NERIST retrieval route — 22 November 2026
+
+A second pass against the publisher's full HTML text clarifies the voucher situation:
+
+- The methods explicitly state that herbaria of collected plant species were prepared and submitted to the Department of Forestry, NERIST, Arunachal Pradesh.
+- The Data Analysis section says the study tabulated voucher numbers of vouchered specimens alongside ethnobotanical use, interviewee information and study areas.
+- The HTML text extraction does not expose the contents of Table 1, Table 2 or Table 3 as readable table rows. In particular, it does not expose the *Albizia myriophylla* voucher number or its specimen-level locality. This is a table-image/text extraction gap, not evidence that the paper omitted all voucher numbers.
+- The paper's abstract says 62 respondents; its Results section says 84 interviewees. Both statements remain recorded pending clarification; do not assume one is a typographical error or infer the reason.
+
+### Current institutional retrieval route
+
+NERIST's official Department of Forestry faculty directory currently lists co-author Dr. Awadhesh Kumar as Professor and Head of Department, with official email adk@nerist.ac.in and office extension 6250; the same official profile lists tpileatus@gmail.com. The directory also lists current faculty with plant taxonomy and ethnobotany expertise, including Dr. Padma Raj Gajurel (prg@nerist.ac.in) and Dr. Govinda Pangging (gp@nerist.ac.in). These are public institutional contact routes, not confirmation that any individual holds the specimens.
+
+Suggested request should ask the Department to locate the article's Table 3 entry for *Albizia myriophylla* and match its printed voucher number to the submitted herbarium sheet/register. Request the accession/catalogue number, collector and collection number, verbatim label locality, collection date, determination history, current storage status and a sheet/label image if permitted. Also ask whether the material is curated as a teaching/research herbarium or only retained as working material. No email or call has been made.
+
+Official directory: https://nerist.ac.in/forestry/faculty/ . Author profile: https://nerist.ac.in/faculty/dr-awadhesh-kumar/ .
+
+### Revised archive status
+
+The paper does report herbarium submission and says voucher numbers were tabulated. The unresolved question is narrower and more precise: which voucher number corresponds to the *Albizia myriophylla* “themra” record, and can that number be linked to an extant NERIST sheet with a readable locality label? Until verified, retain the botanical claim as author-reported identification with a published voucher trail not yet reconciled to an accessible accession record.
