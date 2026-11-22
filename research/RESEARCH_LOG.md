@@ -1024,3 +1024,12 @@
 - The paper distinguishes Judima (rice wine) and Juharo (distilled liquor), but its short process passage describes Judima and does not document a separate Juharo distillation procedure. No canonical recipe or starter crosswalk was changed.
 - Created `research/assam/src335-dimasa-ethnobotany-judima-juharo-ingredient-audit-2026-11-22.md`. Source register and audit were fetched back after commits. No contact was made.
 - Next: recover the source's Table 1/Table 3 at image resolution and seek the NERIST voucher register/author clarification before resolving the *Albizia* versus *Acacia* ingredient divergence.
+
+## 22 November 2026 — SRC-335 voucher-trail clarification and NERIST retrieval route
+
+- Rechecked the publisher's full HTML text for Parbo & Kumar (2021). Methods explicitly state that collected plant herbaria were prepared and submitted to NERIST Forestry; the Data Analysis section says voucher numbers were tabulated alongside ethnobotanical records.
+- Corrected the evidence boundary: this is not a source with no voucher trail. The HTML extraction does not expose the contents of Tables 1–3 as readable rows, so the *Albizia myriophylla* voucher number and specimen-level locality remain unavailable for matching. Treat as a table-extraction and specimen-reconciliation gap.
+- Confirmed the internal respondent-count discrepancy: abstract says 62; Results says 84. Both are preserved pending author clarification.
+- Verified the current official NERIST Forestry directory, which lists co-author Dr. Awadhesh Kumar as Professor/HoD with adk@nerist.ac.in and extension 6250; it also lists current plant taxonomy/ethnobotany faculty contacts. Added a focused herbarium retrieval request to the SRC-335 audit. No contact was made.
+- Updated `research/assam/src335-dimasa-ethnobotany-judima-juharo-ingredient-audit-2026-11-22.md`; no source register, beverage, plant or locality records changed.
+- Official directory: https://nerist.ac.in/forestry/faculty/ . Publisher full text: https://opensciencepublications.com/fulltextarticles/JPSR-2349-2805-8-206.html .
