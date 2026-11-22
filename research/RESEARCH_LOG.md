@@ -1012,3 +1012,15 @@
 - Created `research/assam/src170-herbarium-provenance-retrieval-audit-2026-11-22.md` with separate institutional search questions, author-side metadata requests, historical search keys, and conservative archive-status wording.
 - No contact was made; no email or call was sent. No accession, voucher or specimen identity is claimed. No source IDs, taxa, beverage records or locality rows were changed.
 - Next evidence dependency: response from ASSAM, ARUN or the authors. In the meantime, continue independent source acquisition and Assam locality verification rather than fabricate missing voucher data.
+
+
+## 22 November 2026 — SRC-335 Dimasa ethnobotany, Judima/Juharo ingredient divergence audit
+
+- Retrieved and screened Parbo & Kumar (2021), “Ethnobotany: The Ethnicity of the Dimasa Kachari, Dima Hasao, Assam, India,” a previously unregistered source.
+- Registered it as SRC-335. The article reports an 18-village Dimasa ethnobotany survey across Maibang, Langting, Diyungbra and Umrangso (August 2015–May 2017), and explicitly states that *Albizia myriophylla* (“themra”) is used in local liquors including Judima and distilled Juharo.
+- Identified a material ingredient divergence: SRC-335 reports *Albizia myriophylla* / “themra,” while SRC-001, SRC-002 and SRC-003 report *Acacia pennata* / Thembra-Thempra in Judima starter accounts. These are retained as distinct botanical names; no synonymy or correction is assumed.
+- The source's 18-village ethnobotany frame is not a Judima/Juharo producer census. No beverage-specific village or household is identified in the reviewed passage; no new beverage-production locality was added.
+- The paper reports herbarium preparation/submission to NERIST Forestry Department, but the reviewed text does not establish the *Albizia* taxon-to-voucher mapping or accession. The abstract reports 62 respondents while the Results section reports 84; discrepancy remains open.
+- The paper distinguishes Judima (rice wine) and Juharo (distilled liquor), but its short process passage describes Judima and does not document a separate Juharo distillation procedure. No canonical recipe or starter crosswalk was changed.
+- Created `research/assam/src335-dimasa-ethnobotany-judima-juharo-ingredient-audit-2026-11-22.md`. Source register and audit were fetched back after commits. No contact was made.
+- Next: recover the source's Table 1/Table 3 at image resolution and seek the NERIST voucher register/author clarification before resolving the *Albizia* versus *Acacia* ingredient divergence.
