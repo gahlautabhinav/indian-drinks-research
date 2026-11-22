@@ -1082,3 +1082,16 @@ Primary source: Bose et al. (2018), https://doi.org/10.18782/2320-7051.6704 . Se
 - Sarma's methods list Tinsukia–Dibrugarh as district-level fieldwork areas for Deori, Sonowal Kachari and Dimasa, but the Dimasa Zou sentence is a quotation from the 1987 book, not a product-specific field interview. No locality links were created.
 - Added `research/assam/src054-sarma-2017-dimasa-zou-historical-name-addendum-2026-11-22.md` and updated SRC-054 in `sources/source_register.csv`.
 - Next retrieval target: the original Bordoloi et al. (1987) *Tribes of Assam*, Part I, p. 49, and Bordoloi (1984) *The Dimasa Kacharis of Assam*. No community contact was made.
+
+
+## 22 November 2026 — SRC-339/SRC-340: Dimasa Judi, Jugap and Juharo distinctions
+
+- Retrieved Longmailai (2024), “Creating a Digital Archive for Dimasa Cultural Heritages and Identity Preservation,” DOI 10.21276/smprt.202408.1sne2.a7. The paper describes the Bodo and Dimasa Heritage Digital Archive as community-based and community-curated, with Dimasa heritage recording across 14–15 Cachar villages in 2022. Its food section distinguishes **Judi** (rice wine), **Jugap** (rice beer) and **Juharo** (a rice drink compared descriptively to white rum), and associates Humao starter cake with all three. Registered as SRC-339.
+- Important limitation: the 14–15 village outreach is the overall archive fieldwork frame. The paper does not identify which village supplied the Judi/Jugap/Juharo descriptions or give separate recipes, producers, stills, distillation steps or alcohol measurements. No locality links were created.
+- Retrieved Borah & Sarma (2022), “Religious Practices Among the Dimasas in Dima Hasao District of Assam…,” DOI 10.31995/rjpss.2022.v47i02.030. The paper's four study villages are Semkhor, Wadrengdisa, Dima Hading and Donjenraji. It records Judi as homemade rice beer used in Nanadihonba birth ritual and Laothailamba marriage-proposal custom, including presentation in dried bottle-gourd vessels called Laothai. Registered as SRC-340.
+- These four villages are religious-practice study sites, not Judi production localities. The newborn ritual is recorded as ethnographic practice, not health guidance or evidence of infant alcohol safety.
+- Cross-source result: Longmailai distinguishes Judi, Jugap and Juharo; SRC-338 groups Jumai/Judi together; SRC-049 calls Zukap the fermented rice mass from which Judima is extracted; SRC-336 uses “jugap” for the residual mass after Judima collection that is distilled to Juharo. Similar spellings do not settle lexical equivalence or process-stage identity. Kept all spellings and source-specific categories separate.
+- Created `research/assam/src339-340-dimasa-judi-jugap-juharo-community-archive-and-ritual-audit-2026-11-22.md`; registered SRC-339 and SRC-340 in `sources/source_register.csv`. No canonical entity merges or locality assignments were made.
+- Next target: inspect item-level entries in the Bodo and Dimasa Heritage Digital Archive, especially food and heritage-dictionary records, while respecting community attribution and cultural protocols. No contact was made.
+
+Primary/archival sources: Longmailai (2024), https://doi.org/10.21276/smprt.202408.1sne2.a7 ; Borah & Sarma (2022), https://doi.org/10.31995/rjpss.2022.v47i02.030 .
