@@ -67,3 +67,24 @@ Bose, Teron and Tamuli (2018), in a wild-food ethnobotany paper, state that Dima
 - SRC-138: Arjun, J., Verma, A. K., & Prasad, S. B. (2014), Judima preparation and biochemical study.
 - SRC-335: Parbo, D., & Kumar, A. (2021), Dimasa ethnobotany article.
 
+
+
+## 6. Later cross-check: NIPCCD Dimasa red/white Judima entries and the “Zukap” term — 22 November 2026
+
+The NIPCCD *An Exploratory Study on Indigenous Foods among the Tribals of North Eastern Region* (canonical archive source SRC-049; 2022 institutional index date) documents two Dimasa preparations on printed pages 102–103: “Maiju hanger judima (Red rice beer)” and “Judima (White rice beer).” Both use a starter printed “Xumai”; the fermented rice mass is called “Zukap,” and the liquor extracted from it is Judima. The report does not assign either entry to a named village, respondent or batch. See `research/assam/src049-nipccd-dimasa-judima-xumai-zukap-audit-2026-11-22.md`.
+
+This creates a significant lexical/process comparison with the chapter's printed “jugap”:
+- NIPCCD “Zukap”: fermented rice mass from which Judima is extracted.
+- SRC-336 “jugap”: residual rice mass after liquid Judima has been collected, reported as the Juharo distillation feedstock.
+
+The spellings may be related, but the source-defined process roles are not identical. Do not normalize “Zukap” and “jugap” as the same technical term or treat NIPCCD as confirming the chapter's distillation feedstock. Likewise, do not equate NIPCCD “Xumai” with Humao/Umhu without a Dimasa-language authority or producer confirmation.
+
+## 7. Further source comparison: Juharo distillation and botanical divergence
+
+Terangpi et al. (2013), now SRC-337, state that *Acacia pennata* (“Themra”) bark is used in Dimasa Humao starter cakes and that Juharao is sometimes produced by distillation of Judimah using a crude still. The paper is principally a bark pharmacognosy study; it does not identify the still charge or a beverage-producing village. It supports its own Acacia identification procedure using a comparator voucher at Assam University, Diphu, but does not publish an accession number or prove the market bark used for analysis came from the voucher specimen. Full audit: `research/assam/src337-terangpi-2013-acacia-pennata-dimasa-humao-judimah-audit-2026-11-22.md`.
+
+The Slow Food Foundation's Judima Ark of Taste page separately describes Humao as rice flour plus grated bark of *Albizia myriophylla* and says the collected Judima may be distilled into “Juhan.” This is an independent secondary documentation record that aligns botanically with SRC-335's *Albizia myriophylla* report, but its Juhan spelling and its implication that collected Judima is distilled do not resolve the SRC-304/SRC-336 feedstock disagreement. Treat it as an additional source-level account, not a botanical correction or process authority. https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/judima/ .
+
+A Dimasa-language/cultural website, Dimasa Thairili, lists Judima, Juharo and Judi as three types of Ju but provides no distinct process for Judi. It also repeats the Acacia pennata / Thembra Humao account. This is a useful terminology lead, not enough to define Judi or establish a separate recipe. https://www.dimasathairili.com/an-overview-of-traditional-rice-wine-judima/ .
+
+No beverage canonicalization, ingredient merge, locality edge or universal distillation method has been adopted.
