@@ -1045,3 +1045,17 @@
 - Next: investigate primary evidence for the Dimasa terms Jumai/Judi and Laosa, and seek producer-level clarification of the Juharo distillation feedstock conflict. No external contact was made.
 
 Primary chapter: https://doi.org/10.1007/978-81-322-2800-4_2 ; full text: https://ndl.ethernet.edu.et/bitstream/123456789/74085/1/2016_Book_EthnicFermentedFoodsAndAlcohol.pdf .
+
+
+## 22 November 2026 — SRC-049 Dimasa red/white Judima, Xumai and Zukap audit; SRC-337 Acacia bark corroboration
+
+- Re-opened the existing canonical NIPCCD source SRC-049 rather than creating a duplicate source record (SRC-180 remains a duplicate alias only). Retrieved the report's two Dimasa entries on printed pages 102–103: “Maiju hanger judima (Red rice beer)” and “Judima (White rice beer).”
+- Both entries describe a starter printed “Xumai,” made with thembra powder and rice flour (1:15), sun-dried 4–5 days; cooked rice is fermented covered in a dark room for three days. The fermented mass is called “Zukap,” from which Judima liquor is extracted. The two entries differ in red versus sticky/non-sticky rice inputs.
+- Preserved the methodological limit: NIPCCD's overall Assam study used women heads of family and documented 89 foods across eight tribes, but these Dimasa recipe entries name no village, respondent, interview date or batch. No locality edge or producer count was created.
+- Flagged, without merging, Xumai versus Humao/Umhu and Zukap versus SRC-336's “jugap.” NIPCCD uses Zukap for the fermented rice mass before Judima extraction; SRC-336 uses jugap for the residual mass after Judima liquid collection and says it is distilled to Juharo. The apparent lexical similarity requires Dimasa-language/producer confirmation.
+- Registered Terangpi et al. (2013), “Pharmacognostic and Physicochemical evaluation of stem bark of Acacia pennata (L.) Willd., a folk plant of the Dimasa tribe of Assam,” as SRC-337. It independently describes Acacia pennata/Themra bark in Humao and says Juharao is sometimes produced by distilling Judimah. It identifies a Dhansiri Reserved Forest plant collection and a comparator voucher at Assam University, Diphu, but provides no voucher number and does not establish the market bark used for laboratory analysis as the same specimen or a beverage-production locality.
+- Added source-specific comparisons to the SRC-336 audit: Slow Food Foundation records *Albizia myriophylla* in Humao and calls the distillate “Juhan”; Dimasa Thairili lists Judima, Juharo and Judi but does not define a separate Judi process. Neither source resolves the Juharo feedstock conflict or justifies botanical merging.
+- Created `research/assam/src049-nipccd-dimasa-judima-xumai-zukap-audit-2026-11-22.md` and `research/assam/src337-terangpi-2013-acacia-pennata-dimasa-humao-judimah-audit-2026-11-22.md`; updated SRC-049 and added SRC-337 to the source register; extended the SRC-336 audit. All changes are subject to fetch-back verification.
+- No author, institution or community contact was made. No canonical recipe, taxon merge, village assignment or beverage entity was created.
+
+Primary source: NIPCCD report https://www.spniwcd.wcd.gov.in/archive/download/2zq4zt ; Terangpi et al. (2013) https://www.phytojournal.com/vol2Issue2/Issue_july_2013/18.1.pdf .
