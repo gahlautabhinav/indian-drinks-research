@@ -1002,3 +1002,13 @@
 - Created `research/assam/src170-taxonomic-authority-review-2026-11-22.md` and `research/assam/src170-taxonomic-authority-crosswalk-2026-11-22.csv`.
 - All source-published names/families remain unchanged in the transcription inventory. No accepted-name merge, species deletion, new beverage record, village assignment or specimen-level identification was made. Voucher/collector metadata remain unresolved.
 - Next: obtain SRC-170 collector numbers and BSI Shillong (ASSAM)/Itanagar (ARUN) voucher accessions; then continue the open Assam locality and beverage evidence gaps without transferring general ethnobotanical sites into beverage-production locations.
+
+
+## 22 November 2026 — SRC-170 herbarium provenance and retrieval-route audit
+
+- Clarified an important evidence distinction: Pawe & Gogoi (2013) report final identification confirmation at BSI Shillong (ASSAM) and Itanagar (ARUN), but do not state that voucher specimens were deposited at either herbarium.
+- Checked official BSI institutional pages. Confirmed public contact routes for ASSAM (hoo-erc@bsi.gov.in; 0364-2223971/2223618) and ARUN (hoo-aprc@bsi.gov.in; 0360-2212405), and confirmed the institutional herbarium acronyms.
+- Reviewed BSI's public herbarium and identification-service information. The published specimen-identification fee guidance is specifically presented in a Central National Herbarium context and must not be assumed to govern ASSAM/ARUN enquiries.
+- Created `research/assam/src170-herbarium-provenance-retrieval-audit-2026-11-22.md` with separate institutional search questions, author-side metadata requests, historical search keys, and conservative archive-status wording.
+- No contact was made; no email or call was sent. No accession, voucher or specimen identity is claimed. No source IDs, taxa, beverage records or locality rows were changed.
+- Next evidence dependency: response from ASSAM, ARUN or the authors. In the meantime, continue independent source acquisition and Assam locality verification rather than fabricate missing voucher data.
