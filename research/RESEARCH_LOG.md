@@ -1059,3 +1059,17 @@ Primary chapter: https://doi.org/10.1007/978-81-322-2800-4_2 ; full text: https:
 - No author, institution or community contact was made. No canonical recipe, taxon merge, village assignment or beverage entity was created.
 
 Primary source: NIPCCD report https://www.spniwcd.wcd.gov.in/archive/download/2zq4zt ; Terangpi et al. (2013) https://www.phytojournal.com/vol2Issue2/Issue_july_2013/18.1.pdf .
+
+
+## 22 November 2026 — SRC-338 Dimasa Ju/Jumai/Judi/Juhara/Laosa name inventory and Jumai collision audit
+
+- Retrieved the full text of Bose, Teron & Tamuli (2018), “Wild Plant Resources Used as Food by the Dimasas of Karbi-Anglong District, Assam, India,” DOI 10.18782/2320-7051.6704. Registered as SRC-338.
+- The article explicitly lists four Dimasa beverage names: Ju, Jumai/Judi, Juhara and Laosa; says names vary by fermentation procedure, ingredients and taste; and associates Jumai with Baireng rice. It says Humao is essential and identifies Acacia pennata bark (“Sam Themra”) in starter preparation.
+- Kept the study design boundary: fieldwork March 2015–February 2016 covered 12 villages and associated forest lands for a wild-food plant survey. The beverage paragraph does not assign any drink or producer to those villages. No locality edges were created, and no recipes or alcohol strengths were inferred for the four names.
+- Cross-checked SRC-143 (Arjun 2015): its abstract has ambiguous beverage/community mapping and its methods/process descriptions do not provide reliable sample-to-community allocation. It cannot settle Dimasa Jumai versus Bodo Jumai.
+- Re-opened SRC-020 (Loying, Kalita & Manna 2024). Section 3.6 uses “Jumai” for the cooked-rice/starter blend in the Bodo Jou Bishi preparation; section 3.7 separately describes Dimasa Judima. Corrected SRC-020's author metadata and added a specific warning not to confuse the Bodo process-stage term with the Dimasa drink name listed by SRC-338.
+- Screened XOBDO's Assamese “asab” entry, which lists a cluster of Dimasa forms (ju gjao, zu, zudima, zuharo, laosa, zugab) under the generic gloss “alcohol/arrack.” This is not a beverage taxonomy and does not define Jumai/Judi; retained only as a lexical discovery lead.
+- Created `research/assam/src338-bose-2018-dimasa-ju-jumai-judi-juhara-laosa-audit-2026-11-22.md`; registered SRC-338 and corrected SRC-020 in `sources/source_register.csv`.
+- No canonical beverage entities, recipes, locality assignments or name merges were added. No community contact was made.
+
+Primary source: Bose et al. (2018), https://doi.org/10.18782/2320-7051.6704 . Secondary cross-check: Loying et al. (2024), https://doi.org/10.1155/2024/7769743 .
