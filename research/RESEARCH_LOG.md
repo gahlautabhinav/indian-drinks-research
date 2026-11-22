@@ -1073,3 +1073,12 @@ Primary source: NIPCCD report https://www.spniwcd.wcd.gov.in/archive/download/2z
 - No canonical beverage entities, recipes, locality assignments or name merges were added. No community contact was made.
 
 Primary source: Bose et al. (2018), https://doi.org/10.18782/2320-7051.6704 . Secondary cross-check: Loying et al. (2024), https://doi.org/10.1155/2024/7769743 .
+
+
+## 22 November 2026 — SRC-054 addendum: historical Dimasa “zou” label
+
+- Re-opened Sarma (2017), “Rice Beer and tribes of Assam,” pp. 13–16. On printed p. 14, the Dimasa-Kachari rice beer is called “zou”; the sentence is explicitly quoted from Bordoloi, Sharma Thakur & Saikia (1987), *Tribes of Assam*, Part I, p. 49.
+- This is a useful historical spelling lead, not a direct transcription verified against the 1987 original. It is not evidence that Zou, Ju, Joo and Judima are synonyms.
+- Sarma's methods list Tinsukia–Dibrugarh as district-level fieldwork areas for Deori, Sonowal Kachari and Dimasa, but the Dimasa Zou sentence is a quotation from the 1987 book, not a product-specific field interview. No locality links were created.
+- Added `research/assam/src054-sarma-2017-dimasa-zou-historical-name-addendum-2026-11-22.md` and updated SRC-054 in `sources/source_register.csv`.
+- Next retrieval target: the original Bordoloi et al. (1987) *Tribes of Assam*, Part I, p. 49, and Bordoloi (1984) *The Dimasa Kacharis of Assam*. No community contact was made.
