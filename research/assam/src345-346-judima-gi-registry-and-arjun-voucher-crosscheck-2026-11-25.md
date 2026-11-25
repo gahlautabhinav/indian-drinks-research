@@ -77,3 +77,14 @@ Arjun et al. describe *Acacia pennata* bark plus other plant leaves/twigs in the
 - Arjun, J., Verma, A. K., & Prasad, S. B. (2014). Method of preparation and biochemical analysis of local tribal wine Judima. *International Food Research Journal*, 21(2), 463–470.
 - Gogoi, J. (2016). ‘Judima’ The Traditional Rice Wine of Dimasa Community of Assam: A Potential Candidate for GI Registration. *Journal of Intellectual Property Rights*, 21(4), 238–242.
 - Intellectual Property India, GI Application 643, Judima, live official record checked 25 November 2026.
+
+
+## Correction / follow-on evidence — 25 November 2026
+
+The earlier note that secondary sources named YADEM while the live IP India page displayed DIMAJIK HOSOM as a possible applicant-name discrepancy was too cautious in one respect and incomplete in another. New sources SRC-347 and SRC-348 explain the roles:
+- The Hindu interview with YADEM managing trustee Uttam Bathari says YADEM initiated the proposal in 2018; a Dimasa women's group called Dimajik Hosom was formed after advice to apply through a women's group; the 2019 application was made along with YADEM.
+- Pangging et al. (2023), Table 1, lists DIMAJIK HOSOM as the applicant and YADEM plus Assam Agricultural University as facilitators.
+- APEDA's YADEM “Registered Proprietor” label and IP India's “Applicant Name” field for DIMAJIK HOSOM are not identical field labels. The source trail therefore supports different applicant-group/facilitator/representative roles rather than a demonstrated proprietor transfer or contradiction.
+- The official IP India page explicitly lists the List of Producers, Map and Statement of Case as application documents dated 16 January 2019. The actual contents have still not been retrieved; only their titles and dates are verified.
+
+See research/assam/src347-348-judima-gi-applicant-facilitator-and-producer-count-audit-2026-11-25.md for the expanded evidence assessment. Do not infer the names or number of producers from the existence of the list document. The CTIL report's approximate 200 women involved is a stakeholder-reported scale estimate, not a count of current authorised users or the 2019 annexure.
