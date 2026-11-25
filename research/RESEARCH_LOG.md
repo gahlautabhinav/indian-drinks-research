@@ -1154,3 +1154,19 @@ Sources:
 - Arjun et al. (2014), https://www.academia.edu/76485333/Method_of_preparation_and_biochemical_analysis_of_local_tribal_wine_Judima_an_indegenous_alcohol_used_by_Dimasa_tribe_of_Assam_India
 - Gogoi (2016), https://nopr.niscpr.res.in/bitstream/123456789/35371/1/JIPR%2021%284%29%20238-242.pdf
 - IP India application 643, https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
+
+
+## 25 November 2026 — Judima GI applicant/facilitator roles and producer annexure lead (SRC-347/348)
+
+- Re-opened the live IP India application 643 details page. It explicitly lists the “643 - GI - List of Producers” (16 Jan 2019), “643 - Map” (16 Jan 2019), and “643 - Statement of Case” (16 Jan 2019), plus GI Journal Copy and registration certificate. The page exposes titles/dates but browser extraction only returns a generic PDF icon; the actual PDFs were not retrieved. Presence of a producer-list document is not evidence of producer identities/count.
+- Retrieved The Hindu interview reproduction by Prabalika M. Borah (SRC-347). YADEM managing trustee Uttam Bathari says YADEM initiated the GI proposal in 2018; Dimajik Hosom, a Dimasa women's organisation, was formed after advice to apply through a women's group; and the 2019 application was made along with YADEM. Dibarai village council, Dibarai Mahila Samiti and Assam Agricultural University supported the proposal.
+- Retrieved Pangging et al. (2023), “Status of Geographical Indications in the Northeast Region of India,” JIPR 28, pp. 304–311, DOI 10.56042/jipr.v28i4.743 (SRC-348). Table 1 lists DIMAJIK HOSOM as applicant and YADEM plus Assam Agricultural University as facilitators. This independently clarifies why IP India shows DIMAJIK HOSOM as Applicant Name while APEDA uses YADEM in its Registered Proprietor field. These are differently labelled roles in source records; no transfer is established.
+- Cross-checked existing SRC-115 CTIL report: it says approximately 200 women are involved in Judima production, based on stakeholder discussion with Professor Uttam Bathari and Dimajik Hosom. This is an approximate, dated stakeholder estimate, not a current count of active producers, GI authorised users, households, or names in the 2019 List of Producers. CTIL's Dec 2024 snapshot lists DIMAJIK HOSOM as registered proprietor and zero authorised users in that snapshot; do not treat as current Part B status.
+- Created research/assam/src347-348-judima-gi-applicant-facilitator-and-producer-count-audit-2026-11-25.md; added SRC-347 and SRC-348 to source register; clarified SRC-346 and SRC-130; appended correction to SRC-345/346 audit.
+- No producer identities/counts, village-level production links, GI boundaries or recipe standards were inferred. No one was contacted.
+
+Sources:
+- IP India application 643: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
+- Borah, The Hindu (reproduction): https://www.inkl.com/news/assam-s-dimasa-people-s-judima-gets-gi-tag
+- Pangging et al. (2023): https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
+- CTIL report, existing SRC-115: https://ctil.org.in/docs/WCP_Study/_%20A%20STUDY%20ON%20THE%20APPLICATION%20AND%20COVERAGE%20OF%20GEOGRAPHICAL%20INDICATIONS%20FOR%20INDUSTRIALMANUFACTURED%20GOODS%20UNDER%20INDIA%E2%80%99S%20FREE%20TRADE%20AGREEMENTS%20(FTAs).pdf
