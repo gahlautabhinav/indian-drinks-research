@@ -1273,3 +1273,16 @@ Sources:
 - Official Part B register page: https://ipindia.gov.in/part-b-register-list-of-registered-authorised-users
 - Direct official Part B PDF: https://ipindia.gov.in/writereaddata/Portal/Images/pdf/Details_of_GI_Authorised_User_Applications_Registered_as_on_January_31__2024_new_One.pdf
 - Jamal et al. (2022) full text: https://www.researchgate.net/publication/360051641_Judima_the_Traditional_Rice_Wine_and_Dimasa_Community_a_Geographical_Review_of_Dima_Hasao
+
+
+## 25 November 2026 — Judima GI Registry attachment-link reproducibility test
+
+- Re-opened the official IP India application 643 page and confirmed the record still lists the 2019 List of Producers, Map, Statement of Case and the 11 March 2020 Journal Copy (Journal 131).
+- Clicked the rendered document link. The destination is the generic file-pdf.png image under the GIRPublicSearch writereaddata/images/ path, not a PDF. This reproduces and pinpoints the earlier retrieval failure; it is a portal-link/rendering limitation, not proof that the Registry lacks the documents.
+- Tested the legacy official journal-gi.htm route on the current IP India host; it returns 404. The old ipindia.nic.in route was inaccessible in this retrieval environment.
+- Reconciled the official application record with Pangging et al. (2023), whose table lists application 643, DIMAJIK HOSOM as applicant, and YADEM / Assam Agricultural University as facilitators. These are distinct roles; no transfer or producer identity is inferred.
+- No producer names, map boundaries, or village production rows created. Next practical retrieval route remains a direct document request to the GI Registry / applicant-proprietor, with the application number and exact attachment titles.
+
+Sources:
+- IP India application 643: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
+- Pangging et al. (2023): https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
