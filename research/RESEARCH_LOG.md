@@ -1170,3 +1170,7 @@ Sources:
 - Borah, The Hindu (reproduction): https://www.inkl.com/news/assam-s-dimasa-people-s-judima-gets-gi-tag
 - Pangging et al. (2023): https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
 - CTIL report, existing SRC-115: https://ctil.org.in/docs/WCP_Study/_%20A%20STUDY%20ON%20THE%20APPLICATION%20AND%20COVERAGE%20OF%20GEOGRAPHICAL%20INDICATIONS%20FOR%20INDUSTRIALMANUFACTURED%20GOODS%20UNDER%20INDIA%E2%80%99S%20FREE%20TRADE%20AGREEMENTS%20(FTAs).pdf
+
+
+- Additional SRC-349 check: IP India's official Part B authorised-user register page lists “Details of Authorised User Applications Registered as on May 15, 2025,” published 10 Aug 2026, but on 25 Nov 2026 the embedded document status said “Currently PDF not available.” The live page therefore does not permit verification of Judima's authorised-user count. Registered applicant's 2019 producer list, Part B authorised users and CTIL's approximate 200-women estimate remain three distinct datasets. Registered SRC-349 and appended the access limitation to the SRC-347/348 audit. No inference of zero authorised users; no RTI/contact made.
+- Official Part B page: https://www.ipindia.gov.in/part-b-register-list-of-registered-authorised-users
