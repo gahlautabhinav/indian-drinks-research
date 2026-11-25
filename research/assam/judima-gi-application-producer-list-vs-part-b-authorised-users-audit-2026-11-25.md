@@ -20,7 +20,7 @@ More importantly for this archive, the same page explicitly lists these original
 
 It also lists the subsequent examination report, applicant replies, GI letter, Journal copy and registration certificate. The producer list, map and Statement of Case are therefore not hypothetical missing documents: the Registry's public record explicitly inventories them.
 
-**Retrieval result:** the extracted public page exposes the document rows but its download control resolves in this browser pass to a generic `file-pdf.png` image rather than the PDF bytes. The document contents have not been obtained or transcribed. Do not claim the map, producer names or specification have been reviewed.
+**Retrieval result:** the extracted public page exposes the document rows but its download control resolves in this browser pass to a generic `file-pdf.png` image rather than the PDF bytes. A separate click-through test reproduced the same outcome: the browser destination is https://search.ipindia.gov.in/GIRPublicSearch/writereaddata/images/file-pdf.png, an image asset, not the document. The official application record therefore inventories the attachments but this route does not deliver their contents. The document contents have not been obtained or transcribed. Do not claim the map, producer names or specification have been reviewed.
 
 Official record: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
 
@@ -75,7 +75,13 @@ These fields can describe different roles and should not be collapsed. APEDA's 2
 
 APEDA page: https://apeda.gov.in/Assam
 
-## 6. Archive decisions and next retrieval order
+## 6. Journal-copy and portal retrieval test (25 November 2026)
+
+The application page's Journal Copy row is dated 11 March 2020 and identifies Journal 131. Its click-through link is rendered through the same generic image destination as the other document rows; it does not expose the Journal 131 PDF. A search for the official legacy journal-gi.htm route did not resolve on the current IP India host (404), and the former ipindia.nic.in host was inaccessible in this retrieval environment. A separate indexed official state-wise registration list confirms Judima / application 643 as registered, but it does not reproduce the application specification, producer list or territorial map.
+
+This is a documented portal/retrieval limitation, not evidence that the underlying documents are absent from the Registry. Do not infer their contents from the document titles.
+
+## 7. Archive decisions and next retrieval order
 
 1. Keep ASM-GAP-001 Open: exact GI boundary, original producer names/locations and current village distribution remain unverified.
 2. Do not create village producer rows from the Dibarai applicant address, the broad “Assam” field or the paper's regional description.
