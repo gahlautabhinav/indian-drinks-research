@@ -87,3 +87,15 @@ Full text: https://ctil.org.in/docs/WCP_Study/_%20A%20STUDY%20ON%20THE%20APPLICA
 4. If the official download remains inaccessible, record the access failure and use an RTI or direct public-record request only after user approval; no contact has been made.
 
 No individual producer names, producer counts, villages beyond explicitly documented addresses, or production-area polygons have been inferred.
+
+
+## SRC-349 addendum — official Part B authorised-user register availability
+
+IP India's official Part B register page was checked on 25 November 2026: https://www.ipindia.gov.in/part-b-register-list-of-registered-authorised-users. It lists a consolidated document titled “Details of Authorised User Applications Registered as on May 15, 2025,” published on 10 August 2026. The page's embedded document status explicitly says “Currently PDF not available” and “The document you are trying to access is not available right now.”
+
+This is an official, dated register lead, but the document contents could not be inspected. It does not currently allow a verified count of Judima authorised users. Keep the following distinct:
+1. The original 16 January 2019 List of Producers attached to GI application 643 (listed on the application page, contents not retrieved).
+2. GI Part B authorised users registered by the relevant as-of date (consolidated PDF listed but unavailable; application-specific status not verified).
+3. CTIL's approximately 200 women involved in production (stakeholder estimate, not an authorised-user count).
+
+Do not infer that no authorised users exist from the unavailable PDF, and do not treat CTIL's December 2024 snapshot as current. The next verification path is the individual Part B application/search records or a successfully accessible later registry export. No RTI or contact request has been made.
