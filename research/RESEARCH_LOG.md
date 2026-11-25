@@ -1189,3 +1189,20 @@ Sources:
 - IP India application 643: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
 - Pangging et al. (2023): https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
 - Daulagupu & Kikon (2023): https://thelocavore.in/2023/05/23/following-judima-in-dima-hasao-a-rice-wine-story/
+
+
+## 25 November 2026 — Judima locality refinement and cooperative production channel (SRC-351/352/353)
+
+- Retrieved Jamal, Upadhyay & Bajaj (2022), “Judima the Traditional Rice Wine and Dimasa Community: A Geographical Review of Dima Hasao,” *Indi@logs* 9:77–97, DOI 10.5565/REV/INDIALOGS.205 (SRC-351). Full text states primary survey in Dibarai village, November 2019, approx. 50 snowball-sampled respondents aged 20–80; respondents were involved in collecting raw materials from nearby forest for livelihood. The paper does not name brewing households/producers or quantify producer respondents. Dibarai is a Judima-focused survey locality, not a verified producer household locality from this source. Its GI status statements predate registration and are historical only.
+- Rechecked SRC-003 Locavore field report: Tereh remains the current strongest named household production locality (Khimkho Hojai brews for her household). Surangdisa is mentioned only as a household backyard location for a replanted Thembra vine; do not mark as Judima production.
+- Retrieved Chatterjee (2024), Open magazine, “Brewing Heritage” (SRC-352). Names Judima Traditional Brewers' Industrial Co-operative Society Ltd (JTBICS) as a cooperative channel for bottling/marketing. Quotes Sarbojit Thaosen, described as a member/stakeholder, saying local Dimasa women prepare batches to cooperative standards and only accepted batches are bottled. No registration number, office, producer villages, member list, output or GI authorised-user status found in article.
+- Retrieved Goswami & Sarma (2023), “Women, Work, and Wine: Shifting Cultures of Brewing in Northeast India,” The Jugaad Project (SRC-353). Supports existence of women's cooperative channel for Judima alongside home brewing; it is a regional interpretive article and does not name the Judima cooperative or its producer localities. Other geographic vignettes (Shergaon, West Karbi Anglong) concern other brews and were not mapped to Judima.
+- Created audit files: research/assam/src351-jamal-2022-dibarai-household-survey-and-locality-classification-audit-2026-11-25.md and research/assam/src352-353-judima-cooperative-production-channel-and-commercialisation-audit-2026-11-25.md. Registered SRC-351/352/353 and updated SRC-003's Tereh/Surangdisa locality interpretation.
+- Locality model remains: Tereh = named household production; Dibarai = Judima-focused survey and GI/festival organisational context, producer status not established by survey; JTBICS = cooperative bottling/marketing entity, office and producer villages unverified; Surangdisa = Thembra replanting reference only.
+- No new producer locations or member counts inferred; no individual or organisation contacted.
+
+Sources:
+- Jamal et al. (2022): https://www.academia.edu/113154469/Judima_the_Traditional_Rice_Wine_and_Dimasa_Community_a_Geographical_Review_of_Dima_Hasao
+- Chatterjee (2024): https://openthemagazine.com/art-culture/brewing-heritage
+- Goswami & Sarma (2023): https://www.thejugaadproject.pub/home/brewing
+- Daulagupu & Kikon (2023): https://thelocavore.in/2023/05/23/following-judima-in-dima-hasao-a-rice-wine-story/
