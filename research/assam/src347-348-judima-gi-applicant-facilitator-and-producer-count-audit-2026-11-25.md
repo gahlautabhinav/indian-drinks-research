@@ -99,3 +99,20 @@ This is an official, dated register lead, but the document contents could not be
 3. CTIL's approximately 200 women involved in production (stakeholder estimate, not an authorised-user count).
 
 Do not infer that no authorised users exist from the unavailable PDF, and do not treat CTIL's December 2024 snapshot as current. The next verification path is the individual Part B application/search records or a successfully accessible later registry export. No RTI or contact request has been made.
+
+
+## SRC-350 and metadata correction — 25 November 2026
+
+The APEDA catalogue has now been checked directly rather than relying on the earlier shorthand summary. Its foreword is dated 21 April 2022; page 60 lists Judima Application 643 and explicitly labels “Managing Trustee, Youth Association for Development & Empowerment (YADEM)” as **Applicant Name** (not Registered Proprietor). APEDA's disclaimer says its compilation is drawn from public-domain and IP India information and is subject to change. This entry therefore creates a genuine dated metadata difference with the live IP India page (Applicant Name: DIMAJIK HOSOM) and Pangging et al. (2023), Table 1 (DIMAJIK HOSOM applicant; YADEM and Assam Agricultural University facilitators).
+
+The Hindu interview says YADEM initiated the proposal, Dimajik Hosom was formed as a women's group and the 2019 application was made “along with YADEM.” These accounts make the collaboration understandable, but they do not by themselves reconcile the precise applicant field used in each database. The defensible conclusion is **unresolved applicant-metadata variation across sources**, with strong evidence of a joint/facilitating role for YADEM. Do not say APEDA calls YADEM “registered proprietor”; do not infer a proprietor transfer; and do not claim the role discrepancy is fully settled. Original Form GI-1, affidavit, examination report/reply and any record of applicant amendment are still needed.
+
+The same APEDA catalogue also repeats Judima's GI filing/certificate metadata (application 643; filing 16 Jan 2019; Class 33; certificate 376 dated 14 Sep 2021; validity to 15 Jan 2029). The official IP India details page remains controlling for current live registry fields.
+
+### Separate locality evidence already in archive — SRC-003 rechecked
+
+The Locavore field report (Daulagupu & Kikon, 23 May 2023; December 2022 fieldwork) explicitly identifies **Tereh village** as the home and household brewing site of Khimkho Hojai, a named Dimasa woman brewer. It reports that she brewed Judima for her household, with help from her husband, and that household brewing occurred throughout the year. This is valid source-specific village-to-household-production evidence, unlike the earlier Dimasa oral-archive and ritual-study villages, which were not production sites. It supports a Tereh → one documented household brewer → Judima evidence edge, not a claim that all or most Tereh households produce Judima. The existing SRC-003 register entry has been updated; no new source ID was created for this already-registered article.
+
+### GI documents remain inaccessible
+
+The IP India application page lists the 2019 List of Producers, Map, Statement of Case, Form GI-1, Affidavit, examination documents and replies. Clicking the document control through the accessible web interface resolves only to a generic PDF icon (`file-pdf.png`), not the underlying document. Thus the source inventory is confirmed, but none of those documents' substantive contents can be transcribed yet.
