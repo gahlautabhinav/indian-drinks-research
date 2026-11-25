@@ -50,12 +50,20 @@ Interpretation: this is a published 2023-era snapshot indicating that the paper 
 
 Article: https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
 
-## 4. Current Part B register availability
+## 4. Official consolidated Part B register: direct PDF audit
 
-IP India's Part B page lists a consolidated PDF titled “Details of Authorised User Applications Registered as on May 15, 2025,” published 10 August 2026. At the check date, the embedded document was reported unavailable by the page. The page inventory confirms a register publication exists; it does not reveal the Judima rows or establish a zero count.
+The consolidated PDF titled “Details of Authorised User Applications Registered as on May 15, 2025” was retrieved directly from the official IP India document endpoint after the Part B landing page's embedded download control did not expose the bytes. The PDF text extraction contains 14,448 lines and its cover/title states the register cut-off as **15 May 2025**. The landing page says it was published on 10 August 2026. The file URL itself contains an older-looking “January_31__2024” filename; the document's internal title/cut-off, rather than that filename, is used to identify the snapshot.
 
-Official page: https://ipindia.gov.in/part-b-register-list-of-registered-authorised-users
+Searches of the extracted PDF text:
+- “Judima” — no match.
+- “Dima Hasao” — no match.
+- “Assam” — matches numerous authorised-user entries for other GI goods, including Muga silk of Assam; the search therefore reaches Assam records rather than failing on a document with no Assam entries.
+- “643” — matches unrelated application numbers/addresses (for example Sankheda Furniture and Nilgiris PIN codes), not a Judima entry.
 
+**Finding:** no Judima authorised-user entry was located in the official consolidated Part B register as of 15 May 2025. This is materially stronger than the earlier 2023 secondary-paper snapshot. It is still a dated register finding, not a claim about registrations after 15 May 2025, and it does not identify the people on the separate 2019 application-stage List of Producers.
+
+Official Part B page: https://ipindia.gov.in/part-b-register-list-of-registered-authorised-users
+Direct official PDF: https://ipindia.gov.in/writereaddata/Portal/Images/pdf/Details_of_GI_Authorised_User_Applications_Registered_as_on_January_31__2024_new_One.pdf
 ## 5. Applicant / facilitator / registered-proprietor roles
 
 Keep the source fields separate:
