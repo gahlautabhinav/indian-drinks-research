@@ -1239,3 +1239,22 @@ Sources:
 - RCS district/subdivision mapping: https://rcs.assam.gov.in/portlets/districts-sub-divisions-at-a-glance
 - Assam Cooperation registration page: https://coop.assam.gov.in/portlet-innerpage/registration
 - APEDA Assam GI page: https://apeda.gov.in/Assam
+
+
+## 25 November 2026 — Judima application producer list vs Part B authorised-user distinction (SRC-357)
+
+- Re-opened IP India application 643. The official page inventories the 2019 List of Producers, Map, Affidavit, Historical Records, Form GI-1, Statement of Case and Additional Representation, alongside examination-stage documents and the registration certificate. The page's document controls still resolve to a generic PDF icon in this retrieval path; no attachment contents were extracted.
+- Made a critical evidence distinction: the 16 January 2019 application-stage List of Producers is not the same thing as later Part B authorised-user registration. Section 17 of the GI Act and Rules 56/59 govern producer applications and entry in Part B.
+- Re-audited Pangging et al. (2023): the paper reports nine Northeast GI goods with Part B registration and names them; Judima is not in that list. Treat this only as the paper's 2023-era snapshot, not a current 2026 zero count. The paper identifies Judima as Class 33 and lists DIMAJIK HOSOM as applicant, with YADEM and Assam Agricultural University as facilitators.
+- IP India currently lists a consolidated Part B PDF for applications registered as of 15 May 2025 (published 10 Aug 2026), but the document was unavailable at the check date. It cannot support a current Judima authorised-user count.
+- Kept the source fields distinct: IP India applicant = DIMAJIK HOSOM; APEDA current Registered Proprietor = YADEM; Pangging et al. lists YADEM/AAU as facilitators. No legal transfer or amendment inferred.
+- Registered SRC-357 for the statutory Section 17 / Rules 56 and 59 framework; created `research/assam/judima-gi-application-producer-list-vs-part-b-authorised-users-audit-2026-11-25.md`; updated ASM-GAP-001. No new place rows, producer edges or authorised-user records created. No person/institution contacted and no RTI submitted.
+
+Sources:
+- IP India Judima application 643: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
+- Pangging et al. (2023): https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
+- IP India Part B register: https://ipindia.gov.in/part-b-register-list-of-registered-authorised-users
+- GI Act Section 17: https://ipindia.gov.in/page-content/geographical-indications-act-1999
+- GI Rules Rule 56: https://ipindia.gov.in/acts/geographical-indications-rules/rule-56-3
+- GI Rules Rule 59: https://ipindia.gov.in/acts/geographical-indications-rules/rule-59-3
+- APEDA Assam GI list: https://apeda.gov.in/Assam
