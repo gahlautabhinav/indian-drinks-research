@@ -1138,3 +1138,19 @@ Primary source texts:
 - Kemprai (2017): https://www.academia.edu/38406116/Studies_on_Dimasa_History_Language_and_Culture_Volume_1
 - Basumatary et al. (2014): https://www.academia.edu/105608297/Biochemical_analysis_of_Jou_a_traditional_drink_of_the_Boro_tribe_of_Assam_and_North_East_India
 - Arjun et al. (2014): https://www.academia.edu/76485333/Method_of_preparation_and_biochemical_analysis_of_local_tribal_wine_Judima_an_indegenous_alcohol_used_by_Dimasa_tribe_of_Assam_India
+
+
+## 25 November 2026 — SRC-138 voucher clarification; SRC-345/346 Judima GI process and registry audit
+
+- Re-opened Arjun, Verma & Prasad (2014), SRC-138, full text. Clarified JA-1 to JA-4 are **plant vouchers** for four starter-associated taxa, not Judima batch vouchers. Paper says collected from different North Cachar Hills locations and deposited in Lumding College Department of Zoology; accessible text does not map each code to a taxon, provide accession numbers, identify exact localities or confirm current custody. Plant taxa: Piper betle, Buddleja asiatica, Hedyotis scandens and Acacia pennata; plant-part detail varies between prose, figure and table.
+- Confirmed the paper's method reports glutinous rice and Umhu/Humao starter; a large Humao cake for 5 kg rice; 5–7 days in detailed method (abstract says 4–5). It includes 100 interviewees, but not a named village, sample household/batch count or sample-to-interview linkage. Its Table 2 reports pH 5.1, ethanol 16 ± 2% v/v and microbial counts; microbial enumeration protocol is insufficiently described to independently assess those counts.
+- Retrieved Gogoi (2016), “Judima… A Potential Candidate for GI Registration,” *Journal of Intellectual Property Rights* 21(4):238–242, as SRC-345. This is a pre-registration GI case study, not the final registered specification. It describes a distinct source-specific process: Thembra/*Acacia pennata* bark powder + rice flour/water starter dried 3–5 days; Bora/Bairing glutinous rice; earthen vessel fermentation 3–5 days. Do not merge this with the Arjun 2014 process as one universal recipe.
+- Retrieved live official IP India record for Judima application 643, SRC-346. Checked 25 Nov 2026: Registered; Class 33; applicant displayed “DIMAJIK HOSOM”; applicant address Dibarai, Haflong, Dima Hasao, Assam; “Geographical Area” field Assam; GI Journal 131; certificate 376 dated 14 Sep 2021; valid until 15 Jan 2029. Registry lists the GI Journal copy, Statement of Case, Map and List of Producers, but document controls did not expose a retrievable PDF URL in this pass. Exact legal production boundary and registered process specification remain unverified from those controlling documents.
+- Identified applicant-name discrepancy: secondary CII/APEDA materials list YADEM, while current live IP India record displays “DIMAJIK HOSOM.” Do not assume they are identical or infer a transfer; retain the discrepancy pending official application/association records. Updated SRC-130 caveat.
+- Created `research/assam/src345-346-judima-gi-registry-and-arjun-voucher-crosscheck-2026-11-25.md`; updated SRC-138 detailed audit; registered SRC-345 and SRC-346; updated SRC-130 in `sources/source_register.csv`.
+- No JA voucher-to-taxon mapping, exact village production links, canonical recipe, or legal GI territory polygon was invented. No author/community contact was made.
+
+Sources:
+- Arjun et al. (2014), https://www.academia.edu/76485333/Method_of_preparation_and_biochemical_analysis_of_local_tribal_wine_Judima_an_indegenous_alcohol_used_by_Dimasa_tribe_of_Assam_India
+- Gogoi (2016), https://nopr.niscpr.res.in/bitstream/123456789/35371/1/JIPR%2021%284%29%20238-242.pdf
+- IP India application 643, https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
