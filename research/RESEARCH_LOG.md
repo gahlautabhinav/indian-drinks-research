@@ -1286,3 +1286,15 @@ Sources:
 Sources:
 - IP India application 643: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
 - Pangging et al. (2023): https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
+
+
+## 25 November 2026 — Dhansiri field locality and household sample evidence (SRC-358)
+
+- Recovered and audited Sarmah, Pegu & Sanong (2022), DOI 10.13005/bbra/3062, full text. Study area is Dima Hasao; authors selected Dhansiri village for fieldwork in February 2022.
+- Methods report 100 semi-structured local-language interviews (65 women, 35 men; ages 28–67). Freshly prepared and old preserved Judima were collected from a family in Dhansiri described by the authors as preparing Judima for many generations and being renowned for authenticity.
+- This is stronger than a general district reference: Dhansiri is directly supported as both a Judima field-survey locality and a beverage sample/preparation locality. But the family is unnamed, only one family is described as the sample source, and no producer-household count or village prevalence is given. No named producer edge created.
+- The article's preparation description and ingredient/plant statements are author-attributed to their field study; preserve as one documented account, not a universal Dimasa recipe. It reports Humao starter cake, Thempra / Acacia pennata bark, Bairing or Bora rice, and seasonal fermentation variation; compare against existing recipe-variation gaps before generalising.
+- Methodological caution: abstract reports alcohol as mg/ml while Table 1 and discussion report % v/v; table p-values hover at/above 0.05, and triplicate determinations do not establish independent batches or producer-level replication. No biochemical result is promoted to a Judima standard or health claim.
+- Added SRC-358, created a detailed locality/method audit, and updated ASM-GAP-001. No producer name, producer-household count, GI boundary or new authorised-user entry added.
+
+Source: https://www.researchgate.net/publication/366784741_Documentation_of_Traditional_Method_of_Preparation_and_Characterization_of_Judima_a_Traditional_Rice_Beer_of_Dimasa_Tribe_of_Assam_and_its_Comparison_with_Old_Preserved_Judima
