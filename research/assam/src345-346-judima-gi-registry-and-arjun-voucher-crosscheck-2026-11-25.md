@@ -88,3 +88,10 @@ The earlier note that secondary sources named YADEM while the live IP India page
 - The official IP India page explicitly lists the List of Producers, Map and Statement of Case as application documents dated 16 January 2019. The actual contents have still not been retrieved; only their titles and dates are verified.
 
 See research/assam/src347-348-judima-gi-applicant-facilitator-and-producer-count-audit-2026-11-25.md for the expanded evidence assessment. Do not infer the names or number of producers from the existence of the list document. The CTIL report's approximate 200 women involved is a stakeholder-reported scale estimate, not a count of current authorised users or the 2019 annexure.
+
+
+## Further correction — APEDA applicant field and unresolved metadata (25 November 2026)
+
+The earlier follow-on paragraph that treated APEDA's YADEM label as “Registered Proprietor” is incorrect. Direct inspection of APEDA's 2022 catalogue (SRC-350; foreword dated 21 April 2022, page 60) shows the field is labelled **Applicant Name** and reads “Managing Trustee, Youth Association for Development & Empowerment (YADEM).” The live IP India page currently labels DIMAJIK HOSOM as Applicant Name. Pangging et al. (2023) also lists DIMAJIK HOSOM as applicant and YADEM/Assam Agricultural University as facilitators, while The Hindu interview describes the 2019 application as made along with YADEM. This suggests collaborative application history but does not fully reconcile the difference in official/secondary metadata. Keep the applicant-name variation unresolved pending original Form GI-1, affidavit, examination report/reply and any amendment record. Do not describe APEDA as using “Registered Proprietor” or infer a proprietor transfer.
+
+The registry document inventory includes original application materials, including the List of Producers, Map, Statement of Case, Form GI-1, affidavit, examination report and replies. The accessible document controls resolve to a generic PDF icon, not the underlying PDFs. The substantive contents remain uninspected.
