@@ -77,3 +77,19 @@ The Assam Registrar of Cooperative Societies' current public pages describe a st
 - Assam Cooperation Department, List of Cooperative Societies: https://coop.assam.gov.in/information-services/list-of-cooperative-societies-0
 - Chatterjee (2024), SRC-352: https://openthemagazine.com/art-culture/brewing-heritage
 - Goswami & Sarma (2023), SRC-353: https://www.thejugaadproject.pub/home/brewing
+
+
+## Historical development context — SRC-355 (Bathari, 2020)
+
+Uttam Bathari's 16 January 2020 NEZINE article says YADEM and Dibarai Mahila Samity organised a Judima festival in Haflong in December 2016. It describes the festival's commercialisation objective as exploring cooperative production of Judima with women's involvement, drawing an analogy to cooperative dairy production in Gujarat. This is valuable evidence of the **community/cooperative model being proposed and discussed by 2016**, but it does not say that JTBICS was already incorporated, name JTBICS, or provide a registration date. The later society name appears in the cooperative schedule and 2023/2024 articles. Thus the safest timeline is:
+
+- Dec 2016: YADEM + Dibarai Mahila Samity festival; women's cooperative production discussed as an objective (SRC-355).
+- 2020–21 and 2021–22: “Judima Traditional Brewers Industrial C.S.Ltd.” appears in a Haflong-subdivision schedule with permission marked accorded for both years (SRC-354; nature of permission not legible).
+- 2023: Goswami & Sarma identify the expanded JTBICS name as a women's cooperative production channel (SRC-353).
+- Jul 2024: Open quotes JTBICS stakeholder Sarbojit Thaosen on cooperative quality standards and bottling (SRC-352).
+
+This sequence does not establish the incorporation date or prove that the 2016 proposed cooperative and the society listed later are legally the same body. It is a plausible institutional development path that requires the registration certificate and bye-laws to confirm.
+
+## Current official records route (not a society status finding)
+
+The Assam Cooperation Department and Registrar of Cooperative Societies websites describe statewide cooperative registries and list district-level cooperative officials. The accessible public pages reviewed did not expose a searchable individual JTBICS record. The current officer directory includes Haflong cooperative-registration officials, but officer listings are not evidence of the society's current status. No call, email, or application has been made.
