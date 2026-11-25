@@ -1206,3 +1206,19 @@ Sources:
 - Chatterjee (2024): https://openthemagazine.com/art-culture/brewing-heritage
 - Goswami & Sarma (2023): https://www.thejugaadproject.pub/home/brewing
 - Daulagupu & Kikon (2023): https://thelocavore.in/2023/05/23/following-judima-in-dima-hasao-a-rice-wine-story/
+
+
+## 25 November 2026 — JTBICS cooperative schedule discovery (SRC-354/355)
+
+- Located a 69-page Appendix A schedule in the Assam Legislative Assembly Session Archive PDF, answer510.pdf. PDF p.40, serial 473 lists “Judima Traditional Brewers Industrial C.S.Ltd.” under Haflong subdivision. Table columns show permission accorded for 2020–21 and 2021–22 (continuation “Do”). The document extraction does not reveal the full explanatory question/title or nature of permission. Do not call it an alcohol manufacturing licence, operating licence, registration certificate or GI authorisation. No registration number or address beyond Haflong subdivision is supplied. Since the PDF is hosted on a third-party legislative archive, treat as historical documentary evidence, not a live Registrar status extract.
+- The abbreviated name is a strong match to JTBICS named by Chatterjee (2024) and Goswami & Sarma (2023), but legal identity not fully crosswalked without registration number/certificate/by-laws.
+- Retrieved Uttam Bathari's NEZINE article (16 Jan 2020), SRC-355. Bathari says YADEM and Dibarai Mahila Samity organised a Judima festival in Haflong in Dec 2016 and cooperative production with women's involvement was an objective. This documents the cooperative model as a proposal/discussion by 2016, not proof that JTBICS was incorporated then. Together with later 2020–22 schedule and 2023/24 named JTBICS references, it provides a cautious institutional development sequence.
+- Created/updated research/assam/src354-assam-cooperative-schedule-judima-brewers-industrial-society-2026-11-25.md; registered SRC-354 and SRC-355 in source register.
+- Current Assam Cooperation Department / RCS pages describe a statewide registry and list Haflong officials, but accessible public pages did not expose an individual JTBICS record. No inference of inactive/absent status; no call/email/request made.
+- Next evidence needed: registration certificate, exact registration number/date, registered address, bye-laws, current functional status and annual returns/audit; then membership and Part B authorised-user crosswalk. No producer villages or member counts inferred.
+
+Sources:
+- Assam Legislative Assembly Session Archive, Appendix A, PDF p.40, serial 473: https://alaesession.org/assets/uploads/answer/answer510.pdf
+- Bathari (2020), NEZINE: https://www.nezine.com/info/ak9rTU9JZHlSdXZpSHJ2b3cwNktZZz09/commercial-manufacturing-of-assam%E2%80%99s-rice-based-heritage-brews%3A-current-excise-rules-to-benefit-only-the-moneyed-class-brew-problems-for-the-communities.html
+- Assam Cooperation Department list: https://coop.assam.gov.in/information-services/list-of-cooperative-societies-0
+- Registrar of Cooperative Societies, Assam officials: https://rcs.assam.gov.in/about-us/detail/key-officials-30
