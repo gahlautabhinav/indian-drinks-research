@@ -119,3 +119,26 @@ Ask Dr Arjun and Lumding College to confirm or provide, if retained:
 - Lumding College Central Library page (OPAC, reprography, holdings summary, librarian and contact): https://lumdingcollege.org/library.php
 - Lumding College Digital Library: https://lumdingcollege.co.in/dlibrary.php
 - Lumding College Zoology Department page: https://www.lumdingcollege.org/department-profile.php?did=20
+
+
+## Addendum — 25 November 2026: voucher interpretation and GI cross-check
+
+A further full-text review confirms that JA-1, JA-2, JA-3 and JA-4 are **plant-material voucher specimens**, not Judima batch vouchers. The paper says four starter-associated plants were collected from different locations in North Cachar Hills, authenticated by Dr Jashodeb Arjun, and voucher specimens deposited in the Department of Zoology, Lumding College. It does not map JA-1–JA-4 to individual taxa in the accessible prose/table extraction, provide accession numbers, identify the exact collection localities or confirm present custody.
+
+The four taxa listed in the methods/figures/tables are:
+- *Piper betle* — leaves;
+- *Buddleja asiatica* — leaves, with twigs also reported as used;
+- *Hedyotis scandens* — leaves/twigs;
+- *Acacia pennata* — leaves and bark (the paper's text and figures vary in plant-part detail).
+
+The paper's table describes qualitative phytochemical screening of the plant materials. It does not establish that every household or every Judima starter cake uses all four plants. The article's table 2 reports pH 5.1, ethanol 16 ± 2% v/v, carbohydrate 32.43 ± 2.7 mg/ml, protein 0.97 ± 0.18 mg/ml, free amino acids 3.21 ± 0.21 mg/ml and microbial counts for starter, day 1, day 3, day 5 and ripe/filtered stages. The microbial enumeration protocol is not sufficiently described to assess the reported counts; independent batch count and sample-to-household mapping are not provided.
+
+### Comparison with Gogoi (2016) pre-registration process account
+
+Gogoi (2016), now SRC-345, describes a different source-specific method: Thembra/*Acacia pennata* bark powder mixed with rice flour and water, starter dried 3–5 days; glutinous Bora/Bairing rice boiled, cooled on bamboo mats, mixed with starter and fermented in earthen vessels 3–5 days depending on season. Arjun et al. (2014) describe four plant taxa in starter-related work, old Humao cake inoculating new cakes, and a 5 kg rice to one large Humao cake household preparation, with 5–7 days in the detailed process (the abstract says 4–5 days). These should remain separate source-specific protocols, not be collapsed into a single canonical recipe.
+
+### GI registry cross-check
+
+The live IP India record for application 643 (SRC-346), checked 25 November 2026, reports Judima registered in Class 33, applicant displayed as “DIMAJIK HOSOM,” applicant address at Dibarai, Haflong, Dima Hasao, Assam, and “Geographical Area: Assam.” It lists a GI Journal copy, Statement of Case, Map and List of Producers among application documents. The official page's document controls did not expose a retrievable PDF URL during this pass, so the registered detailed production specification, map and producer list remain uninspected. Secondary sources such as the CII booklet list YADEM as applicant/registered proprietor; do not silently equate YADEM with the current registry display “DIMAJIK HOSOM.” See SRC-345/SRC-346 audit.
+
+No voucher-to-taxon crosswalk or current custody claim has been added. No village-level production edges were created.
