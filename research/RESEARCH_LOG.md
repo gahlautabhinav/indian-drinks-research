@@ -1095,3 +1095,14 @@ Primary source: Bose et al. (2018), https://doi.org/10.18782/2320-7051.6704 . Se
 - Next target: inspect item-level entries in the Bodo and Dimasa Heritage Digital Archive, especially food and heritage-dictionary records, while respecting community attribution and cultural protocols. No contact was made.
 
 Primary/archival sources: Longmailai (2024), https://doi.org/10.21276/smprt.202408.1sne2.a7 ; Borah & Sarma (2022), https://doi.org/10.31995/rjpss.2022.v47i02.030 .
+
+
+## 25 November 2026 — SRC-341: Dimasa digital archive fieldwork and “ju” ritual evidence
+
+- Retrieved Longmailai & Sinha (2024), “Documenting Dimasa Oral Narratives and Digital Archiving,” *Vāk Manthan* 9(II), and registered it as SRC-341.
+- The article documents the Bodo and Dimasa Heritage Digital Archive's Mukurtu structure, community ownership/cultural protocols, and item metadata fields. It describes cultural heritage items and a Heritage Dictionary with headwords, alternate spellings, translations, audio, source, phonological transcription, definitions, example sentences and related media.
+- It lists 15 Cachar villages visited for broad Dimasa heritage collection in 2022: Rongpur, Dholai, Sheorartal, Kumacherra, Kanakpur, Hawarma, Joypur, Khaspur, Khauthai, Raidilung, Madra, Bijoypur, Lodi, Lodi Kachari and Borbond. These are archive fieldwork villages, not beverage production localities; no beverage-village edges were created.
+- The article independently mentions broad rice beer “ju” in the Hawar Dimasa laothai pre-marriage ceremony, and rice wine consumed with meat/sticky rice at Baidima harvest celebrations. It does not provide a beverage-specific producer, recipe, starter, duration or named village; it does not identify the harvest rice wine as Judi/Judima/Jugap/Juharo.
+- The live archive root and /digital-heritage route timed out in this retrieval session. Search indexing did not expose a direct Judi/Jugap/Juharo item. This is an access limitation, not evidence of absence. No archive item-level record was added or treated as absent.
+- Cross-checked SRC-339: the archive paper's list of 10–11 food items consists of cooked foods; it mentions Judi, Jugap and Juharo as beverage terms and Humao starter in explanatory prose, but does not show those beverages as item-level entries in the archive's Food category. Do not claim they are currently archived as individual items.
+- Created `research/assam/src341-longmailai-sinha-2024-dimasa-archive-field-villages-and-ju-audit-2026-11-25.md`; registered SRC-341 in `sources/source_register.csv`. No community contact was made. Preserve community cultural protocols and item-level reuse restrictions.
