@@ -1222,3 +1222,20 @@ Sources:
 - Bathari (2020), NEZINE: https://www.nezine.com/info/ak9rTU9JZHlSdXZpSHJ2b3cwNktZZz09/commercial-manufacturing-of-assam%E2%80%99s-rice-based-heritage-brews%3A-current-excise-rules-to-benefit-only-the-moneyed-class-brew-problems-for-the-communities.html
 - Assam Cooperation Department list: https://coop.assam.gov.in/information-services/list-of-cooperative-societies-0
 - Registrar of Cooperative Societies, Assam officials: https://rcs.assam.gov.in/about-us/detail/key-officials-30
+
+
+## 25 November 2026 — JTBICS registrar pathway and Judima GI role reconciliation (SRC-356)
+
+- Checked current official Assam RCS public pages. The name-level public HTML list is not available for primary/district cooperatives; page reports aggregate totals including 369 industrial cooperatives statewide and a named download only for state-level societies. This cannot verify JTBICS current status; absence from the state-level download is not evidence of absence.
+- Official jurisdiction directory assigns Dima Hasao to Haflong, with Haflong and Maibong subdivisions. RCS page lists District Deputy Registrar Longbir Teron at Haflong. Registration responsibility page says district-level societies are handled by DRCS and other primary societies by ARCS; official pages show inconsistent names for Haflong ARCS. JTBICS classification and area of operation are unknown, so correct record custodian is not yet determined.
+- Registration guidance identifies expected original file records: application, feasibility report, four copies of bye-laws, inaugural general meeting proceedings, promoter list and stated area/objects. Added a document checklist for registration certificate/number/date, bye-laws/amendments, current status, returns/audits, membership and board/election records. Registered SRC-356 and created research/assam/src356-jtbics-registrar-jurisdiction-and-status-verification-audit-2026-11-25.md.
+- Re-read SRC-354 original schedule: row 473's “Do” entries continue “Accorded” under columns for 2020–21 and 2021–22. Subject of permission is not named; it is not safe to call this an excise/manufacturing/operating licence. Updated SRC-354 audit accordingly.
+- Checked current APEDA Assam GI page: it labels YADEM as Registered Proprietor for Judima; IP India application page labels DIMAJIK HOSOM as Applicant Name. Pangging et al. lists DIMAJIK HOSOM as applicant and YADEM/AAU as facilitators; The Hindu describes application made along with YADEM. This supports applicant versus proprietor distinction, while APEDA's 2022 catalogue's “Applicant Name: YADEM” is a dated metadata variation. Updated SRC-345/346 audit; do not infer a transfer.
+- No society/Registrar contact or RTI request made. No JTBICS current active/inactive status, registration number, membership or producer villages inferred.
+
+Sources:
+- Assam RCS cooperative list: https://rcs.assam.gov.in/information-services/detail/list-of-cooperative-societies
+- RCS responsible officers: https://rcs.assam.gov.in/portlet-innerpage/responsible-officers-and-requirements
+- RCS district/subdivision mapping: https://rcs.assam.gov.in/portlets/districts-sub-divisions-at-a-glance
+- Assam Cooperation registration page: https://coop.assam.gov.in/portlet-innerpage/registration
+- APEDA Assam GI page: https://apeda.gov.in/Assam
