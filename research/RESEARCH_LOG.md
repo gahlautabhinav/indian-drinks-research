@@ -1119,3 +1119,22 @@ Primary/archival sources: Longmailai (2024), https://doi.org/10.21276/smprt.2024
 - The live archive root and /digital-heritage route timed out again on 25 Nov 2026. This is an access limitation, not evidence of missing entries.
 - Created `research/assam/src342-nib-2026-dimasa-dictionary-project-and-wordbook-access-audit-2026-11-25.md`; registered SRC-342 and added the source-count caveat to SRC-339/SRC-341 in `sources/source_register.csv`.
 - No beverage entity merges, recipes, or production-locality assignments were made. No community contact was made. Respect the archive's community ownership and cultural protocols.
+
+
+## 25 November 2026 — SRC-343/SRC-344: Kemprai Judima chapter and Boro Jou data-provenance anomaly
+
+- Retrieved the full text of Ron Kemprai's chapter “Physico-chemical and Biochemical Properties of Judima (Rice Beer)” (2017), pp. 170–179, in *Studies on Dimasa History, Language and Culture*, Vol. 1. Registered as SRC-343.
+- The chapter says laboratory fermentation used Maiju rice and Humao starter, with recipe information from unspecified “local Dimasa women of district.” It does not name the district, villages, number of informants, households, batches or sample collection dates. Its harvest schedule is internally unclear: “total 3–4 times,” first at day 4, then 1st/2nd/4th day, then every 4 days to day 24, while results describe day 0 to day 24.
+- The chapter reports alcohol 18.53 ± 6.17% v/v (range 5.30–22.05%), pH 4.21 ± 0.04, carbohydrate 48 ± 3.02 mg/ml, reducing sugar 3.47 ± 0.24 mg/ml, protein 1.26 ± 0.10 mg/ml, free amino acids 3.1 ± 0.18 mg/ml, total acidity 1.48% ± 0.24 and volatile acidity 1.18% ± 0.19.
+- Retrieved the full text of Basumatary, Terangpi Basumatary, Medhi, Bose & Begum (2014), “Biochemical analysis of Jou: a traditional drink of the Boro tribe of Assam and North East India,” IOSR-JESTFT 8(7), 99–103. Registered as SRC-344.
+- Critical comparison: all listed values above are identical to the Boro Jou article, including alcohol mean/SD and range. The Jou paper's table reports total solids 0.370 ± 0.03 (its abstract instead says 0.306 ± 0.03). The two papers also show substantial phrase-level and sequence-level overlap in their results discussions. Yet the stated experimental systems differ: Kemprai reports Dimasa Judima, Maiju rice and Humao; Basumatary et al. report Boro Jou, Ranjit rice and Amao, Kokrajhar district. The Jou paper describes seven harvests at day 0, 1, 2, 6 and then every six days; Kemprai's harvest schedule is different and internally inconsistent.
+- The Kemprai chapter's short reference list does not cite the Basumatary et al. Jou paper. It cites Arjun et al. (2014) Judima research but says biochemical analysis of Judima had not previously been documented, another literature-review inconsistency.
+- Assessment: serious data-provenance anomaly and possible unacknowledged reuse/adaptation of the Boro Jou dataset or text. This is not proof of intent or misconduct. Only raw data, laboratory notebooks, sample records or author clarification could resolve the provenance. Do not treat Kemprai's numbers as an independent validated Judima dataset, product specification, benchmark or safety claim.
+- Compared with Arjun, Verma & Prasad (2014) Judima study: that separate paper reports a field survey of 100 participants (79 women, 21 men; ages 30–60), glutinous rice, Umhu/Humao, Acacia pennata and additional plant parts, 5–7 day preparation and alcohol 16 ± 2% v/v. Keep this as its own source-attributed experimental result, not a universal value.
+- Created `research/assam/src343-344-kemprai-judima-chapter-data-provenance-and-boro-jou-comparison-audit-2026-11-25.md`; registered SRC-343 and SRC-344 in `sources/source_register.csv`. No canonical beverage recipe, locality, or product specification changed.
+- No author or community contact was made. Preserve cautious language; do not publish an allegation of misconduct as an established fact.
+
+Primary source texts:
+- Kemprai (2017): https://www.academia.edu/38406116/Studies_on_Dimasa_History_Language_and_Culture_Volume_1
+- Basumatary et al. (2014): https://www.academia.edu/105608297/Biochemical_analysis_of_Jou_a_traditional_drink_of_the_Boro_tribe_of_Assam_and_North_East_India
+- Arjun et al. (2014): https://www.academia.edu/76485333/Method_of_preparation_and_biochemical_analysis_of_local_tribal_wine_Judima_an_indegenous_alcohol_used_by_Dimasa_tribe_of_Assam_India
