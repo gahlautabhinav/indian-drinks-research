@@ -1174,3 +1174,18 @@ Sources:
 
 - Additional SRC-349 check: IP India's official Part B authorised-user register page lists “Details of Authorised User Applications Registered as on May 15, 2025,” published 10 Aug 2026, but on 25 Nov 2026 the embedded document status said “Currently PDF not available.” The live page therefore does not permit verification of Judima's authorised-user count. Registered applicant's 2019 producer list, Part B authorised users and CTIL's approximate 200-women estimate remain three distinct datasets. Registered SRC-349 and appended the access limitation to the SRC-347/348 audit. No inference of zero authorised users; no RTI/contact made.
 - Official Part B page: https://www.ipindia.gov.in/part-b-register-list-of-registered-authorised-users
+
+
+## 25 November 2026 — Judima GI metadata correction, APEDA cross-check and Tereh household evidence
+
+- Directly inspected APEDA's 2022 Catalogue of GI Products (foreword dated 21 April 2022), page 60. It labels YADEM as **Applicant Name**, not Registered Proprietor. This corrects the previous log/audit shorthand. APEDA's dated entry differs from the live IP India application page (Applicant Name: DIMAJIK HOSOM) and Pangging et al. (2023) (DIMAJIK HOSOM applicant; YADEM and Assam Agricultural University facilitators). The Hindu interview says the 2019 application was made along with YADEM. The joint/facilitation history is supported, but the precise metadata difference is not fully resolved. Original Form GI-1, affidavit, examination documents/replies and any amendment record are needed. Do not infer a proprietor transfer.
+- Registered APEDA catalogue as SRC-350; updated SRC-346, SRC-130 and the SRC-347/348 audit to preserve the applicant-name variation accurately.
+- Rechecked existing SRC-003 (Daulagupu & Kikon, 2023). Its field report explicitly documents Tereh village as the household brewing site of Khimkho Hojai, a named Dimasa woman brewer, for her household. This is a valid one-household production locality link, not a village-wide production prevalence claim. Updated SRC-003 register description and audit.
+- Tried to access the underlying IP India application documents via the public application page. The 2019 List of Producers, Map, Statement of Case, Form GI-1, affidavit, examination report and replies are listed, but accessible document links resolve only to a generic PDF icon. Document titles/dates are verified; substantive PDF contents remain unavailable in this pass.
+- No producer list names/count, GI territory polygon, additional production village, or legal applicant amendment inferred. No contacts or RTI requests made.
+
+Sources:
+- APEDA Catalogue of GI Products, page 60: https://apeda.gov.in/sites/default/files/2025-02/Catalogue_GI_Products.pdf
+- IP India application 643: https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/643
+- Pangging et al. (2023): https://or.niscpr.res.in/index.php/JIPR/article/download/743/794/8016
+- Daulagupu & Kikon (2023): https://thelocavore.in/2023/05/23/following-judima-in-dima-hasao-a-rice-wine-story/
