@@ -1258,3 +1258,18 @@ Sources:
 - GI Rules Rule 56: https://ipindia.gov.in/acts/geographical-indications-rules/rule-56-3
 - GI Rules Rule 59: https://ipindia.gov.in/acts/geographical-indications-rules/rule-59-3
 - APEDA Assam GI list: https://apeda.gov.in/Assam
+
+
+## 25 November 2026 — Direct audit of the official Judima Part B authorised-user register
+
+- Followed up the earlier Part B retrieval limitation. The IP India landing page listed a consolidated register but its embedded control did not expose the file. A direct official PDF endpoint was located through indexed IP India search results and opened successfully.
+- The PDF's internal title is “Details of Authorised User Applications Registered as on May 15, 2025”; IP India's Part B page gives publication date 10-08-2026. Although the direct URL filename contains “January_31__2024”, the internal document title/cut-off is used as the controlling date.
+- The extracted PDF has 14,448 lines. Exact text searches returned no match for “Judima” and no match for “Dima Hasao”. “Assam” does return many records, including Muga silk of Assam authorised users, so the lack of Judima matches is not because the document lacks Assam entries. Searching “643” returned unrelated records (e.g. Sankheda Furniture application number 643 and PIN-code occurrences), not Judima.
+- Finding: no Judima authorised-user entry located in the official Part B consolidated register snapshot as of 15-05-2025. This supersedes the earlier note that the PDF was unavailable. It does not establish the status after 15-05-2025 and does not disclose the separate 2019 application-stage producer list.
+- Rechecked SRC-351 full text: Jamal et al. reports a November 2019 Dibarai field survey of about 50 respondents using snowball sampling, ages 20–80; questionnaire addressed personal information and cultural association with Judima. Respondents collected raw materials from nearby forest. It does not enumerate producer households or prove the respondents themselves brewed Judima. This reinforces the existing Dibarai survey-locality classification, not a producer edge.
+- Updated the Judima GI audit, ASM-GAP-001 and SRC-351 source record. No new source ID, producer row, village producer edge or Part B authorised-user entry created. The GI List of Producers / map / Statement of Case remain listed but their contents have not been retrieved.
+
+Sources:
+- Official Part B register page: https://ipindia.gov.in/part-b-register-list-of-registered-authorised-users
+- Direct official Part B PDF: https://ipindia.gov.in/writereaddata/Portal/Images/pdf/Details_of_GI_Authorised_User_Applications_Registered_as_on_January_31__2024_new_One.pdf
+- Jamal et al. (2022) full text: https://www.researchgate.net/publication/360051641_Judima_the_Traditional_Rice_Wine_and_Dimasa_Community_a_Geographical_Review_of_Dima_Hasao
