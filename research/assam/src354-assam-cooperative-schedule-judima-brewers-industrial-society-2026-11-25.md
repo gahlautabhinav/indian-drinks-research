@@ -93,3 +93,12 @@ This sequence does not establish the incorporation date or prove that the 2016 p
 ## Current official records route (not a society status finding)
 
 The Assam Cooperation Department and Registrar of Cooperative Societies websites describe statewide cooperative registries and list district-level cooperative officials. The accessible public pages reviewed did not expose a searchable individual JTBICS record. The current officer directory includes Haflong cooperative-registration officials, but officer listings are not evidence of the society's current status. No call, email, or application has been made.
+
+
+## Addendum — 25 November 2026: official RCS jurisdiction and schedule interpretation
+
+A closer reading of the opened original PDF confirms that serial 473 has “Do” in both permission-accorded columns; this is a continuation marker for “Accorded” in the preceding row. The column headings are “Permission Accorded 2020–21” and “Permission Accorded 2021–22.” The nature of the permission is still not identified, and must not be described as an excise, manufacturing or operating licence.
+
+The official Assam RCS directory places Dima Hasao under Haflong and lists Haflong/Maibong subdivisions. The registration responsibility page distinguishes district-level cooperatives (District Deputy Registrar) from other primary cooperatives (Assistant Registrar). The RCS directory lists Longbir Teron as District Deputy Registrar at Haflong; official pages disagree on the named Assistant Registrar at Haflong. JTBICS's classification and area of operation are unknown, so the competent record custodian cannot yet be fixed. See SRC-356.
+
+The RCS public list is aggregate (369 industrial societies statewide) and its downloadable named list is for state-level societies. No accessible named record for JTBICS is exposed there. This does not establish that the society is unregistered or inactive.
